@@ -54,7 +54,7 @@ def bpl_season(season="2012-2013"):
 def write_cl_csv(outfile, results):
     outfile.write("home, homescore, awayscore, away, date, group\n")
     for result in results:
-        outfile.write(u"{0}, {1}, {2}, {3}, {4}, {5}\n".format(*result))
+        outfile.write(u'{0}, {1}, {2}, {3}, "{4}", {5}\n'.format(*result))
 
 def parse_cl_page(soup):
     days = soup.find_all("table", "tablehead")
@@ -79,6 +79,7 @@ def parse_cl_page(soup):
     return results
 
 def get(url, retries=5):
+    #TODO: backoff
     r = requests.get(url)
     for _ in range(retries):
         if r.status_code == 200:
@@ -89,14 +90,14 @@ def get(url, retries=5):
 
 def champions_league():
     url = "http://espnfc.com/results/_/league/uefa.champions/uefa-champions-league?cc=5901"
-    #the 2004/2005 data is missing some results. Starts here:
-    url = "http://espnfc.com/results/_/league/uefa.champions/date/20050426/uefa-champions-league"
+    #2009/10
+    #url = "http://espnfc.com/results/_/league/uefa.champions/date/20100522/uefa-champions-league"
+    #2004/2005
+    #url = "http://espnfc.com/results/_/league/uefa.champions/date/20050525/uefa-champions-league"
     #2003/2004
     #url = "http://espnfc.com/results/_/league/uefa.champions/date/20040526/uefa-champions-league"
-    ##2002/2003
+    #2002/2003
     #url = "http://espnfc.com/results/_/league/uefa.champions/date/20030528/uefa-champions-league"
-    #2001/2002
-    url = "http://espnfc.com/results/_/league/uefa.champions/date/20020515/uefa-champions-league"
 
     print "getting %s" % url
     r = get(url)
@@ -124,11 +125,6 @@ def champions_league():
             results = []
 
         results += parse_cl_page(soup)
-
-    season_f = "{0}_{1}".format(season[2:4], season[5:7])
-    out = codecs.open("data/cl_{0}.csv".format(season_f), 'w', "utf8")
-    write_cl_csv(out, results)
-
 
 if __name__=="__main__":
     #bpl_13_14()
