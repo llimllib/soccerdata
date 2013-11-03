@@ -1,381 +1,380 @@
-home, homescore, awayscore, away, date, group
-Villarreal, 1, 4, Real Betis, "Sunday, June 22, 2003", El Madrigal (12,600)
-Barcelona, 2, 0, Celta Vigo, "Sunday, June 22, 2003", Camp Nou (48,577)
-Real Madrid, 3, 1, Athletic Bilbao, "Sunday, June 22, 2003", Santiago Bernabeu (72,000)
-Real Sociedad, 3, 0, Atletico Madrid, "Sunday, June 22, 2003", Anoeta Stadium (31,500)
-Rayo Vallecano, 0, 0, Recreativo Huelva, "Saturday, June 21, 2003", Nuevo Vallecas Stadium (3,000)
-AlavÃ©s, 1, 1, Real Valladolid, "Saturday, June 21, 2003", Mendizorroza Stadium (6,656)
-Mallorca, 1, 0, Malaga, "Saturday, June 21, 2003", Son Moix (8,200)
-Sevilla FC, 0, 3, Valencia, "Saturday, June 21, 2003", Estadio Ramon Sanchez Pizjuan (27,000)
-Racing Santander, 2, 3, Osasuna, "Saturday, June 21, 2003", El Sardinero (13,000)
-Deportivo La CoruÃ±a, 2, 1, Espanyol, "Saturday, June 21, 2003", Riazor Stadium (20,000)
-Osasuna, 4, 2, AlavÃ©s, "Sunday, June 15, 2003", El Sadar (13,000)
-Athletic Bilbao, 3, 2, Deportivo La CoruÃ±a, "Sunday, June 15, 2003", San Mames Stadium (42,000)
-Atletico Madrid, 0, 4, Real Madrid, "Sunday, June 15, 2003", Vicente Calderon (57,000)
-Celta Vigo, 3, 2, Real Sociedad, "Sunday, June 15, 2003", Balaidos Stadium 
-Espanyol, 2, 2, Villarreal, "Sunday, June 15, 2003", Montjuic Stadium (12,400)
-Malaga, 3, 2, Sevilla FC, "Sunday, June 15, 2003", La Rosaleda 
-Real Betis, 4, 2, Racing Santander, "Sunday, June 15, 2003", Estadio Manuel Ruiz de Lopera 
-Recreativo Huelva, 1, 1, Mallorca, "Sunday, June 15, 2003",  (9,000)
-Valencia, 1, 3, Barcelona, "Sunday, June 15, 2003", Mestalla Stadium (51,000)
-Real Valladolid, 2, 0, Rayo Vallecano, "Saturday, June 14, 2003", Nuevo Jose Zorilla Stadium (6,500)
-Deportivo La CoruÃ±a, 3, 2, Atletico Madrid, "Sunday, June 1, 2003", Riazor Stadium (25,000)
-AlavÃ©s, 0, 1, Real Betis, "Sunday, June 1, 2003", Mendizorroza Stadium (17,183)
-Mallorca, 1, 1, Rayo Vallecano, "Sunday, June 1, 2003", Son Moix (13,100)
-Real Valladolid, 0, 2, Osasuna, "Sunday, June 1, 2003", Nuevo Jose Zorilla Stadium (10,000)
-Villarreal, 1, 1, Athletic Bilbao, "Sunday, June 1, 2003", El Madrigal (20,000)
-Barcelona, 2, 1, Malaga, "Sunday, June 1, 2003", Camp Nou (42,866)
-Sevilla FC, 1, 0, Recreativo Huelva, "Sunday, June 1, 2003", Estadio Ramon Sanchez Pizjuan (29,250)
-Real Sociedad, 1, 1, Valencia, "Sunday, June 1, 2003", Anoeta Stadium (30,384)
-Racing Santander, 5, 2, Espanyol, "Sunday, June 1, 2003", El Sardinero 
-Real Madrid, 1, 1, Celta Vigo, "Saturday, May 31, 2003", Santiago Bernabeu (65,000)
-Espanyol, 3, 1, AlavÃ©s, "Sunday, May 25, 2003", Montjuic Stadium (21,050)
-Mallorca, 1, 3, Sevilla FC, "Sunday, May 25, 2003", Son Moix (12,000)
-Recreativo Huelva, 1, 3, Barcelona, "Sunday, May 25, 2003",  
-Real Betis, 2, 2, Real Valladolid, "Sunday, May 25, 2003", Estadio Manuel Ruiz de Lopera (34,000)
-Malaga, 0, 2, Real Sociedad, "Sunday, May 25, 2003", La Rosaleda (34,500)
-Athletic Bilbao, 2, 1, Racing Santander, "Saturday, May 24, 2003", San Mames Stadium (39,000)
-Atletico Madrid, 3, 2, Villarreal, "Saturday, May 24, 2003", Vicente Calderon (40,000)
-Celta Vigo, 3, 0, Deportivo La CoruÃ±a, "Saturday, May 24, 2003", Balaidos Stadium (27,000)
-Rayo Vallecano, 0, 0, Osasuna, "Saturday, May 24, 2003", Nuevo Vallecas Stadium (18,000)
-Valencia, 1, 2, Real Madrid, "Saturday, May 24, 2003", Mestalla Stadium (53,500)
-AlavÃ©s, 2, 4, Athletic Bilbao, "Sunday, May 18, 2003", Mendizorroza Stadium (16,577)
-Real Valladolid, 1, 1, Espanyol, "Sunday, May 18, 2003", Nuevo Jose Zorilla Stadium (11,500)
-Sevilla FC, 3, 3, Rayo Vallecano, "Sunday, May 18, 2003", Estadio Ramon Sanchez Pizjuan (32,000)
-Villarreal, 6, 0, Celta Vigo, "Sunday, May 18, 2003", El Madrigal (20,000)
-Real Sociedad, 1, 0, Recreativo Huelva, "Sunday, May 18, 2003", Anoeta Stadium (28,500)
-Real Madrid, 5, 1, Malaga, "Sunday, May 18, 2003", Santiago Bernabeu (70,000)
-Osasuna, 2, 1, Real Betis, "Sunday, May 18, 2003", El Sadar (16,000)
-Barcelona, 1, 2, Mallorca, "Sunday, May 18, 2003", Camp Nou (48,000)
-Racing Santander, 0, 2, Atletico Madrid, "Saturday, May 17, 2003", El Sardinero (17,000)
-Deportivo La CoruÃ±a, 1, 2, Valencia, "Saturday, May 17, 2003", Riazor Stadium (34,000)
-Celta Vigo, 2, 2, Racing Santander, "Sunday, May 11, 2003", Balaidos Stadium (17,000)
-Mallorca, 1, 3, Real Sociedad, "Sunday, May 11, 2003", Son Moix (17,800)
-Rayo Vallecano, 1, 1, Real Betis, "Sunday, May 11, 2003", Nuevo Vallecas Stadium (13,000)
-Valencia, 1, 2, Villarreal, "Sunday, May 11, 2003", Mestalla Stadium (43,000)
-Sevilla FC, 0, 0, Barcelona, "Sunday, May 11, 2003", Estadio Ramon Sanchez Pizjuan (42,000)
-Atletico Madrid, 0, 1, AlavÃ©s, "Saturday, May 10, 2003", Vicente Calderon (40,000)
-Recreativo Huelva, 0, 0, Real Madrid, "Saturday, May 10, 2003",  (21,500)
-Athletic Bilbao, 0, 0, Real Valladolid, "Saturday, May 10, 2003", San Mames Stadium (36,000)
-Espanyol, 0, 0, Osasuna, "Saturday, May 10, 2003", Montjuic Stadium (18,300)
-Malaga, 0, 2, Deportivo La CoruÃ±a, "Saturday, May 10, 2003", La Rosaleda (18,000)
-AlavÃ©s, 0, 0, Celta Vigo, "Sunday, May 4, 2003", Mendizorroza Stadium (16,786)
-Villarreal, 0, 0, Malaga, "Sunday, May 4, 2003", El Madrigal (17,000)
-Racing Santander, 2, 1, Valencia, "Sunday, May 4, 2003", El Sardinero (18,000)
-Real Betis, 1, 1, Espanyol, "Sunday, May 4, 2003", Estadio Manuel Ruiz de Lopera (37,000)
-Real Valladolid, 3, 1, Atletico Madrid, "Sunday, May 4, 2003", Nuevo Jose Zorilla Stadium 
-Osasuna, 1, 5, Athletic Bilbao, "Sunday, May 4, 2003", El Sadar (14,000)
-Barcelona, 3, 0, Rayo Vallecano, "Sunday, May 4, 2003", Camp Nou (47,342)
-Deportivo La CoruÃ±a, 5, 0, Recreativo Huelva, "Sunday, May 4, 2003", Riazor Stadium (27,000)
-Real Madrid, 1, 5, Mallorca, "Saturday, May 3, 2003", Santiago Bernabeu (64,000)
-Real Sociedad, 1, 0, Sevilla FC, "Saturday, May 3, 2003", Anoeta Stadium (25,000)
-Valencia, 3, 0, AlavÃ©s, "Sunday, April 27, 2003", Mestalla Stadium (45,000)
-Celta Vigo, 0, 0, Real Valladolid, "Sunday, April 27, 2003", Balaidos Stadium (15,000)
-Malaga, 2, 2, Racing Santander, "Sunday, April 27, 2003", La Rosaleda (20,000)
-Mallorca, 3, 0, Deportivo La CoruÃ±a, "Sunday, April 27, 2003", Son Moix (18,000)
-Rayo Vallecano, 0, 3, Espanyol, "Sunday, April 27, 2003", Nuevo Vallecas Stadium (12,000)
-Recreativo Huelva, 5, 0, Villarreal, "Sunday, April 27, 2003",  (18,000)
-Sevilla FC, 1, 3, Real Madrid, "Sunday, April 27, 2003", Estadio Ramon Sanchez Pizjuan (45,000)
-Barcelona, 2, 1, Real Sociedad, "Sunday, April 27, 2003", Camp Nou (45,000)
-Athletic Bilbao, 3, 1, Real Betis, "Saturday, April 26, 2003", San Mames Stadium 
-Atletico Madrid, 0, 1, Osasuna, "Saturday, April 26, 2003", Vicente Calderon (55,000)
-AlavÃ©s, 0, 1, Malaga, "Sunday, April 20, 2003", Mendizorroza Stadium (15,000)
-Deportivo La CoruÃ±a, 3, 1, Sevilla FC, "Sunday, April 20, 2003", Riazor Stadium (27,000)
-Espanyol, 3, 3, Athletic Bilbao, "Sunday, April 20, 2003", Montjuic Stadium (19,250)
-Osasuna, 0, 2, Celta Vigo, "Sunday, April 20, 2003", El Sadar (14,572)
-Racing Santander, 1, 0, Recreativo Huelva, "Sunday, April 20, 2003", El Sardinero (15,000)
-Real Betis, 2, 2, Atletico Madrid, "Sunday, April 20, 2003", Estadio Manuel Ruiz de Lopera (38,000)
-Real Sociedad, 5, 0, Rayo Vallecano, "Sunday, April 20, 2003", Anoeta Stadium (28,000)
-Real Valladolid, 1, 0, Valencia, "Saturday, April 19, 2003", Nuevo Jose Zorilla Stadium (10,000)
-Villarreal, 1, 1, Mallorca, "Saturday, April 19, 2003", El Madrigal (10,000)
-Real Madrid, 1, 1, Barcelona, "Saturday, April 19, 2003", Santiago Bernabeu (75,000)
-Recreativo Huelva, 1, 0, AlavÃ©s, "Sunday, April 13, 2003",  (17,000)
-Atletico Madrid, 3, 3, Espanyol, "Sunday, April 13, 2003", Vicente Calderon (35,000)
-Mallorca, 3, 3, Racing Santander, "Sunday, April 13, 2003", Son Moix (14,100)
-Celta Vigo, 1, 0, Real Betis, "Sunday, April 13, 2003", Balaidos Stadium (18,000)
-Malaga, 1, 0, Real Valladolid, "Sunday, April 13, 2003", La Rosaleda 
-Rayo Vallecano, 1, 1, Athletic Bilbao, "Sunday, April 13, 2003", Nuevo Vallecas Stadium (12,500)
-Real Sociedad, 4, 2, Real Madrid, "Sunday, April 13, 2003", Anoeta Stadium (31,000)
-Valencia, 1, 0, Osasuna, "Sunday, April 13, 2003", Mestalla Stadium (45,000)
-Sevilla FC, 3, 1, Villarreal, "Saturday, April 12, 2003", Estadio Ramon Sanchez Pizjuan (41,000)
-Barcelona, 2, 4, Deportivo La CoruÃ±a, "Saturday, April 12, 2003", Camp Nou (69,000)
-AlavÃ©s, 0, 0, Mallorca, "Sunday, April 6, 2003", Mendizorroza Stadium (13,500)
-Racing Santander, 1, 0, Sevilla FC, "Sunday, April 6, 2003", El Sardinero (15,500)
-Athletic Bilbao, 1, 0, Atletico Madrid, "Sunday, April 6, 2003", San Mames Stadium (40,000)
-Osasuna, 0, 1, Malaga, "Sunday, April 6, 2003", El Sadar (17,000)
-Real Valladolid, 0, 1, Recreativo Huelva, "Sunday, April 6, 2003", Nuevo Jose Zorilla Stadium (14,000)
-Deportivo La CoruÃ±a, 2, 1, Real Sociedad, "Sunday, April 6, 2003", Riazor Stadium (27,000)
-Real Madrid, 3, 1, Rayo Vallecano, "Saturday, April 5, 2003", Santiago Bernabeu (60,000)
-Villarreal, 2, 0, Barcelona, "Saturday, April 5, 2003", El Madrigal (16,000)
-Real Betis, 2, 0, Valencia, "Saturday, April 5, 2003", Estadio Manuel Ruiz de Lopera (35,000)
-Espanyol, 0, 0, Celta Vigo, "Saturday, April 5, 2003", Montjuic Stadium (13,800)
-Celta Vigo, 2, 1, Athletic Bilbao, "Sunday, March 23, 2003", Balaidos Stadium (17,000)
-Malaga, 0, 0, Real Betis, "Sunday, March 23, 2003", La Rosaleda (20,000)
-Mallorca, 2, 1, Real Valladolid, "Sunday, March 23, 2003", Son Moix (15,000)
-Real Sociedad, 2, 2, Villarreal, "Sunday, March 23, 2003", Anoeta Stadium (21,600)
-Recreativo Huelva, 1, 1, Osasuna, "Sunday, March 23, 2003",  (19,000)
-Sevilla FC, 3, 2, AlavÃ©s, "Sunday, March 23, 2003", Estadio Ramon Sanchez Pizjuan (36,000)
-Valencia, 1, 1, Espanyol, "Sunday, March 23, 2003", Mestalla Stadium (45,000)
-Barcelona, 6, 1, Racing Santander, "Sunday, March 23, 2003", Camp Nou (68,351)
-Real Madrid, 2, 0, Deportivo La CoruÃ±a, "Sunday, March 23, 2003", Santiago Bernabeu (70,000)
-Rayo Vallecano, 0, 0, Atletico Madrid, "Saturday, March 22, 2003", Nuevo Vallecas Stadium (15,000)
-Atletico Madrid, 0, 1, Celta Vigo, "Sunday, March 16, 2003", Vicente Calderon (50,000)
-Espanyol, 2, 1, Malaga, "Sunday, March 16, 2003", Montjuic Stadium (21,500)
-Osasuna, 0, 0, Mallorca, "Sunday, March 16, 2003", El Sadar (16,000)
-Real Betis, 1, 1, Recreativo Huelva, "Sunday, March 16, 2003", Estadio Manuel Ruiz de Lopera (33,000)
-Real Valladolid, 0, 0, Sevilla FC, "Sunday, March 16, 2003", Nuevo Jose Zorilla Stadium (15,000)
-AlavÃ©s, 0, 0, Barcelona, "Sunday, March 16, 2003", Mendizorroza Stadium (19,000)
-Athletic Bilbao, 1, 0, Valencia, "Sunday, March 16, 2003", San Mames Stadium (38,000)
-Villarreal, 0, 1, Real Madrid, "Saturday, March 15, 2003", El Madrigal (23,000)
-Deportivo La CoruÃ±a, 2, 0, Rayo Vallecano, "Saturday, March 15, 2003", Riazor Stadium (2,800)
-Racing Santander, 1, 2, Real Sociedad, "Saturday, March 15, 2003", El Sardinero (16,000)
-Malaga, 3, 0, Athletic Bilbao, "Sunday, March 9, 2003", La Rosaleda (30,000)
-Mallorca, 2, 1, Real Betis, "Sunday, March 9, 2003", Son Moix (17,600)
-Rayo Vallecano, 1, 0, Celta Vigo, "Sunday, March 9, 2003", Nuevo Vallecas Stadium (14,000)
-Recreativo Huelva, 0, 0, Espanyol, "Sunday, March 9, 2003",  (20,000)
-Sevilla FC, 2, 0, Osasuna, "Sunday, March 9, 2003", Estadio Ramon Sanchez Pizjuan (35,000)
-Real Sociedad, 3, 1, AlavÃ©s, "Sunday, March 9, 2003", Anoeta Stadium (25,500)
-Real Madrid, 4, 1, Racing Santander, "Saturday, March 8, 2003", Santiago Bernabeu (70,000)
-Deportivo La CoruÃ±a, 2, 1, Villarreal, "Saturday, March 8, 2003", Riazor Stadium (28,500)
-Barcelona, 1, 1, Real Valladolid, "Saturday, March 8, 2003", Camp Nou (68,000)
-Valencia, 0, 1, Atletico Madrid, "Saturday, March 8, 2003", Mestalla Stadium (50,000)
-Celta Vigo, 1, 1, Valencia, "Sunday, March 2, 2003", Balaidos Stadium (16,000)
-Osasuna, 2, 2, Barcelona, "Sunday, March 2, 2003", El Sadar (19,000)
-Racing Santander, 1, 2, Deportivo La CoruÃ±a, "Sunday, March 2, 2003", El Sardinero (15,320)
-Real Valladolid, 3, 0, Real Sociedad, "Sunday, March 2, 2003", Nuevo Jose Zorilla Stadium (15,000)
-Villarreal, 2, 1, Rayo Vallecano, "Sunday, March 2, 2003", El Madrigal (16,000)
-Atletico Madrid, 2, 1, Malaga, "Sunday, March 2, 2003", Vicente Calderon (48,000)
-Real Betis, 0, 1, Sevilla FC, "Sunday, March 2, 2003", Estadio Manuel Ruiz de Lopera (36,000)
-Espanyol, 2, 0, Mallorca, "Saturday, March 1, 2003", Montjuic Stadium (17,000)
-Athletic Bilbao, 2, 3, Recreativo Huelva, "Saturday, March 1, 2003", San Mames Stadium (30,000)
-AlavÃ©s, 1, 5, Real Madrid, "Saturday, March 1, 2003", Mendizorroza Stadium (11,000)
-Mallorca, 1, 1, Athletic Bilbao, "Sunday, February 23, 2003", Son Moix (14,000)
-Real Sociedad, 2, 0, Osasuna, "Sunday, February 23, 2003", Anoeta Stadium (29,000)
-Recreativo Huelva, 3, 0, Atletico Madrid, "Sunday, February 23, 2003",  (18,000)
-Sevilla FC, 1, 0, Espanyol, "Sunday, February 23, 2003", Estadio Ramon Sanchez Pizjuan (32,000)
-Villarreal, 0, 3, Racing Santander, "Sunday, February 23, 2003", El Madrigal (17,000)
-Malaga, 1, 1, Celta Vigo, "Sunday, February 23, 2003", La Rosaleda (14,000)
-Rayo Vallecano, 0, 4, Valencia, "Sunday, February 23, 2003", Nuevo Vallecas Stadium (15,000)
-Real Madrid, 3, 1, Real Valladolid, "Saturday, February 22, 2003", Santiago Bernabeu (50,000)
-Deportivo La CoruÃ±a, 6, 0, AlavÃ©s, "Saturday, February 22, 2003", Riazor Stadium (29,000)
-Barcelona, 4, 0, Real Betis, "Saturday, February 22, 2003", Camp Nou (67,000)
-AlavÃ©s, 1, 0, Villarreal, "Sunday, February 16, 2003", Mendizorroza Stadium (12,800)
-Athletic Bilbao, 2, 0, Sevilla FC, "Sunday, February 16, 2003", San Mames Stadium (32,000)
-Celta Vigo, 4, 1, Recreativo Huelva, "Sunday, February 16, 2003", Balaidos Stadium (15,000)
-Osasuna, 1, 0, Real Madrid, "Sunday, February 16, 2003", El Sadar (18,000)
-Racing Santander, 2, 0, Rayo Vallecano, "Sunday, February 16, 2003", El Sardinero (16,530)
-Atletico Madrid, 2, 1, Mallorca, "Sunday, February 16, 2003", Vicente Calderon (50,000)
-Real Betis, 3, 2, Real Sociedad, "Sunday, February 16, 2003", Estadio Manuel Ruiz de Lopera (36,000)
-Espanyol, 0, 2, Barcelona, "Saturday, February 15, 2003", Montjuic Stadium (39,000)
-Real Valladolid, 0, 1, Deportivo La CoruÃ±a, "Saturday, February 15, 2003", Nuevo Jose Zorilla Stadium (10,000)
-Valencia, 2, 0, Malaga, "Saturday, February 15, 2003", Mestalla Stadium (30,000)
-Deportivo La CoruÃ±a, 1, 1, Osasuna, "Sunday, February 9, 2003", Riazor Stadium 
-Mallorca, 0, 2, Celta Vigo, "Sunday, February 9, 2003", Son Moix (17,000)
-Racing Santander, 2, 0, AlavÃ©s, "Sunday, February 9, 2003", El Sardinero (16,000)
-Rayo Vallecano, 2, 1, Malaga, "Sunday, February 9, 2003", Nuevo Vallecas Stadium 
-Real Sociedad, 0, 0, Espanyol, "Sunday, February 9, 2003", Anoeta Stadium (26,786)
-Recreativo Huelva, 1, 1, Valencia, "Sunday, February 9, 2003",  (18,000)
-Sevilla FC, 1, 1, Atletico Madrid, "Sunday, February 9, 2003", Estadio Ramon Sanchez Pizjuan (35,000)
-Barcelona, 2, 2, Athletic Bilbao, "Sunday, February 9, 2003", Camp Nou (65,500)
-Villarreal, 1, 0, Real Valladolid, "Saturday, February 8, 2003", El Madrigal (18,000)
-Real Madrid, 4, 1, Real Betis, "Saturday, February 8, 2003", Santiago Bernabeu (70,000)
-AlavÃ©s, 1, 1, Rayo Vallecano, "Sunday, February 2, 2003", Mendizorroza Stadium (13,000)
-Celta Vigo, 0, 1, Sevilla FC, "Sunday, February 2, 2003", Balaidos Stadium (17,000)
-Osasuna, 0, 1, Villarreal, "Sunday, February 2, 2003", El Sadar (14,000)
-Real Betis, 0, 2, Deportivo La CoruÃ±a, "Sunday, February 2, 2003", Estadio Manuel Ruiz de Lopera (45,000)
-Real Valladolid, 2, 1, Racing Santander, "Sunday, February 2, 2003", Nuevo Jose Zorilla Stadium (11,500)
-Valencia, 1, 0, Mallorca, "Sunday, February 2, 2003", Mestalla Stadium (46,000)
-Malaga, 4, 0, Recreativo Huelva, "Sunday, February 2, 2003", La Rosaleda (23,033)
-Espanyol, 2, 2, Real Madrid, "Sunday, February 2, 2003", Montjuic Stadium (51,100)
-Athletic Bilbao, 3, 0, Real Sociedad, "Sunday, February 2, 2003", San Mames Stadium 
-Atletico Madrid, 3, 0, Barcelona, "Saturday, February 1, 2003", Vicente Calderon (55,000)
-Espanyol, 3, 1, Deportivo La CoruÃ±a, "Sunday, January 26, 2003", Montjuic Stadium (42,000)
-Osasuna, 3, 1, Racing Santander, "Sunday, January 26, 2003", El Sadar (15,000)
-Real Betis, 2, 1, Villarreal, "Sunday, January 26, 2003", Estadio Manuel Ruiz de Lopera (41,000)
-Real Valladolid, 1, 3, AlavÃ©s, "Sunday, January 26, 2003", Nuevo Jose Zorilla Stadium (11,750)
-Recreativo Huelva, 2, 1, Rayo Vallecano, "Sunday, January 26, 2003",  (18,000)
-Valencia, 1, 0, Sevilla FC, "Sunday, January 26, 2003", Mestalla Stadium (50,000)
-Malaga, 1, 0, Mallorca, "Sunday, January 26, 2003", La Rosaleda (20,000)
-Athletic Bilbao, 1, 1, Real Madrid, "Sunday, January 26, 2003", San Mames Stadium (38,000)
-Celta Vigo, 2, 0, Barcelona, "Sunday, January 26, 2003", Balaidos Stadium (18,000)
-Atletico Madrid, 1, 2, Real Sociedad, "Saturday, January 25, 2003", Vicente Calderon (50,000)
-Sevilla FC, 0, 0, Malaga, "Sunday, January 19, 2003", Estadio Ramon Sanchez Pizjuan (22,000)
-AlavÃ©s, 1, 1, Osasuna, "Sunday, January 19, 2003", Mendizorroza Stadium (16,500)
-Deportivo La CoruÃ±a, 2, 1, Athletic Bilbao, "Sunday, January 19, 2003", Riazor Stadium (30,000)
-Mallorca, 1, 1, Recreativo Huelva, "Sunday, January 19, 2003", Son Moix (15,000)
-Racing Santander, 0, 1, Real Betis, "Sunday, January 19, 2003", El Sardinero (14,000)
-Rayo Vallecano, 0, 1, Real Valladolid, "Sunday, January 19, 2003", Nuevo Vallecas Stadium (12,000)
-Villarreal, 0, 0, Espanyol, "Sunday, January 19, 2003", El Madrigal (18,000)
-Real Madrid, 2, 2, Atletico Madrid, "Sunday, January 19, 2003", Santiago Bernabeu (78,000)
-Real Sociedad, 1, 0, Celta Vigo, "Saturday, January 18, 2003", Anoeta Stadium (25,000)
-Barcelona, 2, 4, Valencia, "Saturday, January 18, 2003", Camp Nou (73,500)
-Athletic Bilbao, 0, 1, Villarreal, "Sunday, January 12, 2003", San Mames Stadium (30,000)
-Espanyol, 3, 0, Racing Santander, "Sunday, January 12, 2003", Montjuic Stadium (17,000)
-Osasuna, 1, 1, Real Valladolid, "Sunday, January 12, 2003", El Sadar (14,000)
-Rayo Vallecano, 1, 2, Mallorca, "Sunday, January 12, 2003", Nuevo Vallecas Stadium (11,000)
-Real Betis, 2, 2, AlavÃ©s, "Sunday, January 12, 2003", Estadio Manuel Ruiz de Lopera (32,000)
-Recreativo Huelva, 0, 0, Sevilla FC, "Sunday, January 12, 2003",  (21,000)
-Atletico Madrid, 3, 1, Deportivo La CoruÃ±a, "Sunday, January 12, 2003", Vicente Calderon (48,000)
-Malaga, 0, 0, Barcelona, "Sunday, January 12, 2003", La Rosaleda (22,000)
-Celta Vigo, 0, 1, Real Madrid, "Saturday, January 11, 2003", Balaidos Stadium (25,000)
-Valencia, 2, 2, Real Sociedad, "Saturday, January 11, 2003", Mestalla Stadium (48,000)
-Sevilla FC, 3, 0, Mallorca, "Sunday, January 5, 2003", Estadio Ramon Sanchez Pizjuan (14,000)
-Real Sociedad, 2, 2, Malaga, "Sunday, January 5, 2003", Anoeta Stadium (25,000)
-AlavÃ©s, 2, 1, Espanyol, "Sunday, January 5, 2003", Mendizorroza Stadium (16,500)
-Barcelona, 3, 0, Recreativo Huelva, "Sunday, January 5, 2003", Camp Nou (53,000)
-Villarreal, 4, 3, Atletico Madrid, "Sunday, January 5, 2003", El Madrigal (17,000)
-Real Madrid, 4, 1, Valencia, "Sunday, January 5, 2003", Santiago Bernabeu (70,000)
-Real Valladolid, 3, 0, Real Betis, "Saturday, January 4, 2003", Nuevo Jose Zorilla Stadium (12,000)
-Osasuna, 0, 1, Rayo Vallecano, "Saturday, January 4, 2003", El Sadar (16,000)
-Racing Santander, 3, 4, Athletic Bilbao, "Saturday, January 4, 2003", El Sardinero (16,000)
-Deportivo La CoruÃ±a, 3, 0, Celta Vigo, "Saturday, January 4, 2003", Riazor Stadium (28,000)
-Real Madrid, 3, 0, Sevilla FC, "Thursday, January 2, 2003", Santiago Bernabeu (60,000)
-Espanyol, 1, 0, Real Valladolid, "Sunday, December 22, 2002", Montjuic Stadium (17,000)
-Real Betis, 2, 1, Osasuna, "Sunday, December 22, 2002", Estadio Manuel Ruiz de Lopera (34,000)
-Recreativo Huelva, 1, 3, Real Sociedad, "Sunday, December 22, 2002",  (17,500)
-Valencia, 0, 1, Deportivo La CoruÃ±a, "Sunday, December 22, 2002", Mestalla Stadium (52,000)
-Atletico Madrid, 1, 2, Racing Santander, "Saturday, December 21, 2002", Vicente Calderon (50,000)
-Malaga, 2, 3, Real Madrid, "Saturday, December 21, 2002", La Rosaleda (25,000)
-Celta Vigo, 3, 1, Villarreal, "Saturday, December 21, 2002", Balaidos Stadium (20,000)
-Athletic Bilbao, 2, 0, AlavÃ©s, "Saturday, December 21, 2002", San Mames Stadium (38,000)
-Rayo Vallecano, 0, 1, Sevilla FC, "Saturday, December 21, 2002", Nuevo Vallecas Stadium (12,000)
-Mallorca, 0, 4, Barcelona, "Saturday, December 21, 2002", Son Moix (19,000)
-Deportivo La CoruÃ±a, 1, 0, Malaga, "Sunday, December 15, 2002", Riazor Stadium (22,500)
-Osasuna, 1, 0, Espanyol, "Sunday, December 15, 2002", El Sadar (17,000)
-Racing Santander, 3, 0, Celta Vigo, "Sunday, December 15, 2002", El Sardinero (15,000)
-Real Betis, 0, 1, Rayo Vallecano, "Sunday, December 15, 2002", Estadio Manuel Ruiz de Lopera (38,000)
-Real Sociedad, 2, 1, Mallorca, "Sunday, December 15, 2002", Anoeta Stadium (27,000)
-Real Valladolid, 2, 0, Athletic Bilbao, "Sunday, December 15, 2002", Nuevo Jose Zorilla Stadium (13,500)
-Real Madrid, 4, 2, Recreativo Huelva, "Sunday, December 15, 2002", Santiago Bernabeu (61,000)
-Barcelona, 0, 3, Sevilla FC, "Sunday, December 15, 2002", Camp Nou (50,000)
-AlavÃ©s, 2, 0, Atletico Madrid, "Saturday, December 14, 2002", Mendizorroza Stadium (14,000)
-Villarreal, 0, 2, Valencia, "Saturday, December 14, 2002", El Madrigal (20,000)
-Athletic Bilbao, 1, 3, Osasuna, "Sunday, December 8, 2002", San Mames Stadium (40,000)
-Celta Vigo, 2, 1, AlavÃ©s, "Sunday, December 8, 2002", Balaidos Stadium (16,000)
-Espanyol, 2, 4, Real Betis, "Sunday, December 8, 2002", Montjuic Stadium 
-Mallorca, 1, 5, Real Madrid, "Sunday, December 8, 2002", Son Moix (24,000)
-Atletico Madrid, 1, 0, Real Valladolid, "Sunday, December 8, 2002", Vicente Calderon (40,000)
-Malaga, 1, 1, Villarreal, "Saturday, December 7, 2002", La Rosaleda (17,000)
-Recreativo Huelva, 1, 1, Deportivo La CoruÃ±a, "Saturday, December 7, 2002",  (19,500)
-Rayo Vallecano, 1, 0, Barcelona, "Saturday, December 7, 2002", Nuevo Vallecas Stadium (15,500)
-Sevilla FC, 0, 1, Real Sociedad, "Saturday, December 7, 2002", Estadio Ramon Sanchez Pizjuan (25,000)
-Valencia, 2, 0, Racing Santander, "Saturday, December 7, 2002", Mestalla Stadium (40,000)
-AlavÃ©s, 0, 0, Valencia, "Sunday, December 1, 2002", Mendizorroza Stadium (15,000)
-Espanyol, 3, 1, Rayo Vallecano, "Sunday, December 1, 2002", Montjuic Stadium (22,000)
-Racing Santander, 1, 0, Malaga, "Sunday, December 1, 2002", El Sardinero (14,000)
-Real Betis, 1, 0, Athletic Bilbao, "Sunday, December 1, 2002", Estadio Manuel Ruiz de Lopera (38,000)
-Real Valladolid, 0, 2, Celta Vigo, "Sunday, December 1, 2002", Nuevo Jose Zorilla Stadium (8,800)
-Villarreal, 1, 0, Recreativo Huelva, "Sunday, December 1, 2002", El Madrigal 
-Real Sociedad, 2, 1, Barcelona, "Sunday, December 1, 2002", Anoeta Stadium (29,000)
-Deportivo La CoruÃ±a, 2, 2, Mallorca, "Sunday, December 1, 2002", Riazor Stadium (30,000)
-Osasuna, 1, 0, Atletico Madrid, "Saturday, November 30, 2002", El Sadar (14,000)
-Athletic Bilbao, 4, 1, Espanyol, "Sunday, November 24, 2002", San Mames Stadium (35,000)
-Celta Vigo, 0, 0, Osasuna, "Sunday, November 24, 2002", Balaidos Stadium (16,000)
-Malaga, 0, 0, AlavÃ©s, "Sunday, November 24, 2002", La Rosaleda (11,000)
-Mallorca, 1, 1, Villarreal, "Sunday, November 24, 2002", Son Moix (16,500)
-Recreativo Huelva, 2, 1, Racing Santander, "Sunday, November 24, 2002",  (20,000)
-Valencia, 2, 0, Real Valladolid, "Sunday, November 24, 2002", Mestalla Stadium (40,000)
-Atletico Madrid, 1, 0, Real Betis, "Sunday, November 24, 2002", Vicente Calderon (40,000)
-Sevilla FC, 1, 1, Deportivo La CoruÃ±a, "Saturday, November 23, 2002", Estadio Ramon Sanchez Pizjuan (25,000)
-Barcelona, 0, 0, Real Madrid, "Saturday, November 23, 2002", Camp Nou (98,000)
-Rayo Vallecano, 0, 0, Real Sociedad, "Saturday, November 23, 2002", Nuevo Vallecas Stadium (8,000)
-AlavÃ©s, 3, 0, Recreativo Huelva, "Sunday, November 17, 2002", Mendizorroza Stadium (17,000)
-Athletic Bilbao, 2, 1, Rayo Vallecano, "Sunday, November 17, 2002", San Mames Stadium (35,000)
-Espanyol, 1, 2, Atletico Madrid, "Sunday, November 17, 2002", Montjuic Stadium 
-Osasuna, 1, 0, Valencia, "Sunday, November 17, 2002", El Sadar (15,500)
-Racing Santander, 1, 2, Mallorca, "Sunday, November 17, 2002", El Sardinero (17,000)
-Real Valladolid, 0, 0, Malaga, "Sunday, November 17, 2002", Nuevo Jose Zorilla Stadium (12,000)
-Real Madrid, 0, 0, Real Sociedad, "Sunday, November 17, 2002", Santiago Bernabeu (78,000)
-Real Betis, 2, 1, Celta Vigo, "Sunday, November 17, 2002", Estadio Manuel Ruiz de Lopera (41,000)
-Villarreal, 1, 0, Sevilla FC, "Saturday, November 16, 2002", El Madrigal (15,000)
-Deportivo La CoruÃ±a, 2, 0, Barcelona, "Saturday, November 16, 2002", Riazor Stadium (34,000)
-Celta Vigo, 1, 0, Espanyol, "Sunday, November 10, 2002", Balaidos Stadium (15,000)
-Mallorca, 3, 1, AlavÃ©s, "Sunday, November 10, 2002", Son Moix (18,000)
-Recreativo Huelva, 1, 3, Real Valladolid, "Sunday, November 10, 2002",  (19,000)
-Sevilla FC, 1, 0, Racing Santander, "Sunday, November 10, 2002", Estadio Ramon Sanchez Pizjuan (28,000)
-Atletico Madrid, 3, 3, Athletic Bilbao, "Sunday, November 10, 2002", Vicente Calderon (50,000)
-Malaga, 1, 0, Osasuna, "Saturday, November 9, 2002", La Rosaleda (16,695)
-Rayo Vallecano, 2, 3, Real Madrid, "Saturday, November 9, 2002", Nuevo Vallecas Stadium (15,500)
-Real Sociedad, 1, 1, Deportivo La CoruÃ±a, "Saturday, November 9, 2002", Anoeta Stadium (27,900)
-Barcelona, 1, 0, Villarreal, "Saturday, November 9, 2002", Camp Nou 
-Valencia, 1, 1, Real Betis, "Saturday, November 9, 2002", Mestalla Stadium (50,000)
-Athletic Bilbao, 2, 1, Celta Vigo, "Sunday, November 3, 2002", San Mames Stadium (35,000)
-Espanyol, 0, 1, Valencia, "Sunday, November 3, 2002", Montjuic Stadium (35,500)
-Osasuna, 0, 1, Recreativo Huelva, "Sunday, November 3, 2002", El Sadar (15,000)
-Real Betis, 3, 0, Malaga, "Sunday, November 3, 2002", Estadio Manuel Ruiz de Lopera (42,000)
-Villarreal, 0, 1, Real Sociedad, "Sunday, November 3, 2002", El Madrigal (16,000)
-AlavÃ©s, 1, 0, Sevilla FC, "Sunday, November 3, 2002", Mendizorroza Stadium (14,500)
-Racing Santander, 1, 1, Barcelona, "Sunday, November 3, 2002", El Sardinero 
-Atletico Madrid, 2, 0, Rayo Vallecano, "Saturday, November 2, 2002", Vicente Calderon (50,000)
-Real Valladolid, 1, 3, Mallorca, "Saturday, November 2, 2002", Nuevo Jose Zorilla Stadium (11,000)
-Deportivo La CoruÃ±a, 0, 0, Real Madrid, "Saturday, November 2, 2002", Riazor Stadium (35,500)
-Malaga, 3, 4, Espanyol, "Sunday, October 27, 2002", La Rosaleda (33,500)
-Mallorca, 2, 0, Osasuna, "Sunday, October 27, 2002", Son Moix (14,500)
-Sevilla FC, 2, 1, Real Valladolid, "Sunday, October 27, 2002", Estadio Ramon Sanchez Pizjuan (30,000)
-Real Sociedad, 2, 1, Racing Santander, "Sunday, October 27, 2002", Anoeta Stadium (23,500)
-Recreativo Huelva, 1, 1, Real Betis, "Saturday, October 26, 2002",  (20,000)
-Real Madrid, 1, 1, Villarreal, "Saturday, October 26, 2002", Santiago Bernabeu (65,000)
-Rayo Vallecano, 1, 2, Deportivo La CoruÃ±a, "Saturday, October 26, 2002", Nuevo Vallecas Stadium (15,000)
-Valencia, 5, 1, Athletic Bilbao, "Saturday, October 26, 2002", Mestalla Stadium (50,000)
-Barcelona, 6, 1, AlavÃ©s, "Saturday, October 26, 2002", Camp Nou (94,000)
-Celta Vigo, 0, 0, Atletico Madrid, "Saturday, October 26, 2002", Balaidos Stadium (18,000)
-Real Betis, 0, 1, Mallorca, "Sunday, October 20, 2002", Estadio Manuel Ruiz de Lopera (12,000)
-AlavÃ©s, 2, 2, Real Sociedad, "Sunday, October 20, 2002", Mendizorroza Stadium (17,576)
-Athletic Bilbao, 1, 1, Malaga, "Sunday, October 20, 2002", San Mames Stadium (35,000)
-Celta Vigo, 0, 1, Rayo Vallecano, "Sunday, October 20, 2002", Balaidos Stadium (17,000)
-Espanyol, 2, 0, Recreativo Huelva, "Sunday, October 20, 2002", Montjuic Stadium (36,000)
-Osasuna, 2, 1, Sevilla FC, "Sunday, October 20, 2002", El Sadar (15,000)
-Real Valladolid, 2, 1, Barcelona, "Sunday, October 20, 2002", Nuevo Jose Zorilla Stadium (16,000)
-Villarreal, 3, 1, Deportivo La CoruÃ±a, "Saturday, October 19, 2002", El Madrigal (15,000)
-Racing Santander, 2, 0, Real Madrid, "Saturday, October 19, 2002", El Sardinero (22,500)
-Atletico Madrid, 1, 1, Valencia, "Saturday, October 19, 2002", Vicente Calderon (50,000)
-Real Betis, 1, 1, Real Madrid, "Tuesday, October 8, 2002", Estadio Manuel Ruiz de Lopera (52,500)
-Malaga, 3, 1, Atletico Madrid, "Sunday, October 6, 2002", La Rosaleda (22,000)
-Real Madrid, 5, 2, AlavÃ©s, "Sunday, October 6, 2002", Santiago Bernabeu (75,000)
-Real Sociedad, 2, 1, Real Valladolid, "Sunday, October 6, 2002", Anoeta Stadium (25,000)
-Barcelona, 2, 2, Osasuna, "Sunday, October 6, 2002", Camp Nou (80,000)
-Deportivo La CoruÃ±a, 0, 2, Racing Santander, "Sunday, October 6, 2002", Riazor Stadium (30,000)
-Mallorca, 2, 0, Espanyol, "Sunday, October 6, 2002", Son Moix (17,000)
-Rayo Vallecano, 2, 2, Villarreal, "Sunday, October 6, 2002", Nuevo Vallecas Stadium (14,000)
-Valencia, 0, 1, Celta Vigo, "Sunday, October 6, 2002", Mestalla Stadium (49,000)
-Sevilla FC, 1, 1, Real Betis, "Sunday, October 6, 2002", Estadio Ramon Sanchez Pizjuan (40,000)
-Recreativo Huelva, 1, 2, Athletic Bilbao, "Saturday, October 5, 2002",  (21,000)
-Athletic Bilbao, 0, 2, Mallorca, "Sunday, September 29, 2002", San Mames Stadium (29,000)
-Atletico Madrid, 1, 1, Recreativo Huelva, "Sunday, September 29, 2002", Vicente Calderon (50,000)
-Celta Vigo, 2, 2, Malaga, "Sunday, September 29, 2002", Balaidos Stadium (18,000)
-Espanyol, 0, 0, Sevilla FC, "Sunday, September 29, 2002", Montjuic Stadium (41,000)
-Racing Santander, 1, 1, Villarreal, "Sunday, September 29, 2002", El Sardinero (15,000)
-Osasuna, 2, 3, Real Sociedad, "Sunday, September 29, 2002", El Sadar (18,500)
-Valencia, 3, 0, Rayo Vallecano, "Sunday, September 29, 2002", Mestalla Stadium (50,000)
-AlavÃ©s, 1, 2, Deportivo La CoruÃ±a, "Saturday, September 28, 2002", Mendizorroza Stadium (14,000)
-Real Betis, 3, 0, Barcelona, "Saturday, September 28, 2002", Estadio Manuel Ruiz de Lopera (20,000)
-Real Valladolid, 1, 1, Real Madrid, "Saturday, September 28, 2002", Nuevo Jose Zorilla Stadium (21,000)
-Malaga, 2, 2, Valencia, "Sunday, September 22, 2002", La Rosaleda (18,000)
-Mallorca, 0, 4, Atletico Madrid, "Sunday, September 22, 2002", Son Moix (21,000)
-Rayo Vallecano, 3, 1, Racing Santander, "Sunday, September 22, 2002", Nuevo Vallecas Stadium (14,500)
-Recreativo Huelva, 0, 3, Celta Vigo, "Sunday, September 22, 2002",  (20,000)
-Sevilla FC, 1, 1, Athletic Bilbao, "Sunday, September 22, 2002", Estadio Ramon Sanchez Pizjuan (30,000)
-Villarreal, 0, 1, AlavÃ©s, "Sunday, September 22, 2002", El Madrigal (15,000)
-Real Sociedad, 3, 3, Real Betis, "Sunday, September 22, 2002", Anoeta Stadium (22,500)
-Real Madrid, 4, 1, Osasuna, "Saturday, September 21, 2002", Santiago Bernabeu (60,000)
-Barcelona, 2, 0, Espanyol, "Saturday, September 21, 2002", Camp Nou (88,500)
-Deportivo La CoruÃ±a, 2, 0, Real Valladolid, "Saturday, September 21, 2002", Riazor Stadium (28,500)
-AlavÃ©s, 0, 1, Racing Santander, "Sunday, September 15, 2002", Mendizorroza Stadium (16,000)
-Espanyol, 1, 3, Real Sociedad, "Sunday, September 15, 2002", Montjuic Stadium (15,500)
-Celta Vigo, 3, 1, Mallorca, "Sunday, September 15, 2002", Balaidos Stadium (16,000)
-Real Valladolid, 1, 0, Villarreal, "Sunday, September 15, 2002", Nuevo Jose Zorilla Stadium (11,000)
-Atletico Madrid, 1, 1, Sevilla FC, "Sunday, September 15, 2002", Vicente Calderon (50,000)
-Malaga, 2, 1, Rayo Vallecano, "Saturday, September 14, 2002", La Rosaleda (17,000)
-Osasuna, 1, 2, Deportivo La CoruÃ±a, "Saturday, September 14, 2002", El Sadar (17,000)
-Athletic Bilbao, 0, 2, Barcelona, "Saturday, September 14, 2002", San Mames Stadium (20,000)
-Valencia, 3, 0, Recreativo Huelva, "Saturday, September 14, 2002", Mestalla Stadium (42,000)
-Real Madrid, 2, 0, Espanyol, "Monday, September 2, 2002", Santiago Bernabeu (75,000)
-Rayo Vallecano, 2, 2, Alavés, "Sunday, September 1, 2002", Nuevo Vallecas Stadium (13,000)
-Real Sociedad, 4, 2, Athletic Bilbao, "Sunday, September 1, 2002", Anoeta Stadium 
-Mallorca, 0, 2, Valencia, "Sunday, September 1, 2002", Son Moix (21,330)
-Recreativo Huelva, 2, 3, Malaga, "Sunday, September 1, 2002",  (19,800)
-Villarreal, 2, 2, Osasuna, "Sunday, September 1, 2002", El Madrigal (16,000)
-Barcelona, 2, 2, Atletico Madrid, "Sunday, September 1, 2002", Camp Nou (85,000)
-Deportivo La Coruña, 2, 4, Real Betis, "Sunday, September 1, 2002", Riazor Stadium (32,000)
-Sevilla FC, 0, 1, Celta Vigo, "Sunday, September 1, 2002", Estadio Ramon Sanchez Pizjuan (32,000)
-Racing Santander, 0, 1, Real Valladolid, "Saturday, August 31, 2002", El Sardinero (14,500)
+Villarreal, 1, 4, Real Betis, "Sunday, June 22, 2003"," El Madrigal (12,600)"
+Barcelona, 2, 0, Celta Vigo, "Sunday, June 22, 2003"," Camp Nou (48,577)"
+Real Madrid, 3, 1, Athletic Bilbao, "Sunday, June 22, 2003"," Santiago Bernabeu (72,000)"
+Real Sociedad, 3, 0, Atletico Madrid, "Sunday, June 22, 2003"," Anoeta Stadium (31,500)"
+Rayo Vallecano, 0, 0, Recreativo Huelva, "Saturday, June 21, 2003"," Nuevo Vallecas Stadium (3,000)"
+AlavÃ©s, 1, 1, Real Valladolid, "Saturday, June 21, 2003"," Mendizorroza Stadium (6,656)"
+Mallorca, 1, 0, Malaga, "Saturday, June 21, 2003"," Son Moix (8,200)"
+Sevilla FC, 0, 3, Valencia, "Saturday, June 21, 2003"," Estadio Ramon Sanchez Pizjuan (27,000)"
+Racing Santander, 2, 3, Osasuna, "Saturday, June 21, 2003"," El Sardinero (13,000)"
+Deportivo La CoruÃ±a, 2, 1, Espanyol, "Saturday, June 21, 2003"," Riazor Stadium (20,000)"
+Osasuna, 4, 2, AlavÃ©s, "Sunday, June 15, 2003"," El Sadar (13,000)"
+Athletic Bilbao, 3, 2, Deportivo La CoruÃ±a, "Sunday, June 15, 2003"," San Mames Stadium (42,000)"
+Atletico Madrid, 0, 4, Real Madrid, "Sunday, June 15, 2003"," Vicente Calderon (57,000)"
+Celta Vigo, 3, 2, Real Sociedad, "Sunday, June 15, 2003"," Balaidos Stadium "
+Espanyol, 2, 2, Villarreal, "Sunday, June 15, 2003"," Montjuic Stadium (12,400)"
+Malaga, 3, 2, Sevilla FC, "Sunday, June 15, 2003"," La Rosaleda "
+Real Betis, 4, 2, Racing Santander, "Sunday, June 15, 2003"," Estadio Manuel Ruiz de Lopera "
+Recreativo Huelva, 1, 1, Mallorca, "Sunday, June 15, 2003","  (9,000)"
+Valencia, 1, 3, Barcelona, "Sunday, June 15, 2003"," Mestalla Stadium (51,000)"
+Real Valladolid, 2, 0, Rayo Vallecano, "Saturday, June 14, 2003"," Nuevo Jose Zorilla Stadium (6,500)"
+Deportivo La CoruÃ±a, 3, 2, Atletico Madrid, "Sunday, June 1, 2003"," Riazor Stadium (25,000)"
+AlavÃ©s, 0, 1, Real Betis, "Sunday, June 1, 2003"," Mendizorroza Stadium (17,183)"
+Mallorca, 1, 1, Rayo Vallecano, "Sunday, June 1, 2003"," Son Moix (13,100)"
+Real Valladolid, 0, 2, Osasuna, "Sunday, June 1, 2003"," Nuevo Jose Zorilla Stadium (10,000)"
+Villarreal, 1, 1, Athletic Bilbao, "Sunday, June 1, 2003"," El Madrigal (20,000)"
+Barcelona, 2, 1, Malaga, "Sunday, June 1, 2003"," Camp Nou (42,866)"
+Sevilla FC, 1, 0, Recreativo Huelva, "Sunday, June 1, 2003"," Estadio Ramon Sanchez Pizjuan (29,250)"
+Real Sociedad, 1, 1, Valencia, "Sunday, June 1, 2003"," Anoeta Stadium (30,384)"
+Racing Santander, 5, 2, Espanyol, "Sunday, June 1, 2003"," El Sardinero "
+Real Madrid, 1, 1, Celta Vigo, "Saturday, May 31, 2003"," Santiago Bernabeu (65,000)"
+Espanyol, 3, 1, AlavÃ©s, "Sunday, May 25, 2003"," Montjuic Stadium (21,050)"
+Mallorca, 1, 3, Sevilla FC, "Sunday, May 25, 2003"," Son Moix (12,000)"
+Recreativo Huelva, 1, 3, Barcelona, "Sunday, May 25, 2003","  "
+Real Betis, 2, 2, Real Valladolid, "Sunday, May 25, 2003"," Estadio Manuel Ruiz de Lopera (34,000)"
+Malaga, 0, 2, Real Sociedad, "Sunday, May 25, 2003"," La Rosaleda (34,500)"
+Athletic Bilbao, 2, 1, Racing Santander, "Saturday, May 24, 2003"," San Mames Stadium (39,000)"
+Atletico Madrid, 3, 2, Villarreal, "Saturday, May 24, 2003"," Vicente Calderon (40,000)"
+Celta Vigo, 3, 0, Deportivo La CoruÃ±a, "Saturday, May 24, 2003"," Balaidos Stadium (27,000)"
+Rayo Vallecano, 0, 0, Osasuna, "Saturday, May 24, 2003"," Nuevo Vallecas Stadium (18,000)"
+Valencia, 1, 2, Real Madrid, "Saturday, May 24, 2003"," Mestalla Stadium (53,500)"
+AlavÃ©s, 2, 4, Athletic Bilbao, "Sunday, May 18, 2003"," Mendizorroza Stadium (16,577)"
+Real Valladolid, 1, 1, Espanyol, "Sunday, May 18, 2003"," Nuevo Jose Zorilla Stadium (11,500)"
+Sevilla FC, 3, 3, Rayo Vallecano, "Sunday, May 18, 2003"," Estadio Ramon Sanchez Pizjuan (32,000)"
+Villarreal, 6, 0, Celta Vigo, "Sunday, May 18, 2003"," El Madrigal (20,000)"
+Real Sociedad, 1, 0, Recreativo Huelva, "Sunday, May 18, 2003"," Anoeta Stadium (28,500)"
+Real Madrid, 5, 1, Malaga, "Sunday, May 18, 2003"," Santiago Bernabeu (70,000)"
+Osasuna, 2, 1, Real Betis, "Sunday, May 18, 2003"," El Sadar (16,000)"
+Barcelona, 1, 2, Mallorca, "Sunday, May 18, 2003"," Camp Nou (48,000)"
+Racing Santander, 0, 2, Atletico Madrid, "Saturday, May 17, 2003"," El Sardinero (17,000)"
+Deportivo La CoruÃ±a, 1, 2, Valencia, "Saturday, May 17, 2003"," Riazor Stadium (34,000)"
+Celta Vigo, 2, 2, Racing Santander, "Sunday, May 11, 2003"," Balaidos Stadium (17,000)"
+Mallorca, 1, 3, Real Sociedad, "Sunday, May 11, 2003"," Son Moix (17,800)"
+Rayo Vallecano, 1, 1, Real Betis, "Sunday, May 11, 2003"," Nuevo Vallecas Stadium (13,000)"
+Valencia, 1, 2, Villarreal, "Sunday, May 11, 2003"," Mestalla Stadium (43,000)"
+Sevilla FC, 0, 0, Barcelona, "Sunday, May 11, 2003"," Estadio Ramon Sanchez Pizjuan (42,000)"
+Atletico Madrid, 0, 1, AlavÃ©s, "Saturday, May 10, 2003"," Vicente Calderon (40,000)"
+Recreativo Huelva, 0, 0, Real Madrid, "Saturday, May 10, 2003","  (21,500)"
+Athletic Bilbao, 0, 0, Real Valladolid, "Saturday, May 10, 2003"," San Mames Stadium (36,000)"
+Espanyol, 0, 0, Osasuna, "Saturday, May 10, 2003"," Montjuic Stadium (18,300)"
+Malaga, 0, 2, Deportivo La CoruÃ±a, "Saturday, May 10, 2003"," La Rosaleda (18,000)"
+AlavÃ©s, 0, 0, Celta Vigo, "Sunday, May 4, 2003"," Mendizorroza Stadium (16,786)"
+Villarreal, 0, 0, Malaga, "Sunday, May 4, 2003"," El Madrigal (17,000)"
+Racing Santander, 2, 1, Valencia, "Sunday, May 4, 2003"," El Sardinero (18,000)"
+Real Betis, 1, 1, Espanyol, "Sunday, May 4, 2003"," Estadio Manuel Ruiz de Lopera (37,000)"
+Real Valladolid, 3, 1, Atletico Madrid, "Sunday, May 4, 2003"," Nuevo Jose Zorilla Stadium "
+Osasuna, 1, 5, Athletic Bilbao, "Sunday, May 4, 2003"," El Sadar (14,000)"
+Barcelona, 3, 0, Rayo Vallecano, "Sunday, May 4, 2003"," Camp Nou (47,342)"
+Deportivo La CoruÃ±a, 5, 0, Recreativo Huelva, "Sunday, May 4, 2003"," Riazor Stadium (27,000)"
+Real Madrid, 1, 5, Mallorca, "Saturday, May 3, 2003"," Santiago Bernabeu (64,000)"
+Real Sociedad, 1, 0, Sevilla FC, "Saturday, May 3, 2003"," Anoeta Stadium (25,000)"
+Valencia, 3, 0, AlavÃ©s, "Sunday, April 27, 2003"," Mestalla Stadium (45,000)"
+Celta Vigo, 0, 0, Real Valladolid, "Sunday, April 27, 2003"," Balaidos Stadium (15,000)"
+Malaga, 2, 2, Racing Santander, "Sunday, April 27, 2003"," La Rosaleda (20,000)"
+Mallorca, 3, 0, Deportivo La CoruÃ±a, "Sunday, April 27, 2003"," Son Moix (18,000)"
+Rayo Vallecano, 0, 3, Espanyol, "Sunday, April 27, 2003"," Nuevo Vallecas Stadium (12,000)"
+Recreativo Huelva, 5, 0, Villarreal, "Sunday, April 27, 2003","  (18,000)"
+Sevilla FC, 1, 3, Real Madrid, "Sunday, April 27, 2003"," Estadio Ramon Sanchez Pizjuan (45,000)"
+Barcelona, 2, 1, Real Sociedad, "Sunday, April 27, 2003"," Camp Nou (45,000)"
+Athletic Bilbao, 3, 1, Real Betis, "Saturday, April 26, 2003"," San Mames Stadium "
+Atletico Madrid, 0, 1, Osasuna, "Saturday, April 26, 2003"," Vicente Calderon (55,000)"
+AlavÃ©s, 0, 1, Malaga, "Sunday, April 20, 2003"," Mendizorroza Stadium (15,000)"
+Deportivo La CoruÃ±a, 3, 1, Sevilla FC, "Sunday, April 20, 2003"," Riazor Stadium (27,000)"
+Espanyol, 3, 3, Athletic Bilbao, "Sunday, April 20, 2003"," Montjuic Stadium (19,250)"
+Osasuna, 0, 2, Celta Vigo, "Sunday, April 20, 2003"," El Sadar (14,572)"
+Racing Santander, 1, 0, Recreativo Huelva, "Sunday, April 20, 2003"," El Sardinero (15,000)"
+Real Betis, 2, 2, Atletico Madrid, "Sunday, April 20, 2003"," Estadio Manuel Ruiz de Lopera (38,000)"
+Real Sociedad, 5, 0, Rayo Vallecano, "Sunday, April 20, 2003"," Anoeta Stadium (28,000)"
+Real Valladolid, 1, 0, Valencia, "Saturday, April 19, 2003"," Nuevo Jose Zorilla Stadium (10,000)"
+Villarreal, 1, 1, Mallorca, "Saturday, April 19, 2003"," El Madrigal (10,000)"
+Real Madrid, 1, 1, Barcelona, "Saturday, April 19, 2003"," Santiago Bernabeu (75,000)"
+Recreativo Huelva, 1, 0, AlavÃ©s, "Sunday, April 13, 2003","  (17,000)"
+Atletico Madrid, 3, 3, Espanyol, "Sunday, April 13, 2003"," Vicente Calderon (35,000)"
+Mallorca, 3, 3, Racing Santander, "Sunday, April 13, 2003"," Son Moix (14,100)"
+Celta Vigo, 1, 0, Real Betis, "Sunday, April 13, 2003"," Balaidos Stadium (18,000)"
+Malaga, 1, 0, Real Valladolid, "Sunday, April 13, 2003"," La Rosaleda "
+Rayo Vallecano, 1, 1, Athletic Bilbao, "Sunday, April 13, 2003"," Nuevo Vallecas Stadium (12,500)"
+Real Sociedad, 4, 2, Real Madrid, "Sunday, April 13, 2003"," Anoeta Stadium (31,000)"
+Valencia, 1, 0, Osasuna, "Sunday, April 13, 2003"," Mestalla Stadium (45,000)"
+Sevilla FC, 3, 1, Villarreal, "Saturday, April 12, 2003"," Estadio Ramon Sanchez Pizjuan (41,000)"
+Barcelona, 2, 4, Deportivo La CoruÃ±a, "Saturday, April 12, 2003"," Camp Nou (69,000)"
+AlavÃ©s, 0, 0, Mallorca, "Sunday, April 6, 2003"," Mendizorroza Stadium (13,500)"
+Racing Santander, 1, 0, Sevilla FC, "Sunday, April 6, 2003"," El Sardinero (15,500)"
+Athletic Bilbao, 1, 0, Atletico Madrid, "Sunday, April 6, 2003"," San Mames Stadium (40,000)"
+Osasuna, 0, 1, Malaga, "Sunday, April 6, 2003"," El Sadar (17,000)"
+Real Valladolid, 0, 1, Recreativo Huelva, "Sunday, April 6, 2003"," Nuevo Jose Zorilla Stadium (14,000)"
+Deportivo La CoruÃ±a, 2, 1, Real Sociedad, "Sunday, April 6, 2003"," Riazor Stadium (27,000)"
+Real Madrid, 3, 1, Rayo Vallecano, "Saturday, April 5, 2003"," Santiago Bernabeu (60,000)"
+Villarreal, 2, 0, Barcelona, "Saturday, April 5, 2003"," El Madrigal (16,000)"
+Real Betis, 2, 0, Valencia, "Saturday, April 5, 2003"," Estadio Manuel Ruiz de Lopera (35,000)"
+Espanyol, 0, 0, Celta Vigo, "Saturday, April 5, 2003"," Montjuic Stadium (13,800)"
+Celta Vigo, 2, 1, Athletic Bilbao, "Sunday, March 23, 2003"," Balaidos Stadium (17,000)"
+Malaga, 0, 0, Real Betis, "Sunday, March 23, 2003"," La Rosaleda (20,000)"
+Mallorca, 2, 1, Real Valladolid, "Sunday, March 23, 2003"," Son Moix (15,000)"
+Real Sociedad, 2, 2, Villarreal, "Sunday, March 23, 2003"," Anoeta Stadium (21,600)"
+Recreativo Huelva, 1, 1, Osasuna, "Sunday, March 23, 2003","  (19,000)"
+Sevilla FC, 3, 2, AlavÃ©s, "Sunday, March 23, 2003"," Estadio Ramon Sanchez Pizjuan (36,000)"
+Valencia, 1, 1, Espanyol, "Sunday, March 23, 2003"," Mestalla Stadium (45,000)"
+Barcelona, 6, 1, Racing Santander, "Sunday, March 23, 2003"," Camp Nou (68,351)"
+Real Madrid, 2, 0, Deportivo La CoruÃ±a, "Sunday, March 23, 2003"," Santiago Bernabeu (70,000)"
+Rayo Vallecano, 0, 0, Atletico Madrid, "Saturday, March 22, 2003"," Nuevo Vallecas Stadium (15,000)"
+Atletico Madrid, 0, 1, Celta Vigo, "Sunday, March 16, 2003"," Vicente Calderon (50,000)"
+Espanyol, 2, 1, Malaga, "Sunday, March 16, 2003"," Montjuic Stadium (21,500)"
+Osasuna, 0, 0, Mallorca, "Sunday, March 16, 2003"," El Sadar (16,000)"
+Real Betis, 1, 1, Recreativo Huelva, "Sunday, March 16, 2003"," Estadio Manuel Ruiz de Lopera (33,000)"
+Real Valladolid, 0, 0, Sevilla FC, "Sunday, March 16, 2003"," Nuevo Jose Zorilla Stadium (15,000)"
+AlavÃ©s, 0, 0, Barcelona, "Sunday, March 16, 2003"," Mendizorroza Stadium (19,000)"
+Athletic Bilbao, 1, 0, Valencia, "Sunday, March 16, 2003"," San Mames Stadium (38,000)"
+Villarreal, 0, 1, Real Madrid, "Saturday, March 15, 2003"," El Madrigal (23,000)"
+Deportivo La CoruÃ±a, 2, 0, Rayo Vallecano, "Saturday, March 15, 2003"," Riazor Stadium (2,800)"
+Racing Santander, 1, 2, Real Sociedad, "Saturday, March 15, 2003"," El Sardinero (16,000)"
+Malaga, 3, 0, Athletic Bilbao, "Sunday, March 9, 2003"," La Rosaleda (30,000)"
+Mallorca, 2, 1, Real Betis, "Sunday, March 9, 2003"," Son Moix (17,600)"
+Rayo Vallecano, 1, 0, Celta Vigo, "Sunday, March 9, 2003"," Nuevo Vallecas Stadium (14,000)"
+Recreativo Huelva, 0, 0, Espanyol, "Sunday, March 9, 2003","  (20,000)"
+Sevilla FC, 2, 0, Osasuna, "Sunday, March 9, 2003"," Estadio Ramon Sanchez Pizjuan (35,000)"
+Real Sociedad, 3, 1, AlavÃ©s, "Sunday, March 9, 2003"," Anoeta Stadium (25,500)"
+Real Madrid, 4, 1, Racing Santander, "Saturday, March 8, 2003"," Santiago Bernabeu (70,000)"
+Deportivo La CoruÃ±a, 2, 1, Villarreal, "Saturday, March 8, 2003"," Riazor Stadium (28,500)"
+Barcelona, 1, 1, Real Valladolid, "Saturday, March 8, 2003"," Camp Nou (68,000)"
+Valencia, 0, 1, Atletico Madrid, "Saturday, March 8, 2003"," Mestalla Stadium (50,000)"
+Celta Vigo, 1, 1, Valencia, "Sunday, March 2, 2003"," Balaidos Stadium (16,000)"
+Osasuna, 2, 2, Barcelona, "Sunday, March 2, 2003"," El Sadar (19,000)"
+Racing Santander, 1, 2, Deportivo La CoruÃ±a, "Sunday, March 2, 2003"," El Sardinero (15,320)"
+Real Valladolid, 3, 0, Real Sociedad, "Sunday, March 2, 2003"," Nuevo Jose Zorilla Stadium (15,000)"
+Villarreal, 2, 1, Rayo Vallecano, "Sunday, March 2, 2003"," El Madrigal (16,000)"
+Atletico Madrid, 2, 1, Malaga, "Sunday, March 2, 2003"," Vicente Calderon (48,000)"
+Real Betis, 0, 1, Sevilla FC, "Sunday, March 2, 2003"," Estadio Manuel Ruiz de Lopera (36,000)"
+Espanyol, 2, 0, Mallorca, "Saturday, March 1, 2003"," Montjuic Stadium (17,000)"
+Athletic Bilbao, 2, 3, Recreativo Huelva, "Saturday, March 1, 2003"," San Mames Stadium (30,000)"
+AlavÃ©s, 1, 5, Real Madrid, "Saturday, March 1, 2003"," Mendizorroza Stadium (11,000)"
+Mallorca, 1, 1, Athletic Bilbao, "Sunday, February 23, 2003"," Son Moix (14,000)"
+Real Sociedad, 2, 0, Osasuna, "Sunday, February 23, 2003"," Anoeta Stadium (29,000)"
+Recreativo Huelva, 3, 0, Atletico Madrid, "Sunday, February 23, 2003","  (18,000)"
+Sevilla FC, 1, 0, Espanyol, "Sunday, February 23, 2003"," Estadio Ramon Sanchez Pizjuan (32,000)"
+Villarreal, 0, 3, Racing Santander, "Sunday, February 23, 2003"," El Madrigal (17,000)"
+Malaga, 1, 1, Celta Vigo, "Sunday, February 23, 2003"," La Rosaleda (14,000)"
+Rayo Vallecano, 0, 4, Valencia, "Sunday, February 23, 2003"," Nuevo Vallecas Stadium (15,000)"
+Real Madrid, 3, 1, Real Valladolid, "Saturday, February 22, 2003"," Santiago Bernabeu (50,000)"
+Deportivo La CoruÃ±a, 6, 0, AlavÃ©s, "Saturday, February 22, 2003"," Riazor Stadium (29,000)"
+Barcelona, 4, 0, Real Betis, "Saturday, February 22, 2003"," Camp Nou (67,000)"
+AlavÃ©s, 1, 0, Villarreal, "Sunday, February 16, 2003"," Mendizorroza Stadium (12,800)"
+Athletic Bilbao, 2, 0, Sevilla FC, "Sunday, February 16, 2003"," San Mames Stadium (32,000)"
+Celta Vigo, 4, 1, Recreativo Huelva, "Sunday, February 16, 2003"," Balaidos Stadium (15,000)"
+Osasuna, 1, 0, Real Madrid, "Sunday, February 16, 2003"," El Sadar (18,000)"
+Racing Santander, 2, 0, Rayo Vallecano, "Sunday, February 16, 2003"," El Sardinero (16,530)"
+Atletico Madrid, 2, 1, Mallorca, "Sunday, February 16, 2003"," Vicente Calderon (50,000)"
+Real Betis, 3, 2, Real Sociedad, "Sunday, February 16, 2003"," Estadio Manuel Ruiz de Lopera (36,000)"
+Espanyol, 0, 2, Barcelona, "Saturday, February 15, 2003"," Montjuic Stadium (39,000)"
+Real Valladolid, 0, 1, Deportivo La CoruÃ±a, "Saturday, February 15, 2003"," Nuevo Jose Zorilla Stadium (10,000)"
+Valencia, 2, 0, Malaga, "Saturday, February 15, 2003"," Mestalla Stadium (30,000)"
+Deportivo La CoruÃ±a, 1, 1, Osasuna, "Sunday, February 9, 2003"," Riazor Stadium "
+Mallorca, 0, 2, Celta Vigo, "Sunday, February 9, 2003"," Son Moix (17,000)"
+Racing Santander, 2, 0, AlavÃ©s, "Sunday, February 9, 2003"," El Sardinero (16,000)"
+Rayo Vallecano, 2, 1, Malaga, "Sunday, February 9, 2003"," Nuevo Vallecas Stadium "
+Real Sociedad, 0, 0, Espanyol, "Sunday, February 9, 2003"," Anoeta Stadium (26,786)"
+Recreativo Huelva, 1, 1, Valencia, "Sunday, February 9, 2003","  (18,000)"
+Sevilla FC, 1, 1, Atletico Madrid, "Sunday, February 9, 2003"," Estadio Ramon Sanchez Pizjuan (35,000)"
+Barcelona, 2, 2, Athletic Bilbao, "Sunday, February 9, 2003"," Camp Nou (65,500)"
+Villarreal, 1, 0, Real Valladolid, "Saturday, February 8, 2003"," El Madrigal (18,000)"
+Real Madrid, 4, 1, Real Betis, "Saturday, February 8, 2003"," Santiago Bernabeu (70,000)"
+AlavÃ©s, 1, 1, Rayo Vallecano, "Sunday, February 2, 2003"," Mendizorroza Stadium (13,000)"
+Celta Vigo, 0, 1, Sevilla FC, "Sunday, February 2, 2003"," Balaidos Stadium (17,000)"
+Osasuna, 0, 1, Villarreal, "Sunday, February 2, 2003"," El Sadar (14,000)"
+Real Betis, 0, 2, Deportivo La CoruÃ±a, "Sunday, February 2, 2003"," Estadio Manuel Ruiz de Lopera (45,000)"
+Real Valladolid, 2, 1, Racing Santander, "Sunday, February 2, 2003"," Nuevo Jose Zorilla Stadium (11,500)"
+Valencia, 1, 0, Mallorca, "Sunday, February 2, 2003"," Mestalla Stadium (46,000)"
+Malaga, 4, 0, Recreativo Huelva, "Sunday, February 2, 2003"," La Rosaleda (23,033)"
+Espanyol, 2, 2, Real Madrid, "Sunday, February 2, 2003"," Montjuic Stadium (51,100)"
+Athletic Bilbao, 3, 0, Real Sociedad, "Sunday, February 2, 2003"," San Mames Stadium "
+Atletico Madrid, 3, 0, Barcelona, "Saturday, February 1, 2003"," Vicente Calderon (55,000)"
+Espanyol, 3, 1, Deportivo La CoruÃ±a, "Sunday, January 26, 2003"," Montjuic Stadium (42,000)"
+Osasuna, 3, 1, Racing Santander, "Sunday, January 26, 2003"," El Sadar (15,000)"
+Real Betis, 2, 1, Villarreal, "Sunday, January 26, 2003"," Estadio Manuel Ruiz de Lopera (41,000)"
+Real Valladolid, 1, 3, AlavÃ©s, "Sunday, January 26, 2003"," Nuevo Jose Zorilla Stadium (11,750)"
+Recreativo Huelva, 2, 1, Rayo Vallecano, "Sunday, January 26, 2003","  (18,000)"
+Valencia, 1, 0, Sevilla FC, "Sunday, January 26, 2003"," Mestalla Stadium (50,000)"
+Malaga, 1, 0, Mallorca, "Sunday, January 26, 2003"," La Rosaleda (20,000)"
+Athletic Bilbao, 1, 1, Real Madrid, "Sunday, January 26, 2003"," San Mames Stadium (38,000)"
+Celta Vigo, 2, 0, Barcelona, "Sunday, January 26, 2003"," Balaidos Stadium (18,000)"
+Atletico Madrid, 1, 2, Real Sociedad, "Saturday, January 25, 2003"," Vicente Calderon (50,000)"
+Sevilla FC, 0, 0, Malaga, "Sunday, January 19, 2003"," Estadio Ramon Sanchez Pizjuan (22,000)"
+AlavÃ©s, 1, 1, Osasuna, "Sunday, January 19, 2003"," Mendizorroza Stadium (16,500)"
+Deportivo La CoruÃ±a, 2, 1, Athletic Bilbao, "Sunday, January 19, 2003"," Riazor Stadium (30,000)"
+Mallorca, 1, 1, Recreativo Huelva, "Sunday, January 19, 2003"," Son Moix (15,000)"
+Racing Santander, 0, 1, Real Betis, "Sunday, January 19, 2003"," El Sardinero (14,000)"
+Rayo Vallecano, 0, 1, Real Valladolid, "Sunday, January 19, 2003"," Nuevo Vallecas Stadium (12,000)"
+Villarreal, 0, 0, Espanyol, "Sunday, January 19, 2003"," El Madrigal (18,000)"
+Real Madrid, 2, 2, Atletico Madrid, "Sunday, January 19, 2003"," Santiago Bernabeu (78,000)"
+Real Sociedad, 1, 0, Celta Vigo, "Saturday, January 18, 2003"," Anoeta Stadium (25,000)"
+Barcelona, 2, 4, Valencia, "Saturday, January 18, 2003"," Camp Nou (73,500)"
+Athletic Bilbao, 0, 1, Villarreal, "Sunday, January 12, 2003"," San Mames Stadium (30,000)"
+Espanyol, 3, 0, Racing Santander, "Sunday, January 12, 2003"," Montjuic Stadium (17,000)"
+Osasuna, 1, 1, Real Valladolid, "Sunday, January 12, 2003"," El Sadar (14,000)"
+Rayo Vallecano, 1, 2, Mallorca, "Sunday, January 12, 2003"," Nuevo Vallecas Stadium (11,000)"
+Real Betis, 2, 2, AlavÃ©s, "Sunday, January 12, 2003"," Estadio Manuel Ruiz de Lopera (32,000)"
+Recreativo Huelva, 0, 0, Sevilla FC, "Sunday, January 12, 2003","  (21,000)"
+Atletico Madrid, 3, 1, Deportivo La CoruÃ±a, "Sunday, January 12, 2003"," Vicente Calderon (48,000)"
+Malaga, 0, 0, Barcelona, "Sunday, January 12, 2003"," La Rosaleda (22,000)"
+Celta Vigo, 0, 1, Real Madrid, "Saturday, January 11, 2003"," Balaidos Stadium (25,000)"
+Valencia, 2, 2, Real Sociedad, "Saturday, January 11, 2003"," Mestalla Stadium (48,000)"
+Sevilla FC, 3, 0, Mallorca, "Sunday, January 5, 2003"," Estadio Ramon Sanchez Pizjuan (14,000)"
+Real Sociedad, 2, 2, Malaga, "Sunday, January 5, 2003"," Anoeta Stadium (25,000)"
+AlavÃ©s, 2, 1, Espanyol, "Sunday, January 5, 2003"," Mendizorroza Stadium (16,500)"
+Barcelona, 3, 0, Recreativo Huelva, "Sunday, January 5, 2003"," Camp Nou (53,000)"
+Villarreal, 4, 3, Atletico Madrid, "Sunday, January 5, 2003"," El Madrigal (17,000)"
+Real Madrid, 4, 1, Valencia, "Sunday, January 5, 2003"," Santiago Bernabeu (70,000)"
+Real Valladolid, 3, 0, Real Betis, "Saturday, January 4, 2003"," Nuevo Jose Zorilla Stadium (12,000)"
+Osasuna, 0, 1, Rayo Vallecano, "Saturday, January 4, 2003"," El Sadar (16,000)"
+Racing Santander, 3, 4, Athletic Bilbao, "Saturday, January 4, 2003"," El Sardinero (16,000)"
+Deportivo La CoruÃ±a, 3, 0, Celta Vigo, "Saturday, January 4, 2003"," Riazor Stadium (28,000)"
+Real Madrid, 3, 0, Sevilla FC, "Thursday, January 2, 2003"," Santiago Bernabeu (60,000)"
+Espanyol, 1, 0, Real Valladolid, "Sunday, December 22, 2002"," Montjuic Stadium (17,000)"
+Real Betis, 2, 1, Osasuna, "Sunday, December 22, 2002"," Estadio Manuel Ruiz de Lopera (34,000)"
+Recreativo Huelva, 1, 3, Real Sociedad, "Sunday, December 22, 2002","  (17,500)"
+Valencia, 0, 1, Deportivo La CoruÃ±a, "Sunday, December 22, 2002"," Mestalla Stadium (52,000)"
+Atletico Madrid, 1, 2, Racing Santander, "Saturday, December 21, 2002"," Vicente Calderon (50,000)"
+Malaga, 2, 3, Real Madrid, "Saturday, December 21, 2002"," La Rosaleda (25,000)"
+Celta Vigo, 3, 1, Villarreal, "Saturday, December 21, 2002"," Balaidos Stadium (20,000)"
+Athletic Bilbao, 2, 0, AlavÃ©s, "Saturday, December 21, 2002"," San Mames Stadium (38,000)"
+Rayo Vallecano, 0, 1, Sevilla FC, "Saturday, December 21, 2002"," Nuevo Vallecas Stadium (12,000)"
+Mallorca, 0, 4, Barcelona, "Saturday, December 21, 2002"," Son Moix (19,000)"
+Deportivo La CoruÃ±a, 1, 0, Malaga, "Sunday, December 15, 2002"," Riazor Stadium (22,500)"
+Osasuna, 1, 0, Espanyol, "Sunday, December 15, 2002"," El Sadar (17,000)"
+Racing Santander, 3, 0, Celta Vigo, "Sunday, December 15, 2002"," El Sardinero (15,000)"
+Real Betis, 0, 1, Rayo Vallecano, "Sunday, December 15, 2002"," Estadio Manuel Ruiz de Lopera (38,000)"
+Real Sociedad, 2, 1, Mallorca, "Sunday, December 15, 2002"," Anoeta Stadium (27,000)"
+Real Valladolid, 2, 0, Athletic Bilbao, "Sunday, December 15, 2002"," Nuevo Jose Zorilla Stadium (13,500)"
+Real Madrid, 4, 2, Recreativo Huelva, "Sunday, December 15, 2002"," Santiago Bernabeu (61,000)"
+Barcelona, 0, 3, Sevilla FC, "Sunday, December 15, 2002"," Camp Nou (50,000)"
+AlavÃ©s, 2, 0, Atletico Madrid, "Saturday, December 14, 2002"," Mendizorroza Stadium (14,000)"
+Villarreal, 0, 2, Valencia, "Saturday, December 14, 2002"," El Madrigal (20,000)"
+Athletic Bilbao, 1, 3, Osasuna, "Sunday, December 8, 2002"," San Mames Stadium (40,000)"
+Celta Vigo, 2, 1, AlavÃ©s, "Sunday, December 8, 2002"," Balaidos Stadium (16,000)"
+Espanyol, 2, 4, Real Betis, "Sunday, December 8, 2002"," Montjuic Stadium "
+Mallorca, 1, 5, Real Madrid, "Sunday, December 8, 2002"," Son Moix (24,000)"
+Atletico Madrid, 1, 0, Real Valladolid, "Sunday, December 8, 2002"," Vicente Calderon (40,000)"
+Malaga, 1, 1, Villarreal, "Saturday, December 7, 2002"," La Rosaleda (17,000)"
+Recreativo Huelva, 1, 1, Deportivo La CoruÃ±a, "Saturday, December 7, 2002","  (19,500)"
+Rayo Vallecano, 1, 0, Barcelona, "Saturday, December 7, 2002"," Nuevo Vallecas Stadium (15,500)"
+Sevilla FC, 0, 1, Real Sociedad, "Saturday, December 7, 2002"," Estadio Ramon Sanchez Pizjuan (25,000)"
+Valencia, 2, 0, Racing Santander, "Saturday, December 7, 2002"," Mestalla Stadium (40,000)"
+AlavÃ©s, 0, 0, Valencia, "Sunday, December 1, 2002"," Mendizorroza Stadium (15,000)"
+Espanyol, 3, 1, Rayo Vallecano, "Sunday, December 1, 2002"," Montjuic Stadium (22,000)"
+Racing Santander, 1, 0, Malaga, "Sunday, December 1, 2002"," El Sardinero (14,000)"
+Real Betis, 1, 0, Athletic Bilbao, "Sunday, December 1, 2002"," Estadio Manuel Ruiz de Lopera (38,000)"
+Real Valladolid, 0, 2, Celta Vigo, "Sunday, December 1, 2002"," Nuevo Jose Zorilla Stadium (8,800)"
+Villarreal, 1, 0, Recreativo Huelva, "Sunday, December 1, 2002"," El Madrigal "
+Real Sociedad, 2, 1, Barcelona, "Sunday, December 1, 2002"," Anoeta Stadium (29,000)"
+Deportivo La CoruÃ±a, 2, 2, Mallorca, "Sunday, December 1, 2002"," Riazor Stadium (30,000)"
+Osasuna, 1, 0, Atletico Madrid, "Saturday, November 30, 2002"," El Sadar (14,000)"
+Athletic Bilbao, 4, 1, Espanyol, "Sunday, November 24, 2002"," San Mames Stadium (35,000)"
+Celta Vigo, 0, 0, Osasuna, "Sunday, November 24, 2002"," Balaidos Stadium (16,000)"
+Malaga, 0, 0, AlavÃ©s, "Sunday, November 24, 2002"," La Rosaleda (11,000)"
+Mallorca, 1, 1, Villarreal, "Sunday, November 24, 2002"," Son Moix (16,500)"
+Recreativo Huelva, 2, 1, Racing Santander, "Sunday, November 24, 2002","  (20,000)"
+Valencia, 2, 0, Real Valladolid, "Sunday, November 24, 2002"," Mestalla Stadium (40,000)"
+Atletico Madrid, 1, 0, Real Betis, "Sunday, November 24, 2002"," Vicente Calderon (40,000)"
+Sevilla FC, 1, 1, Deportivo La CoruÃ±a, "Saturday, November 23, 2002"," Estadio Ramon Sanchez Pizjuan (25,000)"
+Barcelona, 0, 0, Real Madrid, "Saturday, November 23, 2002"," Camp Nou (98,000)"
+Rayo Vallecano, 0, 0, Real Sociedad, "Saturday, November 23, 2002"," Nuevo Vallecas Stadium (8,000)"
+AlavÃ©s, 3, 0, Recreativo Huelva, "Sunday, November 17, 2002"," Mendizorroza Stadium (17,000)"
+Athletic Bilbao, 2, 1, Rayo Vallecano, "Sunday, November 17, 2002"," San Mames Stadium (35,000)"
+Espanyol, 1, 2, Atletico Madrid, "Sunday, November 17, 2002"," Montjuic Stadium "
+Osasuna, 1, 0, Valencia, "Sunday, November 17, 2002"," El Sadar (15,500)"
+Racing Santander, 1, 2, Mallorca, "Sunday, November 17, 2002"," El Sardinero (17,000)"
+Real Valladolid, 0, 0, Malaga, "Sunday, November 17, 2002"," Nuevo Jose Zorilla Stadium (12,000)"
+Real Madrid, 0, 0, Real Sociedad, "Sunday, November 17, 2002"," Santiago Bernabeu (78,000)"
+Real Betis, 2, 1, Celta Vigo, "Sunday, November 17, 2002"," Estadio Manuel Ruiz de Lopera (41,000)"
+Villarreal, 1, 0, Sevilla FC, "Saturday, November 16, 2002"," El Madrigal (15,000)"
+Deportivo La CoruÃ±a, 2, 0, Barcelona, "Saturday, November 16, 2002"," Riazor Stadium (34,000)"
+Celta Vigo, 1, 0, Espanyol, "Sunday, November 10, 2002"," Balaidos Stadium (15,000)"
+Mallorca, 3, 1, AlavÃ©s, "Sunday, November 10, 2002"," Son Moix (18,000)"
+Recreativo Huelva, 1, 3, Real Valladolid, "Sunday, November 10, 2002","  (19,000)"
+Sevilla FC, 1, 0, Racing Santander, "Sunday, November 10, 2002"," Estadio Ramon Sanchez Pizjuan (28,000)"
+Atletico Madrid, 3, 3, Athletic Bilbao, "Sunday, November 10, 2002"," Vicente Calderon (50,000)"
+Malaga, 1, 0, Osasuna, "Saturday, November 9, 2002"," La Rosaleda (16,695)"
+Rayo Vallecano, 2, 3, Real Madrid, "Saturday, November 9, 2002"," Nuevo Vallecas Stadium (15,500)"
+Real Sociedad, 1, 1, Deportivo La CoruÃ±a, "Saturday, November 9, 2002"," Anoeta Stadium (27,900)"
+Barcelona, 1, 0, Villarreal, "Saturday, November 9, 2002"," Camp Nou "
+Valencia, 1, 1, Real Betis, "Saturday, November 9, 2002"," Mestalla Stadium (50,000)"
+Athletic Bilbao, 2, 1, Celta Vigo, "Sunday, November 3, 2002"," San Mames Stadium (35,000)"
+Espanyol, 0, 1, Valencia, "Sunday, November 3, 2002"," Montjuic Stadium (35,500)"
+Osasuna, 0, 1, Recreativo Huelva, "Sunday, November 3, 2002"," El Sadar (15,000)"
+Real Betis, 3, 0, Malaga, "Sunday, November 3, 2002"," Estadio Manuel Ruiz de Lopera (42,000)"
+Villarreal, 0, 1, Real Sociedad, "Sunday, November 3, 2002"," El Madrigal (16,000)"
+AlavÃ©s, 1, 0, Sevilla FC, "Sunday, November 3, 2002"," Mendizorroza Stadium (14,500)"
+Racing Santander, 1, 1, Barcelona, "Sunday, November 3, 2002"," El Sardinero "
+Atletico Madrid, 2, 0, Rayo Vallecano, "Saturday, November 2, 2002"," Vicente Calderon (50,000)"
+Real Valladolid, 1, 3, Mallorca, "Saturday, November 2, 2002"," Nuevo Jose Zorilla Stadium (11,000)"
+Deportivo La CoruÃ±a, 0, 0, Real Madrid, "Saturday, November 2, 2002"," Riazor Stadium (35,500)"
+Malaga, 3, 4, Espanyol, "Sunday, October 27, 2002"," La Rosaleda (33,500)"
+Mallorca, 2, 0, Osasuna, "Sunday, October 27, 2002"," Son Moix (14,500)"
+Sevilla FC, 2, 1, Real Valladolid, "Sunday, October 27, 2002"," Estadio Ramon Sanchez Pizjuan (30,000)"
+Real Sociedad, 2, 1, Racing Santander, "Sunday, October 27, 2002"," Anoeta Stadium (23,500)"
+Recreativo Huelva, 1, 1, Real Betis, "Saturday, October 26, 2002","  (20,000)"
+Real Madrid, 1, 1, Villarreal, "Saturday, October 26, 2002"," Santiago Bernabeu (65,000)"
+Rayo Vallecano, 1, 2, Deportivo La CoruÃ±a, "Saturday, October 26, 2002"," Nuevo Vallecas Stadium (15,000)"
+Valencia, 5, 1, Athletic Bilbao, "Saturday, October 26, 2002"," Mestalla Stadium (50,000)"
+Barcelona, 6, 1, AlavÃ©s, "Saturday, October 26, 2002"," Camp Nou (94,000)"
+Celta Vigo, 0, 0, Atletico Madrid, "Saturday, October 26, 2002"," Balaidos Stadium (18,000)"
+Real Betis, 0, 1, Mallorca, "Sunday, October 20, 2002"," Estadio Manuel Ruiz de Lopera (12,000)"
+AlavÃ©s, 2, 2, Real Sociedad, "Sunday, October 20, 2002"," Mendizorroza Stadium (17,576)"
+Athletic Bilbao, 1, 1, Malaga, "Sunday, October 20, 2002"," San Mames Stadium (35,000)"
+Celta Vigo, 0, 1, Rayo Vallecano, "Sunday, October 20, 2002"," Balaidos Stadium (17,000)"
+Espanyol, 2, 0, Recreativo Huelva, "Sunday, October 20, 2002"," Montjuic Stadium (36,000)"
+Osasuna, 2, 1, Sevilla FC, "Sunday, October 20, 2002"," El Sadar (15,000)"
+Real Valladolid, 2, 1, Barcelona, "Sunday, October 20, 2002"," Nuevo Jose Zorilla Stadium (16,000)"
+Villarreal, 3, 1, Deportivo La CoruÃ±a, "Saturday, October 19, 2002"," El Madrigal (15,000)"
+Racing Santander, 2, 0, Real Madrid, "Saturday, October 19, 2002"," El Sardinero (22,500)"
+Atletico Madrid, 1, 1, Valencia, "Saturday, October 19, 2002"," Vicente Calderon (50,000)"
+Real Betis, 1, 1, Real Madrid, "Tuesday, October 8, 2002"," Estadio Manuel Ruiz de Lopera (52,500)"
+Malaga, 3, 1, Atletico Madrid, "Sunday, October 6, 2002"," La Rosaleda (22,000)"
+Real Madrid, 5, 2, AlavÃ©s, "Sunday, October 6, 2002"," Santiago Bernabeu (75,000)"
+Real Sociedad, 2, 1, Real Valladolid, "Sunday, October 6, 2002"," Anoeta Stadium (25,000)"
+Barcelona, 2, 2, Osasuna, "Sunday, October 6, 2002"," Camp Nou (80,000)"
+Deportivo La CoruÃ±a, 0, 2, Racing Santander, "Sunday, October 6, 2002"," Riazor Stadium (30,000)"
+Mallorca, 2, 0, Espanyol, "Sunday, October 6, 2002"," Son Moix (17,000)"
+Rayo Vallecano, 2, 2, Villarreal, "Sunday, October 6, 2002"," Nuevo Vallecas Stadium (14,000)"
+Valencia, 0, 1, Celta Vigo, "Sunday, October 6, 2002"," Mestalla Stadium (49,000)"
+Sevilla FC, 1, 1, Real Betis, "Sunday, October 6, 2002"," Estadio Ramon Sanchez Pizjuan (40,000)"
+Recreativo Huelva, 1, 2, Athletic Bilbao, "Saturday, October 5, 2002","  (21,000)"
+Athletic Bilbao, 0, 2, Mallorca, "Sunday, September 29, 2002"," San Mames Stadium (29,000)"
+Atletico Madrid, 1, 1, Recreativo Huelva, "Sunday, September 29, 2002"," Vicente Calderon (50,000)"
+Celta Vigo, 2, 2, Malaga, "Sunday, September 29, 2002"," Balaidos Stadium (18,000)"
+Espanyol, 0, 0, Sevilla FC, "Sunday, September 29, 2002"," Montjuic Stadium (41,000)"
+Racing Santander, 1, 1, Villarreal, "Sunday, September 29, 2002"," El Sardinero (15,000)"
+Osasuna, 2, 3, Real Sociedad, "Sunday, September 29, 2002"," El Sadar (18,500)"
+Valencia, 3, 0, Rayo Vallecano, "Sunday, September 29, 2002"," Mestalla Stadium (50,000)"
+AlavÃ©s, 1, 2, Deportivo La CoruÃ±a, "Saturday, September 28, 2002"," Mendizorroza Stadium (14,000)"
+Real Betis, 3, 0, Barcelona, "Saturday, September 28, 2002"," Estadio Manuel Ruiz de Lopera (20,000)"
+Real Valladolid, 1, 1, Real Madrid, "Saturday, September 28, 2002"," Nuevo Jose Zorilla Stadium (21,000)"
+Malaga, 2, 2, Valencia, "Sunday, September 22, 2002"," La Rosaleda (18,000)"
+Mallorca, 0, 4, Atletico Madrid, "Sunday, September 22, 2002"," Son Moix (21,000)"
+Rayo Vallecano, 3, 1, Racing Santander, "Sunday, September 22, 2002"," Nuevo Vallecas Stadium (14,500)"
+Recreativo Huelva, 0, 3, Celta Vigo, "Sunday, September 22, 2002","  (20,000)"
+Sevilla FC, 1, 1, Athletic Bilbao, "Sunday, September 22, 2002"," Estadio Ramon Sanchez Pizjuan (30,000)"
+Villarreal, 0, 1, AlavÃ©s, "Sunday, September 22, 2002"," El Madrigal (15,000)"
+Real Sociedad, 3, 3, Real Betis, "Sunday, September 22, 2002"," Anoeta Stadium (22,500)"
+Real Madrid, 4, 1, Osasuna, "Saturday, September 21, 2002"," Santiago Bernabeu (60,000)"
+Barcelona, 2, 0, Espanyol, "Saturday, September 21, 2002"," Camp Nou (88,500)"
+Deportivo La CoruÃ±a, 2, 0, Real Valladolid, "Saturday, September 21, 2002"," Riazor Stadium (28,500)"
+AlavÃ©s, 0, 1, Racing Santander, "Sunday, September 15, 2002"," Mendizorroza Stadium (16,000)"
+Espanyol, 1, 3, Real Sociedad, "Sunday, September 15, 2002"," Montjuic Stadium (15,500)"
+Celta Vigo, 3, 1, Mallorca, "Sunday, September 15, 2002"," Balaidos Stadium (16,000)"
+Real Valladolid, 1, 0, Villarreal, "Sunday, September 15, 2002"," Nuevo Jose Zorilla Stadium (11,000)"
+Atletico Madrid, 1, 1, Sevilla FC, "Sunday, September 15, 2002"," Vicente Calderon (50,000)"
+Malaga, 2, 1, Rayo Vallecano, "Saturday, September 14, 2002"," La Rosaleda (17,000)"
+Osasuna, 1, 2, Deportivo La CoruÃ±a, "Saturday, September 14, 2002"," El Sadar (17,000)"
+Athletic Bilbao, 0, 2, Barcelona, "Saturday, September 14, 2002"," San Mames Stadium (20,000)"
+Valencia, 3, 0, Recreativo Huelva, "Saturday, September 14, 2002"," Mestalla Stadium (42,000)"
+Real Madrid, 2, 0, Espanyol, "Monday, September 2, 2002"," Santiago Bernabeu (75,000)"
+Rayo Vallecano, 2, 2, Alavés, "Sunday, September 1, 2002"," Nuevo Vallecas Stadium (13,000)"
+Real Sociedad, 4, 2, Athletic Bilbao, "Sunday, September 1, 2002"," Anoeta Stadium "
+Mallorca, 0, 2, Valencia, "Sunday, September 1, 2002"," Son Moix (21,330)"
+Recreativo Huelva, 2, 3, Malaga, "Sunday, September 1, 2002","  (19,800)"
+Villarreal, 2, 2, Osasuna, "Sunday, September 1, 2002"," El Madrigal (16,000)"
+Barcelona, 2, 2, Atletico Madrid, "Sunday, September 1, 2002"," Camp Nou (85,000)"
+Deportivo La Coruña, 2, 4, Real Betis, "Sunday, September 1, 2002"," Riazor Stadium (32,000)"
+Sevilla FC, 0, 1, Celta Vigo, "Sunday, September 1, 2002"," Estadio Ramon Sanchez Pizjuan (32,000)"
+Racing Santander, 0, 1, Real Valladolid, "Saturday, August 31, 2002"," El Sardinero (14,500)"

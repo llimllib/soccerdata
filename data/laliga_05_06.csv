@@ -1,381 +1,380 @@
-home, homescore, awayscore, away, date, group
-Athletic Bilbao, 3, 1, Barcelona, "Saturday, May 20, 2006", Estadio San MamÃ©s 
-Osasuna, 2, 1, Valencia, "Tuesday, May 16, 2006", Estadio El Sadar 
-Sevilla FC, 4, 3, Real Madrid, "Tuesday, May 16, 2006", Estadio Ramon Sanchez Pizjuan 
-Atletico Madrid, 1, 1, Real Betis, "Saturday, May 13, 2006", Vicente Calderon 
-CÃ¡diz, 5, 0, Malaga, "Saturday, May 13, 2006", Estadio RamÃ³n de Carranza 
-Celta Vigo, 1, 0, Getafe, "Saturday, May 13, 2006", Estadio BalaÃ­dos 
-Mallorca, 3, 1, Real Zaragoza, "Saturday, May 13, 2006", Estadio Son Moix 
-AlavÃ©s, 1, 0, Deportivo La CoruÃ±a, "Saturday, May 13, 2006", Estadio Mendizorroza 
-Espanyol, 1, 0, Real Sociedad, "Saturday, May 13, 2006", Estadio Olimpico de Montjuic 
-Sevilla FC, 3, 2, Barcelona, "Saturday, May 13, 2006", Estadio Ramon Sanchez Pizjuan 
-Villarreal, 2, 0, Racing Santander, "Saturday, May 13, 2006", Estadio El Madrigal 
-Getafe, 3, 1, CÃ¡diz, "Sunday, May 7, 2006", Coliseum Alfonso Perez 
-Racing Santander, 2, 1, Osasuna, "Sunday, May 7, 2006", Estadio El Sardinero 
-Real Betis, 2, 1, Mallorca, "Sunday, May 7, 2006", Estadio Manuel Ruiz de Lopera 
-Real Sociedad, 2, 2, Celta Vigo, "Sunday, May 7, 2006", Estadio Anoeta 
-Real Zaragoza, 3, 0, AlavÃ©s, "Sunday, May 7, 2006", Estadio La Romareda 
-Real Madrid, 3, 3, Villarreal, "Sunday, May 7, 2006", Estadio Santiago BernabÃ©u 
-Deportivo La CoruÃ±a, 1, 2, Athletic Bilbao, "Sunday, May 7, 2006", Estadio Riazor 
-Barcelona, 2, 0, Espanyol, "Saturday, May 6, 2006", Estadio Camp Nou 
-Malaga, 0, 2, Sevilla FC, "Saturday, May 6, 2006", Estadio La Rosaleda 
-Valencia, 1, 1, Atletico Madrid, "Saturday, May 6, 2006", Estadio Mestalla 
-Racing Santander, 2, 3, Real Madrid, "Thursday, May 4, 2006", Estadio El Sardinero 
-AlavÃ©s, 2, 0, Real Betis, "Wednesday, May 3, 2006", Estadio Mendizorroza 
-Athletic Bilbao, 1, 0, Real Zaragoza, "Wednesday, May 3, 2006", Estadio San MamÃ©s 
-Atletico Madrid, 0, 1, Osasuna, "Wednesday, May 3, 2006", Vicente Calderon 
-CÃ¡diz, 2, 2, Real Sociedad, "Wednesday, May 3, 2006", Estadio RamÃ³n de Carranza 
-Espanyol, 1, 2, Deportivo La CoruÃ±a, "Wednesday, May 3, 2006", Estadio Olimpico de Montjuic 
-Mallorca, 2, 1, Valencia, "Wednesday, May 3, 2006", Estadio Son Moix 
-Sevilla FC, 3, 0, Getafe, "Wednesday, May 3, 2006", Estadio Ramon Sanchez Pizjuan 
-Villarreal, 2, 1, Malaga, "Wednesday, May 3, 2006", Estadio El Madrigal 
-Celta Vigo, 0, 1, Barcelona, "Wednesday, May 3, 2006", Estadio BalaÃ­dos 
-Getafe, 1, 1, Villarreal, "Sunday, April 30, 2006", Coliseum Alfonso Perez 
-Malaga, 2, 3, Racing Santander, "Sunday, April 30, 2006", Estadio La Rosaleda 
-Real Sociedad, 1, 2, Sevilla FC, "Sunday, April 30, 2006", Estadio Anoeta 
-Real Zaragoza, 1, 1, Espanyol, "Sunday, April 30, 2006", Estadio La Romareda 
-Valencia, 3, 0, AlavÃ©s, "Sunday, April 30, 2006", Estadio Mestalla 
-Atletico Madrid, 0, 1, Mallorca, "Sunday, April 30, 2006", Vicente Calderon 
-Osasuna, 0, 1, Real Madrid, "Sunday, April 30, 2006", Estadio El Sadar 
-Deportivo La CoruÃ±a, 0, 2, Celta Vigo, "Saturday, April 29, 2006", Estadio Riazor 
-Real Betis, 1, 1, Athletic Bilbao, "Saturday, April 29, 2006", Estadio Manuel Ruiz de Lopera 
-Barcelona, 1, 0, CÃ¡diz, "Saturday, April 29, 2006", Estadio Camp Nou 
-Athletic Bilbao, 0, 3, Valencia, "Sunday, April 23, 2006", Estadio San MamÃ©s 
-CÃ¡diz, 1, 1, Deportivo La CoruÃ±a, "Sunday, April 23, 2006", Estadio RamÃ³n de Carranza 
-Espanyol, 2, 0, Real Betis, "Sunday, April 23, 2006", Estadio Olimpico de Montjuic 
-Mallorca, 0, 1, Osasuna, "Sunday, April 23, 2006", Estadio Son Moix 
-Racing Santander, 1, 3, Getafe, "Sunday, April 23, 2006", Estadio El Sardinero 
-Real Madrid, 2, 1, Malaga, "Sunday, April 23, 2006", Estadio Santiago BernabÃ©u 
-Villarreal, 0, 2, Real Sociedad, "Saturday, April 22, 2006", Estadio El Madrigal 
-AlavÃ©s, 0, 1, Atletico Madrid, "Saturday, April 22, 2006", Estadio Mendizorroza 
-Celta Vigo, 4, 0, Real Zaragoza, "Saturday, April 22, 2006", Estadio BalaÃ­dos 
-Osasuna, 1, 1, Malaga, "Sunday, April 16, 2006", Estadio El Sadar 
-Real Betis, 0, 2, Celta Vigo, "Sunday, April 16, 2006", Estadio Manuel Ruiz de Lopera 
-Real Zaragoza, 1, 2, CÃ¡diz, "Sunday, April 16, 2006", Estadio La Romareda 
-Valencia, 4, 0, Espanyol, "Sunday, April 16, 2006", Estadio Mestalla 
-Getafe, 1, 1, Real Madrid, "Sunday, April 16, 2006", Coliseum Alfonso Perez 
-Atletico Madrid, 1, 0, Athletic Bilbao, "Sunday, April 16, 2006", Vicente Calderon 
-Mallorca, 0, 0, AlavÃ©s, "Saturday, April 15, 2006", Estadio Son Moix 
-Real Sociedad, 1, 0, Racing Santander, "Saturday, April 15, 2006", Estadio Anoeta 
-Deportivo La CoruÃ±a, 0, 0, Sevilla FC, "Saturday, April 15, 2006", Estadio Riazor 
-Barcelona, 1, 0, Villarreal, "Friday, April 14, 2006", Estadio Camp Nou 
-AlavÃ©s, 1, 2, Osasuna, "Sunday, April 9, 2006", Estadio Mendizorroza 
-Athletic Bilbao, 1, 1, Mallorca, "Sunday, April 9, 2006", Estadio San MamÃ©s 
-Espanyol, 1, 1, Atletico Madrid, "Sunday, April 9, 2006", Estadio Olimpico de Montjuic 
-Racing Santander, 2, 2, Barcelona, "Sunday, April 9, 2006", Estadio El Sardinero 
-Sevilla FC, 1, 1, Real Zaragoza, "Sunday, April 9, 2006", Estadio Ramon Sanchez Pizjuan 
-Villarreal, 1, 1, Deportivo La CoruÃ±a, "Sunday, April 9, 2006", Estadio El Madrigal 
-Malaga, 1, 2, Getafe, "Saturday, April 8, 2006", Estadio La Rosaleda 
-CÃ¡diz, 1, 1, Real Betis, "Saturday, April 8, 2006", Estadio RamÃ³n de Carranza 
-Real Madrid, 1, 1, Real Sociedad, "Saturday, April 8, 2006", Estadio Santiago BernabÃ©u 
-Celta Vigo, 0, 1, Valencia, "Saturday, April 8, 2006", Estadio BalaÃ­dos 
-AlavÃ©s, 0, 0, Athletic Bilbao, "Sunday, April 2, 2006", Estadio Mendizorroza 
-Deportivo La CoruÃ±a, 2, 0, Racing Santander, "Sunday, April 2, 2006", Estadio Riazor 
-Mallorca, 0, 0, Espanyol, "Sunday, April 2, 2006", Estadio Son Moix 
-Osasuna, 0, 4, Getafe, "Sunday, April 2, 2006", Estadio El Sadar 
-Valencia, 5, 3, CÃ¡diz, "Sunday, April 2, 2006", Estadio Mestalla 
-Atletico Madrid, 0, 3, Celta Vigo, "Sunday, April 2, 2006", Vicente Calderon 
-Real Betis, 2, 1, Sevilla FC, "Sunday, April 2, 2006", Estadio Manuel Ruiz de Lopera 
-Real Sociedad, 3, 0, Malaga, "Saturday, April 1, 2006", Estadio Anoeta 
-Real Zaragoza, 0, 1, Villarreal, "Saturday, April 1, 2006", Estadio La Romareda 
-Barcelona, 1, 1, Real Madrid, "Saturday, April 1, 2006", Estadio Camp Nou 
-Celta Vigo, 2, 0, Mallorca, "Sunday, March 26, 2006", Estadio BalaÃ­dos 
-Espanyol, 0, 0, AlavÃ©s, "Sunday, March 26, 2006", Estadio Olimpico de Montjuic 
-Getafe, 2, 1, Real Sociedad, "Sunday, March 26, 2006", Coliseum Alfonso Perez 
-Racing Santander, 0, 0, Real Zaragoza, "Sunday, March 26, 2006", Estadio El Sardinero 
-Sevilla FC, 1, 0, Valencia, "Sunday, March 26, 2006", Estadio Ramon Sanchez Pizjuan 
-Real Madrid, 4, 0, Deportivo La CoruÃ±a, "Sunday, March 26, 2006", Estadio Santiago BernabÃ©u 
-CÃ¡diz, 1, 1, Atletico Madrid, "Sunday, March 26, 2006", Estadio RamÃ³n de Carranza 
-Villarreal, 1, 2, Real Betis, "Saturday, March 25, 2006", Estadio El Madrigal 
-Malaga, 0, 0, Barcelona, "Saturday, March 25, 2006", Estadio La Rosaleda 
-Athletic Bilbao, 1, 0, Osasuna, "Saturday, March 25, 2006", Estadio San MamÃ©s 
-Atletico Madrid, 0, 1, Sevilla FC, "Thursday, March 23, 2006", Vicente Calderon 
-AlavÃ©s, 1, 0, Celta Vigo, "Wednesday, March 22, 2006", Estadio Mendizorroza 
-Athletic Bilbao, 1, 1, Espanyol, "Wednesday, March 22, 2006", Estadio San MamÃ©s 
-Deportivo La CoruÃ±a, 2, 1, Malaga, "Wednesday, March 22, 2006", Estadio Riazor 
-Mallorca, 1, 0, CÃ¡diz, "Wednesday, March 22, 2006", Estadio Son Moix 
-Osasuna, 2, 0, Real Sociedad, "Wednesday, March 22, 2006", Estadio El Sadar 
-Real Betis, 1, 0, Racing Santander, "Wednesday, March 22, 2006", Estadio Manuel Ruiz de Lopera 
-Valencia, 1, 1, Villarreal, "Wednesday, March 22, 2006", Estadio Mestalla 
-Real Zaragoza, 1, 1, Real Madrid, "Wednesday, March 22, 2006", Estadio La Romareda 
-Barcelona, 3, 1, Getafe, "Tuesday, March 21, 2006", Estadio Camp Nou 
-CÃ¡diz, 0, 0, AlavÃ©s, "Sunday, March 19, 2006", Estadio RamÃ³n de Carranza 
-Espanyol, 2, 4, Osasuna, "Sunday, March 19, 2006", Estadio Olimpico de Montjuic 
-Racing Santander, 2, 1, Valencia, "Sunday, March 19, 2006", Estadio El Sardinero 
-Sevilla FC, 1, 1, Mallorca, "Sunday, March 19, 2006", Estadio Ramon Sanchez Pizjuan 
-Malaga, 0, 1, Real Zaragoza, "Sunday, March 19, 2006", Estadio La Rosaleda 
-Real Madrid, 0, 0, Real Betis, "Sunday, March 19, 2006", Estadio Santiago BernabÃ©u 
-Celta Vigo, 0, 1, Athletic Bilbao, "Sunday, March 19, 2006", Estadio BalaÃ­dos 
-Getafe, 1, 2, Deportivo La CoruÃ±a, "Saturday, March 18, 2006", Coliseum Alfonso Perez 
-Real Sociedad, 0, 2, Barcelona, "Saturday, March 18, 2006", Estadio Anoeta 
-Villarreal, 1, 1, Atletico Madrid, "Saturday, March 18, 2006", Estadio El Madrigal 
-AlavÃ©s, 2, 1, Sevilla FC, "Sunday, March 12, 2006", Estadio Mendizorroza 
-Athletic Bilbao, 1, 0, CÃ¡diz, "Sunday, March 12, 2006", Estadio San MamÃ©s 
-Mallorca, 1, 1, Villarreal, "Sunday, March 12, 2006", Estadio Son Moix 
-Real Betis, 1, 1, Malaga, "Sunday, March 12, 2006", Estadio Manuel Ruiz de Lopera 
-Real Zaragoza, 1, 2, Getafe, "Sunday, March 12, 2006", Estadio La Romareda 
-Atletico Madrid, 2, 1, Racing Santander, "Sunday, March 12, 2006", Vicente Calderon 
-Osasuna, 2, 1, Barcelona, "Sunday, March 12, 2006", Estadio El Sadar 
-Espanyol, 2, 0, Celta Vigo, "Saturday, March 11, 2006", Estadio Olimpico de Montjuic 
-Deportivo La CoruÃ±a, 0, 1, Real Sociedad, "Saturday, March 11, 2006", Estadio Riazor 
-Valencia, 0, 0, Real Madrid, "Saturday, March 11, 2006", Estadio El Madrigal 
-Celta Vigo, 2, 0, Osasuna, "Sunday, March 5, 2006", Estadio BalaÃ­dos 
-Getafe, 1, 0, Real Betis, "Sunday, March 5, 2006", Coliseum Alfonso Perez 
-Racing Santander, 0, 0, Mallorca, "Sunday, March 5, 2006", Estadio El Sardinero 
-Real Sociedad, 1, 3, Real Zaragoza, "Sunday, March 5, 2006", Estadio Anoeta 
-Sevilla FC, 2, 1, Athletic Bilbao, "Sunday, March 5, 2006", Estadio Ramon Sanchez Pizjuan 
-Malaga, 0, 0, Valencia, "Sunday, March 5, 2006", Estadio La Rosaleda 
-CÃ¡diz, 2, 0, Espanyol, "Saturday, March 4, 2006", Estadio RamÃ³n de Carranza 
-Villarreal, 3, 2, AlavÃ©s, "Saturday, March 4, 2006", Estadio El Madrigal 
-Real Madrid, 2, 1, Atletico Madrid, "Saturday, March 4, 2006", Estadio Santiago BernabÃ©u 
-Barcelona, 3, 2, Deportivo La CoruÃ±a, "Saturday, March 4, 2006", Estadio Camp Nou 
-AlavÃ©s, 2, 2, Racing Santander, "Sunday, February 26, 2006", Estadio Mendizorroza 
-Athletic Bilbao, 1, 1, Villarreal, "Sunday, February 26, 2006", Estadio San MamÃ©s 
-Celta Vigo, 2, 0, CÃ¡diz, "Sunday, February 26, 2006", Estadio BalaÃ­dos 
-Espanyol, 5, 0, Sevilla FC, "Sunday, February 26, 2006", Estadio Olimpico de Montjuic 
-Real Betis, 2, 0, Real Sociedad, "Sunday, February 26, 2006", Estadio Manuel Ruiz de Lopera 
-Valencia, 1, 1, Getafe, "Sunday, February 26, 2006", Estadio Mestalla 
-Mallorca, 2, 1, Real Madrid, "Sunday, February 26, 2006", Estadio Son Moix 
-Osasuna, 1, 2, Deportivo La CoruÃ±a, "Sunday, February 26, 2006", Estadio El Sadar 
-Atletico Madrid, 5, 0, Malaga, "Saturday, February 25, 2006", Vicente Calderon 
-Real Zaragoza, 0, 2, Barcelona, "Saturday, February 25, 2006", Estadio La Romareda 
-CÃ¡diz, 1, 3, Osasuna, "Sunday, February 19, 2006", Estadio RamÃ³n de Carranza 
-Deportivo La CoruÃ±a, 1, 1, Real Zaragoza, "Sunday, February 19, 2006", Estadio Riazor 
-Racing Santander, 0, 1, Athletic Bilbao, "Sunday, February 19, 2006", Estadio El Sardinero 
-Malaga, 0, 2, Mallorca, "Sunday, February 19, 2006", Estadio La Rosaleda 
-Real Sociedad, 1, 2, Valencia, "Sunday, February 19, 2006", Estadio Anoeta 
-Getafe, 0, 3, Atletico Madrid, "Sunday, February 19, 2006", Coliseum Alfonso Perez 
-Villarreal, 4, 0, Espanyol, "Saturday, February 18, 2006", Estadio El Madrigal 
-Real Madrid, 3, 0, AlavÃ©s, "Saturday, February 18, 2006", Estadio Santiago BernabÃ©u 
-Barcelona, 5, 1, Real Betis, "Saturday, February 18, 2006", Estadio Camp Nou 
-Sevilla FC, 1, 0, Celta Vigo, "Saturday, February 18, 2006", Estadio Ramon Sanchez Pizjuan 
-AlavÃ©s, 3, 2, Malaga, "Sunday, February 12, 2006", Estadio Mendizorroza 
-Celta Vigo, 1, 0, Villarreal, "Sunday, February 12, 2006", Estadio BalaÃ­dos 
-Espanyol, 0, 2, Racing Santander, "Sunday, February 12, 2006", Estadio Olimpico de Montjuic 
-Mallorca, 1, 1, Getafe, "Sunday, February 12, 2006", Estadio Son Moix 
-Real Betis, 0, 1, Deportivo La CoruÃ±a, "Sunday, February 12, 2006", Estadio Manuel Ruiz de Lopera 
-Atletico Madrid, 1, 0, Real Sociedad, "Sunday, February 12, 2006", Vicente Calderon 
-Valencia, 1, 0, Barcelona, "Sunday, February 12, 2006", Estadio Mestalla 
-CÃ¡diz, 0, 4, Sevilla FC, "Saturday, February 11, 2006", Estadio RamÃ³n de Carranza 
-Osasuna, 1, 1, Real Zaragoza, "Saturday, February 11, 2006", Estadio El Sadar 
-Athletic Bilbao, 0, 2, Real Madrid, "Saturday, February 11, 2006", Estadio San MamÃ©s 
-Getafe, 2, 2, AlavÃ©s, "Sunday, February 5, 2006", Coliseum Alfonso Perez 
-Racing Santander, 0, 1, Celta Vigo, "Sunday, February 5, 2006", Estadio El Sardinero 
-Real Sociedad, 2, 1, Mallorca, "Sunday, February 5, 2006", Estadio Anoeta 
-Real Zaragoza, 4, 3, Real Betis, "Sunday, February 5, 2006", Estadio La Romareda 
-Villarreal, 1, 1, CÃ¡diz, "Sunday, February 5, 2006", Estadio El Madrigal 
-Barcelona, 1, 3, Atletico Madrid, "Sunday, February 5, 2006", Estadio Camp Nou 
-Sevilla FC, 0, 1, Osasuna, "Sunday, February 5, 2006", Estadio Ramon Sanchez Pizjuan 
-Malaga, 2, 1, Athletic Bilbao, "Saturday, February 4, 2006", Estadio La Rosaleda 
-Real Madrid, 4, 0, Espanyol, "Saturday, February 4, 2006", Estadio Santiago BernabÃ©u 
-Deportivo La CoruÃ±a, 0, 1, Valencia, "Saturday, February 4, 2006", Estadio Riazor 
-AlavÃ©s, 3, 1, Real Sociedad, "Sunday, January 29, 2006", Estadio Mendizorroza 
-Espanyol, 3, 1, Malaga, "Sunday, January 29, 2006", Estadio Olimpico de Montjuic 
-Osasuna, 0, 2, Real Betis, "Sunday, January 29, 2006", Estadio El Sadar 
-Sevilla FC, 2, 0, Villarreal, "Sunday, January 29, 2006", Estadio Ramon Sanchez Pizjuan 
-Valencia, 2, 2, Real Zaragoza, "Sunday, January 29, 2006", Estadio Mestalla 
-Mallorca, 0, 3, Barcelona, "Sunday, January 29, 2006", Estadio Son Moix 
-Celta Vigo, 1, 2, Real Madrid, "Sunday, January 29, 2006", Estadio BalaÃ­dos 
-CÃ¡diz, 1, 1, Racing Santander, "Saturday, January 28, 2006", Estadio RamÃ³n de Carranza 
-Athletic Bilbao, 1, 0, Getafe, "Saturday, January 28, 2006", Estadio San MamÃ©s 
-Atletico Madrid, 3, 2, Deportivo La CoruÃ±a, "Saturday, January 28, 2006", Vicente Calderon 
-Deportivo La CoruÃ±a, 2, 2, Mallorca, "Sunday, January 22, 2006", Estadio Riazor 
-Getafe, 5, 0, Espanyol, "Sunday, January 22, 2006", Coliseum Alfonso Perez 
-Racing Santander, 2, 3, Sevilla FC, "Sunday, January 22, 2006", Estadio El Sardinero 
-Real Betis, 0, 2, Valencia, "Sunday, January 22, 2006", Estadio Manuel Ruiz de Lopera 
-Villarreal, 2, 1, Osasuna, "Sunday, January 22, 2006", Estadio El Madrigal 
-Malaga, 0, 2, Celta Vigo, "Sunday, January 22, 2006", Estadio La Rosaleda 
-Barcelona, 2, 0, AlavÃ©s, "Sunday, January 22, 2006", Estadio Camp Nou 
-Real Sociedad, 3, 3, Athletic Bilbao, "Sunday, January 22, 2006", Estadio Anoeta 
-Real Zaragoza, 0, 2, Atletico Madrid, "Saturday, January 21, 2006", Estadio La Romareda 
-Real Madrid, 3, 1, CÃ¡diz, "Saturday, January 21, 2006", Estadio Santiago BernabÃ©u 
-Deportivo La CoruÃ±a, 0, 2, AlavÃ©s, "Sunday, January 15, 2006", Estadio Riazor 
-Getafe, 1, 1, Celta Vigo, "Sunday, January 15, 2006", Coliseum Alfonso Perez 
-Malaga, 0, 2, CÃ¡diz, "Sunday, January 15, 2006", Estadio La Rosaleda 
-Racing Santander, 1, 0, Villarreal, "Sunday, January 15, 2006", Estadio El Sardinero 
-Real Sociedad, 0, 1, Espanyol, "Sunday, January 15, 2006", Estadio Anoeta 
-Real Zaragoza, 3, 1, Mallorca, "Sunday, January 15, 2006", Estadio La Romareda 
-Barcelona, 2, 1, Athletic Bilbao, "Sunday, January 15, 2006", Estadio Camp Nou 
-Real Madrid, 4, 2, Sevilla FC, "Sunday, January 15, 2006", Estadio Santiago BernabÃ©u 
-Real Betis, 1, 0, Atletico Madrid, "Saturday, January 14, 2006", Estadio Manuel Ruiz de Lopera 
-Valencia, 2, 0, Osasuna, "Saturday, January 14, 2006", Estadio Mestalla 
-AlavÃ©s, 0, 2, Real Zaragoza, "Sunday, January 8, 2006", Estadio Mendizorroza 
-CÃ¡diz, 1, 0, Getafe, "Sunday, January 8, 2006", Estadio Chapin 
-Celta Vigo, 1, 0, Real Sociedad, "Sunday, January 8, 2006", Estadio Chapin 
-Mallorca, 1, 1, Real Betis, "Sunday, January 8, 2006", Estadio Son Moix 
-Osasuna, 1, 1, Racing Santander, "Sunday, January 8, 2006", Estadio El Sadar 
-Sevilla FC, 3, 1, Malaga, "Sunday, January 8, 2006", Estadio Ramon Sanchez Pizjuan 
-Villarreal, 0, 0, Real Madrid, "Sunday, January 8, 2006", Estadio El Madrigal 
-Atletico Madrid, 0, 0, Valencia, "Sunday, January 8, 2006", Vicente Calderon 
-Athletic Bilbao, 1, 2, Deportivo La CoruÃ±a, "Saturday, January 7, 2006", Estadio San MamÃ©s 
-Espanyol, 1, 2, Barcelona, "Saturday, January 7, 2006", Estadio Olimpico de Montjuic 
-Osasuna, 2, 1, Atletico Madrid, "Thursday, December 22, 2005", Estadio El Sadar 
-Deportivo La CoruÃ±a, 1, 2, Espanyol, "Wednesday, December 21, 2005", Estadio Riazor 
-Getafe, 1, 0, Sevilla FC, "Wednesday, December 21, 2005", Coliseum Alfonso Perez 
-Malaga, 0, 0, Villarreal, "Wednesday, December 21, 2005", Estadio La Rosaleda 
-Real Betis, 3, 0, AlavÃ©s, "Wednesday, December 21, 2005", Estadio Manuel Ruiz de Lopera 
-Real Madrid, 1, 2, Racing Santander, "Wednesday, December 21, 2005", Estadio Santiago BernabÃ©u 
-Real Sociedad, 2, 0, CÃ¡diz, "Wednesday, December 21, 2005", Estadio Anoeta 
-Real Zaragoza, 3, 2, Athletic Bilbao, "Wednesday, December 21, 2005", Estadio La Romareda 
-Valencia, 3, 0, Mallorca, "Wednesday, December 21, 2005", Estadio Mestalla 
-Barcelona, 2, 0, Celta Vigo, "Tuesday, December 20, 2005", Estadio Camp Nou 
-AlavÃ©s, 0, 1, Valencia, "Sunday, December 18, 2005", Estadio Mendizorroza 
-Espanyol, 2, 2, Real Zaragoza, "Sunday, December 18, 2005", Estadio Olimpico de Montjuic 
-Racing Santander, 1, 1, Malaga, "Sunday, December 18, 2005", Estadio El Sardinero 
-Sevilla FC, 3, 2, Real Sociedad, "Sunday, December 18, 2005", Estadio Ramon Sanchez Pizjuan 
-Villarreal, 2, 1, Getafe, "Sunday, December 18, 2005", Estadio El Madrigal 
-Mallorca, 2, 2, Atletico Madrid, "Sunday, December 18, 2005", Estadio Son Moix 
-Real Madrid, 1, 1, Osasuna, "Sunday, December 18, 2005", Estadio Santiago BernabÃ©u 
-Athletic Bilbao, 2, 0, Real Betis, "Saturday, December 17, 2005", Estadio San MamÃ©s 
-Celta Vigo, 0, 3, Deportivo La CoruÃ±a, "Saturday, December 17, 2005", Estadio BalaÃ­dos 
-CÃ¡diz, 1, 3, Barcelona, "Saturday, December 17, 2005", Estadio Chapin 
-Atletico Madrid, 1, 1, AlavÃ©s, "Sunday, December 11, 2005", Vicente Calderon 
-Deportivo La CoruÃ±a, 1, 0, CÃ¡diz, "Sunday, December 11, 2005", Estadio Riazor 
-Getafe, 1, 2, Racing Santander, "Sunday, December 11, 2005", Coliseum Alfonso Perez 
-Osasuna, 1, 0, Mallorca, "Sunday, December 11, 2005", Estadio El Sadar 
-Real Betis, 0, 0, Espanyol, "Sunday, December 11, 2005", Estadio Manuel Ruiz de Lopera 
-Real Zaragoza, 1, 0, Celta Vigo, "Sunday, December 11, 2005", Estadio La Romareda 
-Malaga, 0, 2, Real Madrid, "Sunday, December 11, 2005", Estadio La Rosaleda 
-Barcelona, 2, 1, Sevilla FC, "Sunday, December 11, 2005", Estadio Camp Nou 
-Valencia, 1, 1, Athletic Bilbao, "Saturday, December 10, 2005", Estadio Mestalla 
-Real Sociedad, 1, 3, Villarreal, "Saturday, December 10, 2005", Estadio Anoeta 
-AlavÃ©s, 0, 3, Mallorca, "Sunday, December 4, 2005", Estadio Mendizorroza 
-CÃ¡diz, 1, 2, Real Zaragoza, "Sunday, December 4, 2005", Estadio Chapin 
-Espanyol, 1, 3, Valencia, "Sunday, December 4, 2005", Estadio Olimpico de Montjuic 
-Racing Santander, 2, 2, Real Sociedad, "Sunday, December 4, 2005", Estadio El Sardinero 
-Malaga, 1, 2, Osasuna, "Sunday, December 4, 2005", Estadio La Rosaleda 
-Villarreal, 0, 2, Barcelona, "Sunday, December 4, 2005", Estadio El Madrigal 
-Sevilla FC, 0, 2, Deportivo La CoruÃ±a, "Sunday, December 4, 2005", Estadio Ramon Sanchez Pizjuan 
-Celta Vigo, 2, 1, Real Betis, "Saturday, December 3, 2005", Estadio BalaÃ­dos 
-Real Madrid, 1, 0, Getafe, "Saturday, December 3, 2005", Estadio Santiago BernabÃ©u 
-Athletic Bilbao, 1, 1, Atletico Madrid, "Saturday, December 3, 2005", Estadio San MamÃ©s 
-Atletico Madrid, 1, 1, Espanyol, "Sunday, November 27, 2005", Vicente Calderon 
-Deportivo La CoruÃ±a, 0, 2, Villarreal, "Sunday, November 27, 2005", Estadio Riazor 
-Getafe, 3, 2, Malaga, "Sunday, November 27, 2005", Coliseum Alfonso Perez 
-Osasuna, 3, 2, AlavÃ©s, "Sunday, November 27, 2005", Estadio El Sadar 
-Real Betis, 1, 1, CÃ¡diz, "Sunday, November 27, 2005", Estadio Manuel Ruiz de Lopera 
-Real Zaragoza, 0, 2, Sevilla FC, "Sunday, November 27, 2005", Estadio La Romareda 
-Real Sociedad, 2, 2, Real Madrid, "Sunday, November 27, 2005", Estadio Anoeta 
-Barcelona, 4, 1, Racing Santander, "Sunday, November 27, 2005", Estadio Camp Nou 
-Mallorca, 0, 1, Athletic Bilbao, "Saturday, November 26, 2005", Estadio San MamÃ©s 
-Valencia, 2, 0, Celta Vigo, "Saturday, November 26, 2005", Estadio Mestalla 
-Athletic Bilbao, 0, 2, AlavÃ©s, "Sunday, November 20, 2005", Estadio San MamÃ©s 
-CÃ¡diz, 0, 1, Valencia, "Sunday, November 20, 2005", Estadio Chapin 
-Espanyol, 2, 0, Mallorca, "Sunday, November 20, 2005", Estadio Olimpico de Montjuic 
-Malaga, 3, 1, Real Sociedad, "Sunday, November 20, 2005", Estadio La Rosaleda 
-Celta Vigo, 2, 1, Atletico Madrid, "Sunday, November 20, 2005", Estadio BalaÃ­dos 
-Racing Santander, 0, 3, Deportivo La CoruÃ±a, "Sunday, November 20, 2005", Estadio El Sardinero 
-Getafe, 0, 0, Osasuna, "Saturday, November 19, 2005", Coliseum Alfonso Perez 
-Villarreal, 0, 0, Real Zaragoza, "Saturday, November 19, 2005", Estadio El Madrigal 
-Real Madrid, 0, 3, Barcelona, "Saturday, November 19, 2005", Estadio Anoeta 
-Sevilla FC, 1, 0, Real Betis, "Saturday, November 19, 2005", Estadio Ramon Sanchez Pizjuan 
-CÃ¡diz, 1, 2, Mallorca, "Sunday, November 6, 2005", Estadio Chapin 
-Celta Vigo, 2, 1, AlavÃ©s, "Sunday, November 6, 2005", Estadio BalaÃ­dos 
-Malaga, 1, 1, Deportivo La CoruÃ±a, "Sunday, November 6, 2005", Estadio La Rosaleda 
-Racing Santander, 1, 1, Real Betis, "Sunday, November 6, 2005", Estadio El Sardinero 
-Sevilla FC, 0, 0, Atletico Madrid, "Sunday, November 6, 2005", Estadio Ramon Sanchez Pizjuan 
-Real Madrid, 1, 0, Real Zaragoza, "Sunday, November 6, 2005", Estadio Santiago BernabÃ©u 
-Getafe, 1, 3, Barcelona, "Sunday, November 6, 2005", Coliseum Alfonso Perez 
-Real Sociedad, 1, 2, Osasuna, "Saturday, November 5, 2005", Estadio Anoeta 
-Espanyol, 1, 1, Athletic Bilbao, "Saturday, November 5, 2005", Estadio Olimpico de Montjuic 
-Villarreal, 1, 0, Valencia, "Saturday, November 5, 2005", Estadio El Madrigal 
-AlavÃ©s, 0, 0, CÃ¡diz, "Sunday, October 30, 2005", Estadio Mendizorroza 
-Deportivo La CoruÃ±a, 1, 0, Getafe, "Sunday, October 30, 2005", Estadio Riazor 
-Mallorca, 1, 1, Sevilla FC, "Sunday, October 30, 2005", Estadio Son Moix 
-Osasuna, 2, 0, Espanyol, "Sunday, October 30, 2005", Estadio El Sadar 
-Real Zaragoza, 1, 1, Malaga, "Sunday, October 30, 2005", Estadio La Romareda 
-Valencia, 1, 1, Racing Santander, "Sunday, October 30, 2005", Estadio Mestalla 
-Barcelona, 5, 0, Real Sociedad, "Sunday, October 30, 2005", Estadio Camp Nou 
-Atletico Madrid, 1, 1, Villarreal, "Sunday, October 30, 2005", Vicente Calderon 
-Real Betis, 0, 2, Real Madrid, "Saturday, October 29, 2005", Estadio Manuel Ruiz de Lopera 
-Athletic Bilbao, 1, 1, Celta Vigo, "Saturday, October 29, 2005", Estadio San MamÃ©s 
-AlavÃ©s, 1, 1, Espanyol, "Thursday, October 27, 2005", Estadio Mendizorroza 
-Atletico Madrid, 3, 0, CÃ¡diz, "Thursday, October 27, 2005", Vicente Calderon 
-Real Sociedad, 3, 0, Getafe, "Thursday, October 27, 2005", Estadio Anoeta 
-Real Zaragoza, 1, 1, Racing Santander, "Thursday, October 27, 2005", Estadio La Romareda 
-Valencia, 0, 2, Sevilla FC, "Thursday, October 27, 2005", Estadio Mestalla 
-Mallorca, 1, 0, Celta Vigo, "Wednesday, October 26, 2005", Estadio Son Moix 
-Osasuna, 3, 2, Athletic Bilbao, "Wednesday, October 26, 2005", Estadio El Sadar 
-Real Betis, 2, 3, Villarreal, "Wednesday, October 26, 2005", Estadio Manuel Ruiz de Lopera 
-Barcelona, 2, 0, Malaga, "Wednesday, October 26, 2005", Estadio Camp Nou 
-Deportivo La CoruÃ±a, 3, 1, Real Madrid, "Wednesday, October 26, 2005", Estadio Riazor 
-CÃ¡diz, 1, 0, Athletic Bilbao, "Sunday, October 23, 2005", Estadio Chapin 
-Celta Vigo, 1, 0, Espanyol, "Sunday, October 23, 2005", Estadio BalaÃ­dos 
-Getafe, 5, 2, Real Zaragoza, "Sunday, October 23, 2005", Coliseum Alfonso Perez 
-Malaga, 5, 0, Real Betis, "Sunday, October 23, 2005", Estadio La Rosaleda 
-Real Sociedad, 2, 0, Deportivo La CoruÃ±a, "Sunday, October 23, 2005", Estadio Anoeta 
-Villarreal, 3, 0, Mallorca, "Sunday, October 23, 2005", Estadio El Madrigal 
-Racing Santander, 0, 1, Atletico Madrid, "Sunday, October 23, 2005", Estadio El Sardinero 
-Real Madrid, 1, 2, Valencia, "Sunday, October 23, 2005", Estadio Santiago BernabÃ©u 
-Sevilla FC, 2, 0, AlavÃ©s, "Saturday, October 22, 2005", Estadio Ramon Sanchez Pizjuan 
-Barcelona, 3, 0, Osasuna, "Saturday, October 22, 2005", Estadio Camp Nou 
-Mallorca, 0, 0, Racing Santander, "Sunday, October 16, 2005", Estadio Son Moix 
-Osasuna, 2, 0, Celta Vigo, "Sunday, October 16, 2005", Estadio El Sadar 
-Real Betis, 1, 0, Getafe, "Sunday, October 16, 2005", Estadio Manuel Ruiz de Lopera 
-Real Zaragoza, 0, 1, Real Sociedad, "Sunday, October 16, 2005", Estadio La Romareda 
-Espanyol, 0, 2, CÃ¡diz, "Sunday, October 16, 2005", Estadio Olimpico de Montjuic 
-Valencia, 2, 1, Malaga, "Sunday, October 16, 2005", Estadio Mestalla 
-Athletic Bilbao, 0, 1, Sevilla FC, "Sunday, October 16, 2005", Estadio San MamÃ©s 
-AlavÃ©s, 1, 1, Villarreal, "Saturday, October 15, 2005", Estadio Mendizorroza 
-Deportivo La CoruÃ±a, 3, 3, Barcelona, "Saturday, October 15, 2005", Estadio Riazor 
-Atletico Madrid, 0, 3, Real Madrid, "Saturday, October 15, 2005", Vicente Calderon 
-CÃ¡diz, 1, 1, Celta Vigo, "Sunday, October 2, 2005", Estadio Chapin 
-Deportivo La CoruÃ±a, 0, 1, Osasuna, "Sunday, October 2, 2005", Estadio Riazor 
-Racing Santander, 1, 2, AlavÃ©s, "Sunday, October 2, 2005", Estadio El Sardinero 
-Real Sociedad, 1, 1, Real Betis, "Sunday, October 2, 2005", Estadio Anoeta 
-Sevilla FC, 1, 1, Espanyol, "Sunday, October 2, 2005", Estadio Ramon Sanchez Pizjuan 
-Villarreal, 3, 1, Athletic Bilbao, "Sunday, October 2, 2005", Estadio El Madrigal 
-Real Madrid, 4, 0, Mallorca, "Sunday, October 2, 2005", Estadio Santiago BernabÃ©u 
-Malaga, 0, 2, Atletico Madrid, "Sunday, October 2, 2005", Estadio La Rosaleda 
-Barcelona, 2, 2, Real Zaragoza, "Saturday, October 1, 2005", Estadio Camp Nou 
-Getafe, 2, 1, Valencia, "Saturday, October 1, 2005", Coliseum Alfonso Perez 
-AlavÃ©s, 0, 3, Real Madrid, "Sunday, September 25, 2005", Estadio Mendizorroza 
-Athletic Bilbao, 0, 0, Racing Santander, "Sunday, September 25, 2005", Estadio San MamÃ©s 
-Mallorca, 1, 4, Malaga, "Sunday, September 25, 2005", Estadio Son Moix 
-Osasuna, 2, 0, CÃ¡diz, "Sunday, September 25, 2005", Estadio El Sadar 
-Celta Vigo, 2, 1, Sevilla FC, "Sunday, September 25, 2005", Estadio BalaÃ­dos 
-Atletico Madrid, 0, 1, Getafe, "Saturday, September 24, 2005", Vicente Calderon 
-Espanyol, 1, 2, Villarreal, "Saturday, September 24, 2005", Estadio Olimpico de Montjuic 
-Real Zaragoza, 1, 1, Deportivo La CoruÃ±a, "Saturday, September 24, 2005", Estadio La Romareda 
-Valencia, 2, 1, Real Sociedad, "Saturday, September 24, 2005", Estadio Mestalla 
-Real Betis, 1, 4, Barcelona, "Saturday, September 24, 2005", Estadio Manuel Ruiz de Lopera 
-Real Madrid, 3, 1, Athletic Bilbao, "Thursday, September 22, 2005", Estadio Santiago BernabÃ©u 
-Barcelona, 2, 2, Valencia, "Wednesday, September 21, 2005", Estadio Camp Nou 
-Deportivo La CoruÃ±a, 1, 1, Real Betis, "Wednesday, September 21, 2005", Estadio Riazor 
-Getafe, 1, 1, Mallorca, "Wednesday, September 21, 2005", Coliseum Alfonso Perez 
-Malaga, 0, 0, AlavÃ©s, "Wednesday, September 21, 2005", Estadio La Rosaleda 
-Racing Santander, 1, 0, Espanyol, "Wednesday, September 21, 2005", Estadio El Sardinero 
-Real Sociedad, 3, 2, Atletico Madrid, "Wednesday, September 21, 2005", Estadio Anoeta 
-Real Zaragoza, 3, 1, Osasuna, "Wednesday, September 21, 2005", Estadio La Romareda 
-Sevilla FC, 0, 0, CÃ¡diz, "Wednesday, September 21, 2005", Estadio Ramon Sanchez Pizjuan 
-Villarreal, 1, 2, Celta Vigo, "Wednesday, September 21, 2005", Estadio El Madrigal 
-AlavÃ©s, 3, 4, Getafe, "Sunday, September 18, 2005", Estadio Mendizorroza 
-Athletic Bilbao, 1, 2, Malaga, "Sunday, September 18, 2005", Estadio San MamÃ©s 
-CÃ¡diz, 1, 1, Villarreal, "Sunday, September 18, 2005", Estadio RamÃ³n de Carranza 
-Celta Vigo, 0, 1, Racing Santander, "Sunday, September 18, 2005", Estadio BalaÃ­dos 
-Osasuna, 1, 0, Sevilla FC, "Sunday, September 18, 2005", Estadio El Sadar 
-Real Betis, 0, 0, Real Zaragoza, "Sunday, September 18, 2005", Estadio Manuel Ruiz de Lopera 
-Espanyol, 1, 0, Real Madrid, "Sunday, September 18, 2005", Estadio Olimpico de Montjuic 
-Atletico Madrid, 2, 1, Barcelona, "Sunday, September 18, 2005", Vicente Calderon 
-Valencia, 2, 2, Deportivo La CoruÃ±a, "Saturday, September 17, 2005", Estadio Mestalla 
-Mallorca, 5, 2, Real Sociedad, "Saturday, September 17, 2005", Estadio Son Moix 
-Barcelona, 2, 0, Mallorca, "Sunday, September 11, 2005", Estadio Camp Nou 
-Getafe, 1, 1, Athletic Bilbao, "Sunday, September 11, 2005", Coliseum Alfonso Perez 
-Racing Santander, 0, 1, CÃ¡diz, "Sunday, September 11, 2005", Estadio El Sardinero 
-Real Sociedad, 2, 1, AlavÃ©s, "Sunday, September 11, 2005", Estadio Anoeta 
-Villarreal, 1, 1, Sevilla FC, "Sunday, September 11, 2005", Estadio El Madrigal 
-Malaga, 1, 2, Espanyol, "Sunday, September 11, 2005", Estadio La Rosaleda 
-Real Zaragoza, 2, 2, Valencia, "Sunday, September 11, 2005", Estadio La Romareda 
-Real Madrid, 2, 3, Celta Vigo, "Saturday, September 10, 2005", Estadio Santiago BernabÃ©u 
-Deportivo La CoruÃ±a, 1, 0, Atletico Madrid, "Saturday, September 10, 2005", Estadio Riazor 
-Real Betis, 1, 0, Osasuna, "Saturday, September 10, 2005", Estadio Manuel Ruiz de Lopera 
-Atletico Madrid, 0, 0, Real Zaragoza, "Sunday, August 28, 2005", Vicente Calderon 
-Celta Vigo, 2, 0, Malaga, "Sunday, August 28, 2005", Estadio Balaídos 
-Espanyol, 0, 2, Getafe, "Sunday, August 28, 2005", Estadio Olimpico de Montjuic 
-Mallorca, 0, 1, Deportivo La Coruña, "Sunday, August 28, 2005", Estadio Son Moix 
-Osasuna, 2, 1, Villarreal, "Sunday, August 28, 2005", Estadio El Sadar 
-Sevilla FC, 1, 0, Racing Santander, "Sunday, August 28, 2005", Estadio Ramon Sanchez Pizjuan 
-Cádiz, 1, 2, Real Madrid, "Sunday, August 28, 2005", Estadio Chapin 
-Alavés, 0, 0, Barcelona, "Saturday, August 27, 2005", Estadio Mendizorroza 
-Athletic Bilbao, 3, 0, Real Sociedad, "Saturday, August 27, 2005", Estadio San Mamés 
-Valencia, 1, 0, Real Betis, "Saturday, August 27, 2005", Estadio Mestalla 
+Athletic Bilbao, 3, 1, Barcelona, "Saturday, May 20, 2006"," Estadio San MamÃ©s "
+Osasuna, 2, 1, Valencia, "Tuesday, May 16, 2006"," Estadio El Sadar "
+Sevilla FC, 4, 3, Real Madrid, "Tuesday, May 16, 2006"," Estadio Ramon Sanchez Pizjuan "
+Atletico Madrid, 1, 1, Real Betis, "Saturday, May 13, 2006"," Vicente Calderon "
+CÃ¡diz, 5, 0, Malaga, "Saturday, May 13, 2006"," Estadio RamÃ³n de Carranza "
+Celta Vigo, 1, 0, Getafe, "Saturday, May 13, 2006"," Estadio BalaÃ­dos "
+Mallorca, 3, 1, Real Zaragoza, "Saturday, May 13, 2006"," Estadio Son Moix "
+AlavÃ©s, 1, 0, Deportivo La CoruÃ±a, "Saturday, May 13, 2006"," Estadio Mendizorroza "
+Espanyol, 1, 0, Real Sociedad, "Saturday, May 13, 2006"," Estadio Olimpico de Montjuic "
+Sevilla FC, 3, 2, Barcelona, "Saturday, May 13, 2006"," Estadio Ramon Sanchez Pizjuan "
+Villarreal, 2, 0, Racing Santander, "Saturday, May 13, 2006"," Estadio El Madrigal "
+Getafe, 3, 1, CÃ¡diz, "Sunday, May 7, 2006"," Coliseum Alfonso Perez "
+Racing Santander, 2, 1, Osasuna, "Sunday, May 7, 2006"," Estadio El Sardinero "
+Real Betis, 2, 1, Mallorca, "Sunday, May 7, 2006"," Estadio Manuel Ruiz de Lopera "
+Real Sociedad, 2, 2, Celta Vigo, "Sunday, May 7, 2006"," Estadio Anoeta "
+Real Zaragoza, 3, 0, AlavÃ©s, "Sunday, May 7, 2006"," Estadio La Romareda "
+Real Madrid, 3, 3, Villarreal, "Sunday, May 7, 2006"," Estadio Santiago BernabÃ©u "
+Deportivo La CoruÃ±a, 1, 2, Athletic Bilbao, "Sunday, May 7, 2006"," Estadio Riazor "
+Barcelona, 2, 0, Espanyol, "Saturday, May 6, 2006"," Estadio Camp Nou "
+Malaga, 0, 2, Sevilla FC, "Saturday, May 6, 2006"," Estadio La Rosaleda "
+Valencia, 1, 1, Atletico Madrid, "Saturday, May 6, 2006"," Estadio Mestalla "
+Racing Santander, 2, 3, Real Madrid, "Thursday, May 4, 2006"," Estadio El Sardinero "
+AlavÃ©s, 2, 0, Real Betis, "Wednesday, May 3, 2006"," Estadio Mendizorroza "
+Athletic Bilbao, 1, 0, Real Zaragoza, "Wednesday, May 3, 2006"," Estadio San MamÃ©s "
+Atletico Madrid, 0, 1, Osasuna, "Wednesday, May 3, 2006"," Vicente Calderon "
+CÃ¡diz, 2, 2, Real Sociedad, "Wednesday, May 3, 2006"," Estadio RamÃ³n de Carranza "
+Espanyol, 1, 2, Deportivo La CoruÃ±a, "Wednesday, May 3, 2006"," Estadio Olimpico de Montjuic "
+Mallorca, 2, 1, Valencia, "Wednesday, May 3, 2006"," Estadio Son Moix "
+Sevilla FC, 3, 0, Getafe, "Wednesday, May 3, 2006"," Estadio Ramon Sanchez Pizjuan "
+Villarreal, 2, 1, Malaga, "Wednesday, May 3, 2006"," Estadio El Madrigal "
+Celta Vigo, 0, 1, Barcelona, "Wednesday, May 3, 2006"," Estadio BalaÃ­dos "
+Getafe, 1, 1, Villarreal, "Sunday, April 30, 2006"," Coliseum Alfonso Perez "
+Malaga, 2, 3, Racing Santander, "Sunday, April 30, 2006"," Estadio La Rosaleda "
+Real Sociedad, 1, 2, Sevilla FC, "Sunday, April 30, 2006"," Estadio Anoeta "
+Real Zaragoza, 1, 1, Espanyol, "Sunday, April 30, 2006"," Estadio La Romareda "
+Valencia, 3, 0, AlavÃ©s, "Sunday, April 30, 2006"," Estadio Mestalla "
+Atletico Madrid, 0, 1, Mallorca, "Sunday, April 30, 2006"," Vicente Calderon "
+Osasuna, 0, 1, Real Madrid, "Sunday, April 30, 2006"," Estadio El Sadar "
+Deportivo La CoruÃ±a, 0, 2, Celta Vigo, "Saturday, April 29, 2006"," Estadio Riazor "
+Real Betis, 1, 1, Athletic Bilbao, "Saturday, April 29, 2006"," Estadio Manuel Ruiz de Lopera "
+Barcelona, 1, 0, CÃ¡diz, "Saturday, April 29, 2006"," Estadio Camp Nou "
+Athletic Bilbao, 0, 3, Valencia, "Sunday, April 23, 2006"," Estadio San MamÃ©s "
+CÃ¡diz, 1, 1, Deportivo La CoruÃ±a, "Sunday, April 23, 2006"," Estadio RamÃ³n de Carranza "
+Espanyol, 2, 0, Real Betis, "Sunday, April 23, 2006"," Estadio Olimpico de Montjuic "
+Mallorca, 0, 1, Osasuna, "Sunday, April 23, 2006"," Estadio Son Moix "
+Racing Santander, 1, 3, Getafe, "Sunday, April 23, 2006"," Estadio El Sardinero "
+Real Madrid, 2, 1, Malaga, "Sunday, April 23, 2006"," Estadio Santiago BernabÃ©u "
+Villarreal, 0, 2, Real Sociedad, "Saturday, April 22, 2006"," Estadio El Madrigal "
+AlavÃ©s, 0, 1, Atletico Madrid, "Saturday, April 22, 2006"," Estadio Mendizorroza "
+Celta Vigo, 4, 0, Real Zaragoza, "Saturday, April 22, 2006"," Estadio BalaÃ­dos "
+Osasuna, 1, 1, Malaga, "Sunday, April 16, 2006"," Estadio El Sadar "
+Real Betis, 0, 2, Celta Vigo, "Sunday, April 16, 2006"," Estadio Manuel Ruiz de Lopera "
+Real Zaragoza, 1, 2, CÃ¡diz, "Sunday, April 16, 2006"," Estadio La Romareda "
+Valencia, 4, 0, Espanyol, "Sunday, April 16, 2006"," Estadio Mestalla "
+Getafe, 1, 1, Real Madrid, "Sunday, April 16, 2006"," Coliseum Alfonso Perez "
+Atletico Madrid, 1, 0, Athletic Bilbao, "Sunday, April 16, 2006"," Vicente Calderon "
+Mallorca, 0, 0, AlavÃ©s, "Saturday, April 15, 2006"," Estadio Son Moix "
+Real Sociedad, 1, 0, Racing Santander, "Saturday, April 15, 2006"," Estadio Anoeta "
+Deportivo La CoruÃ±a, 0, 0, Sevilla FC, "Saturday, April 15, 2006"," Estadio Riazor "
+Barcelona, 1, 0, Villarreal, "Friday, April 14, 2006"," Estadio Camp Nou "
+AlavÃ©s, 1, 2, Osasuna, "Sunday, April 9, 2006"," Estadio Mendizorroza "
+Athletic Bilbao, 1, 1, Mallorca, "Sunday, April 9, 2006"," Estadio San MamÃ©s "
+Espanyol, 1, 1, Atletico Madrid, "Sunday, April 9, 2006"," Estadio Olimpico de Montjuic "
+Racing Santander, 2, 2, Barcelona, "Sunday, April 9, 2006"," Estadio El Sardinero "
+Sevilla FC, 1, 1, Real Zaragoza, "Sunday, April 9, 2006"," Estadio Ramon Sanchez Pizjuan "
+Villarreal, 1, 1, Deportivo La CoruÃ±a, "Sunday, April 9, 2006"," Estadio El Madrigal "
+Malaga, 1, 2, Getafe, "Saturday, April 8, 2006"," Estadio La Rosaleda "
+CÃ¡diz, 1, 1, Real Betis, "Saturday, April 8, 2006"," Estadio RamÃ³n de Carranza "
+Real Madrid, 1, 1, Real Sociedad, "Saturday, April 8, 2006"," Estadio Santiago BernabÃ©u "
+Celta Vigo, 0, 1, Valencia, "Saturday, April 8, 2006"," Estadio BalaÃ­dos "
+AlavÃ©s, 0, 0, Athletic Bilbao, "Sunday, April 2, 2006"," Estadio Mendizorroza "
+Deportivo La CoruÃ±a, 2, 0, Racing Santander, "Sunday, April 2, 2006"," Estadio Riazor "
+Mallorca, 0, 0, Espanyol, "Sunday, April 2, 2006"," Estadio Son Moix "
+Osasuna, 0, 4, Getafe, "Sunday, April 2, 2006"," Estadio El Sadar "
+Valencia, 5, 3, CÃ¡diz, "Sunday, April 2, 2006"," Estadio Mestalla "
+Atletico Madrid, 0, 3, Celta Vigo, "Sunday, April 2, 2006"," Vicente Calderon "
+Real Betis, 2, 1, Sevilla FC, "Sunday, April 2, 2006"," Estadio Manuel Ruiz de Lopera "
+Real Sociedad, 3, 0, Malaga, "Saturday, April 1, 2006"," Estadio Anoeta "
+Real Zaragoza, 0, 1, Villarreal, "Saturday, April 1, 2006"," Estadio La Romareda "
+Barcelona, 1, 1, Real Madrid, "Saturday, April 1, 2006"," Estadio Camp Nou "
+Celta Vigo, 2, 0, Mallorca, "Sunday, March 26, 2006"," Estadio BalaÃ­dos "
+Espanyol, 0, 0, AlavÃ©s, "Sunday, March 26, 2006"," Estadio Olimpico de Montjuic "
+Getafe, 2, 1, Real Sociedad, "Sunday, March 26, 2006"," Coliseum Alfonso Perez "
+Racing Santander, 0, 0, Real Zaragoza, "Sunday, March 26, 2006"," Estadio El Sardinero "
+Sevilla FC, 1, 0, Valencia, "Sunday, March 26, 2006"," Estadio Ramon Sanchez Pizjuan "
+Real Madrid, 4, 0, Deportivo La CoruÃ±a, "Sunday, March 26, 2006"," Estadio Santiago BernabÃ©u "
+CÃ¡diz, 1, 1, Atletico Madrid, "Sunday, March 26, 2006"," Estadio RamÃ³n de Carranza "
+Villarreal, 1, 2, Real Betis, "Saturday, March 25, 2006"," Estadio El Madrigal "
+Malaga, 0, 0, Barcelona, "Saturday, March 25, 2006"," Estadio La Rosaleda "
+Athletic Bilbao, 1, 0, Osasuna, "Saturday, March 25, 2006"," Estadio San MamÃ©s "
+Atletico Madrid, 0, 1, Sevilla FC, "Thursday, March 23, 2006"," Vicente Calderon "
+AlavÃ©s, 1, 0, Celta Vigo, "Wednesday, March 22, 2006"," Estadio Mendizorroza "
+Athletic Bilbao, 1, 1, Espanyol, "Wednesday, March 22, 2006"," Estadio San MamÃ©s "
+Deportivo La CoruÃ±a, 2, 1, Malaga, "Wednesday, March 22, 2006"," Estadio Riazor "
+Mallorca, 1, 0, CÃ¡diz, "Wednesday, March 22, 2006"," Estadio Son Moix "
+Osasuna, 2, 0, Real Sociedad, "Wednesday, March 22, 2006"," Estadio El Sadar "
+Real Betis, 1, 0, Racing Santander, "Wednesday, March 22, 2006"," Estadio Manuel Ruiz de Lopera "
+Valencia, 1, 1, Villarreal, "Wednesday, March 22, 2006"," Estadio Mestalla "
+Real Zaragoza, 1, 1, Real Madrid, "Wednesday, March 22, 2006"," Estadio La Romareda "
+Barcelona, 3, 1, Getafe, "Tuesday, March 21, 2006"," Estadio Camp Nou "
+CÃ¡diz, 0, 0, AlavÃ©s, "Sunday, March 19, 2006"," Estadio RamÃ³n de Carranza "
+Espanyol, 2, 4, Osasuna, "Sunday, March 19, 2006"," Estadio Olimpico de Montjuic "
+Racing Santander, 2, 1, Valencia, "Sunday, March 19, 2006"," Estadio El Sardinero "
+Sevilla FC, 1, 1, Mallorca, "Sunday, March 19, 2006"," Estadio Ramon Sanchez Pizjuan "
+Malaga, 0, 1, Real Zaragoza, "Sunday, March 19, 2006"," Estadio La Rosaleda "
+Real Madrid, 0, 0, Real Betis, "Sunday, March 19, 2006"," Estadio Santiago BernabÃ©u "
+Celta Vigo, 0, 1, Athletic Bilbao, "Sunday, March 19, 2006"," Estadio BalaÃ­dos "
+Getafe, 1, 2, Deportivo La CoruÃ±a, "Saturday, March 18, 2006"," Coliseum Alfonso Perez "
+Real Sociedad, 0, 2, Barcelona, "Saturday, March 18, 2006"," Estadio Anoeta "
+Villarreal, 1, 1, Atletico Madrid, "Saturday, March 18, 2006"," Estadio El Madrigal "
+AlavÃ©s, 2, 1, Sevilla FC, "Sunday, March 12, 2006"," Estadio Mendizorroza "
+Athletic Bilbao, 1, 0, CÃ¡diz, "Sunday, March 12, 2006"," Estadio San MamÃ©s "
+Mallorca, 1, 1, Villarreal, "Sunday, March 12, 2006"," Estadio Son Moix "
+Real Betis, 1, 1, Malaga, "Sunday, March 12, 2006"," Estadio Manuel Ruiz de Lopera "
+Real Zaragoza, 1, 2, Getafe, "Sunday, March 12, 2006"," Estadio La Romareda "
+Atletico Madrid, 2, 1, Racing Santander, "Sunday, March 12, 2006"," Vicente Calderon "
+Osasuna, 2, 1, Barcelona, "Sunday, March 12, 2006"," Estadio El Sadar "
+Espanyol, 2, 0, Celta Vigo, "Saturday, March 11, 2006"," Estadio Olimpico de Montjuic "
+Deportivo La CoruÃ±a, 0, 1, Real Sociedad, "Saturday, March 11, 2006"," Estadio Riazor "
+Valencia, 0, 0, Real Madrid, "Saturday, March 11, 2006"," Estadio El Madrigal "
+Celta Vigo, 2, 0, Osasuna, "Sunday, March 5, 2006"," Estadio BalaÃ­dos "
+Getafe, 1, 0, Real Betis, "Sunday, March 5, 2006"," Coliseum Alfonso Perez "
+Racing Santander, 0, 0, Mallorca, "Sunday, March 5, 2006"," Estadio El Sardinero "
+Real Sociedad, 1, 3, Real Zaragoza, "Sunday, March 5, 2006"," Estadio Anoeta "
+Sevilla FC, 2, 1, Athletic Bilbao, "Sunday, March 5, 2006"," Estadio Ramon Sanchez Pizjuan "
+Malaga, 0, 0, Valencia, "Sunday, March 5, 2006"," Estadio La Rosaleda "
+CÃ¡diz, 2, 0, Espanyol, "Saturday, March 4, 2006"," Estadio RamÃ³n de Carranza "
+Villarreal, 3, 2, AlavÃ©s, "Saturday, March 4, 2006"," Estadio El Madrigal "
+Real Madrid, 2, 1, Atletico Madrid, "Saturday, March 4, 2006"," Estadio Santiago BernabÃ©u "
+Barcelona, 3, 2, Deportivo La CoruÃ±a, "Saturday, March 4, 2006"," Estadio Camp Nou "
+AlavÃ©s, 2, 2, Racing Santander, "Sunday, February 26, 2006"," Estadio Mendizorroza "
+Athletic Bilbao, 1, 1, Villarreal, "Sunday, February 26, 2006"," Estadio San MamÃ©s "
+Celta Vigo, 2, 0, CÃ¡diz, "Sunday, February 26, 2006"," Estadio BalaÃ­dos "
+Espanyol, 5, 0, Sevilla FC, "Sunday, February 26, 2006"," Estadio Olimpico de Montjuic "
+Real Betis, 2, 0, Real Sociedad, "Sunday, February 26, 2006"," Estadio Manuel Ruiz de Lopera "
+Valencia, 1, 1, Getafe, "Sunday, February 26, 2006"," Estadio Mestalla "
+Mallorca, 2, 1, Real Madrid, "Sunday, February 26, 2006"," Estadio Son Moix "
+Osasuna, 1, 2, Deportivo La CoruÃ±a, "Sunday, February 26, 2006"," Estadio El Sadar "
+Atletico Madrid, 5, 0, Malaga, "Saturday, February 25, 2006"," Vicente Calderon "
+Real Zaragoza, 0, 2, Barcelona, "Saturday, February 25, 2006"," Estadio La Romareda "
+CÃ¡diz, 1, 3, Osasuna, "Sunday, February 19, 2006"," Estadio RamÃ³n de Carranza "
+Deportivo La CoruÃ±a, 1, 1, Real Zaragoza, "Sunday, February 19, 2006"," Estadio Riazor "
+Racing Santander, 0, 1, Athletic Bilbao, "Sunday, February 19, 2006"," Estadio El Sardinero "
+Malaga, 0, 2, Mallorca, "Sunday, February 19, 2006"," Estadio La Rosaleda "
+Real Sociedad, 1, 2, Valencia, "Sunday, February 19, 2006"," Estadio Anoeta "
+Getafe, 0, 3, Atletico Madrid, "Sunday, February 19, 2006"," Coliseum Alfonso Perez "
+Villarreal, 4, 0, Espanyol, "Saturday, February 18, 2006"," Estadio El Madrigal "
+Real Madrid, 3, 0, AlavÃ©s, "Saturday, February 18, 2006"," Estadio Santiago BernabÃ©u "
+Barcelona, 5, 1, Real Betis, "Saturday, February 18, 2006"," Estadio Camp Nou "
+Sevilla FC, 1, 0, Celta Vigo, "Saturday, February 18, 2006"," Estadio Ramon Sanchez Pizjuan "
+AlavÃ©s, 3, 2, Malaga, "Sunday, February 12, 2006"," Estadio Mendizorroza "
+Celta Vigo, 1, 0, Villarreal, "Sunday, February 12, 2006"," Estadio BalaÃ­dos "
+Espanyol, 0, 2, Racing Santander, "Sunday, February 12, 2006"," Estadio Olimpico de Montjuic "
+Mallorca, 1, 1, Getafe, "Sunday, February 12, 2006"," Estadio Son Moix "
+Real Betis, 0, 1, Deportivo La CoruÃ±a, "Sunday, February 12, 2006"," Estadio Manuel Ruiz de Lopera "
+Atletico Madrid, 1, 0, Real Sociedad, "Sunday, February 12, 2006"," Vicente Calderon "
+Valencia, 1, 0, Barcelona, "Sunday, February 12, 2006"," Estadio Mestalla "
+CÃ¡diz, 0, 4, Sevilla FC, "Saturday, February 11, 2006"," Estadio RamÃ³n de Carranza "
+Osasuna, 1, 1, Real Zaragoza, "Saturday, February 11, 2006"," Estadio El Sadar "
+Athletic Bilbao, 0, 2, Real Madrid, "Saturday, February 11, 2006"," Estadio San MamÃ©s "
+Getafe, 2, 2, AlavÃ©s, "Sunday, February 5, 2006"," Coliseum Alfonso Perez "
+Racing Santander, 0, 1, Celta Vigo, "Sunday, February 5, 2006"," Estadio El Sardinero "
+Real Sociedad, 2, 1, Mallorca, "Sunday, February 5, 2006"," Estadio Anoeta "
+Real Zaragoza, 4, 3, Real Betis, "Sunday, February 5, 2006"," Estadio La Romareda "
+Villarreal, 1, 1, CÃ¡diz, "Sunday, February 5, 2006"," Estadio El Madrigal "
+Barcelona, 1, 3, Atletico Madrid, "Sunday, February 5, 2006"," Estadio Camp Nou "
+Sevilla FC, 0, 1, Osasuna, "Sunday, February 5, 2006"," Estadio Ramon Sanchez Pizjuan "
+Malaga, 2, 1, Athletic Bilbao, "Saturday, February 4, 2006"," Estadio La Rosaleda "
+Real Madrid, 4, 0, Espanyol, "Saturday, February 4, 2006"," Estadio Santiago BernabÃ©u "
+Deportivo La CoruÃ±a, 0, 1, Valencia, "Saturday, February 4, 2006"," Estadio Riazor "
+AlavÃ©s, 3, 1, Real Sociedad, "Sunday, January 29, 2006"," Estadio Mendizorroza "
+Espanyol, 3, 1, Malaga, "Sunday, January 29, 2006"," Estadio Olimpico de Montjuic "
+Osasuna, 0, 2, Real Betis, "Sunday, January 29, 2006"," Estadio El Sadar "
+Sevilla FC, 2, 0, Villarreal, "Sunday, January 29, 2006"," Estadio Ramon Sanchez Pizjuan "
+Valencia, 2, 2, Real Zaragoza, "Sunday, January 29, 2006"," Estadio Mestalla "
+Mallorca, 0, 3, Barcelona, "Sunday, January 29, 2006"," Estadio Son Moix "
+Celta Vigo, 1, 2, Real Madrid, "Sunday, January 29, 2006"," Estadio BalaÃ­dos "
+CÃ¡diz, 1, 1, Racing Santander, "Saturday, January 28, 2006"," Estadio RamÃ³n de Carranza "
+Athletic Bilbao, 1, 0, Getafe, "Saturday, January 28, 2006"," Estadio San MamÃ©s "
+Atletico Madrid, 3, 2, Deportivo La CoruÃ±a, "Saturday, January 28, 2006"," Vicente Calderon "
+Deportivo La CoruÃ±a, 2, 2, Mallorca, "Sunday, January 22, 2006"," Estadio Riazor "
+Getafe, 5, 0, Espanyol, "Sunday, January 22, 2006"," Coliseum Alfonso Perez "
+Racing Santander, 2, 3, Sevilla FC, "Sunday, January 22, 2006"," Estadio El Sardinero "
+Real Betis, 0, 2, Valencia, "Sunday, January 22, 2006"," Estadio Manuel Ruiz de Lopera "
+Villarreal, 2, 1, Osasuna, "Sunday, January 22, 2006"," Estadio El Madrigal "
+Malaga, 0, 2, Celta Vigo, "Sunday, January 22, 2006"," Estadio La Rosaleda "
+Barcelona, 2, 0, AlavÃ©s, "Sunday, January 22, 2006"," Estadio Camp Nou "
+Real Sociedad, 3, 3, Athletic Bilbao, "Sunday, January 22, 2006"," Estadio Anoeta "
+Real Zaragoza, 0, 2, Atletico Madrid, "Saturday, January 21, 2006"," Estadio La Romareda "
+Real Madrid, 3, 1, CÃ¡diz, "Saturday, January 21, 2006"," Estadio Santiago BernabÃ©u "
+Deportivo La CoruÃ±a, 0, 2, AlavÃ©s, "Sunday, January 15, 2006"," Estadio Riazor "
+Getafe, 1, 1, Celta Vigo, "Sunday, January 15, 2006"," Coliseum Alfonso Perez "
+Malaga, 0, 2, CÃ¡diz, "Sunday, January 15, 2006"," Estadio La Rosaleda "
+Racing Santander, 1, 0, Villarreal, "Sunday, January 15, 2006"," Estadio El Sardinero "
+Real Sociedad, 0, 1, Espanyol, "Sunday, January 15, 2006"," Estadio Anoeta "
+Real Zaragoza, 3, 1, Mallorca, "Sunday, January 15, 2006"," Estadio La Romareda "
+Barcelona, 2, 1, Athletic Bilbao, "Sunday, January 15, 2006"," Estadio Camp Nou "
+Real Madrid, 4, 2, Sevilla FC, "Sunday, January 15, 2006"," Estadio Santiago BernabÃ©u "
+Real Betis, 1, 0, Atletico Madrid, "Saturday, January 14, 2006"," Estadio Manuel Ruiz de Lopera "
+Valencia, 2, 0, Osasuna, "Saturday, January 14, 2006"," Estadio Mestalla "
+AlavÃ©s, 0, 2, Real Zaragoza, "Sunday, January 8, 2006"," Estadio Mendizorroza "
+CÃ¡diz, 1, 0, Getafe, "Sunday, January 8, 2006"," Estadio Chapin "
+Celta Vigo, 1, 0, Real Sociedad, "Sunday, January 8, 2006"," Estadio Chapin "
+Mallorca, 1, 1, Real Betis, "Sunday, January 8, 2006"," Estadio Son Moix "
+Osasuna, 1, 1, Racing Santander, "Sunday, January 8, 2006"," Estadio El Sadar "
+Sevilla FC, 3, 1, Malaga, "Sunday, January 8, 2006"," Estadio Ramon Sanchez Pizjuan "
+Villarreal, 0, 0, Real Madrid, "Sunday, January 8, 2006"," Estadio El Madrigal "
+Atletico Madrid, 0, 0, Valencia, "Sunday, January 8, 2006"," Vicente Calderon "
+Athletic Bilbao, 1, 2, Deportivo La CoruÃ±a, "Saturday, January 7, 2006"," Estadio San MamÃ©s "
+Espanyol, 1, 2, Barcelona, "Saturday, January 7, 2006"," Estadio Olimpico de Montjuic "
+Osasuna, 2, 1, Atletico Madrid, "Thursday, December 22, 2005"," Estadio El Sadar "
+Deportivo La CoruÃ±a, 1, 2, Espanyol, "Wednesday, December 21, 2005"," Estadio Riazor "
+Getafe, 1, 0, Sevilla FC, "Wednesday, December 21, 2005"," Coliseum Alfonso Perez "
+Malaga, 0, 0, Villarreal, "Wednesday, December 21, 2005"," Estadio La Rosaleda "
+Real Betis, 3, 0, AlavÃ©s, "Wednesday, December 21, 2005"," Estadio Manuel Ruiz de Lopera "
+Real Madrid, 1, 2, Racing Santander, "Wednesday, December 21, 2005"," Estadio Santiago BernabÃ©u "
+Real Sociedad, 2, 0, CÃ¡diz, "Wednesday, December 21, 2005"," Estadio Anoeta "
+Real Zaragoza, 3, 2, Athletic Bilbao, "Wednesday, December 21, 2005"," Estadio La Romareda "
+Valencia, 3, 0, Mallorca, "Wednesday, December 21, 2005"," Estadio Mestalla "
+Barcelona, 2, 0, Celta Vigo, "Tuesday, December 20, 2005"," Estadio Camp Nou "
+AlavÃ©s, 0, 1, Valencia, "Sunday, December 18, 2005"," Estadio Mendizorroza "
+Espanyol, 2, 2, Real Zaragoza, "Sunday, December 18, 2005"," Estadio Olimpico de Montjuic "
+Racing Santander, 1, 1, Malaga, "Sunday, December 18, 2005"," Estadio El Sardinero "
+Sevilla FC, 3, 2, Real Sociedad, "Sunday, December 18, 2005"," Estadio Ramon Sanchez Pizjuan "
+Villarreal, 2, 1, Getafe, "Sunday, December 18, 2005"," Estadio El Madrigal "
+Mallorca, 2, 2, Atletico Madrid, "Sunday, December 18, 2005"," Estadio Son Moix "
+Real Madrid, 1, 1, Osasuna, "Sunday, December 18, 2005"," Estadio Santiago BernabÃ©u "
+Athletic Bilbao, 2, 0, Real Betis, "Saturday, December 17, 2005"," Estadio San MamÃ©s "
+Celta Vigo, 0, 3, Deportivo La CoruÃ±a, "Saturday, December 17, 2005"," Estadio BalaÃ­dos "
+CÃ¡diz, 1, 3, Barcelona, "Saturday, December 17, 2005"," Estadio Chapin "
+Atletico Madrid, 1, 1, AlavÃ©s, "Sunday, December 11, 2005"," Vicente Calderon "
+Deportivo La CoruÃ±a, 1, 0, CÃ¡diz, "Sunday, December 11, 2005"," Estadio Riazor "
+Getafe, 1, 2, Racing Santander, "Sunday, December 11, 2005"," Coliseum Alfonso Perez "
+Osasuna, 1, 0, Mallorca, "Sunday, December 11, 2005"," Estadio El Sadar "
+Real Betis, 0, 0, Espanyol, "Sunday, December 11, 2005"," Estadio Manuel Ruiz de Lopera "
+Real Zaragoza, 1, 0, Celta Vigo, "Sunday, December 11, 2005"," Estadio La Romareda "
+Malaga, 0, 2, Real Madrid, "Sunday, December 11, 2005"," Estadio La Rosaleda "
+Barcelona, 2, 1, Sevilla FC, "Sunday, December 11, 2005"," Estadio Camp Nou "
+Valencia, 1, 1, Athletic Bilbao, "Saturday, December 10, 2005"," Estadio Mestalla "
+Real Sociedad, 1, 3, Villarreal, "Saturday, December 10, 2005"," Estadio Anoeta "
+AlavÃ©s, 0, 3, Mallorca, "Sunday, December 4, 2005"," Estadio Mendizorroza "
+CÃ¡diz, 1, 2, Real Zaragoza, "Sunday, December 4, 2005"," Estadio Chapin "
+Espanyol, 1, 3, Valencia, "Sunday, December 4, 2005"," Estadio Olimpico de Montjuic "
+Racing Santander, 2, 2, Real Sociedad, "Sunday, December 4, 2005"," Estadio El Sardinero "
+Malaga, 1, 2, Osasuna, "Sunday, December 4, 2005"," Estadio La Rosaleda "
+Villarreal, 0, 2, Barcelona, "Sunday, December 4, 2005"," Estadio El Madrigal "
+Sevilla FC, 0, 2, Deportivo La CoruÃ±a, "Sunday, December 4, 2005"," Estadio Ramon Sanchez Pizjuan "
+Celta Vigo, 2, 1, Real Betis, "Saturday, December 3, 2005"," Estadio BalaÃ­dos "
+Real Madrid, 1, 0, Getafe, "Saturday, December 3, 2005"," Estadio Santiago BernabÃ©u "
+Athletic Bilbao, 1, 1, Atletico Madrid, "Saturday, December 3, 2005"," Estadio San MamÃ©s "
+Atletico Madrid, 1, 1, Espanyol, "Sunday, November 27, 2005"," Vicente Calderon "
+Deportivo La CoruÃ±a, 0, 2, Villarreal, "Sunday, November 27, 2005"," Estadio Riazor "
+Getafe, 3, 2, Malaga, "Sunday, November 27, 2005"," Coliseum Alfonso Perez "
+Osasuna, 3, 2, AlavÃ©s, "Sunday, November 27, 2005"," Estadio El Sadar "
+Real Betis, 1, 1, CÃ¡diz, "Sunday, November 27, 2005"," Estadio Manuel Ruiz de Lopera "
+Real Zaragoza, 0, 2, Sevilla FC, "Sunday, November 27, 2005"," Estadio La Romareda "
+Real Sociedad, 2, 2, Real Madrid, "Sunday, November 27, 2005"," Estadio Anoeta "
+Barcelona, 4, 1, Racing Santander, "Sunday, November 27, 2005"," Estadio Camp Nou "
+Mallorca, 0, 1, Athletic Bilbao, "Saturday, November 26, 2005"," Estadio San MamÃ©s "
+Valencia, 2, 0, Celta Vigo, "Saturday, November 26, 2005"," Estadio Mestalla "
+Athletic Bilbao, 0, 2, AlavÃ©s, "Sunday, November 20, 2005"," Estadio San MamÃ©s "
+CÃ¡diz, 0, 1, Valencia, "Sunday, November 20, 2005"," Estadio Chapin "
+Espanyol, 2, 0, Mallorca, "Sunday, November 20, 2005"," Estadio Olimpico de Montjuic "
+Malaga, 3, 1, Real Sociedad, "Sunday, November 20, 2005"," Estadio La Rosaleda "
+Celta Vigo, 2, 1, Atletico Madrid, "Sunday, November 20, 2005"," Estadio BalaÃ­dos "
+Racing Santander, 0, 3, Deportivo La CoruÃ±a, "Sunday, November 20, 2005"," Estadio El Sardinero "
+Getafe, 0, 0, Osasuna, "Saturday, November 19, 2005"," Coliseum Alfonso Perez "
+Villarreal, 0, 0, Real Zaragoza, "Saturday, November 19, 2005"," Estadio El Madrigal "
+Real Madrid, 0, 3, Barcelona, "Saturday, November 19, 2005"," Estadio Anoeta "
+Sevilla FC, 1, 0, Real Betis, "Saturday, November 19, 2005"," Estadio Ramon Sanchez Pizjuan "
+CÃ¡diz, 1, 2, Mallorca, "Sunday, November 6, 2005"," Estadio Chapin "
+Celta Vigo, 2, 1, AlavÃ©s, "Sunday, November 6, 2005"," Estadio BalaÃ­dos "
+Malaga, 1, 1, Deportivo La CoruÃ±a, "Sunday, November 6, 2005"," Estadio La Rosaleda "
+Racing Santander, 1, 1, Real Betis, "Sunday, November 6, 2005"," Estadio El Sardinero "
+Sevilla FC, 0, 0, Atletico Madrid, "Sunday, November 6, 2005"," Estadio Ramon Sanchez Pizjuan "
+Real Madrid, 1, 0, Real Zaragoza, "Sunday, November 6, 2005"," Estadio Santiago BernabÃ©u "
+Getafe, 1, 3, Barcelona, "Sunday, November 6, 2005"," Coliseum Alfonso Perez "
+Real Sociedad, 1, 2, Osasuna, "Saturday, November 5, 2005"," Estadio Anoeta "
+Espanyol, 1, 1, Athletic Bilbao, "Saturday, November 5, 2005"," Estadio Olimpico de Montjuic "
+Villarreal, 1, 0, Valencia, "Saturday, November 5, 2005"," Estadio El Madrigal "
+AlavÃ©s, 0, 0, CÃ¡diz, "Sunday, October 30, 2005"," Estadio Mendizorroza "
+Deportivo La CoruÃ±a, 1, 0, Getafe, "Sunday, October 30, 2005"," Estadio Riazor "
+Mallorca, 1, 1, Sevilla FC, "Sunday, October 30, 2005"," Estadio Son Moix "
+Osasuna, 2, 0, Espanyol, "Sunday, October 30, 2005"," Estadio El Sadar "
+Real Zaragoza, 1, 1, Malaga, "Sunday, October 30, 2005"," Estadio La Romareda "
+Valencia, 1, 1, Racing Santander, "Sunday, October 30, 2005"," Estadio Mestalla "
+Barcelona, 5, 0, Real Sociedad, "Sunday, October 30, 2005"," Estadio Camp Nou "
+Atletico Madrid, 1, 1, Villarreal, "Sunday, October 30, 2005"," Vicente Calderon "
+Real Betis, 0, 2, Real Madrid, "Saturday, October 29, 2005"," Estadio Manuel Ruiz de Lopera "
+Athletic Bilbao, 1, 1, Celta Vigo, "Saturday, October 29, 2005"," Estadio San MamÃ©s "
+AlavÃ©s, 1, 1, Espanyol, "Thursday, October 27, 2005"," Estadio Mendizorroza "
+Atletico Madrid, 3, 0, CÃ¡diz, "Thursday, October 27, 2005"," Vicente Calderon "
+Real Sociedad, 3, 0, Getafe, "Thursday, October 27, 2005"," Estadio Anoeta "
+Real Zaragoza, 1, 1, Racing Santander, "Thursday, October 27, 2005"," Estadio La Romareda "
+Valencia, 0, 2, Sevilla FC, "Thursday, October 27, 2005"," Estadio Mestalla "
+Mallorca, 1, 0, Celta Vigo, "Wednesday, October 26, 2005"," Estadio Son Moix "
+Osasuna, 3, 2, Athletic Bilbao, "Wednesday, October 26, 2005"," Estadio El Sadar "
+Real Betis, 2, 3, Villarreal, "Wednesday, October 26, 2005"," Estadio Manuel Ruiz de Lopera "
+Barcelona, 2, 0, Malaga, "Wednesday, October 26, 2005"," Estadio Camp Nou "
+Deportivo La CoruÃ±a, 3, 1, Real Madrid, "Wednesday, October 26, 2005"," Estadio Riazor "
+CÃ¡diz, 1, 0, Athletic Bilbao, "Sunday, October 23, 2005"," Estadio Chapin "
+Celta Vigo, 1, 0, Espanyol, "Sunday, October 23, 2005"," Estadio BalaÃ­dos "
+Getafe, 5, 2, Real Zaragoza, "Sunday, October 23, 2005"," Coliseum Alfonso Perez "
+Malaga, 5, 0, Real Betis, "Sunday, October 23, 2005"," Estadio La Rosaleda "
+Real Sociedad, 2, 0, Deportivo La CoruÃ±a, "Sunday, October 23, 2005"," Estadio Anoeta "
+Villarreal, 3, 0, Mallorca, "Sunday, October 23, 2005"," Estadio El Madrigal "
+Racing Santander, 0, 1, Atletico Madrid, "Sunday, October 23, 2005"," Estadio El Sardinero "
+Real Madrid, 1, 2, Valencia, "Sunday, October 23, 2005"," Estadio Santiago BernabÃ©u "
+Sevilla FC, 2, 0, AlavÃ©s, "Saturday, October 22, 2005"," Estadio Ramon Sanchez Pizjuan "
+Barcelona, 3, 0, Osasuna, "Saturday, October 22, 2005"," Estadio Camp Nou "
+Mallorca, 0, 0, Racing Santander, "Sunday, October 16, 2005"," Estadio Son Moix "
+Osasuna, 2, 0, Celta Vigo, "Sunday, October 16, 2005"," Estadio El Sadar "
+Real Betis, 1, 0, Getafe, "Sunday, October 16, 2005"," Estadio Manuel Ruiz de Lopera "
+Real Zaragoza, 0, 1, Real Sociedad, "Sunday, October 16, 2005"," Estadio La Romareda "
+Espanyol, 0, 2, CÃ¡diz, "Sunday, October 16, 2005"," Estadio Olimpico de Montjuic "
+Valencia, 2, 1, Malaga, "Sunday, October 16, 2005"," Estadio Mestalla "
+Athletic Bilbao, 0, 1, Sevilla FC, "Sunday, October 16, 2005"," Estadio San MamÃ©s "
+AlavÃ©s, 1, 1, Villarreal, "Saturday, October 15, 2005"," Estadio Mendizorroza "
+Deportivo La CoruÃ±a, 3, 3, Barcelona, "Saturday, October 15, 2005"," Estadio Riazor "
+Atletico Madrid, 0, 3, Real Madrid, "Saturday, October 15, 2005"," Vicente Calderon "
+CÃ¡diz, 1, 1, Celta Vigo, "Sunday, October 2, 2005"," Estadio Chapin "
+Deportivo La CoruÃ±a, 0, 1, Osasuna, "Sunday, October 2, 2005"," Estadio Riazor "
+Racing Santander, 1, 2, AlavÃ©s, "Sunday, October 2, 2005"," Estadio El Sardinero "
+Real Sociedad, 1, 1, Real Betis, "Sunday, October 2, 2005"," Estadio Anoeta "
+Sevilla FC, 1, 1, Espanyol, "Sunday, October 2, 2005"," Estadio Ramon Sanchez Pizjuan "
+Villarreal, 3, 1, Athletic Bilbao, "Sunday, October 2, 2005"," Estadio El Madrigal "
+Real Madrid, 4, 0, Mallorca, "Sunday, October 2, 2005"," Estadio Santiago BernabÃ©u "
+Malaga, 0, 2, Atletico Madrid, "Sunday, October 2, 2005"," Estadio La Rosaleda "
+Barcelona, 2, 2, Real Zaragoza, "Saturday, October 1, 2005"," Estadio Camp Nou "
+Getafe, 2, 1, Valencia, "Saturday, October 1, 2005"," Coliseum Alfonso Perez "
+AlavÃ©s, 0, 3, Real Madrid, "Sunday, September 25, 2005"," Estadio Mendizorroza "
+Athletic Bilbao, 0, 0, Racing Santander, "Sunday, September 25, 2005"," Estadio San MamÃ©s "
+Mallorca, 1, 4, Malaga, "Sunday, September 25, 2005"," Estadio Son Moix "
+Osasuna, 2, 0, CÃ¡diz, "Sunday, September 25, 2005"," Estadio El Sadar "
+Celta Vigo, 2, 1, Sevilla FC, "Sunday, September 25, 2005"," Estadio BalaÃ­dos "
+Atletico Madrid, 0, 1, Getafe, "Saturday, September 24, 2005"," Vicente Calderon "
+Espanyol, 1, 2, Villarreal, "Saturday, September 24, 2005"," Estadio Olimpico de Montjuic "
+Real Zaragoza, 1, 1, Deportivo La CoruÃ±a, "Saturday, September 24, 2005"," Estadio La Romareda "
+Valencia, 2, 1, Real Sociedad, "Saturday, September 24, 2005"," Estadio Mestalla "
+Real Betis, 1, 4, Barcelona, "Saturday, September 24, 2005"," Estadio Manuel Ruiz de Lopera "
+Real Madrid, 3, 1, Athletic Bilbao, "Thursday, September 22, 2005"," Estadio Santiago BernabÃ©u "
+Barcelona, 2, 2, Valencia, "Wednesday, September 21, 2005"," Estadio Camp Nou "
+Deportivo La CoruÃ±a, 1, 1, Real Betis, "Wednesday, September 21, 2005"," Estadio Riazor "
+Getafe, 1, 1, Mallorca, "Wednesday, September 21, 2005"," Coliseum Alfonso Perez "
+Malaga, 0, 0, AlavÃ©s, "Wednesday, September 21, 2005"," Estadio La Rosaleda "
+Racing Santander, 1, 0, Espanyol, "Wednesday, September 21, 2005"," Estadio El Sardinero "
+Real Sociedad, 3, 2, Atletico Madrid, "Wednesday, September 21, 2005"," Estadio Anoeta "
+Real Zaragoza, 3, 1, Osasuna, "Wednesday, September 21, 2005"," Estadio La Romareda "
+Sevilla FC, 0, 0, CÃ¡diz, "Wednesday, September 21, 2005"," Estadio Ramon Sanchez Pizjuan "
+Villarreal, 1, 2, Celta Vigo, "Wednesday, September 21, 2005"," Estadio El Madrigal "
+AlavÃ©s, 3, 4, Getafe, "Sunday, September 18, 2005"," Estadio Mendizorroza "
+Athletic Bilbao, 1, 2, Malaga, "Sunday, September 18, 2005"," Estadio San MamÃ©s "
+CÃ¡diz, 1, 1, Villarreal, "Sunday, September 18, 2005"," Estadio RamÃ³n de Carranza "
+Celta Vigo, 0, 1, Racing Santander, "Sunday, September 18, 2005"," Estadio BalaÃ­dos "
+Osasuna, 1, 0, Sevilla FC, "Sunday, September 18, 2005"," Estadio El Sadar "
+Real Betis, 0, 0, Real Zaragoza, "Sunday, September 18, 2005"," Estadio Manuel Ruiz de Lopera "
+Espanyol, 1, 0, Real Madrid, "Sunday, September 18, 2005"," Estadio Olimpico de Montjuic "
+Atletico Madrid, 2, 1, Barcelona, "Sunday, September 18, 2005"," Vicente Calderon "
+Valencia, 2, 2, Deportivo La CoruÃ±a, "Saturday, September 17, 2005"," Estadio Mestalla "
+Mallorca, 5, 2, Real Sociedad, "Saturday, September 17, 2005"," Estadio Son Moix "
+Barcelona, 2, 0, Mallorca, "Sunday, September 11, 2005"," Estadio Camp Nou "
+Getafe, 1, 1, Athletic Bilbao, "Sunday, September 11, 2005"," Coliseum Alfonso Perez "
+Racing Santander, 0, 1, CÃ¡diz, "Sunday, September 11, 2005"," Estadio El Sardinero "
+Real Sociedad, 2, 1, AlavÃ©s, "Sunday, September 11, 2005"," Estadio Anoeta "
+Villarreal, 1, 1, Sevilla FC, "Sunday, September 11, 2005"," Estadio El Madrigal "
+Malaga, 1, 2, Espanyol, "Sunday, September 11, 2005"," Estadio La Rosaleda "
+Real Zaragoza, 2, 2, Valencia, "Sunday, September 11, 2005"," Estadio La Romareda "
+Real Madrid, 2, 3, Celta Vigo, "Saturday, September 10, 2005"," Estadio Santiago BernabÃ©u "
+Deportivo La CoruÃ±a, 1, 0, Atletico Madrid, "Saturday, September 10, 2005"," Estadio Riazor "
+Real Betis, 1, 0, Osasuna, "Saturday, September 10, 2005"," Estadio Manuel Ruiz de Lopera "
+Atletico Madrid, 0, 0, Real Zaragoza, "Sunday, August 28, 2005"," Vicente Calderon "
+Celta Vigo, 2, 0, Malaga, "Sunday, August 28, 2005"," Estadio Balaídos "
+Espanyol, 0, 2, Getafe, "Sunday, August 28, 2005"," Estadio Olimpico de Montjuic "
+Mallorca, 0, 1, Deportivo La Coruña, "Sunday, August 28, 2005"," Estadio Son Moix "
+Osasuna, 2, 1, Villarreal, "Sunday, August 28, 2005"," Estadio El Sadar "
+Sevilla FC, 1, 0, Racing Santander, "Sunday, August 28, 2005"," Estadio Ramon Sanchez Pizjuan "
+Cádiz, 1, 2, Real Madrid, "Sunday, August 28, 2005"," Estadio Chapin "
+Alavés, 0, 0, Barcelona, "Saturday, August 27, 2005"," Estadio Mendizorroza "
+Athletic Bilbao, 3, 0, Real Sociedad, "Saturday, August 27, 2005"," Estadio San Mamés "
+Valencia, 1, 0, Real Betis, "Saturday, August 27, 2005"," Estadio Mestalla "

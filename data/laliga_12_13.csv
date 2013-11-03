@@ -1,381 +1,380 @@
-home, homescore, awayscore, away, date, group
-Real Madrid, 4, 2, Osasuna, "Saturday, June 1, 2013", Santiago Bernabeu (68,000)
-Barcelona, 4, 1, Malaga, "Saturday, June 1, 2013", Camp Nou (70,000)
-Celta Vigo, 1, 0, Espanyol, "Saturday, June 1, 2013", Balaidos (31,000)
-Deportivo La CoruÃ±a, 0, 1, Real Sociedad, "Saturday, June 1, 2013", Riazor (34,000)
-Granada, 2, 0, Getafe, "Saturday, June 1, 2013", Los Carmenes (20,000)
-Levante, 1, 1, Real Betis, "Saturday, June 1, 2013", Ciutat de Valencia (15,000)
-Mallorca, 4, 2, Real Valladolid, "Saturday, June 1, 2013", ONO Estadi (15,000)
-Rayo Vallecano, 2, 2, Athletic Bilbao, "Saturday, June 1, 2013", Estadio Teresa Rivero (12,000)
-Real Zaragoza, 1, 3, Atletico Madrid, "Saturday, June 1, 2013", La Romareda (34,500)
-Sevilla FC, 4, 3, Valencia, "Saturday, June 1, 2013", Estadio Ramon Sanchez Pizjuan (38,000)
-Athletic Bilbao, 0, 1, Levante, "Sunday, May 26, 2013", San Mames (40,000)
-Atletico Madrid, 0, 0, Mallorca, "Sunday, May 26, 2013", Vicente Calderon (50,000)
-Espanyol, 0, 2, Barcelona, "Sunday, May 26, 2013", Estadi Cornella-El Prat (27,578)
-Getafe, 1, 2, Rayo Vallecano, "Sunday, May 26, 2013", Coliseum Alfonso Perez (8,000)
-Malaga, 3, 1, Deportivo La CoruÃ±a, "Sunday, May 26, 2013", La Rosaleda (28,000)
-Osasuna, 2, 1, Sevilla FC, "Sunday, May 26, 2013", Reyno de Navarra (19,594)
-Real Betis, 4, 0, Real Zaragoza, "Sunday, May 26, 2013", Estadio Benito Villamarin (47,460)
-Real Sociedad, 3, 3, Real Madrid, "Sunday, May 26, 2013", Anoeta (32,000)
-Real Valladolid, 0, 2, Celta Vigo, "Sunday, May 26, 2013", Nuevo Jose Zorilla Stadium (14,890)
-Valencia, 1, 0, Granada, "Sunday, May 26, 2013", Mestalla (40,000)
-Mallorca, 1, 0, Real Betis, "Monday, May 20, 2013", ONO Estadi (12,000)
-Levante, 2, 3, Rayo Vallecano, "Sunday, May 19, 2013", Ciutat de Valencia (12,000)
-Deportivo La CoruÃ±a, 2, 0, Espanyol, "Sunday, May 19, 2013", Riazor (34,000)
-Real Zaragoza, 1, 2, Athletic Bilbao, "Sunday, May 19, 2013", La Romareda (34,596)
-Barcelona, 2, 1, Real Valladolid, "Sunday, May 19, 2013", Camp Nou (56,055)
-Getafe, 0, 1, Valencia, "Saturday, May 18, 2013", Coliseum Alfonso Perez (7,000)
-Granada, 3, 0, Osasuna, "Saturday, May 18, 2013", Estadio Los CÃ¡rmenes (22,500)
-Sevilla FC, 1, 2, Real Sociedad, "Saturday, May 18, 2013", Estadio Ramon Sanchez Pizjuan (35,000)
-Real Sociedad, 2, 2, Granada, "Monday, May 13, 2013", Anoeta (22,000)
-Rayo Vallecano, 0, 4, Valencia, "Sunday, May 12, 2013", Estadio Teresa Rivero (9,041)
-Real Betis, 1, 0, Celta Vigo, "Sunday, May 12, 2013", Estadio Benito Villamarin (38,547)
-Atletico Madrid, 1, 2, Barcelona, "Sunday, May 12, 2013", Vicente Calderon (54,000)
-Malaga, 0, 0, Sevilla FC, "Sunday, May 12, 2013", La Rosaleda (29,000)
-Athletic Bilbao, 2, 1, Mallorca, "Saturday, May 11, 2013", San Mames (40,000)
-Real Valladolid, 1, 0, Deportivo La CoruÃ±a, "Saturday, May 11, 2013", Nuevo Jose Zorilla Stadium (21,239)
-Osasuna, 1, 0, Getafe, "Saturday, May 11, 2013", Reyno de Navarra (18,012)
-Espanyol, 1, 1, Real Madrid, "Saturday, May 11, 2013", Estadi Cornella-El Prat (30,023)
-Levante, 0, 0, Real Zaragoza, "Friday, May 10, 2013", Ciutat de Valencia (15,113)
-Celta Vigo, 1, 3, Atletico Madrid, "Wednesday, May 8, 2013", Balaidos (25,000)
-Real Madrid, 6, 2, Malaga, "Wednesday, May 8, 2013", Santiago Bernabeu (57,346)
-Getafe, 2, 1, Real Sociedad, "Monday, May 6, 2013", Coliseum Alfonso Perez (8,000)
-Mallorca, 1, 1, Levante, "Sunday, May 5, 2013", ONO Estadi (30,000)
-Real Zaragoza, 3, 0, Rayo Vallecano, "Sunday, May 5, 2013", La Romareda (34,000)
-Sevilla FC, 3, 0, Espanyol, "Sunday, May 5, 2013", Estadio Ramon Sanchez Pizjuan (32,000)
-Barcelona, 4, 2, Real Betis, "Sunday, May 5, 2013", Camp Nou (67,185)
-Valencia, 4, 0, Osasuna, "Saturday, May 4, 2013", Mestalla (35,000)
-Granada, 1, 0, Malaga, "Saturday, May 4, 2013", Los Carmenes (23,000)
-Real Madrid, 4, 3, Real Valladolid, "Saturday, May 4, 2013", Santiago Bernabeu (55,000)
-Deportivo La CoruÃ±a, 0, 0, Atletico Madrid, "Saturday, May 4, 2013", Riazor (34,611)
-Celta Vigo, 1, 1, Athletic Bilbao, "Friday, May 3, 2013", Balaidos (26,000)
-Real Betis, 1, 1, Deportivo La CoruÃ±a, "Monday, April 29, 2013", Estadio Benito Villamarin (32,800)
-Espanyol, 0, 1, Granada, "Sunday, April 28, 2013", Estadi Cornella-El Prat (23,800)
-Malaga, 2, 1, Getafe, "Sunday, April 28, 2013", La Rosaleda (28,000)
-Real Valladolid, 1, 1, Sevilla FC, "Sunday, April 28, 2013", Nuevo Jose Zorilla Stadium (16,832)
-Real Sociedad, 4, 2, Valencia, "Sunday, April 28, 2013", Anoeta (28,097)
-Levante, 0, 1, Celta Vigo, "Saturday, April 27, 2013", Ciutat de Valencia (11,658)
-Athletic Bilbao, 2, 2, Barcelona, "Saturday, April 27, 2013", San Mames (40,000)
-Atletico Madrid, 1, 2, Real Madrid, "Saturday, April 27, 2013", Vicente Calderon (54,000)
-Real Zaragoza, 3, 2, Mallorca, "Saturday, April 27, 2013", La Romareda (30,000)
-Rayo Vallecano, 2, 2, Osasuna, "Friday, April 26, 2013", Estadio Teresa Rivero (9,700)
-Celta Vigo, 2, 1, Real Zaragoza, "Monday, April 22, 2013", Balaidos (17,500)
-Getafe, 0, 2, Espanyol, "Sunday, April 21, 2013", Coliseum Alfonso Perez (8,000)
-Deportivo La CoruÃ±a, 1, 1, Athletic Bilbao, "Sunday, April 21, 2013", Riazor (34,000)
-Osasuna, 0, 0, Real Sociedad, "Sunday, April 21, 2013", Reyno de Navarra (19,627)
-Sevilla FC, 0, 1, Atletico Madrid, "Sunday, April 21, 2013", Estadio Ramon Sanchez Pizjuan (35,000)
-Granada, 1, 1, Real Valladolid, "Saturday, April 20, 2013", Los Carmenes (21,000)
-Real Madrid, 3, 1, Real Betis, "Saturday, April 20, 2013", Santiago Bernabeu (72,327)
-Barcelona, 1, 0, Levante, "Saturday, April 20, 2013", Camp Nou (79,000)
-Valencia, 5, 1, Malaga, "Saturday, April 20, 2013", Mestalla (41,000)
-Mallorca, 1, 1, Rayo Vallecano, "Friday, April 19, 2013", ONO Estadi (15,000)
-Mallorca, 1, 0, Celta Vigo, "Monday, April 15, 2013", ONO Estadi (13,000)
-Rayo Vallecano, 0, 2, Real Sociedad, "Sunday, April 14, 2013", Estadio Teresa Rivero (11,446)
-Atletico Madrid, 5, 0, Granada, "Sunday, April 14, 2013", Vicente Calderon (54,000)
-Real Zaragoza, 0, 3, Barcelona, "Sunday, April 14, 2013", La Romareda (28,000)
-Athletic Bilbao, 0, 3, Real Madrid, "Sunday, April 14, 2013", San Mames (39,000)
-Real Valladolid, 2, 1, Getafe, "Saturday, April 13, 2013", Nuevo Jose Zorilla Stadium (14,000)
-Levante, 0, 4, Deportivo La CoruÃ±a, "Saturday, April 13, 2013", Ciutat de Valencia (17,000)
-Espanyol, 3, 3, Valencia, "Saturday, April 13, 2013", Estadi Cornella-El Prat (24,500)
-Malaga, 1, 0, Osasuna, "Saturday, April 13, 2013", La Rosaleda (28,000)
-Real Betis, 3, 3, Sevilla FC, "Friday, April 12, 2013", Estadio Benito Villamarin (52,000)
-Sevilla FC, 2, 1, Athletic Bilbao, "Monday, April 8, 2013", Estadio Ramon Sanchez Pizjuan (31,000)
-Celta Vigo, 0, 2, Rayo Vallecano, "Sunday, April 7, 2013", Balaidos (19,345)
-Osasuna, 0, 2, Espanyol, "Sunday, April 7, 2013", Reyno de Navarra (17,501)
-Getafe, 0, 0, Atletico Madrid, "Sunday, April 7, 2013", Coliseum Alfonso Perez (10,000)
-Valencia, 2, 1, Real Valladolid, "Sunday, April 7, 2013", Mestalla (35,000)
-Real Sociedad, 4, 2, Malaga, "Saturday, April 6, 2013", Anoeta (25,787)
-Real Madrid, 5, 1, Levante, "Saturday, April 6, 2013", Santiago Bernabeu (65,875)
-Deportivo La CoruÃ±a, 3, 2, Real Zaragoza, "Saturday, April 6, 2013", Riazor (34,000)
-Barcelona, 5, 0, Mallorca, "Saturday, April 6, 2013", Camp Nou (65,127)
-Granada, 1, 5, Real Betis, "Friday, April 5, 2013", Los Carmenes (20,000)
-Athletic Bilbao, 1, 0, Granada, "Monday, April 1, 2013", San Mames (37,500)
-Real Betis, 0, 0, Getafe, "Monday, April 1, 2013", Estadio Benito Villamarin (31,250)
-Real Valladolid, 1, 3, Osasuna, "Sunday, March 31, 2013", Nuevo Jose Zorilla Stadium (20,000)
-Mallorca, 2, 3, Deportivo La CoruÃ±a, "Sunday, March 31, 2013", ONO Estadi (14,716)
-Espanyol, 2, 2, Real Sociedad, "Sunday, March 31, 2013", Estadi Cornella-El Prat (27,500)
-Atletico Madrid, 1, 1, Valencia, "Sunday, March 31, 2013", Vicente Calderon (49,000)
-Rayo Vallecano, 1, 3, Malaga, "Saturday, March 30, 2013", Estadio Teresa Rivero (12,500)
-Celta Vigo, 2, 2, Barcelona, "Saturday, March 30, 2013", Balaidos (30,000)
-Real Zaragoza, 1, 1, Real Madrid, "Saturday, March 30, 2013", La Romareda (31,000)
-Levante, 1, 0, Sevilla FC, "Saturday, March 30, 2013", Ciutat de Valencia (20,500)
-Malaga, 0, 2, Espanyol, "Sunday, March 17, 2013", La Rosaleda (28,000)
-Sevilla FC, 4, 0, Real Zaragoza, "Sunday, March 17, 2013", Estadio Ramon Sanchez Pizjuan (25,000)
-Osasuna, 0, 2, Atletico Madrid, "Sunday, March 17, 2013", Reyno de Navarra (20,000)
-Barcelona, 3, 1, Rayo Vallecano, "Sunday, March 17, 2013", Camp Nou (68,197)
-Granada, 1, 1, Levante, "Sunday, March 17, 2013", Los Carmenes (20,000)
-Real Sociedad, 4, 1, Real Valladolid, "Saturday, March 16, 2013", Anoeta (25,000)
-Getafe, 1, 0, Athletic Bilbao, "Saturday, March 16, 2013", Coliseum Alfonso Perez (9,000)
-Real Madrid, 5, 2, Mallorca, "Saturday, March 16, 2013", Santiago Bernabeu (63,500)
-Valencia, 3, 0, Real Betis, "Saturday, March 16, 2013", Mestalla (3,000)
-Deportivo La CoruÃ±a, 3, 1, Celta Vigo, "Friday, March 15, 2013", Riazor (34,000)
-Real Zaragoza, 0, 0, Granada, "Monday, March 11, 2013", La Romareda (25,000)
-Athletic Bilbao, 1, 0, Valencia, "Sunday, March 10, 2013", San Mames (38,000)
-Levante, 0, 0, Getafe, "Sunday, March 10, 2013", Ciutat de Valencia (16,182)
-Celta Vigo, 1, 2, Real Madrid, "Sunday, March 10, 2013", Balaidos (25,344)
-Atletico Madrid, 0, 1, Real Sociedad, "Sunday, March 10, 2013", Vicente Calderon (44,000)
-Rayo Vallecano, 2, 0, Espanyol, "Saturday, March 9, 2013", Estadio Teresa Rivero (8,292)
-Real Valladolid, 1, 1, Malaga, "Saturday, March 9, 2013", Nuevo Jose Zorilla Stadium (15,420)
-Barcelona, 2, 0, Deportivo La CoruÃ±a, "Saturday, March 9, 2013", Camp Nou (69,748)
-Mallorca, 2, 1, Sevilla FC, "Saturday, March 9, 2013", ONO Estadi (20,615)
-Real Betis, 2, 1, Osasuna, "Friday, March 8, 2013", Estadio Benito Villamarin (23,806)
-Sevilla FC, 4, 1, Celta Vigo, "Monday, March 4, 2013", Estadio Ramon Sanchez Pizjuan (27,000)
-Granada, 1, 2, Mallorca, "Sunday, March 3, 2013", Los Carmenes (22,524)
-Espanyol, 0, 0, Real Valladolid, "Sunday, March 3, 2013", Estadi Cornella-El Prat (20,423)
-Malaga, 0, 0, Atletico Madrid, "Sunday, March 3, 2013", La Rosaleda (28,500)
-Real Sociedad, 3, 3, Real Betis, "Sunday, March 3, 2013", Anoeta (22,162)
-Real Madrid, 2, 1, Barcelona, "Saturday, March 2, 2013", Santiago Bernabeu (84,000)
-Deportivo La CoruÃ±a, 0, 0, Rayo Vallecano, "Saturday, March 2, 2013", Riazor (25,000)
-Osasuna, 0, 1, Athletic Bilbao, "Saturday, March 2, 2013", Reyno de Navarra (19,800)
-Valencia, 2, 2, Levante, "Saturday, March 2, 2013", Mestalla (40,000)
-Getafe, 2, 0, Real Zaragoza, "Friday, March 1, 2013", Coliseum Alfonso Perez (7,200)
-Levante, 0, 2, Osasuna, "Monday, February 25, 2013", Ciutat de Valencia (10,553)
-Rayo Vallecano, 1, 2, Real Valladolid, "Sunday, February 24, 2013", Estadio Teresa Rivero (15,000)
-Celta Vigo, 2, 1, Granada, "Sunday, February 24, 2013", Balaidos (19,000)
-Atletico Madrid, 1, 0, Espanyol, "Sunday, February 24, 2013", Vicente Calderon (33,000)
-Real Betis, 3, 0, Malaga, "Sunday, February 24, 2013", Estadio Benito Villamarin (30,000)
-Mallorca, 1, 3, Getafe, "Saturday, February 23, 2013", ONO Estadi (11,000)
-Real Zaragoza, 2, 2, Valencia, "Saturday, February 23, 2013", La Romareda (19,000)
-Deportivo La CoruÃ±a, 1, 2, Real Madrid, "Saturday, February 23, 2013", Riazor (31,000)
-Barcelona, 2, 1, Sevilla FC, "Saturday, February 23, 2013", Camp Nou (70,000)
-Athletic Bilbao, 1, 3, Real Sociedad, "Friday, February 22, 2013", San Mames (40,000)
-Real Sociedad, 1, 1, Levante, "Sunday, February 17, 2013", Anoeta (23,743)
-Valencia, 2, 0, Mallorca, "Sunday, February 17, 2013", Mestalla (31,200)
-Real Valladolid, 0, 3, Atletico Madrid, "Sunday, February 17, 2013", Nuevo Jose Zorilla Stadium (18,200)
-Espanyol, 1, 0, Real Betis, "Sunday, February 17, 2013", Estadi Cornella-El Prat (21,000)
-Real Madrid, 2, 0, Rayo Vallecano, "Sunday, February 17, 2013", Santiago Bernabeu (63,000)
-Getafe, 3, 1, Celta Vigo, "Saturday, February 16, 2013", Coliseum Alfonso Perez (9,100)
-Malaga, 1, 0, Athletic Bilbao, "Saturday, February 16, 2013", La Rosaleda (29,900)
-Granada, 1, 2, Barcelona, "Saturday, February 16, 2013", Los Carmenes (22,000)
-Osasuna, 1, 0, Real Zaragoza, "Saturday, February 16, 2013", Reyno de Navarra (17,322)
-Sevilla FC, 3, 1, Deportivo La CoruÃ±a, "Friday, February 15, 2013", Estadio Ramon Sanchez Pizjuan (33,200)
-Real Betis, 0, 0, Real Valladolid, "Monday, February 11, 2013", Estadio Benito Villamarin (26,785)
-Barcelona, 6, 1, Getafe, "Sunday, February 10, 2013", Camp Nou (90,200)
-Real Zaragoza, 1, 2, Real Sociedad, "Sunday, February 10, 2013", La Romareda (25,840)
-Athletic Bilbao, 0, 4, Espanyol, "Sunday, February 10, 2013", San Mames (29,200)
-Rayo Vallecano, 2, 1, Atletico Madrid, "Sunday, February 10, 2013", Estadio Teresa Rivero (12,800)
-Mallorca, 1, 1, Osasuna, "Saturday, February 9, 2013", ONO Estadi (13,816)
-Celta Vigo, 0, 1, Valencia, "Saturday, February 9, 2013", Balaidos (20,900)
-Levante, 1, 2, Malaga, "Saturday, February 9, 2013", Ciutat de Valencia (20,100)
-Deportivo La CoruÃ±a, 0, 3, Granada, "Saturday, February 9, 2013", Riazor (27,300)
-Real Madrid, 4, 1, Sevilla FC, "Saturday, February 9, 2013", Santiago Bernabeu (65,000)
-Malaga, 1, 1, Real Zaragoza, "Sunday, February 3, 2013", La Rosaleda (25,000)
-Sevilla FC, 2, 1, Rayo Vallecano, "Sunday, February 3, 2013", Estadio Ramon Sanchez Pizjuan (36,000)
-Valencia, 1, 1, Barcelona, "Sunday, February 3, 2013", Mestalla (48,000)
-Atletico Madrid, 1, 0, Real Betis, "Sunday, February 3, 2013", Vicente Calderon (50,000)
-Real Sociedad, 3, 0, Mallorca, "Sunday, February 3, 2013", Anoeta (19,000)
-Osasuna, 1, 0, Celta Vigo, "Saturday, February 2, 2013", Reyno de Navarra (15,000)
-Getafe, 3, 1, Deportivo La CoruÃ±a, "Saturday, February 2, 2013", Coliseum Alfonso Perez (9,000)
-Espanyol, 3, 2, Levante, "Saturday, February 2, 2013", Estadi Cornella-El Prat (22,000)
-Granada, 1, 0, Real Madrid, "Saturday, February 2, 2013", Los Carmenes (23,000)
-Real Valladolid, 2, 2, Athletic Bilbao, "Friday, February 1, 2013", Nuevo Jose Zorilla Stadium (16,000)
-Sevilla FC, 3, 0, Granada, "Monday, January 28, 2013", Estadio Ramon Sanchez Pizjuan (29,000)
-Real Madrid, 4, 0, Getafe, "Sunday, January 27, 2013", Santiago Bernabeu (71,208)
-Rayo Vallecano, 3, 0, Real Betis, "Sunday, January 27, 2013", Estadio Teresa Rivero (9,033)
-Barcelona, 5, 1, Osasuna, "Sunday, January 27, 2013", Camp Nou (65,000)
-Athletic Bilbao, 3, 0, Atletico Madrid, "Sunday, January 27, 2013", San Mames (35,000)
-Mallorca, 2, 3, Malaga, "Sunday, January 27, 2013", ONO Estadi (10,547)
-Celta Vigo, 1, 1, Real Sociedad, "Saturday, January 26, 2013", Balaidos (18,131)
-Levante, 2, 1, Real Valladolid, "Saturday, January 26, 2013", Ciutat de Valencia (14,128)
-Real Zaragoza, 0, 0, Espanyol, "Saturday, January 26, 2013", La Romareda (18,000)
-Deportivo La CoruÃ±a, 2, 3, Valencia, "Saturday, January 26, 2013", Riazor (33,000)
-Real Betis, 1, 1, Athletic Bilbao, "Monday, January 21, 2013", Estadio Benito Villamarin (42,000)
-Osasuna, 2, 1, Deportivo La CoruÃ±a, "Sunday, January 20, 2013", Reyno de Navarra (14,135)
-Real Valladolid, 2, 0, Real Zaragoza, "Sunday, January 20, 2013", Nuevo Jose Zorilla Stadium (13,058)
-Atletico Madrid, 2, 0, Levante, "Sunday, January 20, 2013", Vicente Calderon (35,000)
-Valencia, 0, 5, Real Madrid, "Sunday, January 20, 2013", Mestalla (40,000)
-Granada, 2, 0, Rayo Vallecano, "Saturday, January 19, 2013", Los Carmenes (17,000)
-Real Sociedad, 3, 2, Barcelona, "Saturday, January 19, 2013", Anoeta (25,000)
-Getafe, 1, 1, Sevilla FC, "Saturday, January 19, 2013", Coliseum Alfonso Perez (5,000)
-Malaga, 1, 1, Celta Vigo, "Saturday, January 19, 2013", La Rosaleda (24,000)
-Espanyol, 3, 2, Mallorca, "Friday, January 18, 2013", Estadi Cornella-El Prat (17,169)
-Getafe, 2, 2, Granada, "Monday, January 14, 2013", Coliseum Alfonso Perez (8,000)
-Real Betis, 2, 0, Levante, "Sunday, January 13, 2013", Estadio Benito Villamarin (36,651)
-Real Sociedad, 1, 1, Deportivo La CoruÃ±a, "Sunday, January 13, 2013", Anoeta (22,500)
-Atletico Madrid, 2, 0, Real Zaragoza, "Sunday, January 13, 2013", Vicente Calderon (45,000)
-Malaga, 1, 3, Barcelona, "Sunday, January 13, 2013", La Rosaleda (23,000)
-Real Valladolid, 3, 1, Mallorca, "Saturday, January 12, 2013", Nuevo Jose Zorilla Stadium (12,949)
-Espanyol, 1, 0, Celta Vigo, "Saturday, January 12, 2013", Estadi Cornella-El Prat (18,500)
-Osasuna, 0, 0, Real Madrid, "Saturday, January 12, 2013", Reyno de Navarra (16,368)
-Valencia, 2, 0, Sevilla FC, "Saturday, January 12, 2013", Mestalla (30,000)
-Athletic Bilbao, 1, 2, Rayo Vallecano, "Friday, January 11, 2013", San Mames (36,000)
-Rayo Vallecano, 3, 1, Getafe, "Monday, January 7, 2013", Estadio Teresa Rivero (11,000)
-Celta Vigo, 3, 1, Real Valladolid, "Sunday, January 6, 2013", Balaidos (14,913)
-Real Madrid, 4, 3, Real Sociedad, "Sunday, January 6, 2013", Santiago Bernabeu (58,500)
-Barcelona, 4, 0, Espanyol, "Sunday, January 6, 2013", Camp Nou (73,760)
-Mallorca, 1, 1, Atletico Madrid, "Sunday, January 6, 2013", ONO Estadi (10,738)
-Levante, 3, 1, Athletic Bilbao, "Saturday, January 5, 2013", Ciutat de Valencia (7,550)
-Granada, 1, 2, Valencia, "Saturday, January 5, 2013", Los Carmenes (21,000)
-Deportivo La CoruÃ±a, 1, 0, Malaga, "Saturday, January 5, 2013", Riazor (25,000)
-Sevilla FC, 1, 0, Osasuna, "Saturday, January 5, 2013", Estadio Ramon Sanchez Pizjuan (19,000)
-Real Zaragoza, 1, 2, Real Betis, "Friday, January 4, 2013", La Romareda (19,000)
-Real Betis, 1, 2, Mallorca, "Saturday, December 22, 2012", Estadio Benito Villamarin (33,000)
-Real Valladolid, 1, 3, Barcelona, "Saturday, December 22, 2012", Nuevo Jose Zorilla Stadium (22,000)
-Malaga, 3, 2, Real Madrid, "Saturday, December 22, 2012", La Rosaleda (27,500)
-Osasuna, 1, 2, Granada, "Saturday, December 22, 2012", Reyno de Navarra (21,000)
-Athletic Bilbao, 0, 2, Real Zaragoza, "Saturday, December 22, 2012", San Mames (35,000)
-Valencia, 4, 2, Getafe, "Friday, December 21, 2012", Mestalla (32,000)
-Atletico Madrid, 1, 0, Celta Vigo, "Friday, December 21, 2012", Vicente Calderon (45,000)
-Rayo Vallecano, 3, 0, Levante, "Thursday, December 20, 2012", Estadio Teresa Rivero (11,000)
-Espanyol, 2, 0, Deportivo La CoruÃ±a, "Thursday, December 20, 2012", Estadi Cornella-El Prat (19,000)
-Real Sociedad, 2, 1, Sevilla FC, "Thursday, December 20, 2012", Anoeta (20,000)
-Deportivo La CoruÃ±a, 0, 0, Real Valladolid, "Monday, December 17, 2012", Riazor (25,000)
-Celta Vigo, 0, 1, Real Betis, "Monday, December 17, 2012", Balaidos (22,000)
-Real Zaragoza, 0, 1, Levante, "Sunday, December 16, 2012", La Romareda (23,000)
-Valencia, 0, 1, Rayo Vallecano, "Sunday, December 16, 2012", Mestalla (35,000)
-Real Madrid, 2, 2, Espanyol, "Sunday, December 16, 2012", Santiago Bernabeu (68,000)
-Barcelona, 4, 1, Atletico Madrid, "Sunday, December 16, 2012", Camp Nou (86,837)
-Getafe, 1, 1, Osasuna, "Saturday, December 15, 2012", Coliseum Alfonso Perez (7,000)
-Mallorca, 0, 1, Athletic Bilbao, "Saturday, December 15, 2012", ONO Estadi (12,824)
-Granada, 0, 0, Real Sociedad, "Saturday, December 15, 2012", Los Carmenes (20,000)
-Sevilla FC, 0, 2, Malaga, "Saturday, December 15, 2012", Estadio Ramon Sanchez Pizjuan (30,000)
-Rayo Vallecano, 0, 2, Real Zaragoza, "Monday, December 10, 2012", Estadio Teresa Rivero (9,000)
-Levante, 4, 0, Mallorca, "Sunday, December 9, 2012", Ciutat de Valencia (12,642)
-Athletic Bilbao, 1, 0, Celta Vigo, "Sunday, December 9, 2012", San Mames (38,000)
-Atletico Madrid, 6, 0, Deportivo La CoruÃ±a, "Sunday, December 9, 2012", Vicente Calderon (40,000)
-Real Betis, 1, 2, Barcelona, "Sunday, December 9, 2012", Estadio Benito Villamarin (46,147)
-Real Sociedad, 1, 1, Getafe, "Saturday, December 8, 2012", Anoeta (23,000)
-Malaga, 4, 0, Granada, "Saturday, December 8, 2012", La Rosaleda (26,000)
-Real Valladolid, 2, 3, Real Madrid, "Saturday, December 8, 2012", Nuevo Jose Zorilla Stadium (25,500)
-Osasuna, 0, 1, Valencia, "Saturday, December 8, 2012", Reyno de Navarra (15,849)
-Espanyol, 2, 2, Sevilla FC, "Friday, December 7, 2012", Estadi Cornella-El Prat (16,712)
-Sevilla FC, 1, 2, Real Valladolid, "Monday, December 3, 2012", Estadio Ramon Sanchez Pizjuan (32,000)
-Granada, 0, 0, Espanyol, "Sunday, December 2, 2012", Los Carmenes (20,000)
-Deportivo La CoruÃ±a, 2, 3, Real Betis, "Sunday, December 2, 2012", Riazor (27,000)
-Celta Vigo, 1, 1, Levante, "Sunday, December 2, 2012", Balaidos (17,537)
-Mallorca, 1, 1, Real Zaragoza, "Sunday, December 2, 2012", ONO Estadi (7,735)
-Getafe, 1, 0, Malaga, "Saturday, December 1, 2012", Coliseum Alfonso Perez (8,000)
-Valencia, 2, 5, Real Sociedad, "Saturday, December 1, 2012", Mestalla (38,000)
-Barcelona, 5, 1, Athletic Bilbao, "Saturday, December 1, 2012", Camp Nou (68,346)
-Real Madrid, 2, 0, Atletico Madrid, "Saturday, December 1, 2012", Santiago Bernabeu (83,000)
-Osasuna, 1, 0, Rayo Vallecano, "Friday, November 30, 2012", Reyno de Navarra (15,000)
-Real Zaragoza, 0, 1, Celta Vigo, "Monday, November 26, 2012", La Romareda (17,500)
-Espanyol, 0, 2, Getafe, "Sunday, November 25, 2012", Estadi Cornella-El Prat (19,053)
-Athletic Bilbao, 1, 1, Deportivo La CoruÃ±a, "Sunday, November 25, 2012", San Mames (38,000)
-Atletico Madrid, 4, 0, Sevilla FC, "Sunday, November 25, 2012", Vicente Calderon (54,000)
-Levante, 0, 4, Barcelona, "Sunday, November 25, 2012", Ciutat de Valencia (19,000)
-Rayo Vallecano, 2, 0, Mallorca, "Saturday, November 24, 2012", Estadio Teresa Rivero (11,500)
-Real Valladolid, 1, 0, Granada, "Saturday, November 24, 2012", Nuevo Jose Zorilla Stadium (13,500)
-Malaga, 4, 0, Valencia, "Saturday, November 24, 2012", La Rosaleda (24,500)
-Real Betis, 1, 0, Real Madrid, "Saturday, November 24, 2012", Estadio Benito Villamarin (40,185)
-Real Sociedad, 0, 0, Osasuna, "Friday, November 23, 2012", Anoeta (20,500)
-Real Sociedad, 4, 0, Rayo Vallecano, "Monday, November 19, 2012", Anoeta (22,600)
-Deportivo La CoruÃ±a, 0, 2, Levante, "Sunday, November 18, 2012", Riazor (25,000)
-Celta Vigo, 1, 1, Mallorca, "Sunday, November 18, 2012", Balaidos (17,814)
-Getafe, 2, 1, Real Valladolid, "Sunday, November 18, 2012", Coliseum Alfonso Perez (7,000)
-Granada, 0, 1, Atletico Madrid, "Sunday, November 18, 2012", Los Carmenes (22,500)
-Sevilla FC, 5, 1, Real Betis, "Sunday, November 18, 2012", Estadio Ramon Sanchez Pizjuan (42,000)
-Osasuna, 0, 0, Malaga, "Saturday, November 17, 2012", Reyno de Navarra (13,996)
-Valencia, 2, 1, Espanyol, "Saturday, November 17, 2012", Mestalla (38,000)
-Barcelona, 3, 1, Real Zaragoza, "Saturday, November 17, 2012", Camp Nou (73,248)
-Real Madrid, 5, 1, Athletic Bilbao, "Saturday, November 17, 2012", Santiago Bernabeu (75,000)
-Real Valladolid, 1, 1, Valencia, "Sunday, November 11, 2012", Nuevo Jose Zorilla Stadium (15,512)
-Athletic Bilbao, 2, 1, Sevilla FC, "Sunday, November 11, 2012", San Mames (38,000)
-Mallorca, 2, 4, Barcelona, "Sunday, November 11, 2012", ONO Estadi (15,940)
-Atletico Madrid, 2, 0, Getafe, "Sunday, November 11, 2012", Vicente Calderon (45,000)
-Levante, 1, 2, Real Madrid, "Sunday, November 11, 2012", Ciutat de Valencia (20,805)
-Rayo Vallecano, 3, 2, Celta Vigo, "Saturday, November 10, 2012", Estadio Teresa Rivero (8,956)
-Espanyol, 0, 3, Osasuna, "Saturday, November 10, 2012", Estadi Cornella-El Prat (20,523)
-Real Zaragoza, 5, 3, Deportivo La CoruÃ±a, "Saturday, November 10, 2012", La Romareda (24,000)
-Malaga, 1, 2, Real Sociedad, "Saturday, November 10, 2012", La Rosaleda (26,000)
-Real Betis, 1, 2, Granada, "Friday, November 9, 2012", Estadio Benito Villamarin (35,717)
-Getafe, 2, 4, Real Betis, "Monday, November 5, 2012", Coliseum Alfonso Perez (95,000)
-Real Sociedad, 0, 1, Espanyol, "Sunday, November 4, 2012", Anoeta (22,150)
-Deportivo La CoruÃ±a, 1, 0, Mallorca, "Sunday, November 4, 2012", Riazor (28,000)
-Osasuna, 0, 1, Real Valladolid, "Sunday, November 4, 2012", Reyno de Navarra (14,068)
-Granada, 1, 2, Athletic Bilbao, "Sunday, November 4, 2012", Los Carmenes (20,000)
-Sevilla FC, 0, 0, Levante, "Sunday, November 4, 2012", Estadio Ramon Sanchez Pizjuan (20,000)
-Malaga, 1, 2, Rayo Vallecano, "Saturday, November 3, 2012", La Rosaleda (26,000)
-Barcelona, 3, 1, Celta Vigo, "Saturday, November 3, 2012", Camp Nou (82,978)
-Real Madrid, 4, 0, Real Zaragoza, "Saturday, November 3, 2012", Santiago Bernabeu (67,216)
-Valencia, 2, 0, Atletico Madrid, "Saturday, November 3, 2012", Mestalla (53,000)
-Real Valladolid, 2, 2, Real Sociedad, "Monday, October 29, 2012", Nuevo Jose Zorilla Stadium (22,000)
-Real Zaragoza, 2, 1, Sevilla FC, "Sunday, October 28, 2012", La Romareda (26,000)
-Levante, 3, 1, Granada, "Sunday, October 28, 2012", Ciutat de Valencia (18,000)
-Athletic Bilbao, 1, 2, Getafe, "Sunday, October 28, 2012", San Mames (31,000)
-Atletico Madrid, 3, 1, Osasuna, "Sunday, October 28, 2012", Vicente Calderon (48,500)
-Mallorca, 0, 5, Real Madrid, "Sunday, October 28, 2012", ONO Estadi (17,500)
-Espanyol, 0, 0, Malaga, "Saturday, October 27, 2012", Estadi Cornella-El Prat (22,000)
-Real Betis, 1, 0, Valencia, "Saturday, October 27, 2012", Estadio Benito Villamarin (33,000)
-Celta Vigo, 1, 1, Deportivo La CoruÃ±a, "Saturday, October 27, 2012", Balaidos (26,800)
-Rayo Vallecano, 0, 5, Barcelona, "Saturday, October 27, 2012", Estadio Teresa Rivero (13,000)
-Sevilla FC, 3, 2, Mallorca, "Monday, October 22, 2012", Estadio Ramon Sanchez Pizjuan (30,000)
-Getafe, 0, 1, Levante, "Sunday, October 21, 2012", Coliseum Alfonso Perez (12,000)
-Espanyol, 3, 2, Rayo Vallecano, "Sunday, October 21, 2012", Estadi Cornella-El Prat (21,497)
-Granada, 1, 2, Real Zaragoza, "Sunday, October 21, 2012", Los Carmenes (20,000)
-Osasuna, 0, 0, Real Betis, "Sunday, October 21, 2012", Reyno de Navarra (15,215)
-Real Sociedad, 0, 1, Atletico Madrid, "Sunday, October 21, 2012", Anoeta (21,295)
-Malaga, 2, 1, Real Valladolid, "Saturday, October 20, 2012", La Rosaleda (27,000)
-Real Madrid, 2, 0, Celta Vigo, "Saturday, October 20, 2012", Santiago Bernabeu (74,415)
-Valencia, 3, 2, Athletic Bilbao, "Saturday, October 20, 2012", Mestalla (36,000)
-Deportivo La CoruÃ±a, 4, 5, Barcelona, "Saturday, October 20, 2012", Riazor (34,000)
-Levante, 1, 0, Valencia, "Sunday, October 7, 2012", Ciutat de Valencia (20,060)
-Mallorca, 1, 2, Granada, "Sunday, October 7, 2012", ONO Estadi (11,665)
-Athletic Bilbao, 1, 0, Osasuna, "Sunday, October 7, 2012", San Mames (37,000)
-Barcelona, 2, 2, Real Madrid, "Sunday, October 7, 2012", Camp Nou (96,589)
-Atletico Madrid, 2, 1, Malaga, "Sunday, October 7, 2012", Vicente Calderon (52,000)
-Rayo Vallecano, 2, 1, Deportivo La CoruÃ±a, "Saturday, October 6, 2012", Estadio Teresa Rivero (11,516)
-Real Zaragoza, 0, 1, Getafe, "Saturday, October 6, 2012", La Romareda (18,000)
-Real Valladolid, 1, 1, Espanyol, "Saturday, October 6, 2012", Nuevo Jose Zorilla Stadium (17,500)
-Real Betis, 2, 0, Real Sociedad, "Saturday, October 6, 2012", Estadio Benito Villamarin (35,000)
-Celta Vigo, 2, 0, Sevilla FC, "Friday, October 5, 2012", Balaidos (19,427)
-Getafe, 1, 0, Mallorca, "Monday, October 1, 2012", Coliseum Alfonso Perez (8,000)
-Granada, 2, 1, Celta Vigo, "Sunday, September 30, 2012", Los Carmenes (20,000)
-Real Valladolid, 6, 1, Rayo Vallecano, "Sunday, September 30, 2012", Nuevo Jose Zorilla Stadium (14,978)
-Osasuna, 4, 0, Levante, "Sunday, September 30, 2012", Reyno de Navarra (14,101)
-Real Madrid, 5, 1, Deportivo La CoruÃ±a, "Sunday, September 30, 2012", Santiago Bernabeu (75,000)
-Espanyol, 0, 1, Atletico Madrid, "Sunday, September 30, 2012", Estadi Cornella-El Prat (21,888)
-Valencia, 2, 0, Real Zaragoza, "Saturday, September 29, 2012", Mestalla (33,000)
-Malaga, 4, 0, Real Betis, "Saturday, September 29, 2012", La Rosaleda (26,000)
-Real Sociedad, 2, 0, Athletic Bilbao, "Saturday, September 29, 2012", Anoeta (27,800)
-Sevilla FC, 2, 3, Barcelona, "Saturday, September 29, 2012", Estadio Ramon Sanchez Pizjuan (40,000)
-Rayo Vallecano, 0, 2, Real Madrid, "Monday, September 24, 2012", Campo de FÃºtbol de Vallecas (15,000)
-Deportivo La CoruÃ±a, 0, 2, Sevilla FC, "Monday, September 24, 2012", Riazor (27,000)
-Mallorca, 2, 0, Valencia, "Sunday, September 23, 2012", ONO Estadi (14,495)
-Levante, 2, 1, Real Sociedad, "Sunday, September 23, 2012", Ciutat de Valencia (13,100)
-Atletico Madrid, 2, 1, Real Valladolid, "Sunday, September 23, 2012", Vicente Calderon (45,000)
-Athletic Bilbao, 0, 0, Malaga, "Sunday, September 23, 2012", San Mames (38,000)
-Real Zaragoza, 3, 1, Osasuna, "Saturday, September 22, 2012", La Romareda (20,000)
-Celta Vigo, 2, 1, Getafe, "Saturday, September 22, 2012", Balaidos (18,000)
-Real Betis, 1, 0, Espanyol, "Saturday, September 22, 2012", Estadio Benito Villamarin (33,211)
-Barcelona, 2, 0, Granada, "Saturday, September 22, 2012", Camp Nou (65,934)
-Real Valladolid, 0, 1, Real Betis, "Monday, September 17, 2012", Nuevo Jose Zorilla Stadium (22,300)
-Espanyol, 3, 3, Athletic Bilbao, "Sunday, September 16, 2012", Estadi Cornella-El Prat (15,923)
-Granada, 1, 1, Deportivo La CoruÃ±a, "Sunday, September 16, 2012", Los Carmenes (9,916)
-Osasuna, 1, 1, Mallorca, "Sunday, September 16, 2012", Reyno de Navarra (12,873)
-Real Sociedad, 2, 0, Real Zaragoza, "Sunday, September 16, 2012", Anoeta (20,000)
-Atletico Madrid, 4, 3, Rayo Vallecano, "Sunday, September 16, 2012", Vicente Calderon (40,000)
-Malaga, 3, 1, Levante, "Saturday, September 15, 2012", La Rosaleda (27,000)
-Valencia, 2, 1, Celta Vigo, "Saturday, September 15, 2012", Mestalla (37,000)
-Getafe, 1, 4, Barcelona, "Saturday, September 15, 2012", Coliseum Alfonso Perez (8,634)
-Sevilla FC, 1, 0, Real Madrid, "Saturday, September 15, 2012", Estadio Ramon Sanchez Pizjuan (35,000)
-Real Betis, 2, 4, Atletico Madrid, "Monday, September 3, 2012", Estadio Benito Villamarin (48,000)
-Rayo Vallecano, 0, 0, Sevilla FC, "Sunday, September 2, 2012", Estadio Teresa Rivero (8,634)
-Athletic Bilbao, 2, 0, Real Valladolid, "Sunday, September 2, 2012", San Mames (35,000)
-Levante, 3, 2, Espanyol, "Sunday, September 2, 2012", Ciutat de Valencia (20,000)
-Real Madrid, 3, 0, Granada, "Sunday, September 2, 2012", Santiago Bernabeu (59,782)
-Barcelona, 1, 0, Valencia, "Sunday, September 2, 2012", Camp Nou (76,352)
-Celta Vigo, 2, 0, Osasuna, "Saturday, September 1, 2012", Balaidos (15,923)
-Real Zaragoza, 0, 1, Malaga, "Saturday, September 1, 2012", La Romareda (20,000)
-Deportivo La CoruÃ±a, 1, 1, Getafe, "Saturday, September 1, 2012", Riazor (30,000)
-Mallorca, 1, 0, Real Sociedad, "Saturday, September 1, 2012", ONO Estadi (9,916)
-Real Valladolid, 2, 0, Levante, "Monday, August 27, 2012", Nuevo Jose Zorilla Stadium (19,500)
-Atletico Madrid, 4, 0, Athletic Bilbao, "Monday, August 27, 2012", Vicente Calderon (48,500)
-Osasuna, 1, 2, Barcelona, "Sunday, August 26, 2012", Reyno de Navarra (16,000)
-Getafe, 2, 1, Real Madrid, "Sunday, August 26, 2012", Coliseum Alfonso Perez (9,600)
-Granada, 1, 1, Sevilla FC, "Sunday, August 26, 2012", Los Carmenes (21,500)
-Valencia, 3, 3, Deportivo La CoruÃ±a, "Sunday, August 26, 2012", Mestalla (35,000)
-Real Sociedad, 2, 1, Celta Vigo, "Saturday, August 25, 2012", Anoeta (15,000)
-Espanyol, 1, 2, Real Zaragoza, "Saturday, August 25, 2012", Estadi Cornella-El Prat (16,923)
-Real Betis, 1, 2, Rayo Vallecano, "Saturday, August 25, 2012", Estadio Benito Villamarin (29,237)
-Malaga, 1, 1, Mallorca, "Saturday, August 25, 2012", La Rosaleda (20,000)
-Deportivo La CoruÃ±a, 2, 0, Osasuna, "Monday, August 20, 2012", Riazor (36,000)
-Rayo Vallecano, 1, 0, Granada, "Monday, August 20, 2012", Estadio Teresa Rivero (18,000)
-Real Zaragoza, 0, 1, Real Valladolid, "Monday, August 20, 2012", La Romareda (21,000)
-Athletic Bilbao, 3, 5, Real Betis, "Sunday, August 19, 2012", San Mames (35,000)
-Real Madrid, 1, 1, Valencia, "Sunday, August 19, 2012", Santiago Bernabeu (78,000)
-Barcelona, 5, 1, Real Sociedad, "Sunday, August 19, 2012", Camp Nou (75,000)
-Levante, 1, 1, Atletico Madrid, "Sunday, August 19, 2012", Ciutat de Valencia (30,000)
-Celta Vigo, 0, 1, Malaga, "Saturday, August 18, 2012", Balaidos (16,000)
-Sevilla FC, 2, 1, Getafe, "Saturday, August 18, 2012", Estadio Ramon Sanchez Pizjuan (30,000)
-Mallorca, 2, 1, Espanyol, "Saturday, August 18, 2012", ONO Estadi (22,000)
+Real Madrid, 4, 2, Osasuna, "Saturday, June 1, 2013"," Santiago Bernabeu (68,000)"
+Barcelona, 4, 1, Malaga, "Saturday, June 1, 2013"," Camp Nou (70,000)"
+Celta Vigo, 1, 0, Espanyol, "Saturday, June 1, 2013"," Balaidos (31,000)"
+Deportivo La CoruÃ±a, 0, 1, Real Sociedad, "Saturday, June 1, 2013"," Riazor (34,000)"
+Granada, 2, 0, Getafe, "Saturday, June 1, 2013"," Los Carmenes (20,000)"
+Levante, 1, 1, Real Betis, "Saturday, June 1, 2013"," Ciutat de Valencia (15,000)"
+Mallorca, 4, 2, Real Valladolid, "Saturday, June 1, 2013"," ONO Estadi (15,000)"
+Rayo Vallecano, 2, 2, Athletic Bilbao, "Saturday, June 1, 2013"," Estadio Teresa Rivero (12,000)"
+Real Zaragoza, 1, 3, Atletico Madrid, "Saturday, June 1, 2013"," La Romareda (34,500)"
+Sevilla FC, 4, 3, Valencia, "Saturday, June 1, 2013"," Estadio Ramon Sanchez Pizjuan (38,000)"
+Athletic Bilbao, 0, 1, Levante, "Sunday, May 26, 2013"," San Mames (40,000)"
+Atletico Madrid, 0, 0, Mallorca, "Sunday, May 26, 2013"," Vicente Calderon (50,000)"
+Espanyol, 0, 2, Barcelona, "Sunday, May 26, 2013"," Estadi Cornella-El Prat (27,578)"
+Getafe, 1, 2, Rayo Vallecano, "Sunday, May 26, 2013"," Coliseum Alfonso Perez (8,000)"
+Malaga, 3, 1, Deportivo La CoruÃ±a, "Sunday, May 26, 2013"," La Rosaleda (28,000)"
+Osasuna, 2, 1, Sevilla FC, "Sunday, May 26, 2013"," Reyno de Navarra (19,594)"
+Real Betis, 4, 0, Real Zaragoza, "Sunday, May 26, 2013"," Estadio Benito Villamarin (47,460)"
+Real Sociedad, 3, 3, Real Madrid, "Sunday, May 26, 2013"," Anoeta (32,000)"
+Real Valladolid, 0, 2, Celta Vigo, "Sunday, May 26, 2013"," Nuevo Jose Zorilla Stadium (14,890)"
+Valencia, 1, 0, Granada, "Sunday, May 26, 2013"," Mestalla (40,000)"
+Mallorca, 1, 0, Real Betis, "Monday, May 20, 2013"," ONO Estadi (12,000)"
+Levante, 2, 3, Rayo Vallecano, "Sunday, May 19, 2013"," Ciutat de Valencia (12,000)"
+Deportivo La CoruÃ±a, 2, 0, Espanyol, "Sunday, May 19, 2013"," Riazor (34,000)"
+Real Zaragoza, 1, 2, Athletic Bilbao, "Sunday, May 19, 2013"," La Romareda (34,596)"
+Barcelona, 2, 1, Real Valladolid, "Sunday, May 19, 2013"," Camp Nou (56,055)"
+Getafe, 0, 1, Valencia, "Saturday, May 18, 2013"," Coliseum Alfonso Perez (7,000)"
+Granada, 3, 0, Osasuna, "Saturday, May 18, 2013"," Estadio Los CÃ¡rmenes (22,500)"
+Sevilla FC, 1, 2, Real Sociedad, "Saturday, May 18, 2013"," Estadio Ramon Sanchez Pizjuan (35,000)"
+Real Sociedad, 2, 2, Granada, "Monday, May 13, 2013"," Anoeta (22,000)"
+Rayo Vallecano, 0, 4, Valencia, "Sunday, May 12, 2013"," Estadio Teresa Rivero (9,041)"
+Real Betis, 1, 0, Celta Vigo, "Sunday, May 12, 2013"," Estadio Benito Villamarin (38,547)"
+Atletico Madrid, 1, 2, Barcelona, "Sunday, May 12, 2013"," Vicente Calderon (54,000)"
+Malaga, 0, 0, Sevilla FC, "Sunday, May 12, 2013"," La Rosaleda (29,000)"
+Athletic Bilbao, 2, 1, Mallorca, "Saturday, May 11, 2013"," San Mames (40,000)"
+Real Valladolid, 1, 0, Deportivo La CoruÃ±a, "Saturday, May 11, 2013"," Nuevo Jose Zorilla Stadium (21,239)"
+Osasuna, 1, 0, Getafe, "Saturday, May 11, 2013"," Reyno de Navarra (18,012)"
+Espanyol, 1, 1, Real Madrid, "Saturday, May 11, 2013"," Estadi Cornella-El Prat (30,023)"
+Levante, 0, 0, Real Zaragoza, "Friday, May 10, 2013"," Ciutat de Valencia (15,113)"
+Celta Vigo, 1, 3, Atletico Madrid, "Wednesday, May 8, 2013"," Balaidos (25,000)"
+Real Madrid, 6, 2, Malaga, "Wednesday, May 8, 2013"," Santiago Bernabeu (57,346)"
+Getafe, 2, 1, Real Sociedad, "Monday, May 6, 2013"," Coliseum Alfonso Perez (8,000)"
+Mallorca, 1, 1, Levante, "Sunday, May 5, 2013"," ONO Estadi (30,000)"
+Real Zaragoza, 3, 0, Rayo Vallecano, "Sunday, May 5, 2013"," La Romareda (34,000)"
+Sevilla FC, 3, 0, Espanyol, "Sunday, May 5, 2013"," Estadio Ramon Sanchez Pizjuan (32,000)"
+Barcelona, 4, 2, Real Betis, "Sunday, May 5, 2013"," Camp Nou (67,185)"
+Valencia, 4, 0, Osasuna, "Saturday, May 4, 2013"," Mestalla (35,000)"
+Granada, 1, 0, Malaga, "Saturday, May 4, 2013"," Los Carmenes (23,000)"
+Real Madrid, 4, 3, Real Valladolid, "Saturday, May 4, 2013"," Santiago Bernabeu (55,000)"
+Deportivo La CoruÃ±a, 0, 0, Atletico Madrid, "Saturday, May 4, 2013"," Riazor (34,611)"
+Celta Vigo, 1, 1, Athletic Bilbao, "Friday, May 3, 2013"," Balaidos (26,000)"
+Real Betis, 1, 1, Deportivo La CoruÃ±a, "Monday, April 29, 2013"," Estadio Benito Villamarin (32,800)"
+Espanyol, 0, 1, Granada, "Sunday, April 28, 2013"," Estadi Cornella-El Prat (23,800)"
+Malaga, 2, 1, Getafe, "Sunday, April 28, 2013"," La Rosaleda (28,000)"
+Real Valladolid, 1, 1, Sevilla FC, "Sunday, April 28, 2013"," Nuevo Jose Zorilla Stadium (16,832)"
+Real Sociedad, 4, 2, Valencia, "Sunday, April 28, 2013"," Anoeta (28,097)"
+Levante, 0, 1, Celta Vigo, "Saturday, April 27, 2013"," Ciutat de Valencia (11,658)"
+Athletic Bilbao, 2, 2, Barcelona, "Saturday, April 27, 2013"," San Mames (40,000)"
+Atletico Madrid, 1, 2, Real Madrid, "Saturday, April 27, 2013"," Vicente Calderon (54,000)"
+Real Zaragoza, 3, 2, Mallorca, "Saturday, April 27, 2013"," La Romareda (30,000)"
+Rayo Vallecano, 2, 2, Osasuna, "Friday, April 26, 2013"," Estadio Teresa Rivero (9,700)"
+Celta Vigo, 2, 1, Real Zaragoza, "Monday, April 22, 2013"," Balaidos (17,500)"
+Getafe, 0, 2, Espanyol, "Sunday, April 21, 2013"," Coliseum Alfonso Perez (8,000)"
+Deportivo La CoruÃ±a, 1, 1, Athletic Bilbao, "Sunday, April 21, 2013"," Riazor (34,000)"
+Osasuna, 0, 0, Real Sociedad, "Sunday, April 21, 2013"," Reyno de Navarra (19,627)"
+Sevilla FC, 0, 1, Atletico Madrid, "Sunday, April 21, 2013"," Estadio Ramon Sanchez Pizjuan (35,000)"
+Granada, 1, 1, Real Valladolid, "Saturday, April 20, 2013"," Los Carmenes (21,000)"
+Real Madrid, 3, 1, Real Betis, "Saturday, April 20, 2013"," Santiago Bernabeu (72,327)"
+Barcelona, 1, 0, Levante, "Saturday, April 20, 2013"," Camp Nou (79,000)"
+Valencia, 5, 1, Malaga, "Saturday, April 20, 2013"," Mestalla (41,000)"
+Mallorca, 1, 1, Rayo Vallecano, "Friday, April 19, 2013"," ONO Estadi (15,000)"
+Mallorca, 1, 0, Celta Vigo, "Monday, April 15, 2013"," ONO Estadi (13,000)"
+Rayo Vallecano, 0, 2, Real Sociedad, "Sunday, April 14, 2013"," Estadio Teresa Rivero (11,446)"
+Atletico Madrid, 5, 0, Granada, "Sunday, April 14, 2013"," Vicente Calderon (54,000)"
+Real Zaragoza, 0, 3, Barcelona, "Sunday, April 14, 2013"," La Romareda (28,000)"
+Athletic Bilbao, 0, 3, Real Madrid, "Sunday, April 14, 2013"," San Mames (39,000)"
+Real Valladolid, 2, 1, Getafe, "Saturday, April 13, 2013"," Nuevo Jose Zorilla Stadium (14,000)"
+Levante, 0, 4, Deportivo La CoruÃ±a, "Saturday, April 13, 2013"," Ciutat de Valencia (17,000)"
+Espanyol, 3, 3, Valencia, "Saturday, April 13, 2013"," Estadi Cornella-El Prat (24,500)"
+Malaga, 1, 0, Osasuna, "Saturday, April 13, 2013"," La Rosaleda (28,000)"
+Real Betis, 3, 3, Sevilla FC, "Friday, April 12, 2013"," Estadio Benito Villamarin (52,000)"
+Sevilla FC, 2, 1, Athletic Bilbao, "Monday, April 8, 2013"," Estadio Ramon Sanchez Pizjuan (31,000)"
+Celta Vigo, 0, 2, Rayo Vallecano, "Sunday, April 7, 2013"," Balaidos (19,345)"
+Osasuna, 0, 2, Espanyol, "Sunday, April 7, 2013"," Reyno de Navarra (17,501)"
+Getafe, 0, 0, Atletico Madrid, "Sunday, April 7, 2013"," Coliseum Alfonso Perez (10,000)"
+Valencia, 2, 1, Real Valladolid, "Sunday, April 7, 2013"," Mestalla (35,000)"
+Real Sociedad, 4, 2, Malaga, "Saturday, April 6, 2013"," Anoeta (25,787)"
+Real Madrid, 5, 1, Levante, "Saturday, April 6, 2013"," Santiago Bernabeu (65,875)"
+Deportivo La CoruÃ±a, 3, 2, Real Zaragoza, "Saturday, April 6, 2013"," Riazor (34,000)"
+Barcelona, 5, 0, Mallorca, "Saturday, April 6, 2013"," Camp Nou (65,127)"
+Granada, 1, 5, Real Betis, "Friday, April 5, 2013"," Los Carmenes (20,000)"
+Athletic Bilbao, 1, 0, Granada, "Monday, April 1, 2013"," San Mames (37,500)"
+Real Betis, 0, 0, Getafe, "Monday, April 1, 2013"," Estadio Benito Villamarin (31,250)"
+Real Valladolid, 1, 3, Osasuna, "Sunday, March 31, 2013"," Nuevo Jose Zorilla Stadium (20,000)"
+Mallorca, 2, 3, Deportivo La CoruÃ±a, "Sunday, March 31, 2013"," ONO Estadi (14,716)"
+Espanyol, 2, 2, Real Sociedad, "Sunday, March 31, 2013"," Estadi Cornella-El Prat (27,500)"
+Atletico Madrid, 1, 1, Valencia, "Sunday, March 31, 2013"," Vicente Calderon (49,000)"
+Rayo Vallecano, 1, 3, Malaga, "Saturday, March 30, 2013"," Estadio Teresa Rivero (12,500)"
+Celta Vigo, 2, 2, Barcelona, "Saturday, March 30, 2013"," Balaidos (30,000)"
+Real Zaragoza, 1, 1, Real Madrid, "Saturday, March 30, 2013"," La Romareda (31,000)"
+Levante, 1, 0, Sevilla FC, "Saturday, March 30, 2013"," Ciutat de Valencia (20,500)"
+Malaga, 0, 2, Espanyol, "Sunday, March 17, 2013"," La Rosaleda (28,000)"
+Sevilla FC, 4, 0, Real Zaragoza, "Sunday, March 17, 2013"," Estadio Ramon Sanchez Pizjuan (25,000)"
+Osasuna, 0, 2, Atletico Madrid, "Sunday, March 17, 2013"," Reyno de Navarra (20,000)"
+Barcelona, 3, 1, Rayo Vallecano, "Sunday, March 17, 2013"," Camp Nou (68,197)"
+Granada, 1, 1, Levante, "Sunday, March 17, 2013"," Los Carmenes (20,000)"
+Real Sociedad, 4, 1, Real Valladolid, "Saturday, March 16, 2013"," Anoeta (25,000)"
+Getafe, 1, 0, Athletic Bilbao, "Saturday, March 16, 2013"," Coliseum Alfonso Perez (9,000)"
+Real Madrid, 5, 2, Mallorca, "Saturday, March 16, 2013"," Santiago Bernabeu (63,500)"
+Valencia, 3, 0, Real Betis, "Saturday, March 16, 2013"," Mestalla (3,000)"
+Deportivo La CoruÃ±a, 3, 1, Celta Vigo, "Friday, March 15, 2013"," Riazor (34,000)"
+Real Zaragoza, 0, 0, Granada, "Monday, March 11, 2013"," La Romareda (25,000)"
+Athletic Bilbao, 1, 0, Valencia, "Sunday, March 10, 2013"," San Mames (38,000)"
+Levante, 0, 0, Getafe, "Sunday, March 10, 2013"," Ciutat de Valencia (16,182)"
+Celta Vigo, 1, 2, Real Madrid, "Sunday, March 10, 2013"," Balaidos (25,344)"
+Atletico Madrid, 0, 1, Real Sociedad, "Sunday, March 10, 2013"," Vicente Calderon (44,000)"
+Rayo Vallecano, 2, 0, Espanyol, "Saturday, March 9, 2013"," Estadio Teresa Rivero (8,292)"
+Real Valladolid, 1, 1, Malaga, "Saturday, March 9, 2013"," Nuevo Jose Zorilla Stadium (15,420)"
+Barcelona, 2, 0, Deportivo La CoruÃ±a, "Saturday, March 9, 2013"," Camp Nou (69,748)"
+Mallorca, 2, 1, Sevilla FC, "Saturday, March 9, 2013"," ONO Estadi (20,615)"
+Real Betis, 2, 1, Osasuna, "Friday, March 8, 2013"," Estadio Benito Villamarin (23,806)"
+Sevilla FC, 4, 1, Celta Vigo, "Monday, March 4, 2013"," Estadio Ramon Sanchez Pizjuan (27,000)"
+Granada, 1, 2, Mallorca, "Sunday, March 3, 2013"," Los Carmenes (22,524)"
+Espanyol, 0, 0, Real Valladolid, "Sunday, March 3, 2013"," Estadi Cornella-El Prat (20,423)"
+Malaga, 0, 0, Atletico Madrid, "Sunday, March 3, 2013"," La Rosaleda (28,500)"
+Real Sociedad, 3, 3, Real Betis, "Sunday, March 3, 2013"," Anoeta (22,162)"
+Real Madrid, 2, 1, Barcelona, "Saturday, March 2, 2013"," Santiago Bernabeu (84,000)"
+Deportivo La CoruÃ±a, 0, 0, Rayo Vallecano, "Saturday, March 2, 2013"," Riazor (25,000)"
+Osasuna, 0, 1, Athletic Bilbao, "Saturday, March 2, 2013"," Reyno de Navarra (19,800)"
+Valencia, 2, 2, Levante, "Saturday, March 2, 2013"," Mestalla (40,000)"
+Getafe, 2, 0, Real Zaragoza, "Friday, March 1, 2013"," Coliseum Alfonso Perez (7,200)"
+Levante, 0, 2, Osasuna, "Monday, February 25, 2013"," Ciutat de Valencia (10,553)"
+Rayo Vallecano, 1, 2, Real Valladolid, "Sunday, February 24, 2013"," Estadio Teresa Rivero (15,000)"
+Celta Vigo, 2, 1, Granada, "Sunday, February 24, 2013"," Balaidos (19,000)"
+Atletico Madrid, 1, 0, Espanyol, "Sunday, February 24, 2013"," Vicente Calderon (33,000)"
+Real Betis, 3, 0, Malaga, "Sunday, February 24, 2013"," Estadio Benito Villamarin (30,000)"
+Mallorca, 1, 3, Getafe, "Saturday, February 23, 2013"," ONO Estadi (11,000)"
+Real Zaragoza, 2, 2, Valencia, "Saturday, February 23, 2013"," La Romareda (19,000)"
+Deportivo La CoruÃ±a, 1, 2, Real Madrid, "Saturday, February 23, 2013"," Riazor (31,000)"
+Barcelona, 2, 1, Sevilla FC, "Saturday, February 23, 2013"," Camp Nou (70,000)"
+Athletic Bilbao, 1, 3, Real Sociedad, "Friday, February 22, 2013"," San Mames (40,000)"
+Real Sociedad, 1, 1, Levante, "Sunday, February 17, 2013"," Anoeta (23,743)"
+Valencia, 2, 0, Mallorca, "Sunday, February 17, 2013"," Mestalla (31,200)"
+Real Valladolid, 0, 3, Atletico Madrid, "Sunday, February 17, 2013"," Nuevo Jose Zorilla Stadium (18,200)"
+Espanyol, 1, 0, Real Betis, "Sunday, February 17, 2013"," Estadi Cornella-El Prat (21,000)"
+Real Madrid, 2, 0, Rayo Vallecano, "Sunday, February 17, 2013"," Santiago Bernabeu (63,000)"
+Getafe, 3, 1, Celta Vigo, "Saturday, February 16, 2013"," Coliseum Alfonso Perez (9,100)"
+Malaga, 1, 0, Athletic Bilbao, "Saturday, February 16, 2013"," La Rosaleda (29,900)"
+Granada, 1, 2, Barcelona, "Saturday, February 16, 2013"," Los Carmenes (22,000)"
+Osasuna, 1, 0, Real Zaragoza, "Saturday, February 16, 2013"," Reyno de Navarra (17,322)"
+Sevilla FC, 3, 1, Deportivo La CoruÃ±a, "Friday, February 15, 2013"," Estadio Ramon Sanchez Pizjuan (33,200)"
+Real Betis, 0, 0, Real Valladolid, "Monday, February 11, 2013"," Estadio Benito Villamarin (26,785)"
+Barcelona, 6, 1, Getafe, "Sunday, February 10, 2013"," Camp Nou (90,200)"
+Real Zaragoza, 1, 2, Real Sociedad, "Sunday, February 10, 2013"," La Romareda (25,840)"
+Athletic Bilbao, 0, 4, Espanyol, "Sunday, February 10, 2013"," San Mames (29,200)"
+Rayo Vallecano, 2, 1, Atletico Madrid, "Sunday, February 10, 2013"," Estadio Teresa Rivero (12,800)"
+Mallorca, 1, 1, Osasuna, "Saturday, February 9, 2013"," ONO Estadi (13,816)"
+Celta Vigo, 0, 1, Valencia, "Saturday, February 9, 2013"," Balaidos (20,900)"
+Levante, 1, 2, Malaga, "Saturday, February 9, 2013"," Ciutat de Valencia (20,100)"
+Deportivo La CoruÃ±a, 0, 3, Granada, "Saturday, February 9, 2013"," Riazor (27,300)"
+Real Madrid, 4, 1, Sevilla FC, "Saturday, February 9, 2013"," Santiago Bernabeu (65,000)"
+Malaga, 1, 1, Real Zaragoza, "Sunday, February 3, 2013"," La Rosaleda (25,000)"
+Sevilla FC, 2, 1, Rayo Vallecano, "Sunday, February 3, 2013"," Estadio Ramon Sanchez Pizjuan (36,000)"
+Valencia, 1, 1, Barcelona, "Sunday, February 3, 2013"," Mestalla (48,000)"
+Atletico Madrid, 1, 0, Real Betis, "Sunday, February 3, 2013"," Vicente Calderon (50,000)"
+Real Sociedad, 3, 0, Mallorca, "Sunday, February 3, 2013"," Anoeta (19,000)"
+Osasuna, 1, 0, Celta Vigo, "Saturday, February 2, 2013"," Reyno de Navarra (15,000)"
+Getafe, 3, 1, Deportivo La CoruÃ±a, "Saturday, February 2, 2013"," Coliseum Alfonso Perez (9,000)"
+Espanyol, 3, 2, Levante, "Saturday, February 2, 2013"," Estadi Cornella-El Prat (22,000)"
+Granada, 1, 0, Real Madrid, "Saturday, February 2, 2013"," Los Carmenes (23,000)"
+Real Valladolid, 2, 2, Athletic Bilbao, "Friday, February 1, 2013"," Nuevo Jose Zorilla Stadium (16,000)"
+Sevilla FC, 3, 0, Granada, "Monday, January 28, 2013"," Estadio Ramon Sanchez Pizjuan (29,000)"
+Real Madrid, 4, 0, Getafe, "Sunday, January 27, 2013"," Santiago Bernabeu (71,208)"
+Rayo Vallecano, 3, 0, Real Betis, "Sunday, January 27, 2013"," Estadio Teresa Rivero (9,033)"
+Barcelona, 5, 1, Osasuna, "Sunday, January 27, 2013"," Camp Nou (65,000)"
+Athletic Bilbao, 3, 0, Atletico Madrid, "Sunday, January 27, 2013"," San Mames (35,000)"
+Mallorca, 2, 3, Malaga, "Sunday, January 27, 2013"," ONO Estadi (10,547)"
+Celta Vigo, 1, 1, Real Sociedad, "Saturday, January 26, 2013"," Balaidos (18,131)"
+Levante, 2, 1, Real Valladolid, "Saturday, January 26, 2013"," Ciutat de Valencia (14,128)"
+Real Zaragoza, 0, 0, Espanyol, "Saturday, January 26, 2013"," La Romareda (18,000)"
+Deportivo La CoruÃ±a, 2, 3, Valencia, "Saturday, January 26, 2013"," Riazor (33,000)"
+Real Betis, 1, 1, Athletic Bilbao, "Monday, January 21, 2013"," Estadio Benito Villamarin (42,000)"
+Osasuna, 2, 1, Deportivo La CoruÃ±a, "Sunday, January 20, 2013"," Reyno de Navarra (14,135)"
+Real Valladolid, 2, 0, Real Zaragoza, "Sunday, January 20, 2013"," Nuevo Jose Zorilla Stadium (13,058)"
+Atletico Madrid, 2, 0, Levante, "Sunday, January 20, 2013"," Vicente Calderon (35,000)"
+Valencia, 0, 5, Real Madrid, "Sunday, January 20, 2013"," Mestalla (40,000)"
+Granada, 2, 0, Rayo Vallecano, "Saturday, January 19, 2013"," Los Carmenes (17,000)"
+Real Sociedad, 3, 2, Barcelona, "Saturday, January 19, 2013"," Anoeta (25,000)"
+Getafe, 1, 1, Sevilla FC, "Saturday, January 19, 2013"," Coliseum Alfonso Perez (5,000)"
+Malaga, 1, 1, Celta Vigo, "Saturday, January 19, 2013"," La Rosaleda (24,000)"
+Espanyol, 3, 2, Mallorca, "Friday, January 18, 2013"," Estadi Cornella-El Prat (17,169)"
+Getafe, 2, 2, Granada, "Monday, January 14, 2013"," Coliseum Alfonso Perez (8,000)"
+Real Betis, 2, 0, Levante, "Sunday, January 13, 2013"," Estadio Benito Villamarin (36,651)"
+Real Sociedad, 1, 1, Deportivo La CoruÃ±a, "Sunday, January 13, 2013"," Anoeta (22,500)"
+Atletico Madrid, 2, 0, Real Zaragoza, "Sunday, January 13, 2013"," Vicente Calderon (45,000)"
+Malaga, 1, 3, Barcelona, "Sunday, January 13, 2013"," La Rosaleda (23,000)"
+Real Valladolid, 3, 1, Mallorca, "Saturday, January 12, 2013"," Nuevo Jose Zorilla Stadium (12,949)"
+Espanyol, 1, 0, Celta Vigo, "Saturday, January 12, 2013"," Estadi Cornella-El Prat (18,500)"
+Osasuna, 0, 0, Real Madrid, "Saturday, January 12, 2013"," Reyno de Navarra (16,368)"
+Valencia, 2, 0, Sevilla FC, "Saturday, January 12, 2013"," Mestalla (30,000)"
+Athletic Bilbao, 1, 2, Rayo Vallecano, "Friday, January 11, 2013"," San Mames (36,000)"
+Rayo Vallecano, 3, 1, Getafe, "Monday, January 7, 2013"," Estadio Teresa Rivero (11,000)"
+Celta Vigo, 3, 1, Real Valladolid, "Sunday, January 6, 2013"," Balaidos (14,913)"
+Real Madrid, 4, 3, Real Sociedad, "Sunday, January 6, 2013"," Santiago Bernabeu (58,500)"
+Barcelona, 4, 0, Espanyol, "Sunday, January 6, 2013"," Camp Nou (73,760)"
+Mallorca, 1, 1, Atletico Madrid, "Sunday, January 6, 2013"," ONO Estadi (10,738)"
+Levante, 3, 1, Athletic Bilbao, "Saturday, January 5, 2013"," Ciutat de Valencia (7,550)"
+Granada, 1, 2, Valencia, "Saturday, January 5, 2013"," Los Carmenes (21,000)"
+Deportivo La CoruÃ±a, 1, 0, Malaga, "Saturday, January 5, 2013"," Riazor (25,000)"
+Sevilla FC, 1, 0, Osasuna, "Saturday, January 5, 2013"," Estadio Ramon Sanchez Pizjuan (19,000)"
+Real Zaragoza, 1, 2, Real Betis, "Friday, January 4, 2013"," La Romareda (19,000)"
+Real Betis, 1, 2, Mallorca, "Saturday, December 22, 2012"," Estadio Benito Villamarin (33,000)"
+Real Valladolid, 1, 3, Barcelona, "Saturday, December 22, 2012"," Nuevo Jose Zorilla Stadium (22,000)"
+Malaga, 3, 2, Real Madrid, "Saturday, December 22, 2012"," La Rosaleda (27,500)"
+Osasuna, 1, 2, Granada, "Saturday, December 22, 2012"," Reyno de Navarra (21,000)"
+Athletic Bilbao, 0, 2, Real Zaragoza, "Saturday, December 22, 2012"," San Mames (35,000)"
+Valencia, 4, 2, Getafe, "Friday, December 21, 2012"," Mestalla (32,000)"
+Atletico Madrid, 1, 0, Celta Vigo, "Friday, December 21, 2012"," Vicente Calderon (45,000)"
+Rayo Vallecano, 3, 0, Levante, "Thursday, December 20, 2012"," Estadio Teresa Rivero (11,000)"
+Espanyol, 2, 0, Deportivo La CoruÃ±a, "Thursday, December 20, 2012"," Estadi Cornella-El Prat (19,000)"
+Real Sociedad, 2, 1, Sevilla FC, "Thursday, December 20, 2012"," Anoeta (20,000)"
+Deportivo La CoruÃ±a, 0, 0, Real Valladolid, "Monday, December 17, 2012"," Riazor (25,000)"
+Celta Vigo, 0, 1, Real Betis, "Monday, December 17, 2012"," Balaidos (22,000)"
+Real Zaragoza, 0, 1, Levante, "Sunday, December 16, 2012"," La Romareda (23,000)"
+Valencia, 0, 1, Rayo Vallecano, "Sunday, December 16, 2012"," Mestalla (35,000)"
+Real Madrid, 2, 2, Espanyol, "Sunday, December 16, 2012"," Santiago Bernabeu (68,000)"
+Barcelona, 4, 1, Atletico Madrid, "Sunday, December 16, 2012"," Camp Nou (86,837)"
+Getafe, 1, 1, Osasuna, "Saturday, December 15, 2012"," Coliseum Alfonso Perez (7,000)"
+Mallorca, 0, 1, Athletic Bilbao, "Saturday, December 15, 2012"," ONO Estadi (12,824)"
+Granada, 0, 0, Real Sociedad, "Saturday, December 15, 2012"," Los Carmenes (20,000)"
+Sevilla FC, 0, 2, Malaga, "Saturday, December 15, 2012"," Estadio Ramon Sanchez Pizjuan (30,000)"
+Rayo Vallecano, 0, 2, Real Zaragoza, "Monday, December 10, 2012"," Estadio Teresa Rivero (9,000)"
+Levante, 4, 0, Mallorca, "Sunday, December 9, 2012"," Ciutat de Valencia (12,642)"
+Athletic Bilbao, 1, 0, Celta Vigo, "Sunday, December 9, 2012"," San Mames (38,000)"
+Atletico Madrid, 6, 0, Deportivo La CoruÃ±a, "Sunday, December 9, 2012"," Vicente Calderon (40,000)"
+Real Betis, 1, 2, Barcelona, "Sunday, December 9, 2012"," Estadio Benito Villamarin (46,147)"
+Real Sociedad, 1, 1, Getafe, "Saturday, December 8, 2012"," Anoeta (23,000)"
+Malaga, 4, 0, Granada, "Saturday, December 8, 2012"," La Rosaleda (26,000)"
+Real Valladolid, 2, 3, Real Madrid, "Saturday, December 8, 2012"," Nuevo Jose Zorilla Stadium (25,500)"
+Osasuna, 0, 1, Valencia, "Saturday, December 8, 2012"," Reyno de Navarra (15,849)"
+Espanyol, 2, 2, Sevilla FC, "Friday, December 7, 2012"," Estadi Cornella-El Prat (16,712)"
+Sevilla FC, 1, 2, Real Valladolid, "Monday, December 3, 2012"," Estadio Ramon Sanchez Pizjuan (32,000)"
+Granada, 0, 0, Espanyol, "Sunday, December 2, 2012"," Los Carmenes (20,000)"
+Deportivo La CoruÃ±a, 2, 3, Real Betis, "Sunday, December 2, 2012"," Riazor (27,000)"
+Celta Vigo, 1, 1, Levante, "Sunday, December 2, 2012"," Balaidos (17,537)"
+Mallorca, 1, 1, Real Zaragoza, "Sunday, December 2, 2012"," ONO Estadi (7,735)"
+Getafe, 1, 0, Malaga, "Saturday, December 1, 2012"," Coliseum Alfonso Perez (8,000)"
+Valencia, 2, 5, Real Sociedad, "Saturday, December 1, 2012"," Mestalla (38,000)"
+Barcelona, 5, 1, Athletic Bilbao, "Saturday, December 1, 2012"," Camp Nou (68,346)"
+Real Madrid, 2, 0, Atletico Madrid, "Saturday, December 1, 2012"," Santiago Bernabeu (83,000)"
+Osasuna, 1, 0, Rayo Vallecano, "Friday, November 30, 2012"," Reyno de Navarra (15,000)"
+Real Zaragoza, 0, 1, Celta Vigo, "Monday, November 26, 2012"," La Romareda (17,500)"
+Espanyol, 0, 2, Getafe, "Sunday, November 25, 2012"," Estadi Cornella-El Prat (19,053)"
+Athletic Bilbao, 1, 1, Deportivo La CoruÃ±a, "Sunday, November 25, 2012"," San Mames (38,000)"
+Atletico Madrid, 4, 0, Sevilla FC, "Sunday, November 25, 2012"," Vicente Calderon (54,000)"
+Levante, 0, 4, Barcelona, "Sunday, November 25, 2012"," Ciutat de Valencia (19,000)"
+Rayo Vallecano, 2, 0, Mallorca, "Saturday, November 24, 2012"," Estadio Teresa Rivero (11,500)"
+Real Valladolid, 1, 0, Granada, "Saturday, November 24, 2012"," Nuevo Jose Zorilla Stadium (13,500)"
+Malaga, 4, 0, Valencia, "Saturday, November 24, 2012"," La Rosaleda (24,500)"
+Real Betis, 1, 0, Real Madrid, "Saturday, November 24, 2012"," Estadio Benito Villamarin (40,185)"
+Real Sociedad, 0, 0, Osasuna, "Friday, November 23, 2012"," Anoeta (20,500)"
+Real Sociedad, 4, 0, Rayo Vallecano, "Monday, November 19, 2012"," Anoeta (22,600)"
+Deportivo La CoruÃ±a, 0, 2, Levante, "Sunday, November 18, 2012"," Riazor (25,000)"
+Celta Vigo, 1, 1, Mallorca, "Sunday, November 18, 2012"," Balaidos (17,814)"
+Getafe, 2, 1, Real Valladolid, "Sunday, November 18, 2012"," Coliseum Alfonso Perez (7,000)"
+Granada, 0, 1, Atletico Madrid, "Sunday, November 18, 2012"," Los Carmenes (22,500)"
+Sevilla FC, 5, 1, Real Betis, "Sunday, November 18, 2012"," Estadio Ramon Sanchez Pizjuan (42,000)"
+Osasuna, 0, 0, Malaga, "Saturday, November 17, 2012"," Reyno de Navarra (13,996)"
+Valencia, 2, 1, Espanyol, "Saturday, November 17, 2012"," Mestalla (38,000)"
+Barcelona, 3, 1, Real Zaragoza, "Saturday, November 17, 2012"," Camp Nou (73,248)"
+Real Madrid, 5, 1, Athletic Bilbao, "Saturday, November 17, 2012"," Santiago Bernabeu (75,000)"
+Real Valladolid, 1, 1, Valencia, "Sunday, November 11, 2012"," Nuevo Jose Zorilla Stadium (15,512)"
+Athletic Bilbao, 2, 1, Sevilla FC, "Sunday, November 11, 2012"," San Mames (38,000)"
+Mallorca, 2, 4, Barcelona, "Sunday, November 11, 2012"," ONO Estadi (15,940)"
+Atletico Madrid, 2, 0, Getafe, "Sunday, November 11, 2012"," Vicente Calderon (45,000)"
+Levante, 1, 2, Real Madrid, "Sunday, November 11, 2012"," Ciutat de Valencia (20,805)"
+Rayo Vallecano, 3, 2, Celta Vigo, "Saturday, November 10, 2012"," Estadio Teresa Rivero (8,956)"
+Espanyol, 0, 3, Osasuna, "Saturday, November 10, 2012"," Estadi Cornella-El Prat (20,523)"
+Real Zaragoza, 5, 3, Deportivo La CoruÃ±a, "Saturday, November 10, 2012"," La Romareda (24,000)"
+Malaga, 1, 2, Real Sociedad, "Saturday, November 10, 2012"," La Rosaleda (26,000)"
+Real Betis, 1, 2, Granada, "Friday, November 9, 2012"," Estadio Benito Villamarin (35,717)"
+Getafe, 2, 4, Real Betis, "Monday, November 5, 2012"," Coliseum Alfonso Perez (95,000)"
+Real Sociedad, 0, 1, Espanyol, "Sunday, November 4, 2012"," Anoeta (22,150)"
+Deportivo La CoruÃ±a, 1, 0, Mallorca, "Sunday, November 4, 2012"," Riazor (28,000)"
+Osasuna, 0, 1, Real Valladolid, "Sunday, November 4, 2012"," Reyno de Navarra (14,068)"
+Granada, 1, 2, Athletic Bilbao, "Sunday, November 4, 2012"," Los Carmenes (20,000)"
+Sevilla FC, 0, 0, Levante, "Sunday, November 4, 2012"," Estadio Ramon Sanchez Pizjuan (20,000)"
+Malaga, 1, 2, Rayo Vallecano, "Saturday, November 3, 2012"," La Rosaleda (26,000)"
+Barcelona, 3, 1, Celta Vigo, "Saturday, November 3, 2012"," Camp Nou (82,978)"
+Real Madrid, 4, 0, Real Zaragoza, "Saturday, November 3, 2012"," Santiago Bernabeu (67,216)"
+Valencia, 2, 0, Atletico Madrid, "Saturday, November 3, 2012"," Mestalla (53,000)"
+Real Valladolid, 2, 2, Real Sociedad, "Monday, October 29, 2012"," Nuevo Jose Zorilla Stadium (22,000)"
+Real Zaragoza, 2, 1, Sevilla FC, "Sunday, October 28, 2012"," La Romareda (26,000)"
+Levante, 3, 1, Granada, "Sunday, October 28, 2012"," Ciutat de Valencia (18,000)"
+Athletic Bilbao, 1, 2, Getafe, "Sunday, October 28, 2012"," San Mames (31,000)"
+Atletico Madrid, 3, 1, Osasuna, "Sunday, October 28, 2012"," Vicente Calderon (48,500)"
+Mallorca, 0, 5, Real Madrid, "Sunday, October 28, 2012"," ONO Estadi (17,500)"
+Espanyol, 0, 0, Malaga, "Saturday, October 27, 2012"," Estadi Cornella-El Prat (22,000)"
+Real Betis, 1, 0, Valencia, "Saturday, October 27, 2012"," Estadio Benito Villamarin (33,000)"
+Celta Vigo, 1, 1, Deportivo La CoruÃ±a, "Saturday, October 27, 2012"," Balaidos (26,800)"
+Rayo Vallecano, 0, 5, Barcelona, "Saturday, October 27, 2012"," Estadio Teresa Rivero (13,000)"
+Sevilla FC, 3, 2, Mallorca, "Monday, October 22, 2012"," Estadio Ramon Sanchez Pizjuan (30,000)"
+Getafe, 0, 1, Levante, "Sunday, October 21, 2012"," Coliseum Alfonso Perez (12,000)"
+Espanyol, 3, 2, Rayo Vallecano, "Sunday, October 21, 2012"," Estadi Cornella-El Prat (21,497)"
+Granada, 1, 2, Real Zaragoza, "Sunday, October 21, 2012"," Los Carmenes (20,000)"
+Osasuna, 0, 0, Real Betis, "Sunday, October 21, 2012"," Reyno de Navarra (15,215)"
+Real Sociedad, 0, 1, Atletico Madrid, "Sunday, October 21, 2012"," Anoeta (21,295)"
+Malaga, 2, 1, Real Valladolid, "Saturday, October 20, 2012"," La Rosaleda (27,000)"
+Real Madrid, 2, 0, Celta Vigo, "Saturday, October 20, 2012"," Santiago Bernabeu (74,415)"
+Valencia, 3, 2, Athletic Bilbao, "Saturday, October 20, 2012"," Mestalla (36,000)"
+Deportivo La CoruÃ±a, 4, 5, Barcelona, "Saturday, October 20, 2012"," Riazor (34,000)"
+Levante, 1, 0, Valencia, "Sunday, October 7, 2012"," Ciutat de Valencia (20,060)"
+Mallorca, 1, 2, Granada, "Sunday, October 7, 2012"," ONO Estadi (11,665)"
+Athletic Bilbao, 1, 0, Osasuna, "Sunday, October 7, 2012"," San Mames (37,000)"
+Barcelona, 2, 2, Real Madrid, "Sunday, October 7, 2012"," Camp Nou (96,589)"
+Atletico Madrid, 2, 1, Malaga, "Sunday, October 7, 2012"," Vicente Calderon (52,000)"
+Rayo Vallecano, 2, 1, Deportivo La CoruÃ±a, "Saturday, October 6, 2012"," Estadio Teresa Rivero (11,516)"
+Real Zaragoza, 0, 1, Getafe, "Saturday, October 6, 2012"," La Romareda (18,000)"
+Real Valladolid, 1, 1, Espanyol, "Saturday, October 6, 2012"," Nuevo Jose Zorilla Stadium (17,500)"
+Real Betis, 2, 0, Real Sociedad, "Saturday, October 6, 2012"," Estadio Benito Villamarin (35,000)"
+Celta Vigo, 2, 0, Sevilla FC, "Friday, October 5, 2012"," Balaidos (19,427)"
+Getafe, 1, 0, Mallorca, "Monday, October 1, 2012"," Coliseum Alfonso Perez (8,000)"
+Granada, 2, 1, Celta Vigo, "Sunday, September 30, 2012"," Los Carmenes (20,000)"
+Real Valladolid, 6, 1, Rayo Vallecano, "Sunday, September 30, 2012"," Nuevo Jose Zorilla Stadium (14,978)"
+Osasuna, 4, 0, Levante, "Sunday, September 30, 2012"," Reyno de Navarra (14,101)"
+Real Madrid, 5, 1, Deportivo La CoruÃ±a, "Sunday, September 30, 2012"," Santiago Bernabeu (75,000)"
+Espanyol, 0, 1, Atletico Madrid, "Sunday, September 30, 2012"," Estadi Cornella-El Prat (21,888)"
+Valencia, 2, 0, Real Zaragoza, "Saturday, September 29, 2012"," Mestalla (33,000)"
+Malaga, 4, 0, Real Betis, "Saturday, September 29, 2012"," La Rosaleda (26,000)"
+Real Sociedad, 2, 0, Athletic Bilbao, "Saturday, September 29, 2012"," Anoeta (27,800)"
+Sevilla FC, 2, 3, Barcelona, "Saturday, September 29, 2012"," Estadio Ramon Sanchez Pizjuan (40,000)"
+Rayo Vallecano, 0, 2, Real Madrid, "Monday, September 24, 2012"," Campo de FÃºtbol de Vallecas (15,000)"
+Deportivo La CoruÃ±a, 0, 2, Sevilla FC, "Monday, September 24, 2012"," Riazor (27,000)"
+Mallorca, 2, 0, Valencia, "Sunday, September 23, 2012"," ONO Estadi (14,495)"
+Levante, 2, 1, Real Sociedad, "Sunday, September 23, 2012"," Ciutat de Valencia (13,100)"
+Atletico Madrid, 2, 1, Real Valladolid, "Sunday, September 23, 2012"," Vicente Calderon (45,000)"
+Athletic Bilbao, 0, 0, Malaga, "Sunday, September 23, 2012"," San Mames (38,000)"
+Real Zaragoza, 3, 1, Osasuna, "Saturday, September 22, 2012"," La Romareda (20,000)"
+Celta Vigo, 2, 1, Getafe, "Saturday, September 22, 2012"," Balaidos (18,000)"
+Real Betis, 1, 0, Espanyol, "Saturday, September 22, 2012"," Estadio Benito Villamarin (33,211)"
+Barcelona, 2, 0, Granada, "Saturday, September 22, 2012"," Camp Nou (65,934)"
+Real Valladolid, 0, 1, Real Betis, "Monday, September 17, 2012"," Nuevo Jose Zorilla Stadium (22,300)"
+Espanyol, 3, 3, Athletic Bilbao, "Sunday, September 16, 2012"," Estadi Cornella-El Prat (15,923)"
+Granada, 1, 1, Deportivo La CoruÃ±a, "Sunday, September 16, 2012"," Los Carmenes (9,916)"
+Osasuna, 1, 1, Mallorca, "Sunday, September 16, 2012"," Reyno de Navarra (12,873)"
+Real Sociedad, 2, 0, Real Zaragoza, "Sunday, September 16, 2012"," Anoeta (20,000)"
+Atletico Madrid, 4, 3, Rayo Vallecano, "Sunday, September 16, 2012"," Vicente Calderon (40,000)"
+Malaga, 3, 1, Levante, "Saturday, September 15, 2012"," La Rosaleda (27,000)"
+Valencia, 2, 1, Celta Vigo, "Saturday, September 15, 2012"," Mestalla (37,000)"
+Getafe, 1, 4, Barcelona, "Saturday, September 15, 2012"," Coliseum Alfonso Perez (8,634)"
+Sevilla FC, 1, 0, Real Madrid, "Saturday, September 15, 2012"," Estadio Ramon Sanchez Pizjuan (35,000)"
+Real Betis, 2, 4, Atletico Madrid, "Monday, September 3, 2012"," Estadio Benito Villamarin (48,000)"
+Rayo Vallecano, 0, 0, Sevilla FC, "Sunday, September 2, 2012"," Estadio Teresa Rivero (8,634)"
+Athletic Bilbao, 2, 0, Real Valladolid, "Sunday, September 2, 2012"," San Mames (35,000)"
+Levante, 3, 2, Espanyol, "Sunday, September 2, 2012"," Ciutat de Valencia (20,000)"
+Real Madrid, 3, 0, Granada, "Sunday, September 2, 2012"," Santiago Bernabeu (59,782)"
+Barcelona, 1, 0, Valencia, "Sunday, September 2, 2012"," Camp Nou (76,352)"
+Celta Vigo, 2, 0, Osasuna, "Saturday, September 1, 2012"," Balaidos (15,923)"
+Real Zaragoza, 0, 1, Malaga, "Saturday, September 1, 2012"," La Romareda (20,000)"
+Deportivo La CoruÃ±a, 1, 1, Getafe, "Saturday, September 1, 2012"," Riazor (30,000)"
+Mallorca, 1, 0, Real Sociedad, "Saturday, September 1, 2012"," ONO Estadi (9,916)"
+Real Valladolid, 2, 0, Levante, "Monday, August 27, 2012"," Nuevo Jose Zorilla Stadium (19,500)"
+Atletico Madrid, 4, 0, Athletic Bilbao, "Monday, August 27, 2012"," Vicente Calderon (48,500)"
+Osasuna, 1, 2, Barcelona, "Sunday, August 26, 2012"," Reyno de Navarra (16,000)"
+Getafe, 2, 1, Real Madrid, "Sunday, August 26, 2012"," Coliseum Alfonso Perez (9,600)"
+Granada, 1, 1, Sevilla FC, "Sunday, August 26, 2012"," Los Carmenes (21,500)"
+Valencia, 3, 3, Deportivo La CoruÃ±a, "Sunday, August 26, 2012"," Mestalla (35,000)"
+Real Sociedad, 2, 1, Celta Vigo, "Saturday, August 25, 2012"," Anoeta (15,000)"
+Espanyol, 1, 2, Real Zaragoza, "Saturday, August 25, 2012"," Estadi Cornella-El Prat (16,923)"
+Real Betis, 1, 2, Rayo Vallecano, "Saturday, August 25, 2012"," Estadio Benito Villamarin (29,237)"
+Malaga, 1, 1, Mallorca, "Saturday, August 25, 2012"," La Rosaleda (20,000)"
+Deportivo La CoruÃ±a, 2, 0, Osasuna, "Monday, August 20, 2012"," Riazor (36,000)"
+Rayo Vallecano, 1, 0, Granada, "Monday, August 20, 2012"," Estadio Teresa Rivero (18,000)"
+Real Zaragoza, 0, 1, Real Valladolid, "Monday, August 20, 2012"," La Romareda (21,000)"
+Athletic Bilbao, 3, 5, Real Betis, "Sunday, August 19, 2012"," San Mames (35,000)"
+Real Madrid, 1, 1, Valencia, "Sunday, August 19, 2012"," Santiago Bernabeu (78,000)"
+Barcelona, 5, 1, Real Sociedad, "Sunday, August 19, 2012"," Camp Nou (75,000)"
+Levante, 1, 1, Atletico Madrid, "Sunday, August 19, 2012"," Ciutat de Valencia (30,000)"
+Celta Vigo, 0, 1, Malaga, "Saturday, August 18, 2012"," Balaidos (16,000)"
+Sevilla FC, 2, 1, Getafe, "Saturday, August 18, 2012"," Estadio Ramon Sanchez Pizjuan (30,000)"
+Mallorca, 2, 1, Espanyol, "Saturday, August 18, 2012"," ONO Estadi (22,000)"
