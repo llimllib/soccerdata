@@ -1,0 +1,381 @@
+home, homescore, awayscore, away, date, time
+Aston Villa, 1, 0, Southampton, Sunday 11 May 1997, 16:00
+Blackburn, 2, 4, Leicester, Sunday 11 May 1997, 16:00
+Derby, 1, 3, Arsenal, Sunday 11 May 1997, 16:00
+Everton, 1, 2, Chelsea, Sunday 11 May 1997, 16:00
+Leeds, 1, 1, Middlesbrough, Sunday 11 May 1997, 16:00
+Man Utd, 2, 0, West Ham, Sunday 11 May 1997, 16:00
+Newcastle, 5, 0, Nott'm Forest, Sunday 11 May 1997, 16:00
+Sheffield Wed, 1, 1, Liverpool, Sunday 11 May 1997, 16:00
+Spurs, 1, 2, Coventry, Sunday 11 May 1997, 16:00
+Wimbledon, 1, 0, Sunderland, Sunday 11 May 1997, 16:00
+Man Utd, 0, 0, Newcastle, Thursday 8 May 1997, 20:00
+Blackburn, 0, 0, Middlesbrough, Thursday 8 May 1997, 19:45
+Leicester, 1, 0, Sheffield Wed, Wednesday 7 May 1997, 19:45
+West Ham, 0, 0, Newcastle, Tuesday 6 May 1997, 19:45
+Wimbledon, 2, 1, Liverpool, Tuesday 6 May 1997, 19:45
+Man Utd, 3, 3, Middlesbrough, Monday 5 May 1997, 12:00
+Liverpool, 2, 1, Spurs, Saturday 3 May 1997, 18:15
+Arsenal, 0, 1, Newcastle, Saturday 3 May 1997, 15:00
+Chelsea, 0, 0, Leeds, Saturday 3 May 1997, 15:00
+Coventry, 1, 2, Derby, Saturday 3 May 1997, 15:00
+Middlesbrough, 3, 2, Aston Villa, Saturday 3 May 1997, 15:00
+Nott'm Forest, 1, 1, Wimbledon, Saturday 3 May 1997, 15:00
+Southampton, 2, 0, Blackburn, Saturday 3 May 1997, 15:00
+Sunderland, 3, 0, Everton, Saturday 3 May 1997, 15:00
+West Ham, 5, 1, Sheffield Wed, Saturday 3 May 1997, 15:00
+Leicester, 2, 2, Man Utd, Saturday 3 May 1997, 11:15
+Spurs, 1, 0, Middlesbrough, Thursday 24 April 1997, 19:45
+Derby, 0, 0, Nott'm Forest, Wednesday 23 April 1997, 19:45
+Leicester, 0, 1, West Ham, Wednesday 23 April 1997, 19:45
+Blackburn, 4, 1, Sheffield Wed, Tuesday 22 April 1997, 19:45
+Leeds, 0, 0, Aston Villa, Tuesday 22 April 1997, 19:45
+Sunderland, 0, 1, Southampton, Tuesday 22 April 1997, 19:45
+Wimbledon, 0, 1, Chelsea, Tuesday 22 April 1997, 19:45
+Coventry, 1, 1, Arsenal, Monday 21 April 1997, 20:00
+Arsenal, 1, 1, Blackburn, Saturday 19 April 1997, 15:00
+Aston Villa, 1, 1, Spurs, Saturday 19 April 1997, 15:00
+Chelsea, 2, 1, Leicester, Saturday 19 April 1997, 15:00
+Middlesbrough, 0, 1, Sunderland, Saturday 19 April 1997, 15:00
+Newcastle, 3, 1, Derby, Saturday 19 April 1997, 15:00
+Nott'm Forest, 1, 1, Leeds, Saturday 19 April 1997, 15:00
+Sheffield Wed, 3, 1, Wimbledon, Saturday 19 April 1997, 15:00
+Southampton, 2, 2, Coventry, Saturday 19 April 1997, 15:00
+West Ham, 2, 2, Everton, Saturday 19 April 1997, 15:00
+Liverpool, 1, 3, Man Utd, Saturday 19 April 1997, 11:15
+Everton, 1, 1, Liverpool, Wednesday 16 April 1997, 19:45
+Newcastle, 3, 1, Chelsea, Wednesday 16 April 1997, 19:45
+Wimbledon, 2, 0, Leeds, Wednesday 16 April 1997, 19:45
+Sheffield Wed, 1, 1, Newcastle, Sunday 13 April 1997, 15:00
+Sunderland, 1, 2, Liverpool, Sunday 13 April 1997, 15:00
+Arsenal, 2, 0, Leicester, Saturday 12 April 1997, 15:00
+Blackburn, 2, 3, Man Utd, Saturday 12 April 1997, 15:00
+Derby, 2, 1, Aston Villa, Saturday 12 April 1997, 15:00
+Everton, 1, 0, Spurs, Saturday 12 April 1997, 15:00
+Southampton, 2, 0, West Ham, Saturday 12 April 1997, 15:00
+Coventry, 3, 1, Chelsea, Wednesday 9 April 1997, 19:45
+Derby, 1, 1, Southampton, Wednesday 9 April 1997, 19:45
+Everton, 1, 1, Leicester, Wednesday 9 April 1997, 19:45
+Sheffield Wed, 2, 1, Spurs, Wednesday 9 April 1997, 19:45
+West Ham, 0, 0, Middlesbrough, Wednesday 9 April 1997, 19:45
+Wimbledon, 0, 2, Aston Villa, Wednesday 9 April 1997, 19:45
+Leeds, 0, 0, Blackburn, Monday 7 April 1997, 20:00
+Liverpool, 1, 2, Coventry, Sunday 6 April 1997, 15:00
+Aston Villa, 3, 1, Everton, Saturday 5 April 1997, 15:00
+Man Utd, 2, 3, Derby, Saturday 5 April 1997, 15:00
+Newcastle, 1, 1, Sunderland, Saturday 5 April 1997, 15:00
+Nott'm Forest, 1, 3, Southampton, Saturday 5 April 1997, 15:00
+Spurs, 1, 0, Wimbledon, Saturday 5 April 1997, 15:00
+Chelsea, 0, 3, Arsenal, Saturday 5 April 1997, 11:15
+Arsenal, 1, 2, Liverpool, Monday 24 March 1997, 20:00
+Middlesbrough, 1, 1, Nott'm Forest, Monday 24 March 1997, 19:45
+Wimbledon, 1, 1, Newcastle, Sunday 23 March 1997, 16:00
+Blackburn, 0, 2, Aston Villa, Saturday 22 March 1997, 15:00
+Coventry, 1, 3, West Ham, Saturday 22 March 1997, 15:00
+Derby, 4, 2, Spurs, Saturday 22 March 1997, 15:00
+Everton, 0, 2, Man Utd, Saturday 22 March 1997, 15:00
+Middlesbrough, 1, 0, Chelsea, Saturday 22 March 1997, 15:00
+Sheffield Wed, 2, 2, Leeds, Saturday 22 March 1997, 15:00
+Southampton, 2, 2, Leicester, Saturday 22 March 1997, 15:00
+Sunderland, 1, 1, Nott'm Forest, Saturday 22 March 1997, 15:00
+Chelsea, 1, 0, Southampton, Wednesday 19 March 1997, 19:45
+Leicester, 1, 1, Spurs, Wednesday 19 March 1997, 19:45
+Middlesbrough, 2, 1, Blackburn, Wednesday 19 March 1997, 19:45
+Wimbledon, 1, 1, West Ham, Tuesday 18 March 1997, 19:45
+Chelsea, 6, 2, Sunderland, Sunday 16 March 1997, 16:00
+Aston Villa, 0, 0, West Ham, Saturday 15 March 1997, 15:00
+Blackburn, 3, 1, Wimbledon, Saturday 15 March 1997, 15:00
+Everton, 1, 0, Derby, Saturday 15 March 1997, 15:00
+Leicester, 1, 3, Middlesbrough, Saturday 15 March 1997, 15:00
+Man Utd, 2, 0, Sheffield Wed, Saturday 15 March 1997, 15:00
+Newcastle, 4, 0, Coventry, Saturday 15 March 1997, 15:00
+Nott'm Forest, 1, 1, Liverpool, Saturday 15 March 1997, 15:00
+Southampton, 0, 2, Arsenal, Saturday 15 March 1997, 15:00
+Spurs, 1, 0, Leeds, Saturday 15 March 1997, 15:00
+Leeds, 0, 0, Southampton, Wednesday 12 March 1997, 19:45
+Sheffield Wed, 2, 1, Sunderland, Wednesday 12 March 1997, 19:45
+West Ham, 3, 2, Chelsea, Wednesday 12 March 1997, 19:45
+Blackburn, 1, 1, Nott'm Forest, Tuesday 11 March 1997, 19:45
+Liverpool, 4, 3, Newcastle, Monday 10 March 1997, 20:00
+Arsenal, 2, 0, Nott'm Forest, Saturday 8 March 1997, 15:00
+Coventry, 0, 0, Leicester, Saturday 8 March 1997, 15:00
+Leeds, 1, 0, Everton, Saturday 8 March 1997, 15:00
+Sunderland, 2, 1, Man Utd, Saturday 8 March 1997, 15:00
+Chelsea, 1, 1, Blackburn, Wednesday 5 March 1997, 19:45
+Leicester, 1, 0, Aston Villa, Wednesday 5 March 1997, 19:45
+Middlesbrough, 6, 1, Derby, Wednesday 5 March 1997, 19:45
+Nott'm Forest, 0, 3, Sheffield Wed, Wednesday 5 March 1997, 19:45
+Southampton, 2, 2, Everton, Wednesday 5 March 1997, 19:30
+Sunderland, 0, 4, Spurs, Tuesday 4 March 1997, 19:45
+Coventry, 1, 1, Wimbledon, Monday 3 March 1997, 20:00
+Aston Villa, 1, 0, Liverpool, Sunday 2 March 1997, 16:00
+Blackburn, 1, 0, Sunderland, Saturday 1 March 1997, 15:00
+Derby, 3, 2, Chelsea, Saturday 1 March 1997, 15:00
+Everton, 0, 2, Arsenal, Saturday 1 March 1997, 15:00
+Leeds, 1, 0, West Ham, Saturday 1 March 1997, 15:00
+Man Utd, 3, 1, Coventry, Saturday 1 March 1997, 15:00
+Newcastle, 0, 1, Southampton, Saturday 1 March 1997, 15:00
+Sheffield Wed, 3, 1, Middlesbrough, Saturday 1 March 1997, 15:00
+Spurs, 0, 1, Nott'm Forest, Saturday 1 March 1997, 15:00
+Wimbledon, 1, 3, Leicester, Saturday 1 March 1997, 15:00
+Southampton, 0, 0, Wimbledon, Wednesday 26 February 1997, 19:30
+West Ham, 4, 3, Spurs, Monday 24 February 1997, 20:00
+Arsenal, 0, 1, Wimbledon, Sunday 23 February 1997, 16:00
+Chelsea, 1, 1, Man Utd, Saturday 22 February 1997, 15:00
+Coventry, 0, 0, Everton, Saturday 22 February 1997, 15:00
+Leicester, 4, 2, Derby, Saturday 22 February 1997, 15:00
+Liverpool, 0, 0, Blackburn, Saturday 22 February 1997, 15:00
+Middlesbrough, 0, 1, Newcastle, Saturday 22 February 1997, 15:00
+Nott'm Forest, 0, 0, Aston Villa, Saturday 22 February 1997, 15:00
+Southampton, 2, 3, Sheffield Wed, Saturday 22 February 1997, 15:00
+Sunderland, 0, 1, Leeds, Saturday 22 February 1997, 15:00
+Arsenal, 1, 2, Man Utd, Wednesday 19 February 1997, 20:00
+Aston Villa, 2, 1, Coventry, Wednesday 19 February 1997, 19:45
+Derby, 2, 2, Sheffield Wed, Wednesday 19 February 1997, 19:45
+Liverpool, 4, 0, Leeds, Wednesday 19 February 1997, 19:45
+Derby, 1, 0, West Ham, Saturday 15 February 1997, 15:00
+Spurs, 0, 0, Arsenal, Saturday 15 February 1997, 15:00
+Newcastle, 4, 3, Leicester, Sunday 2 February 1997, 16:00
+Aston Villa, 1, 0, Sunderland, Saturday 1 February 1997, 15:00
+Blackburn, 2, 1, West Ham, Saturday 1 February 1997, 15:00
+Derby, 0, 1, Liverpool, Saturday 1 February 1997, 15:00
+Everton, 2, 0, Nott'm Forest, Saturday 1 February 1997, 15:00
+Leeds, 0, 0, Arsenal, Saturday 1 February 1997, 15:00
+Man Utd, 2, 1, Southampton, Saturday 1 February 1997, 15:00
+Sheffield Wed, 0, 0, Coventry, Saturday 1 February 1997, 15:00
+Spurs, 1, 2, Chelsea, Saturday 1 February 1997, 15:00
+Wimbledon, 1, 1, Middlesbrough, Saturday 1 February 1997, 15:00
+Man Utd, 2, 1, Wimbledon, Wednesday 29 January 1997, 20:00
+Aston Villa, 0, 1, Sheffield Wed, Wednesday 29 January 1997, 19:45
+Leeds, 0, 0, Derby, Wednesday 29 January 1997, 19:45
+Leicester, 1, 1, Sunderland, Wednesday 29 January 1997, 19:45
+Newcastle, 4, 1, Everton, Wednesday 29 January 1997, 19:45
+Nott'm Forest, 0, 1, Coventry, Wednesday 29 January 1997, 19:45
+Spurs, 2, 1, Blackburn, Wednesday 29 January 1997, 19:45
+West Ham, 1, 2, Arsenal, Wednesday 29 January 1997, 19:45
+West Ham, 0, 2, Leeds, Monday 20 January 1997, 20:00
+Arsenal, 3, 1, Everton, Sunday 19 January 1997, 16:00
+Nott'm Forest, 2, 1, Spurs, Sunday 19 January 1997, 15:00
+Chelsea, 3, 1, Derby, Saturday 18 January 1997, 15:00
+Coventry, 0, 2, Man Utd, Saturday 18 January 1997, 15:00
+Leicester, 1, 0, Wimbledon, Saturday 18 January 1997, 15:00
+Liverpool, 3, 0, Aston Villa, Saturday 18 January 1997, 15:00
+Middlesbrough, 4, 2, Sheffield Wed, Saturday 18 January 1997, 15:00
+Southampton, 2, 2, Newcastle, Saturday 18 January 1997, 15:00
+Sunderland, 0, 0, Blackburn, Saturday 18 January 1997, 15:00
+Spurs, 1, 2, Man Utd, Sunday 12 January 1997, 16:00
+Aston Villa, 2, 2, Newcastle, Saturday 11 January 1997, 15:00
+Blackburn, 4, 0, Coventry, Saturday 11 January 1997, 15:00
+Leeds, 3, 0, Leicester, Saturday 11 January 1997, 15:00
+Liverpool, 0, 0, West Ham, Saturday 11 January 1997, 15:00
+Middlesbrough, 0, 1, Southampton, Saturday 11 January 1997, 15:00
+Nott'm Forest, 2, 0, Chelsea, Saturday 11 January 1997, 15:00
+Sheffield Wed, 2, 1, Everton, Saturday 11 January 1997, 15:00
+Sunderland, 1, 0, Arsenal, Saturday 11 January 1997, 15:00
+Wimbledon, 1, 1, Derby, Saturday 11 January 1997, 15:00
+Man Utd, 0, 0, Aston Villa, Wednesday 1 January 1997, 20:00
+Everton, 0, 2, Blackburn, Wednesday 1 January 1997, 17:45
+Arsenal, 2, 0, Middlesbrough, Wednesday 1 January 1997, 15:00
+Chelsea, 1, 0, Liverpool, Wednesday 1 January 1997, 15:00
+Coventry, 2, 2, Sunderland, Wednesday 1 January 1997, 15:00
+Newcastle, 3, 0, Leeds, Wednesday 1 January 1997, 15:00
+West Ham, 0, 1, Nott'm Forest, Wednesday 1 January 1997, 15:00
+Southampton, 0, 1, Liverpool, Sunday 29 December 1996, 16:00
+Arsenal, 2, 2, Aston Villa, Saturday 28 December 1996, 15:00
+Chelsea, 2, 2, Sheffield Wed, Saturday 28 December 1996, 15:00
+Coventry, 3, 0, Middlesbrough, Saturday 28 December 1996, 15:00
+Derby, 0, 0, Blackburn, Saturday 28 December 1996, 15:00
+Everton, 1, 3, Wimbledon, Saturday 28 December 1996, 15:00
+Leicester, 2, 2, Nott'm Forest, Saturday 28 December 1996, 15:00
+Man Utd, 1, 0, Leeds, Saturday 28 December 1996, 15:00
+Newcastle, 7, 1, Spurs, Saturday 28 December 1996, 15:00
+West Ham, 2, 0, Sunderland, Saturday 28 December 1996, 15:00
+Sheffield Wed, 0, 0, Arsenal, Thursday 26 December 1996, 17:45
+Aston Villa, 0, 2, Chelsea, Thursday 26 December 1996, 15:00
+Blackburn, 1, 0, Newcastle, Thursday 26 December 1996, 15:00
+Leeds, 1, 3, Coventry, Thursday 26 December 1996, 15:00
+Liverpool, 1, 1, Leicester, Thursday 26 December 1996, 15:00
+Middlesbrough, 4, 2, Everton, Thursday 26 December 1996, 15:00
+Nott'm Forest, 0, 4, Man Utd, Thursday 26 December 1996, 15:00
+Sunderland, 2, 0, Derby, Thursday 26 December 1996, 15:00
+Spurs, 3, 1, Southampton, Thursday 26 December 1996, 12:00
+Newcastle, 1, 1, Liverpool, Monday 23 December 1996, 20:00
+Aston Villa, 5, 0, Wimbledon, Sunday 22 December 1996, 16:00
+Chelsea, 3, 1, West Ham, Saturday 21 December 1996, 15:00
+Everton, 0, 0, Leeds, Saturday 21 December 1996, 15:00
+Leicester, 0, 2, Coventry, Saturday 21 December 1996, 15:00
+Man Utd, 5, 0, Sunderland, Saturday 21 December 1996, 15:00
+Nott'm Forest, 2, 1, Arsenal, Saturday 21 December 1996, 15:00
+Southampton, 3, 1, Derby, Saturday 21 December 1996, 15:00
+Spurs, 1, 1, Sheffield Wed, Saturday 21 December 1996, 15:00
+Sheffield Wed, 1, 1, Man Utd, Wednesday 18 December 1996, 19:45
+Coventry, 2, 1, Newcastle, Tuesday 17 December 1996, 20:00
+Liverpool, 4, 2, Nott'm Forest, Tuesday 17 December 1996, 19:45
+Derby, 0, 1, Everton, Monday 16 December 1996, 20:00
+Sunderland, 3, 0, Chelsea, Sunday 15 December 1996, 16:00
+Leeds, 0, 0, Spurs, Saturday 14 December 1996, 15:00
+Liverpool, 5, 1, Middlesbrough, Saturday 14 December 1996, 15:00
+Wimbledon, 1, 0, Blackburn, Saturday 14 December 1996, 15:00
+Nott'm Forest, 0, 0, Newcastle, Monday 9 December 1996, 20:00
+West Ham, 2, 2, Man Utd, Sunday 8 December 1996, 16:00
+Arsenal, 2, 2, Derby, Saturday 7 December 1996, 15:00
+Chelsea, 2, 2, Everton, Saturday 7 December 1996, 15:00
+Coventry, 1, 2, Spurs, Saturday 7 December 1996, 15:00
+Leicester, 1, 1, Blackburn, Saturday 7 December 1996, 15:00
+Liverpool, 0, 1, Sheffield Wed, Saturday 7 December 1996, 15:00
+Middlesbrough, 0, 0, Leeds, Saturday 7 December 1996, 15:00
+Southampton, 0, 1, Aston Villa, Saturday 7 December 1996, 15:00
+Sunderland, 1, 3, Wimbledon, Saturday 7 December 1996, 15:00
+Arsenal, 3, 1, Southampton, Wednesday 4 December 1996, 19:45
+West Ham, 0, 2, Aston Villa, Wednesday 4 December 1996, 19:45
+Middlesbrough, 0, 2, Leicester, Tuesday 3 December 1996, 19:45
+Spurs, 0, 2, Liverpool, Monday 2 December 1996, 20:00
+Leeds, 2, 0, Chelsea, Sunday 1 December 1996, 16:00
+Aston Villa, 1, 0, Middlesbrough, Saturday 30 November 1996, 15:00
+Blackburn, 2, 1, Southampton, Saturday 30 November 1996, 15:00
+Derby, 2, 1, Coventry, Saturday 30 November 1996, 15:00
+Everton, 1, 3, Sunderland, Saturday 30 November 1996, 15:00
+Man Utd, 3, 1, Leicester, Saturday 30 November 1996, 15:00
+Newcastle, 1, 2, Arsenal, Saturday 30 November 1996, 15:00
+Sheffield Wed, 0, 0, West Ham, Saturday 30 November 1996, 15:00
+Wimbledon, 1, 0, Nott'm Forest, Saturday 30 November 1996, 15:00
+Nott'm Forest, 2, 2, Blackburn, Monday 25 November 1996, 20:00
+Arsenal, 3, 1, Spurs, Sunday 24 November 1996, 16:00
+Chelsea, 1, 1, Newcastle, Saturday 23 November 1996, 15:00
+Coventry, 1, 2, Aston Villa, Saturday 23 November 1996, 15:00
+Leicester, 1, 2, Everton, Saturday 23 November 1996, 15:00
+Liverpool, 1, 1, Wimbledon, Saturday 23 November 1996, 15:00
+Middlesbrough, 2, 2, Man Utd, Saturday 23 November 1996, 15:00
+Southampton, 0, 2, Leeds, Saturday 23 November 1996, 15:00
+Sunderland, 1, 1, Sheffield Wed, Saturday 23 November 1996, 15:00
+West Ham, 1, 1, Derby, Saturday 23 November 1996, 15:00
+Liverpool, 1, 1, Everton, Wednesday 20 November 1996, 19:45
+Sheffield Wed, 2, 0, Nott'm Forest, Monday 18 November 1996, 20:00
+Derby, 2, 1, Middlesbrough, Sunday 17 November 1996, 16:00
+Aston Villa, 1, 3, Leicester, Saturday 16 November 1996, 15:00
+Blackburn, 1, 1, Chelsea, Saturday 16 November 1996, 15:00
+Everton, 7, 1, Southampton, Saturday 16 November 1996, 15:00
+Leeds, 0, 2, Liverpool, Saturday 16 November 1996, 15:00
+Man Utd, 1, 0, Arsenal, Saturday 16 November 1996, 15:00
+Newcastle, 1, 1, West Ham, Saturday 16 November 1996, 15:00
+Spurs, 2, 0, Sunderland, Saturday 16 November 1996, 15:00
+Wimbledon, 2, 2, Coventry, Saturday 16 November 1996, 15:00
+Everton, 1, 1, Coventry, Monday 4 November 1996, 20:00
+Newcastle, 3, 1, Middlesbrough, Sunday 3 November 1996, 16:00
+Blackburn, 3, 0, Liverpool, Sunday 3 November 1996, 15:00
+Aston Villa, 2, 0, Nott'm Forest, Saturday 2 November 1996, 15:00
+Derby, 2, 0, Leicester, Saturday 2 November 1996, 15:00
+Leeds, 3, 0, Sunderland, Saturday 2 November 1996, 15:00
+Man Utd, 1, 2, Chelsea, Saturday 2 November 1996, 15:00
+Sheffield Wed, 1, 1, Southampton, Saturday 2 November 1996, 15:00
+Spurs, 1, 0, West Ham, Saturday 2 November 1996, 15:00
+Wimbledon, 2, 2, Arsenal, Saturday 2 November 1996, 15:00
+Nott'm Forest, 0, 1, Everton, Monday 28 October 1996, 20:00
+Liverpool, 2, 1, Derby, Sunday 27 October 1996, 16:00
+Arsenal, 3, 0, Leeds, Saturday 26 October 1996, 15:00
+Chelsea, 3, 1, Spurs, Saturday 26 October 1996, 15:00
+Coventry, 0, 0, Sheffield Wed, Saturday 26 October 1996, 15:00
+Leicester, 2, 0, Newcastle, Saturday 26 October 1996, 15:00
+Middlesbrough, 0, 0, Wimbledon, Saturday 26 October 1996, 15:00
+Southampton, 6, 3, Man Utd, Saturday 26 October 1996, 15:00
+Sunderland, 1, 0, Aston Villa, Saturday 26 October 1996, 15:00
+West Ham, 2, 1, Blackburn, Saturday 26 October 1996, 15:00
+Newcastle, 5, 0, Man Utd, Sunday 20 October 1996, 16:00
+Arsenal, 0, 0, Coventry, Saturday 19 October 1996, 15:00
+Aston Villa, 2, 0, Leeds, Saturday 19 October 1996, 15:00
+Chelsea, 2, 4, Wimbledon, Saturday 19 October 1996, 15:00
+Middlesbrough, 0, 3, Spurs, Saturday 19 October 1996, 15:00
+Nott'm Forest, 1, 1, Derby, Saturday 19 October 1996, 15:00
+Sheffield Wed, 1, 1, Blackburn, Saturday 19 October 1996, 15:00
+Southampton, 3, 0, Sunderland, Saturday 19 October 1996, 15:00
+West Ham, 1, 0, Leicester, Saturday 19 October 1996, 15:00
+Sunderland, 2, 2, Middlesbrough, Monday 14 October 1996, 20:00
+Coventry, 1, 1, Southampton, Sunday 13 October 1996, 16:00
+Blackburn, 0, 2, Arsenal, Saturday 12 October 1996, 15:00
+Derby, 0, 1, Newcastle, Saturday 12 October 1996, 15:00
+Everton, 2, 1, West Ham, Saturday 12 October 1996, 15:00
+Leeds, 2, 0, Nott'm Forest, Saturday 12 October 1996, 15:00
+Leicester, 1, 3, Chelsea, Saturday 12 October 1996, 15:00
+Spurs, 1, 0, Aston Villa, Saturday 12 October 1996, 15:00
+Wimbledon, 4, 2, Sheffield Wed, Saturday 12 October 1996, 15:00
+Man Utd, 1, 0, Liverpool, Saturday 12 October 1996, 11:15
+Newcastle, 4, 3, Aston Villa, Monday 30 September 1996, 20:00
+Man Utd, 2, 0, Spurs, Sunday 29 September 1996, 16:00
+West Ham, 1, 2, Liverpool, Sunday 29 September 1996, 15:00
+Arsenal, 2, 0, Sunderland, Saturday 28 September 1996, 15:00
+Chelsea, 1, 1, Nott'm Forest, Saturday 28 September 1996, 15:00
+Coventry, 0, 0, Blackburn, Saturday 28 September 1996, 15:00
+Derby, 0, 2, Wimbledon, Saturday 28 September 1996, 15:00
+Everton, 2, 0, Sheffield Wed, Saturday 28 September 1996, 15:00
+Leicester, 1, 0, Leeds, Saturday 28 September 1996, 15:00
+Southampton, 4, 0, Middlesbrough, Saturday 28 September 1996, 15:00
+Wimbledon, 3, 1, Southampton, Monday 23 September 1996, 20:00
+Spurs, 1, 2, Leicester, Sunday 22 September 1996, 16:00
+Aston Villa, 0, 0, Man Utd, Saturday 21 September 1996, 15:00
+Blackburn, 1, 1, Everton, Saturday 21 September 1996, 15:00
+Leeds, 0, 1, Newcastle, Saturday 21 September 1996, 15:00
+Liverpool, 5, 1, Chelsea, Saturday 21 September 1996, 15:00
+Middlesbrough, 0, 2, Arsenal, Saturday 21 September 1996, 15:00
+Nott'm Forest, 0, 2, West Ham, Saturday 21 September 1996, 15:00
+Sheffield Wed, 0, 0, Derby, Saturday 21 September 1996, 15:00
+Sunderland, 1, 0, Coventry, Saturday 21 September 1996, 15:00
+Arsenal, 4, 1, Sheffield Wed, Monday 16 September 1996, 20:00
+Chelsea, 1, 1, Aston Villa, Sunday 15 September 1996, 16:00
+Leicester, 0, 3, Liverpool, Sunday 15 September 1996, 15:00
+Coventry, 2, 1, Leeds, Saturday 14 September 1996, 15:00
+Derby, 1, 0, Sunderland, Saturday 14 September 1996, 15:00
+Everton, 1, 2, Middlesbrough, Saturday 14 September 1996, 15:00
+Man Utd, 4, 1, Nott'm Forest, Saturday 14 September 1996, 15:00
+Newcastle, 2, 1, Blackburn, Saturday 14 September 1996, 15:00
+Southampton, 0, 1, Spurs, Saturday 14 September 1996, 15:00
+West Ham, 0, 2, Wimbledon, Saturday 14 September 1996, 15:00
+Blackburn, 1, 2, Derby, Monday 9 September 1996, 20:00
+Sunderland, 0, 0, West Ham, Sunday 8 September 1996, 16:00
+Aston Villa, 2, 2, Arsenal, Saturday 7 September 1996, 15:00
+Leeds, 0, 4, Man Utd, Saturday 7 September 1996, 15:00
+Liverpool, 2, 1, Southampton, Saturday 7 September 1996, 15:00
+Middlesbrough, 4, 0, Coventry, Saturday 7 September 1996, 15:00
+Nott'm Forest, 0, 0, Leicester, Saturday 7 September 1996, 15:00
+Sheffield Wed, 0, 2, Chelsea, Saturday 7 September 1996, 15:00
+Spurs, 1, 2, Newcastle, Saturday 7 September 1996, 15:00
+Wimbledon, 4, 0, Everton, Saturday 7 September 1996, 15:00
+Arsenal, 3, 3, Chelsea, Wednesday 4 September 1996, 19:45
+Blackburn, 0, 1, Leeds, Wednesday 4 September 1996, 19:45
+Coventry, 0, 1, Liverpool, Wednesday 4 September 1996, 19:45
+Derby, 1, 1, Man Utd, Wednesday 4 September 1996, 19:45
+Everton, 0, 1, Aston Villa, Wednesday 4 September 1996, 19:45
+Middlesbrough, 4, 1, West Ham, Wednesday 4 September 1996, 19:45
+Sunderland, 1, 2, Newcastle, Wednesday 4 September 1996, 19:45
+Wimbledon, 1, 0, Spurs, Wednesday 4 September 1996, 19:45
+Southampton, 2, 2, Nott'm Forest, Wednesday 4 September 1996, 19:30
+Sheffield Wed, 2, 1, Leicester, Monday 2 September 1996, 20:00
+Leeds, 1, 0, Wimbledon, Monday 26 August 1996, 20:00
+Man Utd, 2, 2, Blackburn, Sunday 25 August 1996, 16:00
+Aston Villa, 2, 0, Derby, Saturday 24 August 1996, 15:00
+Chelsea, 2, 0, Coventry, Saturday 24 August 1996, 15:00
+Leicester, 0, 2, Arsenal, Saturday 24 August 1996, 15:00
+Liverpool, 0, 0, Sunderland, Saturday 24 August 1996, 15:00
+Newcastle, 1, 2, Sheffield Wed, Saturday 24 August 1996, 15:00
+Nott'm Forest, 1, 1, Middlesbrough, Saturday 24 August 1996, 15:00
+Spurs, 0, 0, Everton, Saturday 24 August 1996, 15:00
+West Ham, 2, 1, Southampton, Saturday 24 August 1996, 15:00
+Man Utd, 2, 2, Everton, Wednesday 21 August 1996, 20:00
+Aston Villa, 1, 0, Blackburn, Wednesday 21 August 1996, 19:45
+Chelsea, 1, 0, Middlesbrough, Wednesday 21 August 1996, 19:45
+Leicester, 2, 1, Southampton, Wednesday 21 August 1996, 19:45
+Newcastle, 2, 0, Wimbledon, Wednesday 21 August 1996, 19:45
+Nott'm Forest, 1, 4, Sunderland, Wednesday 21 August 1996, 19:45
+Spurs, 1, 1, Derby, Wednesday 21 August 1996, 19:45
+West Ham, 1, 1, Coventry, Wednesday 21 August 1996, 19:45
+Leeds, 0, 2, Sheffield Wed, Tuesday 20 August 1996, 19:45
+Liverpool, 2, 0, Arsenal, Monday 19 August 1996, 20:00
+Southampton, 0, 0, Chelsea, Sunday 18 August 1996, 16:00
+Arsenal, 2, 0, West Ham, Saturday 17 August 1996, 15:00
+Blackburn, 0, 2, Spurs, Saturday 17 August 1996, 15:00
+Coventry, 0, 3, Nott'm Forest, Saturday 17 August 1996, 15:00
+Derby, 3, 3, Leeds, Saturday 17 August 1996, 15:00
+Everton, 2, 0, Newcastle, Saturday 17 August 1996, 15:00
+Middlesbrough, 3, 3, Liverpool, Saturday 17 August 1996, 15:00
+Sheffield Wed, 2, 1, Aston Villa, Saturday 17 August 1996, 15:00
+Sunderland, 0, 0, Leicester, Saturday 17 August 1996, 15:00
+Wimbledon, 0, 3, Man Utd, Saturday 17 August 1996, 15:00

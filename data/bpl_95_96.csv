@@ -1,0 +1,381 @@
+home, homescore, awayscore, away, date, time
+Arsenal, 2, 1, Bolton, Sunday 5 May 1996, 16:00
+Chelsea, 2, 3, Blackburn, Sunday 5 May 1996, 16:00
+Coventry, 0, 0, Leeds, Sunday 5 May 1996, 16:00
+Everton, 1, 0, Aston Villa, Sunday 5 May 1996, 16:00
+Man City, 2, 2, Liverpool, Sunday 5 May 1996, 16:00
+Middlesbrough, 0, 3, Man Utd, Sunday 5 May 1996, 16:00
+Newcastle, 1, 1, Spurs, Sunday 5 May 1996, 16:00
+Nott'm Forest, 3, 0, QPR, Sunday 5 May 1996, 16:00
+Southampton, 0, 0, Wimbledon, Sunday 5 May 1996, 16:00
+West Ham, 1, 1, Sheffield Wed, Sunday 5 May 1996, 16:00
+Leeds, 1, 3, Spurs, Thursday 2 May 1996, 19:45
+Nott'm Forest, 1, 1, Newcastle, Thursday 2 May 1996, 19:45
+Arsenal, 0, 0, Liverpool, Wednesday 1 May 1996, 19:45
+Leeds, 0, 1, Newcastle, Monday 29 April 1996, 20:00
+Man Utd, 5, 0, Nott'm Forest, Sunday 28 April 1996, 16:00
+Aston Villa, 0, 1, Man City, Saturday 27 April 1996, 15:00
+Blackburn, 1, 1, Arsenal, Saturday 27 April 1996, 15:00
+Bolton, 0, 1, Southampton, Saturday 27 April 1996, 15:00
+Liverpool, 1, 0, Middlesbrough, Saturday 27 April 1996, 15:00
+QPR, 3, 0, West Ham, Saturday 27 April 1996, 15:00
+Sheffield Wed, 2, 5, Everton, Saturday 27 April 1996, 15:00
+Spurs, 1, 1, Chelsea, Saturday 27 April 1996, 15:00
+Wimbledon, 0, 2, Coventry, Saturday 27 April 1996, 15:00
+Man Utd, 1, 0, Leeds, Wednesday 17 April 1996, 20:00
+Aston Villa, 1, 1, West Ham, Wednesday 17 April 1996, 19:45
+Blackburn, 3, 2, Wimbledon, Wednesday 17 April 1996, 19:45
+Newcastle, 1, 0, Southampton, Wednesday 17 April 1996, 19:45
+Nott'm Forest, 0, 0, Coventry, Wednesday 17 April 1996, 19:45
+Sheffield Wed, 0, 0, Chelsea, Wednesday 17 April 1996, 19:45
+Everton, 1, 1, Liverpool, Tuesday 16 April 1996, 20:00
+Arsenal, 0, 0, Spurs, Monday 15 April 1996, 20:00
+Newcastle, 1, 0, Aston Villa, Sunday 14 April 1996, 16:00
+Chelsea, 4, 1, Leeds, Saturday 13 April 1996, 15:00
+Coventry, 1, 0, QPR, Saturday 13 April 1996, 15:00
+Man City, 1, 0, Sheffield Wed, Saturday 13 April 1996, 15:00
+Middlesbrough, 1, 2, Wimbledon, Saturday 13 April 1996, 15:00
+Nott'm Forest, 1, 5, Blackburn, Saturday 13 April 1996, 15:00
+Southampton, 3, 1, Man Utd, Saturday 13 April 1996, 15:00
+West Ham, 1, 0, Bolton, Saturday 13 April 1996, 15:00
+Blackburn, 2, 1, Newcastle, Monday 8 April 1996, 20:00
+Aston Villa, 3, 0, Southampton, Monday 8 April 1996, 15:00
+Bolton, 2, 1, Chelsea, Monday 8 April 1996, 15:00
+Leeds, 1, 3, Nott'm Forest, Monday 8 April 1996, 15:00
+Liverpool, 2, 0, West Ham, Monday 8 April 1996, 15:00
+Man Utd, 1, 0, Coventry, Monday 8 April 1996, 15:00
+QPR, 3, 1, Everton, Monday 8 April 1996, 15:00
+Sheffield Wed, 1, 0, Arsenal, Monday 8 April 1996, 15:00
+Spurs, 1, 1, Middlesbrough, Monday 8 April 1996, 15:00
+Wimbledon, 3, 0, Man City, Monday 8 April 1996, 15:00
+Arsenal, 2, 1, Leeds, Saturday 6 April 1996, 15:00
+Chelsea, 1, 2, Aston Villa, Saturday 6 April 1996, 15:00
+Coventry, 1, 0, Liverpool, Saturday 6 April 1996, 15:00
+Everton, 3, 0, Bolton, Saturday 6 April 1996, 15:00
+Man City, 2, 3, Man Utd, Saturday 6 April 1996, 15:00
+Newcastle, 2, 1, QPR, Saturday 6 April 1996, 15:00
+Nott'm Forest, 2, 1, Spurs, Saturday 6 April 1996, 15:00
+Southampton, 1, 0, Blackburn, Saturday 6 April 1996, 15:00
+West Ham, 1, 1, Wimbledon, Saturday 6 April 1996, 15:00
+Middlesbrough, 3, 1, Sheffield Wed, Friday 5 April 1996, 17:45
+Liverpool, 4, 3, Newcastle, Wednesday 3 April 1996, 20:00
+Leeds, 1, 0, Southampton, Wednesday 3 April 1996, 19:45
+Blackburn, 0, 3, Everton, Saturday 30 March 1996, 15:00
+Bolton, 1, 1, Man City, Saturday 30 March 1996, 15:00
+Leeds, 0, 1, Middlesbrough, Saturday 30 March 1996, 15:00
+QPR, 3, 0, Southampton, Saturday 30 March 1996, 15:00
+Spurs, 3, 1, Coventry, Saturday 30 March 1996, 15:00
+Wimbledon, 1, 0, Nott'm Forest, Saturday 30 March 1996, 15:00
+Southampton, 1, 0, Coventry, Monday 25 March 1996, 20:00
+Man Utd, 1, 0, Spurs, Sunday 24 March 1996, 16:00
+Arsenal, 2, 0, Newcastle, Saturday 23 March 1996, 15:00
+Bolton, 2, 1, Sheffield Wed, Saturday 23 March 1996, 15:00
+Chelsea, 1, 1, QPR, Saturday 23 March 1996, 15:00
+Everton, 2, 4, Wimbledon, Saturday 23 March 1996, 15:00
+Nott'm Forest, 1, 0, Liverpool, Saturday 23 March 1996, 15:00
+West Ham, 4, 2, Man City, Saturday 23 March 1996, 15:00
+Man Utd, 1, 0, Arsenal, Wednesday 20 March 1996, 20:00
+Bolton, 2, 3, Spurs, Wednesday 20 March 1996, 19:45
+Southampton, 0, 1, Sheffield Wed, Wednesday 20 March 1996, 19:30
+Aston Villa, 0, 0, Middlesbrough, Tuesday 19 March 1996, 19:45
+Newcastle, 3, 0, West Ham, Monday 18 March 1996, 19:45
+Leeds, 2, 2, Everton, Sunday 17 March 1996, 16:00
+Coventry, 0, 2, Bolton, Saturday 16 March 1996, 15:00
+Liverpool, 2, 0, Chelsea, Saturday 16 March 1996, 15:00
+Man City, 2, 1, Southampton, Saturday 16 March 1996, 15:00
+Middlesbrough, 1, 1, Nott'm Forest, Saturday 16 March 1996, 15:00
+QPR, 1, 1, Man Utd, Saturday 16 March 1996, 15:00
+Sheffield Wed, 2, 0, Aston Villa, Saturday 16 March 1996, 15:00
+Spurs, 2, 3, Blackburn, Saturday 16 March 1996, 15:00
+Wimbledon, 0, 3, Arsenal, Saturday 16 March 1996, 15:00
+Blackburn, 1, 0, Leeds, Wednesday 13 March 1996, 19:45
+Liverpool, 2, 2, Wimbledon, Wednesday 13 March 1996, 19:45
+Chelsea, 1, 1, Man City, Tuesday 12 March 1996, 19:45
+Aston Villa, 4, 2, QPR, Saturday 9 March 1996, 15:00
+Everton, 2, 2, Coventry, Saturday 9 March 1996, 15:00
+West Ham, 2, 0, Middlesbrough, Saturday 9 March 1996, 15:00
+Aston Villa, 3, 2, Sheffield Wed, Wednesday 6 March 1996, 19:45
+QPR, 1, 2, Leeds, Wednesday 6 March 1996, 19:45
+Arsenal, 3, 1, Man City, Tuesday 5 March 1996, 19:45
+Newcastle, 0, 1, Man Utd, Monday 4 March 1996, 20:00
+Liverpool, 3, 0, Aston Villa, Sunday 3 March 1996, 16:00
+Coventry, 2, 2, West Ham, Saturday 2 March 1996, 15:00
+Leeds, 0, 1, Bolton, Saturday 2 March 1996, 15:00
+Man City, 1, 1, Blackburn, Saturday 2 March 1996, 15:00
+Middlesbrough, 0, 2, Everton, Saturday 2 March 1996, 15:00
+QPR, 1, 1, Arsenal, Saturday 2 March 1996, 15:00
+Sheffield Wed, 1, 3, Nott'm Forest, Saturday 2 March 1996, 15:00
+Spurs, 1, 0, Southampton, Saturday 2 March 1996, 15:00
+Wimbledon, 1, 1, Chelsea, Saturday 2 March 1996, 15:00
+Aston Villa, 2, 0, Blackburn, Wednesday 28 February 1996, 19:45
+Bolton, 0, 6, Man Utd, Sunday 25 February 1996, 17:00
+Blackburn, 2, 3, Liverpool, Saturday 24 February 1996, 15:00
+Coventry, 0, 0, Middlesbrough, Saturday 24 February 1996, 15:00
+Everton, 3, 0, Nott'm Forest, Saturday 24 February 1996, 15:00
+Man City, 3, 3, Newcastle, Saturday 24 February 1996, 15:00
+Southampton, 2, 3, Chelsea, Saturday 24 February 1996, 15:00
+Spurs, 1, 0, Sheffield Wed, Saturday 24 February 1996, 15:00
+West Ham, 0, 1, Arsenal, Saturday 24 February 1996, 15:00
+Wimbledon, 3, 3, Aston Villa, Saturday 24 February 1996, 15:00
+Man Utd, 2, 0, Everton, Wednesday 21 February 1996, 20:00
+West Ham, 2, 0, Newcastle, Wednesday 21 February 1996, 19:45
+Chelsea, 1, 2, West Ham, Saturday 17 February 1996, 15:00
+Middlesbrough, 1, 4, Bolton, Saturday 17 February 1996, 15:00
+Sheffield Wed, 1, 3, QPR, Saturday 17 February 1996, 15:00
+Spurs, 0, 1, West Ham, Monday 12 February 1996, 20:00
+QPR, 1, 2, Liverpool, Sunday 11 February 1996, 17:00
+Bolton, 0, 2, Aston Villa, Saturday 10 February 1996, 15:00
+Coventry, 1, 0, Chelsea, Saturday 10 February 1996, 15:00
+Everton, 2, 0, Man City, Saturday 10 February 1996, 15:00
+Man Utd, 1, 0, Blackburn, Saturday 10 February 1996, 15:00
+Middlesbrough, 1, 2, Newcastle, Saturday 10 February 1996, 15:00
+Nott'm Forest, 0, 1, Arsenal, Saturday 10 February 1996, 15:00
+Sheffield Wed, 2, 1, Wimbledon, Saturday 10 February 1996, 15:00
+Chelsea, 5, 0, Middlesbrough, Sunday 4 February 1996, 16:00
+Arsenal, 1, 1, Coventry, Saturday 3 February 1996, 15:00
+Aston Villa, 3, 0, Leeds, Saturday 3 February 1996, 15:00
+Blackburn, 3, 1, Bolton, Saturday 3 February 1996, 15:00
+Liverpool, 0, 0, Spurs, Saturday 3 February 1996, 15:00
+Man City, 2, 0, QPR, Saturday 3 February 1996, 15:00
+Newcastle, 2, 0, Sheffield Wed, Saturday 3 February 1996, 15:00
+Southampton, 2, 2, Everton, Saturday 3 February 1996, 15:00
+West Ham, 1, 0, Nott'm Forest, Saturday 3 February 1996, 15:00
+Wimbledon, 2, 4, Man Utd, Saturday 3 February 1996, 15:00
+Aston Villa, 0, 2, Liverpool, Wednesday 31 January 1996, 19:45
+Nott'm Forest, 2, 1, Leeds, Wednesday 31 January 1996, 19:45
+West Ham, 3, 2, Coventry, Wednesday 31 January 1996, 19:45
+Southampton, 1, 1, Man City, Wednesday 31 January 1996, 19:30
+West Ham, 0, 1, Man Utd, Monday 22 January 1996, 20:00
+Aston Villa, 2, 1, Spurs, Sunday 21 January 1996, 16:00
+Arsenal, 1, 2, Everton, Saturday 20 January 1996, 15:00
+Blackburn, 3, 0, Sheffield Wed, Saturday 20 January 1996, 15:00
+Chelsea, 1, 0, Nott'm Forest, Saturday 20 January 1996, 15:00
+Liverpool, 5, 0, Leeds, Saturday 20 January 1996, 15:00
+Man City, 1, 1, Coventry, Saturday 20 January 1996, 15:00
+Newcastle, 2, 1, Bolton, Saturday 20 January 1996, 15:00
+Southampton, 2, 1, Middlesbrough, Saturday 20 January 1996, 15:00
+Wimbledon, 2, 1, QPR, Saturday 20 January 1996, 15:00
+Coventry, 0, 1, Newcastle, Sunday 14 January 1996, 16:00
+Bolton, 1, 0, Wimbledon, Saturday 13 January 1996, 15:00
+Everton, 1, 1, Chelsea, Saturday 13 January 1996, 15:00
+Leeds, 2, 0, West Ham, Saturday 13 January 1996, 15:00
+Man Utd, 0, 0, Aston Villa, Saturday 13 January 1996, 15:00
+Middlesbrough, 2, 3, Arsenal, Saturday 13 January 1996, 15:00
+Nott'm Forest, 1, 0, Southampton, Saturday 13 January 1996, 15:00
+QPR, 0, 1, Blackburn, Saturday 13 January 1996, 15:00
+Sheffield Wed, 1, 1, Liverpool, Saturday 13 January 1996, 15:00
+Spurs, 1, 0, Man City, Saturday 13 January 1996, 15:00
+QPR, 1, 2, Chelsea, Tuesday 2 January 1996, 20:00
+Newcastle, 2, 0, Arsenal, Tuesday 2 January 1996, 19:45
+Spurs, 4, 1, Man Utd, Monday 1 January 1996, 20:00
+Middlesbrough, 0, 2, Aston Villa, Monday 1 January 1996, 18:00
+Coventry, 1, 1, Southampton, Monday 1 January 1996, 15:00
+Leeds, 0, 0, Blackburn, Monday 1 January 1996, 15:00
+Liverpool, 4, 2, Nott'm Forest, Monday 1 January 1996, 15:00
+Man City, 2, 1, West Ham, Monday 1 January 1996, 15:00
+Sheffield Wed, 4, 2, Bolton, Monday 1 January 1996, 15:00
+Wimbledon, 2, 3, Everton, Monday 1 January 1996, 15:00
+Arsenal, 1, 3, Wimbledon, Saturday 30 December 1995, 15:00
+Blackburn, 2, 1, Spurs, Saturday 30 December 1995, 15:00
+Bolton, 1, 2, Coventry, Saturday 30 December 1995, 15:00
+Chelsea, 2, 2, Liverpool, Saturday 30 December 1995, 15:00
+Everton, 2, 0, Leeds, Saturday 30 December 1995, 15:00
+Man Utd, 2, 1, QPR, Saturday 30 December 1995, 15:00
+Nott'm Forest, 1, 0, Middlesbrough, Saturday 30 December 1995, 15:00
+Bolton, 0, 2, Leeds, Wednesday 27 December 1995, 20:00
+Man Utd, 2, 0, Newcastle, Wednesday 27 December 1995, 18:00
+Blackburn, 2, 0, Man City, Tuesday 26 December 1995, 20:00
+Everton, 4, 0, Middlesbrough, Tuesday 26 December 1995, 15:00
+Nott'm Forest, 1, 0, Sheffield Wed, Tuesday 26 December 1995, 15:00
+Arsenal, 3, 0, QPR, Tuesday 26 December 1995, 12:00
+Chelsea, 1, 2, Wimbledon, Tuesday 26 December 1995, 12:00
+Southampton, 0, 0, Spurs, Tuesday 26 December 1995, 12:00
+Leeds, 3, 1, Man Utd, Sunday 24 December 1995, 12:00
+Coventry, 2, 1, Everton, Saturday 23 December 1995, 15:00
+Liverpool, 3, 1, Arsenal, Saturday 23 December 1995, 15:00
+Man City, 0, 1, Chelsea, Saturday 23 December 1995, 15:00
+Middlesbrough, 4, 2, West Ham, Saturday 23 December 1995, 15:00
+Newcastle, 3, 1, Nott'm Forest, Saturday 23 December 1995, 15:00
+QPR, 1, 0, Aston Villa, Saturday 23 December 1995, 15:00
+Sheffield Wed, 2, 2, Southampton, Saturday 23 December 1995, 15:00
+Spurs, 2, 2, Bolton, Saturday 23 December 1995, 15:00
+Wimbledon, 1, 1, Blackburn, Saturday 23 December 1995, 15:00
+Man City, 1, 1, Nott'm Forest, Monday 18 December 1995, 20:00
+Liverpool, 2, 0, Man Utd, Sunday 17 December 1995, 16:00
+Arsenal, 1, 1, Chelsea, Saturday 16 December 1995, 15:00
+Aston Villa, 4, 1, Coventry, Saturday 16 December 1995, 15:00
+Blackburn, 1, 0, Middlesbrough, Saturday 16 December 1995, 15:00
+Newcastle, 1, 0, Everton, Saturday 16 December 1995, 15:00
+QPR, 2, 1, Bolton, Saturday 16 December 1995, 15:00
+Sheffield Wed, 6, 2, Leeds, Saturday 16 December 1995, 15:00
+West Ham, 2, 1, Southampton, Saturday 16 December 1995, 15:00
+Wimbledon, 0, 1, Spurs, Saturday 16 December 1995, 15:00
+Everton, 3, 0, West Ham, Monday 11 December 1995, 20:00
+Nott'm Forest, 1, 1, Aston Villa, Sunday 10 December 1995, 16:00
+Bolton, 0, 1, Liverpool, Saturday 9 December 1995, 15:00
+Chelsea, 1, 0, Newcastle, Saturday 9 December 1995, 15:00
+Coventry, 5, 0, Blackburn, Saturday 9 December 1995, 15:00
+Leeds, 1, 1, Wimbledon, Saturday 9 December 1995, 15:00
+Man Utd, 2, 2, Sheffield Wed, Saturday 9 December 1995, 15:00
+Middlesbrough, 4, 1, Man City, Saturday 9 December 1995, 15:00
+Southampton, 0, 0, Arsenal, Saturday 9 December 1995, 15:00
+Spurs, 1, 0, QPR, Saturday 9 December 1995, 15:00
+Sheffield Wed, 4, 3, Coventry, Monday 4 December 1995, 20:00
+Wimbledon, 3, 3, Newcastle, Sunday 3 December 1995, 16:00
+Aston Villa, 1, 1, Arsenal, Saturday 2 December 1995, 15:00
+Blackburn, 4, 2, West Ham, Saturday 2 December 1995, 15:00
+Bolton, 1, 1, Nott'm Forest, Saturday 2 December 1995, 15:00
+Leeds, 0, 1, Man City, Saturday 2 December 1995, 15:00
+Liverpool, 1, 1, Southampton, Saturday 2 December 1995, 15:00
+Man Utd, 1, 1, Chelsea, Saturday 2 December 1995, 15:00
+QPR, 1, 1, Middlesbrough, Saturday 2 December 1995, 15:00
+Spurs, 0, 0, Everton, Saturday 2 December 1995, 15:00
+Nott'm Forest, 1, 1, Man Utd, Monday 27 November 1995, 20:00
+Arsenal, 0, 0, Blackburn, Sunday 26 November 1995, 12:45
+Chelsea, 0, 0, Spurs, Saturday 25 November 1995, 15:00
+Coventry, 3, 3, Wimbledon, Saturday 25 November 1995, 15:00
+Everton, 2, 2, Sheffield Wed, Saturday 25 November 1995, 15:00
+Man City, 1, 0, Aston Villa, Saturday 25 November 1995, 15:00
+Middlesbrough, 2, 1, Liverpool, Saturday 25 November 1995, 15:00
+Newcastle, 2, 1, Leeds, Saturday 25 November 1995, 15:00
+Southampton, 1, 0, Bolton, Saturday 25 November 1995, 15:00
+West Ham, 1, 0, QPR, Saturday 25 November 1995, 15:00
+Chelsea, 3, 2, Bolton, Wednesday 22 November 1995, 19:45
+Coventry, 0, 4, Man Utd, Wednesday 22 November 1995, 19:45
+Everton, 2, 0, QPR, Wednesday 22 November 1995, 19:45
+Man City, 1, 0, Wimbledon, Wednesday 22 November 1995, 19:45
+West Ham, 0, 0, Liverpool, Wednesday 22 November 1995, 19:45
+Arsenal, 4, 2, Sheffield Wed, Tuesday 21 November 1995, 19:45
+Middlesbrough, 0, 1, Spurs, Tuesday 21 November 1995, 19:45
+Southampton, 0, 1, Aston Villa, Monday 20 November 1995, 20:00
+QPR, 1, 1, Coventry, Sunday 19 November 1995, 16:00
+Aston Villa, 1, 1, Newcastle, Saturday 18 November 1995, 15:00
+Blackburn, 7, 0, Nott'm Forest, Saturday 18 November 1995, 15:00
+Bolton, 0, 3, West Ham, Saturday 18 November 1995, 15:00
+Leeds, 1, 0, Chelsea, Saturday 18 November 1995, 15:00
+Liverpool, 1, 2, Everton, Saturday 18 November 1995, 15:00
+Man Utd, 4, 1, Southampton, Saturday 18 November 1995, 15:00
+Sheffield Wed, 1, 1, Man City, Saturday 18 November 1995, 15:00
+Spurs, 2, 1, Arsenal, Saturday 18 November 1995, 15:00
+Wimbledon, 0, 0, Middlesbrough, Saturday 18 November 1995, 15:00
+Newcastle, 1, 0, Blackburn, Wednesday 8 November 1995, 19:45
+Nott'm Forest, 4, 1, Wimbledon, Monday 6 November 1995, 20:00
+Everton, 1, 0, Blackburn, Sunday 5 November 1995, 16:00
+Arsenal, 1, 0, Man Utd, Saturday 4 November 1995, 15:00
+Chelsea, 0, 0, Sheffield Wed, Saturday 4 November 1995, 15:00
+Coventry, 2, 3, Spurs, Saturday 4 November 1995, 15:00
+Man City, 1, 0, Bolton, Saturday 4 November 1995, 15:00
+Middlesbrough, 1, 1, Leeds, Saturday 4 November 1995, 15:00
+Newcastle, 2, 1, Liverpool, Saturday 4 November 1995, 15:00
+Southampton, 2, 0, QPR, Saturday 4 November 1995, 15:00
+West Ham, 1, 4, Aston Villa, Saturday 4 November 1995, 15:00
+Bolton, 1, 0, Arsenal, Monday 30 October 1995, 20:00
+Spurs, 1, 1, Newcastle, Sunday 29 October 1995, 16:00
+Aston Villa, 1, 0, Everton, Saturday 28 October 1995, 15:00
+Blackburn, 3, 0, Chelsea, Saturday 28 October 1995, 15:00
+Leeds, 3, 1, Coventry, Saturday 28 October 1995, 15:00
+Liverpool, 6, 0, Man City, Saturday 28 October 1995, 15:00
+Man Utd, 2, 0, Middlesbrough, Saturday 28 October 1995, 15:00
+QPR, 1, 1, Nott'm Forest, Saturday 28 October 1995, 15:00
+Sheffield Wed, 0, 1, West Ham, Saturday 28 October 1995, 15:00
+Wimbledon, 1, 2, Southampton, Saturday 28 October 1995, 15:00
+Southampton, 1, 3, Liverpool, Sunday 22 October 1995, 16:00
+Everton, 1, 1, Spurs, Sunday 22 October 1995, 15:00
+Arsenal, 2, 0, Aston Villa, Saturday 21 October 1995, 15:00
+Chelsea, 1, 4, Man Utd, Saturday 21 October 1995, 15:00
+Coventry, 0, 1, Sheffield Wed, Saturday 21 October 1995, 15:00
+Man City, 0, 0, Leeds, Saturday 21 October 1995, 15:00
+Middlesbrough, 1, 0, QPR, Saturday 21 October 1995, 15:00
+Newcastle, 6, 1, Wimbledon, Saturday 21 October 1995, 15:00
+Nott'm Forest, 3, 2, Bolton, Saturday 21 October 1995, 15:00
+West Ham, 1, 1, Blackburn, Saturday 21 October 1995, 15:00
+Wimbledon, 0, 1, West Ham, Monday 16 October 1995, 20:00
+Sheffield Wed, 0, 1, Middlesbrough, Sunday 15 October 1995, 16:00
+Aston Villa, 0, 1, Chelsea, Saturday 14 October 1995, 15:00
+Blackburn, 2, 1, Southampton, Saturday 14 October 1995, 15:00
+Bolton, 1, 1, Everton, Saturday 14 October 1995, 15:00
+Leeds, 0, 3, Arsenal, Saturday 14 October 1995, 15:00
+Liverpool, 0, 0, Coventry, Saturday 14 October 1995, 15:00
+Man Utd, 1, 0, Man City, Saturday 14 October 1995, 15:00
+QPR, 2, 3, Newcastle, Saturday 14 October 1995, 15:00
+Spurs, 0, 1, Nott'm Forest, Saturday 14 October 1995, 15:00
+Southampton, 0, 0, West Ham, Monday 2 October 1995, 20:00
+Man Utd, 2, 2, Liverpool, Sunday 1 October 1995, 16:00
+Everton, 1, 3, Newcastle, Sunday 1 October 1995, 13:45
+Bolton, 0, 1, QPR, Saturday 30 September 1995, 15:00
+Chelsea, 1, 0, Arsenal, Saturday 30 September 1995, 15:00
+Coventry, 0, 3, Aston Villa, Saturday 30 September 1995, 15:00
+Leeds, 2, 0, Sheffield Wed, Saturday 30 September 1995, 15:00
+Middlesbrough, 2, 0, Blackburn, Saturday 30 September 1995, 15:00
+Nott'm Forest, 3, 0, Man City, Saturday 30 September 1995, 15:00
+Spurs, 3, 1, Wimbledon, Saturday 30 September 1995, 15:00
+QPR, 2, 3, Spurs, Monday 25 September 1995, 20:00
+Newcastle, 2, 0, Chelsea, Sunday 24 September 1995, 16:00
+Arsenal, 4, 2, Southampton, Saturday 23 September 1995, 15:00
+Aston Villa, 1, 1, Nott'm Forest, Saturday 23 September 1995, 15:00
+Blackburn, 5, 1, Coventry, Saturday 23 September 1995, 15:00
+Liverpool, 5, 2, Bolton, Saturday 23 September 1995, 15:00
+Man City, 0, 1, Middlesbrough, Saturday 23 September 1995, 15:00
+Sheffield Wed, 0, 0, Man Utd, Saturday 23 September 1995, 15:00
+West Ham, 2, 1, Everton, Saturday 23 September 1995, 15:00
+Wimbledon, 2, 4, Leeds, Saturday 23 September 1995, 15:00
+Nott'm Forest, 3, 2, Everton, Sunday 17 September 1995, 16:00
+Arsenal, 1, 0, West Ham, Saturday 16 September 1995, 15:00
+Aston Villa, 2, 0, Wimbledon, Saturday 16 September 1995, 15:00
+Chelsea, 3, 0, Southampton, Saturday 16 September 1995, 15:00
+Leeds, 1, 3, QPR, Saturday 16 September 1995, 15:00
+Liverpool, 3, 0, Blackburn, Saturday 16 September 1995, 15:00
+Man Utd, 3, 0, Bolton, Saturday 16 September 1995, 15:00
+Middlesbrough, 2, 1, Coventry, Saturday 16 September 1995, 15:00
+Newcastle, 3, 1, Man City, Saturday 16 September 1995, 15:00
+Sheffield Wed, 1, 3, Spurs, Saturday 16 September 1995, 15:00
+Middlesbrough, 0, 0, Southampton, Tuesday 12 September 1995, 19:45
+West Ham, 1, 3, Chelsea, Monday 11 September 1995, 20:00
+Man City, 0, 1, Arsenal, Sunday 10 September 1995, 16:00
+Blackburn, 1, 1, Aston Villa, Saturday 9 September 1995, 15:00
+Bolton, 1, 1, Middlesbrough, Saturday 9 September 1995, 15:00
+Coventry, 1, 1, Nott'm Forest, Saturday 9 September 1995, 15:00
+Everton, 2, 3, Man Utd, Saturday 9 September 1995, 15:00
+QPR, 0, 3, Sheffield Wed, Saturday 9 September 1995, 15:00
+Southampton, 1, 0, Newcastle, Saturday 9 September 1995, 15:00
+Spurs, 2, 1, Leeds, Saturday 9 September 1995, 15:00
+Wimbledon, 1, 0, Liverpool, Saturday 9 September 1995, 15:00
+Aston Villa, 1, 0, Bolton, Wednesday 30 August 1995, 19:45
+Chelsea, 2, 2, Coventry, Wednesday 30 August 1995, 19:45
+Liverpool, 1, 0, QPR, Wednesday 30 August 1995, 19:45
+Man City, 0, 2, Everton, Wednesday 30 August 1995, 19:45
+Newcastle, 1, 0, Middlesbrough, Wednesday 30 August 1995, 19:45
+West Ham, 1, 1, Spurs, Wednesday 30 August 1995, 19:45
+Wimbledon, 2, 2, Sheffield Wed, Wednesday 30 August 1995, 19:45
+Southampton, 1, 1, Leeds, Wednesday 30 August 1995, 19:30
+Arsenal, 1, 1, Nott'm Forest, Tuesday 29 August 1995, 19:45
+Blackburn, 1, 2, Man Utd, Monday 28 August 1995, 20:00
+Sheffield Wed, 0, 2, Newcastle, Sunday 27 August 1995, 16:00
+Bolton, 2, 1, Blackburn, Saturday 26 August 1995, 15:00
+Coventry, 0, 0, Arsenal, Saturday 26 August 1995, 15:00
+Everton, 2, 0, Southampton, Saturday 26 August 1995, 15:00
+Leeds, 2, 0, Aston Villa, Saturday 26 August 1995, 15:00
+Man Utd, 3, 1, Wimbledon, Saturday 26 August 1995, 15:00
+Middlesbrough, 2, 0, Chelsea, Saturday 26 August 1995, 15:00
+Nott'm Forest, 1, 1, West Ham, Saturday 26 August 1995, 15:00
+QPR, 1, 0, Man City, Saturday 26 August 1995, 15:00
+Spurs, 1, 3, Liverpool, Saturday 26 August 1995, 15:00
+Man Utd, 2, 1, West Ham, Wednesday 23 August 1995, 20:00
+Coventry, 2, 1, Man City, Wednesday 23 August 1995, 19:45
+Everton, 0, 2, Arsenal, Wednesday 23 August 1995, 19:45
+Nott'm Forest, 0, 0, Chelsea, Wednesday 23 August 1995, 19:45
+QPR, 0, 3, Wimbledon, Wednesday 23 August 1995, 19:45
+Sheffield Wed, 2, 1, Blackburn, Wednesday 23 August 1995, 19:45
+Spurs, 0, 1, Aston Villa, Wednesday 23 August 1995, 19:45
+Bolton, 1, 3, Newcastle, Tuesday 22 August 1995, 19:45
+Leeds, 1, 0, Liverpool, Monday 21 August 1995, 20:00
+Arsenal, 1, 1, Middlesbrough, Sunday 20 August 1995, 16:00
+Aston Villa, 3, 1, Man Utd, Saturday 19 August 1995, 15:00
+Blackburn, 1, 0, QPR, Saturday 19 August 1995, 15:00
+Chelsea, 0, 0, Everton, Saturday 19 August 1995, 15:00
+Liverpool, 1, 0, Sheffield Wed, Saturday 19 August 1995, 15:00
+Man City, 1, 1, Spurs, Saturday 19 August 1995, 15:00
+Newcastle, 3, 0, Coventry, Saturday 19 August 1995, 15:00
+Southampton, 3, 4, Nott'm Forest, Saturday 19 August 1995, 15:00
+West Ham, 1, 2, Leeds, Saturday 19 August 1995, 15:00
+Wimbledon, 3, 2, Bolton, Saturday 19 August 1995, 15:00

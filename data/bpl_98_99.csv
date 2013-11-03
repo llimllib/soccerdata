@@ -1,0 +1,381 @@
+home, homescore, awayscore, away, date, time
+Arsenal, 1, 0, Aston Villa, Sunday 16 May 1999, 16:00
+Charlton, 0, 1, Sheffield Wed, Sunday 16 May 1999, 16:00
+Chelsea, 2, 1, Derby, Sunday 16 May 1999, 16:00
+Coventry, 2, 2, Leeds, Sunday 16 May 1999, 16:00
+Liverpool, 3, 0, Wimbledon, Sunday 16 May 1999, 16:00
+Man Utd, 2, 1, Spurs, Sunday 16 May 1999, 16:00
+Newcastle, 1, 1, Blackburn, Sunday 16 May 1999, 16:00
+Nott'm Forest, 1, 0, Leicester, Sunday 16 May 1999, 16:00
+Southampton, 2, 0, Everton, Sunday 16 May 1999, 16:00
+West Ham, 4, 0, Middlesbrough, Sunday 16 May 1999, 16:00
+Blackburn, 0, 0, Man Utd, Wednesday 12 May 1999, 20:00
+Leeds, 1, 0, Arsenal, Tuesday 11 May 1999, 20:00
+Spurs, 2, 2, Chelsea, Monday 10 May 1999, 20:00
+Middlesbrough, 0, 1, Man Utd, Sunday 9 May 1999, 16:00
+Aston Villa, 3, 4, Charlton, Saturday 8 May 1999, 15:00
+Blackburn, 1, 2, Nott'm Forest, Saturday 8 May 1999, 15:00
+Derby, 0, 0, Coventry, Saturday 8 May 1999, 15:00
+Everton, 6, 0, West Ham, Saturday 8 May 1999, 15:00
+Leicester, 2, 0, Newcastle, Saturday 8 May 1999, 15:00
+Sheffield Wed, 1, 0, Liverpool, Saturday 8 May 1999, 15:00
+Wimbledon, 0, 2, Southampton, Saturday 8 May 1999, 15:00
+Liverpool, 2, 2, Man Utd, Wednesday 5 May 1999, 20:00
+Spurs, 1, 3, Arsenal, Wednesday 5 May 1999, 20:00
+Chelsea, 1, 0, Leeds, Wednesday 5 May 1999, 19:45
+Leicester, 1, 2, Derby, Wednesday 5 May 1999, 19:45
+Arsenal, 1, 0, Derby, Sunday 2 May 1999, 16:00
+Charlton, 0, 0, Blackburn, Saturday 1 May 1999, 15:00
+Chelsea, 3, 1, Everton, Saturday 1 May 1999, 15:00
+Coventry, 2, 1, Wimbledon, Saturday 1 May 1999, 15:00
+Liverpool, 3, 2, Spurs, Saturday 1 May 1999, 15:00
+Man Utd, 2, 1, Aston Villa, Saturday 1 May 1999, 15:00
+Newcastle, 1, 1, Middlesbrough, Saturday 1 May 1999, 15:00
+Nott'm Forest, 2, 0, Sheffield Wed, Saturday 1 May 1999, 15:00
+Southampton, 2, 1, Leicester, Saturday 1 May 1999, 15:00
+West Ham, 1, 5, Leeds, Saturday 1 May 1999, 15:00
+Sheffield Wed, 0, 0, Chelsea, Sunday 25 April 1999, 16:00
+Leeds, 1, 1, Man Utd, Sunday 25 April 1999, 11:30
+Aston Villa, 2, 0, Nott'm Forest, Saturday 24 April 1999, 15:00
+Blackburn, 1, 3, Liverpool, Saturday 24 April 1999, 15:00
+Derby, 0, 0, Southampton, Saturday 24 April 1999, 15:00
+Everton, 4, 1, Charlton, Saturday 24 April 1999, 15:00
+Leicester, 1, 0, Coventry, Saturday 24 April 1999, 15:00
+Middlesbrough, 1, 6, Arsenal, Saturday 24 April 1999, 15:00
+Spurs, 1, 2, West Ham, Saturday 24 April 1999, 15:00
+Wimbledon, 1, 1, Newcastle, Saturday 24 April 1999, 15:00
+Liverpool, 0, 1, Leicester, Wednesday 21 April 1999, 19:45
+Sheffield Wed, 1, 1, Newcastle, Wednesday 21 April 1999, 19:45
+Charlton, 1, 4, Spurs, Tuesday 20 April 1999, 19:45
+Arsenal, 5, 1, Wimbledon, Monday 19 April 1999, 20:00
+Chelsea, 2, 2, Leicester, Sunday 18 April 1999, 14:00
+Charlton, 1, 1, Leeds, Saturday 17 April 1999, 15:00
+Coventry, 1, 2, Middlesbrough, Saturday 17 April 1999, 15:00
+Liverpool, 0, 1, Aston Villa, Saturday 17 April 1999, 15:00
+Man Utd, 3, 0, Sheffield Wed, Saturday 17 April 1999, 15:00
+Newcastle, 1, 3, Everton, Saturday 17 April 1999, 15:00
+Nott'm Forest, 0, 1, Spurs, Saturday 17 April 1999, 15:00
+Southampton, 3, 3, Blackburn, Saturday 17 April 1999, 15:00
+West Ham, 5, 1, Derby, Saturday 17 April 1999, 15:00
+Middlesbrough, 0, 0, Chelsea, Wednesday 14 April 1999, 19:45
+Leeds, 0, 0, Liverpool, Monday 12 April 1999, 20:00
+Everton, 2, 0, Coventry, Sunday 11 April 1999, 15:00
+Wimbledon, 1, 2, Chelsea, Sunday 11 April 1999, 15:00
+Aston Villa, 3, 0, Southampton, Saturday 10 April 1999, 15:00
+Derby, 1, 0, Nott'm Forest, Saturday 10 April 1999, 15:00
+Leicester, 0, 0, West Ham, Saturday 10 April 1999, 15:00
+Middlesbrough, 2, 0, Charlton, Saturday 10 April 1999, 15:00
+Arsenal, 1, 0, Blackburn, Tuesday 6 April 1999, 19:45
+Leicester, 2, 2, Aston Villa, Tuesday 6 April 1999, 19:45
+Newcastle, 1, 1, Spurs, Monday 5 April 1999, 19:45
+Coventry, 1, 0, Southampton, Monday 5 April 1999, 15:00
+Everton, 1, 2, Sheffield Wed, Monday 5 April 1999, 15:00
+Middlesbrough, 3, 1, Wimbledon, Monday 5 April 1999, 15:00
+Nott'm Forest, 2, 2, Liverpool, Monday 5 April 1999, 15:00
+West Ham, 0, 1, Charlton, Monday 5 April 1999, 15:00
+Blackburn, 0, 0, Middlesbrough, Saturday 3 April 1999, 15:00
+Charlton, 0, 1, Chelsea, Saturday 3 April 1999, 15:00
+Derby, 3, 4, Newcastle, Saturday 3 April 1999, 15:00
+Leeds, 3, 1, Nott'm Forest, Saturday 3 April 1999, 15:00
+Liverpool, 3, 2, Everton, Saturday 3 April 1999, 15:00
+Sheffield Wed, 1, 2, Coventry, Saturday 3 April 1999, 15:00
+Southampton, 0, 0, Arsenal, Saturday 3 April 1999, 15:00
+Spurs, 0, 2, Leicester, Saturday 3 April 1999, 15:00
+Wimbledon, 1, 1, Man Utd, Saturday 3 April 1999, 15:00
+Aston Villa, 0, 0, West Ham, Friday 2 April 1999, 19:45
+Man Utd, 3, 1, Everton, Sunday 21 March 1999, 15:00
+Aston Villa, 0, 3, Chelsea, Sunday 21 March 1999, 11:30
+Arsenal, 2, 0, Coventry, Saturday 20 March 1999, 15:00
+Blackburn, 3, 1, Wimbledon, Saturday 20 March 1999, 15:00
+Leeds, 4, 1, Derby, Saturday 20 March 1999, 15:00
+Nott'm Forest, 1, 2, Middlesbrough, Saturday 20 March 1999, 15:00
+Southampton, 1, 0, Sheffield Wed, Saturday 20 March 1999, 15:00
+West Ham, 2, 0, Newcastle, Saturday 20 March 1999, 15:00
+Middlesbrough, 3, 0, Southampton, Sunday 14 March 1999, 16:00
+Chelsea, 0, 1, West Ham, Saturday 13 March 1999, 15:00
+Coventry, 1, 1, Blackburn, Saturday 13 March 1999, 15:00
+Derby, 3, 2, Liverpool, Saturday 13 March 1999, 15:00
+Everton, 0, 2, Arsenal, Saturday 13 March 1999, 15:00
+Leicester, 1, 1, Charlton, Saturday 13 March 1999, 15:00
+Newcastle, 1, 2, Man Utd, Saturday 13 March 1999, 15:00
+Sheffield Wed, 0, 2, Leeds, Saturday 13 March 1999, 15:00
+Spurs, 1, 0, Aston Villa, Saturday 13 March 1999, 15:00
+Wimbledon, 1, 3, Nott'm Forest, Saturday 13 March 1999, 15:00
+Blackburn, 1, 2, Everton, Wednesday 10 March 1999, 19:45
+Derby, 2, 1, Aston Villa, Wednesday 10 March 1999, 19:45
+Leeds, 2, 0, Spurs, Wednesday 10 March 1999, 19:45
+Nott'm Forest, 1, 2, Newcastle, Wednesday 10 March 1999, 19:45
+Arsenal, 3, 0, Sheffield Wed, Tuesday 9 March 1999, 19:45
+Coventry, 2, 1, Charlton, Saturday 6 March 1999, 15:00
+Southampton, 1, 0, West Ham, Saturday 6 March 1999, 15:00
+Wimbledon, 0, 1, Leicester, Saturday 6 March 1999, 15:00
+Sheffield Wed, 1, 2, Wimbledon, Wednesday 3 March 1999, 19:45
+Spurs, 3, 0, Southampton, Tuesday 2 March 1999, 19:45
+Leicester, 1, 2, Leeds, Monday 1 March 1999, 20:00
+Newcastle, 1, 1, Arsenal, Sunday 28 February 1999, 16:00
+Aston Villa, 1, 4, Coventry, Saturday 27 February 1999, 15:00
+Charlton, 0, 0, Nott'm Forest, Saturday 27 February 1999, 15:00
+Chelsea, 2, 1, Liverpool, Saturday 27 February 1999, 15:00
+Everton, 1, 1, Wimbledon, Saturday 27 February 1999, 15:00
+Man Utd, 2, 1, Southampton, Saturday 27 February 1999, 15:00
+Sheffield Wed, 3, 1, Middlesbrough, Saturday 27 February 1999, 15:00
+Spurs, 1, 1, Derby, Saturday 27 February 1999, 15:00
+West Ham, 2, 0, Blackburn, Saturday 27 February 1999, 15:00
+Wimbledon, 0, 0, Aston Villa, Sunday 21 February 1999, 16:00
+Arsenal, 5, 0, Leicester, Saturday 20 February 1999, 15:00
+Blackburn, 1, 4, Sheffield Wed, Saturday 20 February 1999, 15:00
+Coventry, 0, 1, Man Utd, Saturday 20 February 1999, 15:00
+Derby, 0, 2, Charlton, Saturday 20 February 1999, 15:00
+Leeds, 1, 0, Everton, Saturday 20 February 1999, 15:00
+Liverpool, 2, 2, West Ham, Saturday 20 February 1999, 15:00
+Middlesbrough, 0, 0, Spurs, Saturday 20 February 1999, 15:00
+Nott'm Forest, 1, 3, Chelsea, Saturday 20 February 1999, 15:00
+Southampton, 2, 1, Newcastle, Saturday 20 February 1999, 15:00
+Everton, 5, 0, Middlesbrough, Wednesday 17 February 1999, 20:00
+Man Utd, 1, 1, Arsenal, Wednesday 17 February 1999, 20:00
+Aston Villa, 1, 2, Leeds, Wednesday 17 February 1999, 19:45
+Chelsea, 1, 1, Blackburn, Wednesday 17 February 1999, 19:45
+Newcastle, 4, 1, Coventry, Wednesday 17 February 1999, 19:45
+Charlton, 1, 0, Liverpool, Saturday 13 February 1999, 15:00
+West Ham, 2, 1, Nott'm Forest, Saturday 13 February 1999, 15:00
+Charlton, 2, 0, Wimbledon, Monday 8 February 1999, 20:00
+Derby, 2, 1, Everton, Sunday 7 February 1999, 16:00
+Aston Villa, 1, 3, Blackburn, Saturday 6 February 1999, 15:00
+Chelsea, 1, 0, Southampton, Saturday 6 February 1999, 15:00
+Leeds, 0, 1, Newcastle, Saturday 6 February 1999, 15:00
+Leicester, 0, 2, Sheffield Wed, Saturday 6 February 1999, 15:00
+Liverpool, 3, 1, Middlesbrough, Saturday 6 February 1999, 15:00
+Nott'm Forest, 1, 8, Man Utd, Saturday 6 February 1999, 15:00
+Spurs, 0, 0, Coventry, Saturday 6 February 1999, 15:00
+West Ham, 0, 4, Arsenal, Saturday 6 February 1999, 15:00
+Man Utd, 1, 0, Derby, Wednesday 3 February 1999, 20:00
+Arsenal, 1, 0, Chelsea, Sunday 31 January 1999, 16:00
+Charlton, 0, 1, Man Utd, Sunday 31 January 1999, 16:00
+Blackburn, 1, 1, Spurs, Saturday 30 January 1999, 15:00
+Coventry, 2, 1, Liverpool, Saturday 30 January 1999, 15:00
+Everton, 0, 1, Nott'm Forest, Saturday 30 January 1999, 15:00
+Middlesbrough, 0, 0, Leicester, Saturday 30 January 1999, 15:00
+Newcastle, 2, 1, Aston Villa, Saturday 30 January 1999, 15:00
+Sheffield Wed, 0, 1, Derby, Saturday 30 January 1999, 15:00
+Southampton, 3, 0, Leeds, Saturday 30 January 1999, 15:00
+Wimbledon, 0, 0, West Ham, Saturday 30 January 1999, 15:00
+Aston Villa, 3, 0, Everton, Monday 18 January 1999, 20:00
+Charlton, 2, 2, Newcastle, Sunday 17 January 1999, 16:00
+Chelsea, 2, 1, Coventry, Saturday 16 January 1999, 15:00
+Derby, 1, 0, Blackburn, Saturday 16 January 1999, 15:00
+Leeds, 2, 0, Middlesbrough, Saturday 16 January 1999, 15:00
+Leicester, 2, 6, Man Utd, Saturday 16 January 1999, 15:00
+Liverpool, 7, 1, Southampton, Saturday 16 January 1999, 15:00
+Nott'm Forest, 0, 1, Arsenal, Saturday 16 January 1999, 15:00
+Spurs, 0, 0, Wimbledon, Saturday 16 January 1999, 15:00
+West Ham, 0, 4, Sheffield Wed, Saturday 16 January 1999, 15:00
+Man Utd, 4, 1, West Ham, Sunday 10 January 1999, 16:00
+Arsenal, 0, 0, Liverpool, Saturday 9 January 1999, 15:00
+Blackburn, 1, 0, Leeds, Saturday 9 January 1999, 15:00
+Coventry, 4, 0, Nott'm Forest, Saturday 9 January 1999, 15:00
+Everton, 0, 0, Leicester, Saturday 9 January 1999, 15:00
+Middlesbrough, 0, 0, Aston Villa, Saturday 9 January 1999, 15:00
+Newcastle, 0, 1, Chelsea, Saturday 9 January 1999, 15:00
+Sheffield Wed, 0, 0, Spurs, Saturday 9 January 1999, 15:00
+Southampton, 3, 1, Charlton, Saturday 9 January 1999, 15:00
+Wimbledon, 2, 1, Derby, Saturday 9 January 1999, 15:00
+Chelsea, 0, 0, Man Utd, Tuesday 29 December 1998, 20:00
+Leeds, 2, 2, Wimbledon, Tuesday 29 December 1998, 19:45
+Leicester, 1, 1, Blackburn, Monday 28 December 1998, 19:45
+Aston Villa, 2, 1, Sheffield Wed, Monday 28 December 1998, 15:00
+Charlton, 0, 1, Arsenal, Monday 28 December 1998, 15:00
+Derby, 2, 1, Middlesbrough, Monday 28 December 1998, 15:00
+Liverpool, 4, 2, Newcastle, Monday 28 December 1998, 15:00
+Nott'm Forest, 1, 1, Southampton, Monday 28 December 1998, 15:00
+Spurs, 4, 1, Everton, Monday 28 December 1998, 15:00
+West Ham, 2, 0, Coventry, Monday 28 December 1998, 15:00
+Blackburn, 2, 1, Aston Villa, Saturday 26 December 1998, 18:00
+Coventry, 1, 1, Spurs, Saturday 26 December 1998, 15:00
+Everton, 0, 0, Derby, Saturday 26 December 1998, 15:00
+Man Utd, 3, 0, Nott'm Forest, Saturday 26 December 1998, 15:00
+Middlesbrough, 1, 3, Liverpool, Saturday 26 December 1998, 15:00
+Newcastle, 0, 3, Leeds, Saturday 26 December 1998, 15:00
+Sheffield Wed, 0, 1, Leicester, Saturday 26 December 1998, 15:00
+Arsenal, 1, 0, West Ham, Saturday 26 December 1998, 12:00
+Southampton, 0, 2, Chelsea, Saturday 26 December 1998, 12:00
+Wimbledon, 2, 1, Charlton, Saturday 26 December 1998, 12:00
+Charlton, 0, 1, Aston Villa, Monday 21 December 1998, 20:00
+Arsenal, 3, 1, Leeds, Sunday 20 December 1998, 16:00
+Chelsea, 2, 0, Spurs, Saturday 19 December 1998, 15:00
+Coventry, 1, 1, Derby, Saturday 19 December 1998, 15:00
+Liverpool, 2, 0, Sheffield Wed, Saturday 19 December 1998, 15:00
+Man Utd, 2, 3, Middlesbrough, Saturday 19 December 1998, 15:00
+Newcastle, 1, 0, Leicester, Saturday 19 December 1998, 15:00
+Nott'm Forest, 2, 2, Blackburn, Saturday 19 December 1998, 15:00
+Southampton, 3, 1, Wimbledon, Saturday 19 December 1998, 15:00
+West Ham, 2, 1, Everton, Saturday 19 December 1998, 15:00
+Man Utd, 1, 1, Chelsea, Wednesday 16 December 1998, 20:00
+Leeds, 2, 0, Coventry, Monday 14 December 1998, 20:00
+Wimbledon, 1, 0, Liverpool, Sunday 13 December 1998, 16:00
+Aston Villa, 3, 2, Arsenal, Sunday 13 December 1998, 15:00
+Blackburn, 0, 0, Newcastle, Saturday 12 December 1998, 15:00
+Derby, 2, 2, Chelsea, Saturday 12 December 1998, 15:00
+Everton, 1, 0, Southampton, Saturday 12 December 1998, 15:00
+Leicester, 3, 1, Nott'm Forest, Saturday 12 December 1998, 15:00
+Middlesbrough, 1, 0, West Ham, Saturday 12 December 1998, 15:00
+Sheffield Wed, 3, 0, Charlton, Saturday 12 December 1998, 15:00
+Spurs, 2, 2, Man Utd, Saturday 12 December 1998, 15:00
+Chelsea, 2, 1, Aston Villa, Wednesday 9 December 1998, 19:45
+Sheffield Wed, 3, 2, Nott'm Forest, Monday 7 December 1998, 20:00
+Middlesbrough, 2, 2, Newcastle, Sunday 6 December 1998, 16:00
+Aston Villa, 1, 1, Man Utd, Saturday 5 December 1998, 15:00
+Blackburn, 1, 0, Charlton, Saturday 5 December 1998, 15:00
+Derby, 0, 0, Arsenal, Saturday 5 December 1998, 15:00
+Everton, 0, 0, Chelsea, Saturday 5 December 1998, 15:00
+Leeds, 4, 0, West Ham, Saturday 5 December 1998, 15:00
+Leicester, 2, 0, Southampton, Saturday 5 December 1998, 15:00
+Spurs, 2, 1, Liverpool, Saturday 5 December 1998, 15:00
+Wimbledon, 2, 1, Coventry, Saturday 5 December 1998, 15:00
+Liverpool, 2, 0, Blackburn, Sunday 29 November 1998, 16:00
+Arsenal, 1, 1, Middlesbrough, Sunday 29 November 1998, 15:00
+Man Utd, 3, 2, Leeds, Sunday 29 November 1998, 14:00
+Charlton, 1, 2, Everton, Saturday 28 November 1998, 15:00
+Chelsea, 1, 1, Sheffield Wed, Saturday 28 November 1998, 15:00
+Coventry, 1, 1, Leicester, Saturday 28 November 1998, 15:00
+Newcastle, 3, 1, Wimbledon, Saturday 28 November 1998, 15:00
+Nott'm Forest, 2, 2, Aston Villa, Saturday 28 November 1998, 15:00
+Southampton, 0, 1, Derby, Saturday 28 November 1998, 15:00
+West Ham, 2, 1, Spurs, Saturday 28 November 1998, 15:00
+Everton, 1, 0, Newcastle, Monday 23 November 1998, 20:00
+Derby, 0, 2, West Ham, Sunday 22 November 1998, 16:00
+Aston Villa, 2, 4, Liverpool, Saturday 21 November 1998, 15:00
+Blackburn, 0, 2, Southampton, Saturday 21 November 1998, 15:00
+Leeds, 4, 1, Charlton, Saturday 21 November 1998, 15:00
+Leicester, 2, 4, Chelsea, Saturday 21 November 1998, 15:00
+Middlesbrough, 2, 0, Coventry, Saturday 21 November 1998, 15:00
+Sheffield Wed, 3, 1, Man Utd, Saturday 21 November 1998, 15:00
+Spurs, 2, 0, Nott'm Forest, Saturday 21 November 1998, 15:00
+Wimbledon, 1, 0, Arsenal, Saturday 21 November 1998, 15:00
+Nott'm Forest, 2, 2, Derby, Monday 16 November 1998, 20:00
+Coventry, 3, 0, Everton, Sunday 15 November 1998, 16:00
+Arsenal, 0, 0, Spurs, Saturday 14 November 1998, 15:00
+Charlton, 1, 1, Middlesbrough, Saturday 14 November 1998, 15:00
+Chelsea, 3, 0, Wimbledon, Saturday 14 November 1998, 15:00
+Liverpool, 1, 3, Leeds, Saturday 14 November 1998, 15:00
+Man Utd, 3, 2, Blackburn, Saturday 14 November 1998, 15:00
+Newcastle, 1, 1, Sheffield Wed, Saturday 14 November 1998, 15:00
+Southampton, 1, 4, Aston Villa, Saturday 14 November 1998, 15:00
+West Ham, 3, 2, Leicester, Saturday 14 November 1998, 15:00
+Leeds, 2, 1, Sheffield Wed, Sunday 8 November 1998, 16:00
+Arsenal, 1, 0, Everton, Sunday 8 November 1998, 15:00
+Man Utd, 0, 0, Newcastle, Sunday 8 November 1998, 15:00
+West Ham, 1, 1, Chelsea, Sunday 8 November 1998, 15:00
+Aston Villa, 3, 2, Spurs, Saturday 7 November 1998, 15:00
+Blackburn, 1, 2, Coventry, Saturday 7 November 1998, 15:00
+Charlton, 0, 0, Leicester, Saturday 7 November 1998, 15:00
+Liverpool, 1, 2, Derby, Saturday 7 November 1998, 15:00
+Nott'm Forest, 0, 1, Wimbledon, Saturday 7 November 1998, 15:00
+Southampton, 3, 3, Middlesbrough, Saturday 7 November 1998, 15:00
+Spurs, 2, 2, Charlton, Monday 2 November 1998, 20:00
+Middlesbrough, 1, 1, Nott'm Forest, Sunday 1 November 1998, 16:00
+Coventry, 0, 1, Arsenal, Saturday 31 October 1998, 15:00
+Derby, 2, 2, Leeds, Saturday 31 October 1998, 15:00
+Everton, 1, 4, Man Utd, Saturday 31 October 1998, 15:00
+Leicester, 1, 0, Liverpool, Saturday 31 October 1998, 15:00
+Newcastle, 0, 3, West Ham, Saturday 31 October 1998, 15:00
+Sheffield Wed, 0, 0, Southampton, Saturday 31 October 1998, 15:00
+Wimbledon, 1, 1, Blackburn, Saturday 31 October 1998, 15:00
+Blackburn, 1, 2, Arsenal, Sunday 25 October 1998, 16:00
+Leeds, 0, 0, Chelsea, Sunday 25 October 1998, 15:00
+Aston Villa, 1, 1, Leicester, Saturday 24 October 1998, 15:00
+Charlton, 4, 2, West Ham, Saturday 24 October 1998, 15:00
+Derby, 1, 1, Man Utd, Saturday 24 October 1998, 15:00
+Liverpool, 5, 1, Nott'm Forest, Saturday 24 October 1998, 15:00
+Sheffield Wed, 0, 0, Everton, Saturday 24 October 1998, 15:00
+Southampton, 2, 1, Coventry, Saturday 24 October 1998, 15:00
+Spurs, 2, 0, Newcastle, Saturday 24 October 1998, 15:00
+Wimbledon, 2, 2, Middlesbrough, Saturday 24 October 1998, 15:00
+Leicester, 2, 1, Spurs, Monday 19 October 1998, 20:00
+Coventry, 1, 0, Sheffield Wed, Sunday 18 October 1998, 16:00
+Arsenal, 1, 1, Southampton, Saturday 17 October 1998, 15:00
+Chelsea, 2, 1, Charlton, Saturday 17 October 1998, 15:00
+Everton, 0, 0, Liverpool, Saturday 17 October 1998, 15:00
+Man Utd, 5, 1, Wimbledon, Saturday 17 October 1998, 15:00
+Middlesbrough, 2, 1, Blackburn, Saturday 17 October 1998, 15:00
+Newcastle, 2, 1, Derby, Saturday 17 October 1998, 15:00
+Nott'm Forest, 1, 1, Leeds, Saturday 17 October 1998, 15:00
+West Ham, 0, 0, Aston Villa, Saturday 17 October 1998, 15:00
+Liverpool, 1, 1, Chelsea, Sunday 4 October 1998, 16:00
+Arsenal, 3, 0, Newcastle, Sunday 4 October 1998, 15:00
+Blackburn, 3, 0, West Ham, Saturday 3 October 1998, 15:00
+Coventry, 1, 2, Aston Villa, Saturday 3 October 1998, 15:00
+Derby, 0, 1, Spurs, Saturday 3 October 1998, 15:00
+Leeds, 0, 1, Leicester, Saturday 3 October 1998, 15:00
+Middlesbrough, 4, 0, Sheffield Wed, Saturday 3 October 1998, 15:00
+Nott'm Forest, 0, 1, Charlton, Saturday 3 October 1998, 15:00
+Southampton, 0, 3, Man Utd, Saturday 3 October 1998, 15:00
+Wimbledon, 1, 2, Everton, Saturday 3 October 1998, 15:00
+West Ham, 1, 0, Southampton, Monday 28 September 1998, 20:00
+Leicester, 1, 1, Wimbledon, Sunday 27 September 1998, 16:00
+Aston Villa, 1, 0, Derby, Saturday 26 September 1998, 15:00
+Charlton, 1, 1, Coventry, Saturday 26 September 1998, 15:00
+Chelsea, 2, 0, Middlesbrough, Saturday 26 September 1998, 15:00
+Everton, 0, 0, Blackburn, Saturday 26 September 1998, 15:00
+Newcastle, 2, 0, Nott'm Forest, Saturday 26 September 1998, 15:00
+Sheffield Wed, 1, 0, Arsenal, Saturday 26 September 1998, 15:00
+Spurs, 3, 3, Leeds, Saturday 26 September 1998, 15:00
+Man Utd, 2, 0, Liverpool, Thursday 24 September 1998, 20:00
+Blackburn, 3, 4, Chelsea, Monday 21 September 1998, 20:00
+Arsenal, 3, 0, Man Utd, Sunday 20 September 1998, 16:00
+Coventry, 1, 5, Newcastle, Saturday 19 September 1998, 15:00
+Derby, 2, 0, Leicester, Saturday 19 September 1998, 15:00
+Leeds, 0, 0, Aston Villa, Saturday 19 September 1998, 15:00
+Liverpool, 3, 3, Charlton, Saturday 19 September 1998, 15:00
+Middlesbrough, 2, 2, Everton, Saturday 19 September 1998, 15:00
+Nott'm Forest, 0, 0, West Ham, Saturday 19 September 1998, 15:00
+Southampton, 1, 1, Spurs, Saturday 19 September 1998, 15:00
+Wimbledon, 2, 1, Sheffield Wed, Saturday 19 September 1998, 15:00
+Spurs, 0, 3, Middlesbrough, Sunday 13 September 1998, 16:00
+Aston Villa, 2, 0, Wimbledon, Saturday 12 September 1998, 15:00
+Charlton, 1, 2, Derby, Saturday 12 September 1998, 15:00
+Chelsea, 2, 1, Nott'm Forest, Saturday 12 September 1998, 15:00
+Everton, 0, 0, Leeds, Saturday 12 September 1998, 15:00
+Leicester, 1, 1, Arsenal, Saturday 12 September 1998, 15:00
+Man Utd, 2, 0, Coventry, Saturday 12 September 1998, 15:00
+Newcastle, 4, 0, Southampton, Saturday 12 September 1998, 15:00
+Sheffield Wed, 3, 0, Blackburn, Saturday 12 September 1998, 15:00
+West Ham, 2, 1, Liverpool, Saturday 12 September 1998, 15:00
+Chelsea, 0, 0, Arsenal, Wednesday 9 September 1998, 20:00
+Man Utd, 4, 1, Charlton, Wednesday 9 September 1998, 20:00
+Aston Villa, 1, 0, Newcastle, Wednesday 9 September 1998, 19:45
+Derby, 1, 0, Sheffield Wed, Wednesday 9 September 1998, 19:45
+Leicester, 0, 1, Middlesbrough, Wednesday 9 September 1998, 19:45
+Liverpool, 2, 0, Coventry, Wednesday 9 September 1998, 19:45
+Spurs, 2, 1, Blackburn, Wednesday 9 September 1998, 19:45
+West Ham, 3, 4, Wimbledon, Wednesday 9 September 1998, 19:45
+Leeds, 3, 0, Southampton, Tuesday 8 September 1998, 19:45
+Nott'm Forest, 0, 2, Everton, Tuesday 8 September 1998, 19:45
+Newcastle, 1, 4, Liverpool, Sunday 30 August 1998, 16:00
+Arsenal, 0, 0, Charlton, Saturday 29 August 1998, 15:00
+Blackburn, 1, 0, Leicester, Saturday 29 August 1998, 15:00
+Coventry, 0, 0, West Ham, Saturday 29 August 1998, 15:00
+Everton, 0, 1, Spurs, Saturday 29 August 1998, 15:00
+Middlesbrough, 1, 1, Derby, Saturday 29 August 1998, 15:00
+Sheffield Wed, 0, 1, Aston Villa, Saturday 29 August 1998, 15:00
+Southampton, 1, 2, Nott'm Forest, Saturday 29 August 1998, 15:00
+Wimbledon, 1, 1, Leeds, Saturday 29 August 1998, 15:00
+Leeds, 1, 0, Blackburn, Monday 24 August 1998, 20:00
+Aston Villa, 3, 1, Middlesbrough, Sunday 23 August 1998, 16:00
+Charlton, 5, 0, Southampton, Saturday 22 August 1998, 15:00
+Chelsea, 1, 1, Newcastle, Saturday 22 August 1998, 15:00
+Derby, 0, 0, Wimbledon, Saturday 22 August 1998, 15:00
+Leicester, 2, 0, Everton, Saturday 22 August 1998, 15:00
+Liverpool, 0, 0, Arsenal, Saturday 22 August 1998, 15:00
+Nott'm Forest, 1, 0, Coventry, Saturday 22 August 1998, 15:00
+Spurs, 0, 3, Sheffield Wed, Saturday 22 August 1998, 15:00
+West Ham, 0, 0, Man Utd, Saturday 22 August 1998, 15:00
+Arsenal, 2, 1, Nott'm Forest, Monday 17 August 1998, 20:00
+Southampton, 1, 2, Liverpool, Sunday 16 August 1998, 16:00
+Blackburn, 0, 0, Derby, Saturday 15 August 1998, 15:00
+Coventry, 2, 1, Chelsea, Saturday 15 August 1998, 15:00
+Everton, 0, 0, Aston Villa, Saturday 15 August 1998, 15:00
+Man Utd, 2, 2, Leicester, Saturday 15 August 1998, 15:00
+Middlesbrough, 0, 0, Leeds, Saturday 15 August 1998, 15:00
+Newcastle, 0, 0, Charlton, Saturday 15 August 1998, 15:00
+Sheffield Wed, 0, 1, West Ham, Saturday 15 August 1998, 15:00
+Wimbledon, 3, 1, Spurs, Saturday 15 August 1998, 15:00
