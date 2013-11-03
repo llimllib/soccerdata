@@ -1,0 +1,214 @@
+home, homescore, awayscore, away, date, group
+Barcelona, 2, 0, Manchester United, Wednesday, May 27, 2009, Final
+Chelsea, 1, 1, Barcelona, Wednesday, May 6, 2009, Semi-finals
+Arsenal, 1, 3, Manchester United, Tuesday, May 5, 2009, Semi-finals
+Manchester United, 1, 0, Arsenal, Wednesday, April 29, 2009, Semi-finals
+Barcelona, 0, 0, Chelsea, Tuesday, April 28, 2009, Semi-finals
+Arsenal, 3, 0, Villarreal, Wednesday, April 15, 2009, Quarter-finals
+FC Porto, 0, 1, Manchester United, Wednesday, April 15, 2009, Quarter-finals
+Bayern Munich, 1, 1, Barcelona, Tuesday, April 14, 2009, Quarter-finals
+Chelsea, 4, 4, Liverpool, Tuesday, April 14, 2009, Quarter-finals
+Barcelona, 4, 0, Bayern Munich, Wednesday, April 8, 2009, Quarter-finals
+Liverpool, 1, 3, Chelsea, Wednesday, April 8, 2009, Quarter-finals
+Manchester United, 2, 2, FC Porto, Tuesday, April 7, 2009, Quarter-finals
+Villarreal, 1, 1, Arsenal, Tuesday, April 7, 2009, Quarter-finals
+AS Roma, 1, 0, Arsenal, Wednesday, March 11, 2009, Round of 16
+Barcelona, 5, 2, Lyon, Wednesday, March 11, 2009, Round of 16
+FC Porto, 0, 0, Atletico Madrid, Wednesday, March 11, 2009, Round of 16
+Manchester United, 2, 0, Internazionale, Wednesday, March 11, 2009, Round of 16
+Bayern Munich, 7, 1, Sporting Lisbon, Tuesday, March 10, 2009, Round of 16
+Juventus, 2, 2, Chelsea, Tuesday, March 10, 2009, Round of 16
+Liverpool, 4, 0, Real Madrid, Tuesday, March 10, 2009, Round of 16
+Panathinaikos, 1, 2, Villarreal, Tuesday, March 10, 2009, Round of 16
+Chelsea, 1, 0, Juventus, Wednesday, February 25, 2009, Round of 16
+Real Madrid, 0, 1, Liverpool, Wednesday, February 25, 2009, Round of 16
+Sporting Lisbon, 0, 5, Bayern Munich, Wednesday, February 25, 2009, Round of 16
+Villarreal, 1, 1, Panathinaikos, Wednesday, February 25, 2009, Round of 16
+Arsenal, 1, 0, AS Roma, Tuesday, February 24, 2009, Round of 16
+Atletico Madrid, 2, 2, FC Porto, Tuesday, February 24, 2009, Round of 16
+Internazionale, 0, 0, Manchester United, Tuesday, February 24, 2009, Round of 16
+Lyon, 1, 1, Barcelona, Tuesday, February 24, 2009, Round of 16
+Celtic, 2, 0, Villarreal, Wednesday, December 10, 2008, Group E
+Manchester United, 2, 2, AaB, Wednesday, December 10, 2008, Group E
+Lyon, 2, 3, Bayern Munich, Wednesday, December 10, 2008, Group F
+Steaua Bucuresti, 0, 1, Fiorentina, Wednesday, December 10, 2008, Group F
+Dynamo Kiev, 1, 0, Fenerbahce, Wednesday, December 10, 2008, Group G
+FC Porto, 2, 0, Arsenal, Wednesday, December 10, 2008, Group G
+Juventus, 0, 0, BATE Borisov, Wednesday, December 10, 2008, Group H
+Real Madrid, 3, 0, Zenit St Petersburg, Wednesday, December 10, 2008, Group H
+AS Roma, 2, 0, Bordeaux, Tuesday, December 9, 2008, Group A
+Chelsea, 2, 1, CFR Cluj-Napoca, Tuesday, December 9, 2008, Group A
+Panathinaikos, 1, 0, Anorthosis Famagusta, Tuesday, December 9, 2008, Group B
+Werder Bremen, 2, 1, Internazionale, Tuesday, December 9, 2008, Group B
+Barcelona, 2, 3, Shakhtar Donetsk, Tuesday, December 9, 2008, Group C
+FC Basel, 0, 1, Sporting Lisbon, Tuesday, December 9, 2008, Group C
+Marseille, 0, 0, Atletico Madrid, Tuesday, December 9, 2008, Group D
+PSV Eindhoven, 1, 3, Liverpool, Tuesday, December 9, 2008, Group D
+Bordeaux, 1, 1, Chelsea, Wednesday, November 26, 2008, Group A
+CFR Cluj-Napoca, 1, 3, AS Roma, Wednesday, November 26, 2008, Group A
+Anorthosis Famagusta, 2, 2, Werder Bremen, Wednesday, November 26, 2008, Group B
+Internazionale, 0, 1, Panathinaikos, Wednesday, November 26, 2008, Group B
+Shakhtar Donetsk, 5, 0, FC Basel, Wednesday, November 26, 2008, Group C
+Sporting Lisbon, 2, 5, Barcelona, Wednesday, November 26, 2008, Group C
+Atletico Madrid, 2, 1, PSV Eindhoven, Wednesday, November 26, 2008, Group D
+Liverpool, 1, 0, Marseille, Wednesday, November 26, 2008, Group D
+AaB, 2, 1, Celtic, Tuesday, November 25, 2008, Group E
+Villarreal, 0, 0, Manchester United, Tuesday, November 25, 2008, Group E
+Bayern Munich, 3, 0, Steaua Bucuresti, Tuesday, November 25, 2008, Group F
+Fiorentina, 1, 2, Lyon, Tuesday, November 25, 2008, Group F
+Arsenal, 1, 0, Dynamo Kiev, Tuesday, November 25, 2008, Group G
+Fenerbahce, 1, 2, FC Porto, Tuesday, November 25, 2008, Group G
+Zenit St Petersburg, 0, 0, Juventus, Tuesday, November 25, 2008, Group H
+BATE Borisov, 0, 1, Real Madrid, Tuesday, November 25, 2008, Group H
+AaB, 2, 2, Villarreal, Wednesday, November 5, 2008, Group E
+Celtic, 1, 1, Manchester United, Wednesday, November 5, 2008, Group E
+Fiorentina, 1, 1, Bayern Munich, Wednesday, November 5, 2008, Group F
+Lyon, 2, 0, Steaua Bucuresti, Wednesday, November 5, 2008, Group F
+Arsenal, 0, 0, Fenerbahce, Wednesday, November 5, 2008, Group G
+Dynamo Kiev, 1, 2, FC Porto, Wednesday, November 5, 2008, Group G
+BATE Borisov, 0, 2, Zenit St Petersburg, Wednesday, November 5, 2008, Group H
+Real Madrid, 0, 2, Juventus, Wednesday, November 5, 2008, Group H
+AS Roma, 3, 1, Chelsea, Tuesday, November 4, 2008, Group A
+CFR Cluj-Napoca, 1, 2, Bordeaux, Tuesday, November 4, 2008, Group A
+Anorthosis Famagusta, 3, 3, Internazionale, Tuesday, November 4, 2008, Group B
+Werder Bremen, 0, 3, Panathinaikos, Tuesday, November 4, 2008, Group B
+Barcelona, 1, 1, FC Basel, Tuesday, November 4, 2008, Group C
+Sporting Lisbon, 1, 0, Shakhtar Donetsk, Tuesday, November 4, 2008, Group C
+Liverpool, 1, 1, Atletico Madrid, Tuesday, November 4, 2008, Group D
+Marseille, 3, 0, PSV Eindhoven, Tuesday, November 4, 2008, Group D
+Bordeaux, 1, 0, CFR Cluj-Napoca, Wednesday, October 22, 2008, Group A
+Chelsea, 1, 0, AS Roma, Wednesday, October 22, 2008, Group A
+Internazionale, 1, 0, Anorthosis Famagusta, Wednesday, October 22, 2008, Group B
+Panathinaikos, 2, 2, Werder Bremen, Wednesday, October 22, 2008, Group B
+FC Basel, 0, 5, Barcelona, Wednesday, October 22, 2008, Group C
+Shakhtar Donetsk, 0, 1, Sporting Lisbon, Wednesday, October 22, 2008, Group C
+Atletico Madrid, 1, 1, Liverpool, Wednesday, October 22, 2008, Group D
+PSV Eindhoven, 2, 0, Marseille, Wednesday, October 22, 2008, Group D
+Manchester United, 3, 0, Celtic, Tuesday, October 21, 2008, Group E
+Villarreal, 6, 3, AaB, Tuesday, October 21, 2008, Group E
+Bayern Munich, 3, 0, Fiorentina, Tuesday, October 21, 2008, Group F
+Steaua Bucuresti, 3, 5, Lyon, Tuesday, October 21, 2008, Group F
+FC Porto, 0, 1, Dynamo Kiev, Tuesday, October 21, 2008, Group G
+Fenerbahce, 2, 5, Arsenal, Tuesday, October 21, 2008, Group G
+Zenit St Petersburg, 1, 1, BATE Borisov, Tuesday, October 21, 2008, Group H
+Juventus, 2, 1, Real Madrid, Tuesday, October 21, 2008, Group H
+Bordeaux, 1, 3, AS Roma, Wednesday, October 1, 2008, Group A
+CFR Cluj-Napoca, 0, 0, Chelsea, Wednesday, October 1, 2008, Group A
+Anorthosis Famagusta, 3, 1, Panathinaikos, Wednesday, October 1, 2008, Group B
+Internazionale, 1, 1, Werder Bremen, Wednesday, October 1, 2008, Group B
+Shakhtar Donetsk, 1, 2, Barcelona, Wednesday, October 1, 2008, Group C
+Sporting Lisbon, 2, 0, FC Basel, Wednesday, October 1, 2008, Group C
+Atletico Madrid, 2, 1, Marseille, Wednesday, October 1, 2008, Group D
+Liverpool, 3, 1, PSV Eindhoven, Wednesday, October 1, 2008, Group D
+AaB, 0, 3, Manchester United, Tuesday, September 30, 2008, Group E
+Villarreal, 1, 0, Celtic, Tuesday, September 30, 2008, Group E
+Bayern Munich, 1, 1, Lyon, Tuesday, September 30, 2008, Group F
+Fiorentina, 0, 0, Steaua Bucuresti, Tuesday, September 30, 2008, Group F
+Arsenal, 4, 0, FC Porto, Tuesday, September 30, 2008, Group G
+Fenerbahce, 0, 0, Dynamo Kiev, Tuesday, September 30, 2008, Group G
+Zenit St Petersburg, 1, 2, Real Madrid, Tuesday, September 30, 2008, Group H
+BATE Borisov, 2, 2, Juventus, Tuesday, September 30, 2008, Group H
+Celtic, 0, 0, AaB, Wednesday, September 17, 2008, Group E
+Manchester United, 0, 0, Villarreal, Wednesday, September 17, 2008, Group E
+Lyon, 2, 2, Fiorentina, Wednesday, September 17, 2008, Group F
+Steaua Bucuresti, 0, 1, Bayern Munich, Wednesday, September 17, 2008, Group F
+Dynamo Kiev, 1, 1, Arsenal, Wednesday, September 17, 2008, Group G
+FC Porto, 3, 1, Fenerbahce, Wednesday, September 17, 2008, Group G
+Juventus, 1, 0, Zenit St Petersburg, Wednesday, September 17, 2008, Group H
+Real Madrid, 2, 0, BATE Borisov, Wednesday, September 17, 2008, Group H
+AS Roma, 1, 2, CFR Cluj-Napoca, Tuesday, September 16, 2008, Group A
+Chelsea, 4, 0, Bordeaux, Tuesday, September 16, 2008, Group A
+Panathinaikos, 0, 2, Internazionale, Tuesday, September 16, 2008, Group B
+Werder Bremen, 0, 0, Anorthosis Famagusta, Tuesday, September 16, 2008, Group B
+Barcelona, 3, 1, Sporting Lisbon, Tuesday, September 16, 2008, Group C
+FC Basel, 1, 2, Shakhtar Donetsk, Tuesday, September 16, 2008, Group C
+Marseille, 1, 2, Liverpool, Tuesday, September 16, 2008, Group D
+PSV Eindhoven, 0, 3, Atletico Madrid, Tuesday, September 16, 2008, Group D
+BATE Borisov, 1, 1, Levski Sofia, Wednesday, August 27, 2008, Qualifying Third Round
+FBK Kaunas, 0, 2, AaB, Wednesday, August 27, 2008, Qualifying Third Round
+Dynamo Kiev, 4, 1, Spartak Moscow, Wednesday, August 27, 2008, Qualifying Third Round
+Steaua Bucuresti, 1, 0, Galatasaray, Wednesday, August 27, 2008, Qualifying Third Round
+Fenerbahce, 2, 1, Partizan Belgrade, Wednesday, August 27, 2008, Qualifying Third Round
+FC Basel, 2, 1, Guimaraes, Wednesday, August 27, 2008, Qualifying Third Round
+Atletico Madrid, 4, 0, Schalke 04, Wednesday, August 27, 2008, Qualifying Third Round
+Dinamo Zagreb, 1, 3, Shakhtar Donetsk, Wednesday, August 27, 2008, Qualifying Third Round
+Marseille, 2, 1, SK Brann, Wednesday, August 27, 2008, Qualifying Third Round
+Olympiakos, 1, 0, Anorthosis Famagusta, Wednesday, August 27, 2008, Qualifying Third Round
+Slavia Prague, 0, 0, Fiorentina, Wednesday, August 27, 2008, Qualifying Third Round
+Arsenal, 4, 0, Twente Enschede, Wednesday, August 27, 2008, Qualifying Third Round
+Liverpool, 1, 0, Standard Liege, Wednesday, August 27, 2008, Qualifying Third Round
+Artmedia Petrzalka, 1, 1, Juventus, Tuesday, August 26, 2008, Qualifying Third Round
+Panathinaikos, 1, 0, Sparta Prague, Tuesday, August 26, 2008, Qualifying Third Round
+Wisla Krakow, 1, 0, Barcelona, Tuesday, August 26, 2008, Qualifying Third Round
+Spartak Moscow, 1, 4, Dynamo Kiev, Wednesday, August 13, 2008, Qualifying Third Round
+Levski Sofia, 0, 1, BATE Borisov, Wednesday, August 13, 2008, Qualifying Third Round
+Shakhtar Donetsk, 2, 0, Dinamo Zagreb, Wednesday, August 13, 2008, Qualifying Third Round
+Anorthosis Famagusta, 3, 0, Olympiakos, Wednesday, August 13, 2008, Qualifying Third Round
+AaB, 2, 0, FBK Kaunas, Wednesday, August 13, 2008, Qualifying Third Round
+Galatasaray, 2, 2, Steaua Bucuresti, Wednesday, August 13, 2008, Qualifying Third Round
+Juventus, 4, 0, Artmedia Petrzalka, Wednesday, August 13, 2008, Qualifying Third Round
+Schalke 04, 1, 0, Atletico Madrid, Wednesday, August 13, 2008, Qualifying Third Round
+SK Brann, 0, 1, Marseille, Wednesday, August 13, 2008, Qualifying Third Round
+Sparta Prague, 1, 2, Panathinaikos, Wednesday, August 13, 2008, Qualifying Third Round
+Twente Enschede, 0, 2, Arsenal, Wednesday, August 13, 2008, Qualifying Third Round
+Partizan Belgrade, 2, 2, Fenerbahce, Wednesday, August 13, 2008, Qualifying Third Round
+Standard Liege, 0, 0, Liverpool, Wednesday, August 13, 2008, Qualifying Third Round
+Guimaraes, 0, 0, FC Basel, Wednesday, August 13, 2008, Qualifying Third Round
+Barcelona, 4, 0, Wisla Krakow, Wednesday, August 13, 2008, Qualifying Third Round
+Fiorentina, 2, 0, Slavia Prague, Tuesday, August 12, 2008, Qualifying Third Round
+BATE Borisov, 2, 2, Anderlecht, Wednesday, August 6, 2008, Qualifying Second Round
+Dinamo Tbilisi, 0, 0, Panathinaikos, Wednesday, August 6, 2008, Qualifying Second Round
+Dynamo Kiev, 2, 2, Drogheda Utd, Wednesday, August 6, 2008, Qualifying Second Round
+Rapid Vienna, 3, 1, Anorthosis Famagusta, Wednesday, August 6, 2008, Qualifying Second Round
+Modrica, 1, 2, AaB, Wednesday, August 6, 2008, Qualifying Second Round
+Artmedia Petrzalka, 4, 2, Tampere United, Wednesday, August 6, 2008, Qualifying Second Round
+FC Basel, 4, 2, IFK, Wednesday, August 6, 2008, Qualifying Second Round
+Sparta Prague, 2, 0, Sheriff Tiraspol, Wednesday, August 6, 2008, Qualifying Second Round
+Dinamo Zagreb, 3, 2, NK Domzale, Wednesday, August 6, 2008, Qualifying Second Round
+MTK Hungaria, 0, 5, Fenerbahce, Wednesday, August 6, 2008, Qualifying Second Round
+Partizan Belgrade, 2, 0, Inter, Wednesday, August 6, 2008, Qualifying Second Round
+Wisla Krakow, 5, 0, Beitar Jerusalem, Wednesday, August 6, 2008, Qualifying Second Round
+FK Ventspils, 2, 1, SK Brann, Tuesday, August 5, 2008, Qualifying Second Round
+FBK Kaunas, 2, 1, Rangers, Tuesday, August 5, 2008, Qualifying Second Round
+Tampere United, 1, 3, Artmedia Petrzalka, Wednesday, July 30, 2008, Qualifying Second Round
+Sheriff Tiraspol, 0, 1, Sparta Prague, Wednesday, July 30, 2008, Qualifying Second Round
+AaB, 5, 0, Modrica, Wednesday, July 30, 2008, Qualifying Second Round
+Beitar Jerusalem, 2, 1, Wisla Krakow, Wednesday, July 30, 2008, Qualifying Second Round
+Fenerbahce, 2, 0, MTK Hungaria, Wednesday, July 30, 2008, Qualifying Second Round
+IFK, 1, 1, FC Basel, Wednesday, July 30, 2008, Qualifying Second Round
+Anderlecht, 1, 2, BATE Borisov, Wednesday, July 30, 2008, Qualifying Second Round
+Anorthosis Famagusta, 3, 0, Rapid Vienna, Wednesday, July 30, 2008, Qualifying Second Round
+NK Domzale, 0, 3, Dinamo Zagreb, Wednesday, July 30, 2008, Qualifying Second Round
+Panathinaikos, 3, 0, Dinamo Tbilisi, Wednesday, July 30, 2008, Qualifying Second Round
+Rangers, 0, 0, FBK Kaunas, Wednesday, July 30, 2008, Qualifying Second Round
+Inter, 1, 1, Partizan Belgrade, Tuesday, July 29, 2008, Qualifying Second Round
+Drogheda Utd, 1, 2, Dynamo Kiev, Tuesday, July 29, 2008, Qualifying Second Round
+SK Brann, 1, 0, FK Ventspils, Tuesday, July 29, 2008, Qualifying Second Round
+Pyunik, 0, 2, Anorthosis Famagusta, Wednesday, July 23, 2008, Qualifying First Round
+FC Levadia Tallinn, 0, 1, Drogheda Utd, Wednesday, July 23, 2008, Qualifying First Round
+Buducnost Podgorica, 1, 1, Tampere United, Wednesday, July 23, 2008, Qualifying First Round
+IFK, 4, 0, Murata, Wednesday, July 23, 2008, Qualifying First Round
+Modrica, 2, 1, Dinamo Tirana, Wednesday, July 23, 2008, Qualifying First Round
+Artmedia Petrzalka, 1, 0, Valletta, Wednesday, July 23, 2008, Qualifying First Round
+Dinamo Zagreb, 1, 1, Linfield, Wednesday, July 23, 2008, Qualifying First Round
+NK Domzale, 2, 0, F91 Dudelange, Wednesday, July 23, 2008, Qualifying First Round
+Valur Reykjavik, 0, 1, BATE Borisov, Wednesday, July 23, 2008, Qualifying First Round
+FK Ventspils, 4, 0, Llanelli, Tuesday, July 22, 2008, Qualifying First Round
+Rabotnicki Kometal, 1, 1, Inter, Tuesday, July 22, 2008, Qualifying First Round
+FBK Kaunas, 3, 1, Santa Coloma, Tuesday, July 22, 2008, Qualifying First Round
+Sheriff Tiraspol, 4, 0, Aktobe Lento, Tuesday, July 22, 2008, Qualifying First Round
+NSI Runavik, 1, 0, Dinamo Tbilisi, Tuesday, July 22, 2008, Qualifying First Round
+Dinamo Tbilisi, 3, 0, NSI Runavik, Wednesday, July 16, 2008, Qualifying First Round
+Aktobe Lento, 1, 0, Sheriff Tiraspol, Wednesday, July 16, 2008, Qualifying First Round
+Drogheda Utd, 2, 1, FC Levadia Tallinn, Wednesday, July 16, 2008, Qualifying First Round
+Linfield, 0, 2, Dinamo Zagreb, Wednesday, July 16, 2008, Qualifying First Round
+BATE Borisov, 2, 0, Valur Reykjavik, Tuesday, July 15, 2008, Qualifying First Round
+Inter, 0, 0, Rabotnicki Kometal, Tuesday, July 15, 2008, Qualifying First Round
+Tampere United, 2, 1, Buducnost Podgorica, Tuesday, July 15, 2008, Qualifying First Round
+Anorthosis Famagusta, 1, 0, Pyunik, Tuesday, July 15, 2008, Qualifying First Round
+F91 Dudelange, 0, 1, NK Domzale, Tuesday, July 15, 2008, Qualifying First Round
+Llanelli, 1, 0, FK Ventspils, Tuesday, July 15, 2008, Qualifying First Round
+Dinamo Tirana, 0, 2, Modrica, Tuesday, July 15, 2008, Qualifying First Round
+Valletta, 0, 2, Artmedia Petrzalka, Tuesday, July 15, 2008, Qualifying First Round
+Murata, 0, 5, IFK, Tuesday, July 15, 2008, Qualifying First Round
+Santa Coloma, 1, 4, FBK Kaunas, Tuesday, July 15, 2008, Qualifying First Round

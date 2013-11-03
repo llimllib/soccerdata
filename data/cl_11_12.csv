@@ -1,0 +1,214 @@
+home, homescore, awayscore, away, date, group
+Bayern Munich, 1, 1, Chelsea, Saturday, May 19, 2012, Final
+Real Madrid, 2, 1, Bayern Munich, Wednesday, April 25, 2012, Semi-finals
+Barcelona, 2, 2, Chelsea, Tuesday, April 24, 2012, Semi-finals
+Chelsea, 1, 0, Barcelona, Wednesday, April 18, 2012, Semi-finals
+Bayern Munich, 2, 1, Real Madrid, Tuesday, April 17, 2012, Semi-finals
+Chelsea, 2, 1, Benfica, Wednesday, April 4, 2012, Quarter-finals
+Real Madrid, 5, 2, Apoel Nicosia, Wednesday, April 4, 2012, Quarter-finals
+Barcelona, 3, 1, AC Milan, Tuesday, April 3, 2012, Quarter-finals
+Bayern Munich, 2, 0, Marseille, Tuesday, April 3, 2012, Quarter-finals
+AC Milan, 0, 0, Barcelona, Wednesday, March 28, 2012, Quarter-finals
+Marseille, 0, 2, Bayern Munich, Wednesday, March 28, 2012, Quarter-finals
+Apoel Nicosia, 0, 3, Real Madrid, Tuesday, March 27, 2012, Quarter-finals
+Benfica, 0, 1, Chelsea, Tuesday, March 27, 2012, Quarter-finals
+Chelsea, 4, 1, Napoli, Wednesday, March 14, 2012, Round of 16
+Real Madrid, 4, 1, CSKA Moscow, Wednesday, March 14, 2012, Round of 16
+Bayern Munich, 7, 0, FC Basel, Tuesday, March 13, 2012, Round of 16
+Internazionale, 2, 1, Marseille, Tuesday, March 13, 2012, Round of 16
+Apoel Nicosia, 1, 0, Lyon, Wednesday, March 7, 2012, Round of 16
+Barcelona, 7, 1, Bayer Leverkusen, Wednesday, March 7, 2012, Round of 16
+Arsenal, 3, 0, AC Milan, Tuesday, March 6, 2012, Round of 16
+Benfica, 2, 0, Zenit St Petersburg, Tuesday, March 6, 2012, Round of 16
+FC Basel, 1, 0, Bayern Munich, Wednesday, February 22, 2012, Round of 16
+Marseille, 1, 0, Internazionale, Wednesday, February 22, 2012, Round of 16
+CSKA Moscow, 1, 1, Real Madrid, Tuesday, February 21, 2012, Round of 16
+Napoli, 3, 1, Chelsea, Tuesday, February 21, 2012, Round of 16
+Zenit St Petersburg, 3, 2, Benfica, Wednesday, February 15, 2012, Round of 16
+AC Milan, 4, 0, Arsenal, Wednesday, February 15, 2012, Round of 16
+Bayer Leverkusen, 1, 3, Barcelona, Tuesday, February 14, 2012, Round of 16
+Lyon, 1, 0, Apoel Nicosia, Tuesday, February 14, 2012, Round of 16
+Manchester City, 2, 0, Bayern Munich, Wednesday, December 7, 2011, Group A
+Villarreal, 0, 2, Napoli, Wednesday, December 7, 2011, Group A
+Internazionale, 1, 2, CSKA Moscow, Wednesday, December 7, 2011, Group B
+Lille, 0, 0, Trabzonspor, Wednesday, December 7, 2011, Group B
+Benfica, 1, 0, Otelul Galati, Wednesday, December 7, 2011, Group C
+FC Basel, 2, 1, Manchester United, Wednesday, December 7, 2011, Group C
+Ajax Amsterdam, 0, 3, Real Madrid, Wednesday, December 7, 2011, Group D
+Dinamo Zagreb, 1, 7, Lyon, Wednesday, December 7, 2011, Group D
+Chelsea, 3, 0, Valencia, Tuesday, December 6, 2011, Group E
+Racing Genk, 1, 1, Bayer Leverkusen, Tuesday, December 6, 2011, Group E
+Borussia Dortmund, 2, 3, Marseille, Tuesday, December 6, 2011, Group F
+Olympiakos, 3, 1, Arsenal, Tuesday, December 6, 2011, Group F
+Apoel Nicosia, 0, 2, Shakhtar Donetsk, Tuesday, December 6, 2011, Group G
+FC Porto, 0, 0, Zenit St Petersburg, Tuesday, December 6, 2011, Group G
+Barcelona, 4, 0, BATE Borisov, Tuesday, December 6, 2011, Group H
+Viktoria Plzen, 2, 2, AC Milan, Tuesday, December 6, 2011, Group H
+Bayer Leverkusen, 2, 1, Chelsea, Wednesday, November 23, 2011, Group E
+Valencia, 7, 0, Racing Genk, Wednesday, November 23, 2011, Group E
+Arsenal, 2, 1, Borussia Dortmund, Wednesday, November 23, 2011, Group F
+Marseille, 0, 1, Olympiakos, Wednesday, November 23, 2011, Group F
+Zenit St Petersburg, 0, 0, Apoel Nicosia, Wednesday, November 23, 2011, Group G
+Shakhtar Donetsk, 0, 2, FC Porto, Wednesday, November 23, 2011, Group G
+BATE Borisov, 0, 1, Viktoria Plzen, Wednesday, November 23, 2011, Group H
+AC Milan, 2, 3, Barcelona, Wednesday, November 23, 2011, Group H
+Bayern Munich, 3, 1, Villarreal, Tuesday, November 22, 2011, Group A
+Napoli, 2, 1, Manchester City, Tuesday, November 22, 2011, Group A
+CSKA Moscow, 0, 2, Lille, Tuesday, November 22, 2011, Group B
+Trabzonspor, 1, 1, Internazionale, Tuesday, November 22, 2011, Group B
+Manchester United, 2, 2, Benfica, Tuesday, November 22, 2011, Group C
+Otelul Galati, 2, 3, FC Basel, Tuesday, November 22, 2011, Group C
+Lyon, 0, 0, Ajax Amsterdam, Tuesday, November 22, 2011, Group D
+Real Madrid, 6, 2, Dinamo Zagreb, Tuesday, November 22, 2011, Group D
+Bayern Munich, 3, 2, Napoli, Wednesday, November 2, 2011, Group A
+Villarreal, 0, 3, Manchester City, Wednesday, November 2, 2011, Group A
+Internazionale, 2, 1, Lille, Wednesday, November 2, 2011, Group B
+Trabzonspor, 0, 0, CSKA Moscow, Wednesday, November 2, 2011, Group B
+Benfica, 1, 1, FC Basel, Wednesday, November 2, 2011, Group C
+Manchester United, 2, 0, Otelul Galati, Wednesday, November 2, 2011, Group C
+Ajax Amsterdam, 4, 0, Dinamo Zagreb, Wednesday, November 2, 2011, Group D
+Lyon, 0, 2, Real Madrid, Wednesday, November 2, 2011, Group D
+Racing Genk, 1, 1, Chelsea, Tuesday, November 1, 2011, Group E
+Valencia, 3, 1, Bayer Leverkusen, Tuesday, November 1, 2011, Group E
+Arsenal, 0, 0, Marseille, Tuesday, November 1, 2011, Group F
+Borussia Dortmund, 1, 0, Olympiakos, Tuesday, November 1, 2011, Group F
+Zenit St Petersburg, 1, 0, Shakhtar Donetsk, Tuesday, November 1, 2011, Group G
+Apoel Nicosia, 2, 1, FC Porto, Tuesday, November 1, 2011, Group G
+BATE Borisov, 1, 1, AC Milan, Tuesday, November 1, 2011, Group H
+Viktoria Plzen, 0, 4, Barcelona, Tuesday, November 1, 2011, Group H
+Bayer Leverkusen, 2, 1, Valencia, Wednesday, October 19, 2011, Group E
+Chelsea, 5, 0, Racing Genk, Wednesday, October 19, 2011, Group E
+Marseille, 0, 1, Arsenal, Wednesday, October 19, 2011, Group F
+Olympiakos, 3, 1, Borussia Dortmund, Wednesday, October 19, 2011, Group F
+FC Porto, 1, 1, Apoel Nicosia, Wednesday, October 19, 2011, Group G
+Shakhtar Donetsk, 2, 2, Zenit St Petersburg, Wednesday, October 19, 2011, Group G
+AC Milan, 2, 0, BATE Borisov, Wednesday, October 19, 2011, Group H
+Barcelona, 2, 0, Viktoria Plzen, Wednesday, October 19, 2011, Group H
+Manchester City, 2, 1, Villarreal, Tuesday, October 18, 2011, Group A
+Napoli, 1, 1, Bayern Munich, Tuesday, October 18, 2011, Group A
+CSKA Moscow, 3, 0, Trabzonspor, Tuesday, October 18, 2011, Group B
+Lille, 0, 1, Internazionale, Tuesday, October 18, 2011, Group B
+FC Basel, 0, 2, Benfica, Tuesday, October 18, 2011, Group C
+Otelul Galati, 0, 2, Manchester United, Tuesday, October 18, 2011, Group C
+Dinamo Zagreb, 0, 2, Ajax Amsterdam, Tuesday, October 18, 2011, Group D
+Real Madrid, 4, 0, Lyon, Tuesday, October 18, 2011, Group D
+Bayer Leverkusen, 2, 0, Racing Genk, Wednesday, September 28, 2011, Group E
+Valencia, 1, 1, Chelsea, Wednesday, September 28, 2011, Group E
+Arsenal, 2, 1, Olympiakos, Wednesday, September 28, 2011, Group F
+Marseille, 3, 0, Borussia Dortmund, Wednesday, September 28, 2011, Group F
+Zenit St Petersburg, 3, 1, FC Porto, Wednesday, September 28, 2011, Group G
+Shakhtar Donetsk, 1, 1, Apoel Nicosia, Wednesday, September 28, 2011, Group G
+AC Milan, 2, 0, Viktoria Plzen, Wednesday, September 28, 2011, Group H
+BATE Borisov, 0, 5, Barcelona, Wednesday, September 28, 2011, Group H
+Bayern Munich, 2, 0, Manchester City, Tuesday, September 27, 2011, Group A
+Napoli, 2, 0, Villarreal, Tuesday, September 27, 2011, Group A
+CSKA Moscow, 2, 3, Internazionale, Tuesday, September 27, 2011, Group B
+Trabzonspor, 1, 1, Lille, Tuesday, September 27, 2011, Group B
+Manchester United, 3, 3, FC Basel, Tuesday, September 27, 2011, Group C
+Otelul Galati, 0, 1, Benfica, Tuesday, September 27, 2011, Group C
+Lyon, 2, 0, Dinamo Zagreb, Tuesday, September 27, 2011, Group D
+Real Madrid, 3, 0, Ajax Amsterdam, Tuesday, September 27, 2011, Group D
+Manchester City, 1, 1, Napoli, Wednesday, September 14, 2011, Group A
+Villarreal, 0, 2, Bayern Munich, Wednesday, September 14, 2011, Group A
+Internazionale, 0, 1, Trabzonspor, Wednesday, September 14, 2011, Group B
+Lille, 2, 2, CSKA Moscow, Wednesday, September 14, 2011, Group B
+Benfica, 1, 1, Manchester United, Wednesday, September 14, 2011, Group C
+FC Basel, 2, 1, Otelul Galati, Wednesday, September 14, 2011, Group C
+Ajax Amsterdam, 0, 0, Lyon, Wednesday, September 14, 2011, Group D
+Dinamo Zagreb, 0, 1, Real Madrid, Wednesday, September 14, 2011, Group D
+Chelsea, 2, 0, Bayer Leverkusen, Tuesday, September 13, 2011, Group E
+Racing Genk, 0, 0, Valencia, Tuesday, September 13, 2011, Group E
+Borussia Dortmund, 1, 1, Arsenal, Tuesday, September 13, 2011, Group F
+Olympiakos, 0, 1, Marseille, Tuesday, September 13, 2011, Group F
+Apoel Nicosia, 2, 1, Zenit St Petersburg, Tuesday, September 13, 2011, Group G
+FC Porto, 2, 1, Shakhtar Donetsk, Tuesday, September 13, 2011, Group G
+Barcelona, 2, 2, AC Milan, Tuesday, September 13, 2011, Group H
+Viktoria Plzen, 1, 1, BATE Borisov, Tuesday, September 13, 2011, Group H
+FK Rubin Kazan, 1, 1, Lyon, Wednesday, August 24, 2011, Play-off round
+Benfica, 3, 1, Twente Enschede, Wednesday, August 24, 2011, Play-off round
+SK Sturm Graz, 0, 2, BATE Borisov, Wednesday, August 24, 2011, Play-off round
+Udinese, 1, 2, Arsenal, Wednesday, August 24, 2011, Play-off round
+Viktoria Plzen, 2, 1, FC Copenhagen, Wednesday, August 24, 2011, Play-off round
+Apoel Nicosia, 3, 1, Wisla Krakow, Tuesday, August 23, 2011, Play-off round
+FC ZÃ¼rich, 0, 1, Bayern Munich, Tuesday, August 23, 2011, Play-off round
+Malmo FF, 2, 0, Dinamo Zagreb, Tuesday, August 23, 2011, Play-off round
+Racing Genk, 2, 1, Maccabi Haifa, Tuesday, August 23, 2011, Play-off round
+Villarreal, 3, 0, Odense BK, Tuesday, August 23, 2011, Play-off round
+Bayern Munich, 2, 0, FC ZÃ¼rich, Wednesday, August 17, 2011, Play-off round
+Dinamo Zagreb, 4, 1, Malmo FF, Wednesday, August 17, 2011, Play-off round
+Maccabi Haifa, 2, 1, Racing Genk, Wednesday, August 17, 2011, Play-off round
+Odense BK, 1, 0, Villarreal, Wednesday, August 17, 2011, Play-off round
+Wisla Krakow, 1, 0, Apoel Nicosia, Wednesday, August 17, 2011, Play-off round
+Arsenal, 1, 0, Udinese, Tuesday, August 16, 2011, Play-off round
+BATE Borisov, 1, 1, SK Sturm Graz, Tuesday, August 16, 2011, Play-off round
+FC Copenhagen, 1, 3, Viktoria Plzen, Tuesday, August 16, 2011, Play-off round
+Lyon, 3, 1, FK Rubin Kazan, Tuesday, August 16, 2011, Play-off round
+Twente Enschede, 2, 2, Benfica, Tuesday, August 16, 2011, Play-off round
+FK Rubin Kazan, 2, 1, Dynamo Kiev, Wednesday, August 3, 2011, Qualifying Third Round
+Malmo FF, 1, 1, Rangers, Wednesday, August 3, 2011, Qualifying Third Round
+FC Vaslui, 0, 0, Twente Enschede, Wednesday, August 3, 2011, Qualifying Third Round
+FC ZÃ¼rich, 1, 0, Standard Liege, Wednesday, August 3, 2011, Qualifying Third Round
+Slovan Bratislava, 0, 2, Apoel Nicosia, Wednesday, August 3, 2011, Qualifying Third Round
+Viktoria Plzen, 3, 2, Rosenborg, Wednesday, August 3, 2011, Qualifying Third Round
+SK Sturm Graz, 1, 0, FC Zestafoni, Wednesday, August 3, 2011, Qualifying Third Round
+Wisla Krakow, 3, 1, Liteks Lovetch, Wednesday, August 3, 2011, Qualifying Third Round
+Dinamo Zagreb, 1, 0, HJK Helsinki, Wednesday, August 3, 2011, Qualifying Third Round
+NK Maribor, 1, 1, Maccabi Haifa, Wednesday, August 3, 2011, Qualifying Third Round
+Partizan Belgrade, 1, 1, Racing Genk, Wednesday, August 3, 2011, Qualifying Third Round
+Trabzonspor, 1, 1, Benfica, Wednesday, August 3, 2011, Qualifying Third Round
+BATE Borisov, 3, 1, FK Ekranas, Tuesday, August 2, 2011, Qualifying Third Round
+Panathinaikos, 3, 4, Odense BK, Tuesday, August 2, 2011, Qualifying Third Round
+Shamrock, 0, 2, FC Copenhagen, Tuesday, August 2, 2011, Qualifying Third Round
+HJK Helsinki, 1, 2, Dinamo Zagreb, Wednesday, July 27, 2011, Qualifying Third Round
+FC Copenhagen, 1, 0, Shamrock, Wednesday, July 27, 2011, Qualifying Third Round
+Odense BK, 1, 1, Panathinaikos, Wednesday, July 27, 2011, Qualifying Third Round
+Maccabi Haifa, 2, 1, NK Maribor, Wednesday, July 27, 2011, Qualifying Third Round
+Standard Liege, 1, 1, FC ZÃ¼rich, Wednesday, July 27, 2011, Qualifying Third Round
+Benfica, 2, 0, Trabzonspor, Wednesday, July 27, 2011, Qualifying Third Round
+Rosenborg, 0, 1, Viktoria Plzen, Wednesday, July 27, 2011, Qualifying Third Round
+FC Zestafoni, 1, 1, SK Sturm Graz, Tuesday, July 26, 2011, Qualifying Third Round
+FK Ekranas, 0, 0, BATE Borisov, Tuesday, July 26, 2011, Qualifying Third Round
+Apoel Nicosia, 0, 0, Slovan Bratislava, Tuesday, July 26, 2011, Qualifying Third Round
+Liteks Lovetch, 1, 2, Wisla Krakow, Tuesday, July 26, 2011, Qualifying Third Round
+Dynamo Kiev, 0, 2, FK Rubin Kazan, Tuesday, July 26, 2011, Qualifying Third Round
+Racing Genk, 2, 1, Partizan Belgrade, Tuesday, July 26, 2011, Qualifying Third Round
+Rangers, 0, 1, Malmo FF, Tuesday, July 26, 2011, Qualifying Third Round
+Twente Enschede, 2, 0, FC Vaslui, Tuesday, July 26, 2011, Qualifying Third Round
+Apoel Nicosia, 4, 0, Skenderbeu, Wednesday, July 20, 2011, Qualifying Second Round
+FC Dacia, 2, 0, FC Zestafoni, Wednesday, July 20, 2011, Qualifying Second Round
+Videoton FC Fehervar, 3, 2, SK Sturm Graz, Wednesday, July 20, 2011, Qualifying Second Round
+Borac Cacak, 3, 2, Maccabi Haifa, Wednesday, July 20, 2011, Qualifying Second Round
+Breidablik, 2, 0, Rosenborg, Wednesday, July 20, 2011, Qualifying Second Round
+FC Flora Tallin, 0, 0, Shamrock, Tuesday, July 19, 2011, Qualifying Second Round
+BATE Borisov, 2, 0, Linfield, Tuesday, July 19, 2011, Qualifying Second Round
+F91 Dudelange, 1, 3, NK Maribor, Tuesday, July 19, 2011, Qualifying Second Round
+FK Ekranas, 1, 0, Valletta, Tuesday, July 19, 2011, Qualifying Second Round
+HJK Helsinki, 10, 0, Bangor City, Tuesday, July 19, 2011, Qualifying Second Round
+Neftchi, 0, 0, Dinamo Zagreb, Tuesday, July 19, 2011, Qualifying Second Round
+Tobol Kostanay, 1, 1, Slovan Bratislava, Tuesday, July 19, 2011, Qualifying Second Round
+Liteks Lovetch, 3, 0, Mogren, Tuesday, July 19, 2011, Qualifying Second Round
+HB Torshavn, 1, 1, Malmo FF, Tuesday, July 19, 2011, Qualifying Second Round
+Viktoria Plzen, 5, 1, Pyunik, Tuesday, July 19, 2011, Qualifying Second Round
+Wisla Krakow, 2, 0, Skonto Riga, Tuesday, July 19, 2011, Qualifying Second Round
+Shkendija 79, 0, 1, Partizan Belgrade, Tuesday, July 19, 2011, Qualifying Second Round
+FC Zestafoni, 3, 0, FC Dacia, Wednesday, July 13, 2011, Qualifying Second Round
+Maccabi Haifa, 5, 1, Borac Cacak, Wednesday, July 13, 2011, Qualifying Second Round
+Malmo FF, 2, 0, HB Torshavn, Wednesday, July 13, 2011, Qualifying Second Round
+Bangor City, 0, 3, HJK Helsinki, Wednesday, July 13, 2011, Qualifying Second Round
+Dinamo Zagreb, 3, 0, Neftchi, Wednesday, July 13, 2011, Qualifying Second Round
+Skenderbeu, 0, 2, Apoel Nicosia, Wednesday, July 13, 2011, Qualifying Second Round
+SK Sturm Graz, 2, 0, Videoton FC Fehervar, Wednesday, July 13, 2011, Qualifying Second Round
+Skonto Riga, 0, 1, Wisla Krakow, Wednesday, July 13, 2011, Qualifying Second Round
+Linfield, 1, 1, BATE Borisov, Wednesday, July 13, 2011, Qualifying Second Round
+Partizan Belgrade, 4, 0, Shkendija 79, Wednesday, July 13, 2011, Qualifying Second Round
+Rosenborg, 5, 0, Breidablik, Wednesday, July 13, 2011, Qualifying Second Round
+Pyunik, 0, 4, Viktoria Plzen, Tuesday, July 12, 2011, Qualifying Second Round
+Valletta, 2, 3, FK Ekranas, Tuesday, July 12, 2011, Qualifying Second Round
+Mogren, 1, 2, Liteks Lovetch, Tuesday, July 12, 2011, Qualifying Second Round
+NK Maribor, 2, 0, F91 Dudelange, Tuesday, July 12, 2011, Qualifying Second Round
+Slovan Bratislava, 2, 0, Tobol Kostanay, Tuesday, July 12, 2011, Qualifying Second Round
+Shamrock, 1, 0, FC Flora Tallin, Tuesday, July 12, 2011, Qualifying Second Round
+Valletta, 2, 1, Tre Fiori, Wednesday, July 6, 2011, Qualifying First Round
+F91 Dudelange, 2, 0, Santa Coloma, Tuesday, July 5, 2011, Qualifying First Round
+Santa Coloma, 0, 2, F91 Dudelange, Tuesday, June 28, 2011, Qualifying First Round
+Tre Fiori, 0, 3, Valletta, Tuesday, June 28, 2011, Qualifying First Round

@@ -1,0 +1,292 @@
+home, homescore, awayscore, away, date, group
+AC Milan, 2, 1, Liverpool, Wednesday, May 23, 2007, Final
+AC Milan, 3, 0, Manchester United, Wednesday, May 2, 2007, Semi-finals
+Liverpool, 1, 0, Chelsea, Tuesday, May 1, 2007, Semi-finals
+Chelsea, 1, 0, Liverpool, Wednesday, April 25, 2007, Semi-finals
+Manchester United, 3, 2, AC Milan, Tuesday, April 24, 2007, Semi-finals
+Bayern Munich, 0, 2, AC Milan, Wednesday, April 11, 2007, Quarter-finals
+Liverpool, 1, 0, PSV Eindhoven, Wednesday, April 11, 2007, Quarter-finals
+Manchester United, 7, 1, AS Roma, Tuesday, April 10, 2007, Quarter-finals
+Valencia, 1, 2, Chelsea, Tuesday, April 10, 2007, Quarter-finals
+AS Roma, 2, 1, Manchester United, Wednesday, April 4, 2007, Quarter-finals
+Chelsea, 1, 1, Valencia, Wednesday, April 4, 2007, Quarter-finals
+AC Milan, 2, 2, Bayern Munich, Tuesday, April 3, 2007, Quarter-finals
+PSV Eindhoven, 0, 3, Liverpool, Tuesday, April 3, 2007, Quarter-finals
+AC Milan, 1, 0, Celtic, Wednesday, March 7, 2007, Round of 16
+Arsenal, 1, 1, PSV Eindhoven, Wednesday, March 7, 2007, Round of 16
+Bayern Munich, 2, 1, Real Madrid, Wednesday, March 7, 2007, Round of 16
+Manchester United, 1, 0, Lille, Wednesday, March 7, 2007, Round of 16
+Chelsea, 2, 1, FC Porto, Tuesday, March 6, 2007, Round of 16
+Liverpool, 0, 1, Barcelona, Tuesday, March 6, 2007, Round of 16
+Lyon, 0, 2, AS Roma, Tuesday, March 6, 2007, Round of 16
+Valencia, 0, 0, Internazionale, Tuesday, March 6, 2007, Round of 16
+AS Roma, 0, 0, Lyon, Wednesday, February 21, 2007, Round of 16
+Barcelona, 1, 2, Liverpool, Wednesday, February 21, 2007, Round of 16
+FC Porto, 1, 1, Chelsea, Wednesday, February 21, 2007, Round of 16
+Internazionale, 2, 2, Valencia, Wednesday, February 21, 2007, Round of 16
+Celtic, 0, 0, AC Milan, Tuesday, February 20, 2007, Round of 16
+Lille, 0, 1, Manchester United, Tuesday, February 20, 2007, Round of 16
+PSV Eindhoven, 1, 0, Arsenal, Tuesday, February 20, 2007, Round of 16
+Real Madrid, 3, 2, Bayern Munich, Tuesday, February 20, 2007, Round of 16
+AC Milan, 0, 2, Lille, Wednesday, December 6, 2006, Group A
+Anderlecht, 2, 2, AEK Athens, Wednesday, December 6, 2006, Group A
+Dynamo Kiev, 2, 2, Real Madrid, Wednesday, December 6, 2006, Group A
+FC Copenhagen, 3, 1, Celtic, Wednesday, December 6, 2006, Group A
+FC Porto, 0, 0, Arsenal, Wednesday, December 6, 2006, Group A
+Hamburg SV, 3, 2, CSKA Moscow, Wednesday, December 6, 2006, Group A
+Lyon, 1, 1, Steaua Bucuresti, Wednesday, December 6, 2006, Group A
+Manchester United, 3, 1, Benfica, Wednesday, December 6, 2006, Group A
+AS Roma, 1, 0, Valencia, Tuesday, December 5, 2006, Group A
+Barcelona, 2, 0, Werder Bremen, Tuesday, December 5, 2006, Group A
+Bayern Munich, 1, 1, Internazionale, Tuesday, December 5, 2006, Group A
+Chelsea, 2, 0, Levski Sofia, Tuesday, December 5, 2006, Group A
+Galatasaray, 3, 2, Liverpool, Tuesday, December 5, 2006, Group A
+Olympiakos, 1, 1, Shakhtar Donetsk, Tuesday, December 5, 2006, Group A
+PSV Eindhoven, 1, 3, Bordeaux, Tuesday, December 5, 2006, Group A
+Sporting Lisbon, 1, 3, Spartak Moscow, Tuesday, December 5, 2006, Group A
+Spartak Moscow, 2, 2, Bayern Munich, Wednesday, November 22, 2006, Group A
+Bordeaux, 3, 1, Galatasaray, Wednesday, November 22, 2006, Group A
+Internazionale, 1, 0, Sporting Lisbon, Wednesday, November 22, 2006, Group A
+Levski Sofia, 0, 2, Barcelona, Wednesday, November 22, 2006, Group A
+Liverpool, 2, 0, PSV Eindhoven, Wednesday, November 22, 2006, Group A
+Shakhtar Donetsk, 1, 0, AS Roma, Wednesday, November 22, 2006, Group A
+Valencia, 2, 0, Olympiakos, Wednesday, November 22, 2006, Group A
+Werder Bremen, 1, 0, Chelsea, Wednesday, November 22, 2006, Group A
+CSKA Moscow, 0, 2, FC Porto, Tuesday, November 21, 2006, Group A
+AEK Athens, 1, 0, AC Milan, Tuesday, November 21, 2006, Group A
+Arsenal, 3, 1, Hamburg SV, Tuesday, November 21, 2006, Group A
+Benfica, 3, 1, FC Copenhagen, Tuesday, November 21, 2006, Group A
+Celtic, 1, 0, Manchester United, Tuesday, November 21, 2006, Group A
+Lille, 2, 2, Anderlecht, Tuesday, November 21, 2006, Group A
+Real Madrid, 2, 2, Lyon, Tuesday, November 21, 2006, Group A
+Steaua Bucuresti, 1, 1, Dynamo Kiev, Tuesday, November 21, 2006, Group A
+AC Milan, 4, 1, Anderlecht, Wednesday, November 1, 2006, Group A
+AEK Athens, 1, 0, Lille, Wednesday, November 1, 2006, Group A
+Arsenal, 0, 0, CSKA Moscow, Wednesday, November 1, 2006, Group A
+Benfica, 3, 0, Celtic, Wednesday, November 1, 2006, Group A
+FC Copenhagen, 1, 0, Manchester United, Wednesday, November 1, 2006, Group A
+Hamburg SV, 1, 3, FC Porto, Wednesday, November 1, 2006, Group A
+Lyon, 1, 0, Dynamo Kiev, Wednesday, November 1, 2006, Group A
+Real Madrid, 1, 0, Steaua Bucuresti, Wednesday, November 1, 2006, Group A
+Spartak Moscow, 0, 1, Internazionale, Tuesday, October 31, 2006, Group A
+AS Roma, 1, 1, Olympiakos, Tuesday, October 31, 2006, Group A
+Barcelona, 2, 2, Chelsea, Tuesday, October 31, 2006, Group A
+Bayern Munich, 0, 0, Sporting Lisbon, Tuesday, October 31, 2006, Group A
+Levski Sofia, 0, 3, Werder Bremen, Tuesday, October 31, 2006, Group A
+Liverpool, 3, 0, Bordeaux, Tuesday, October 31, 2006, Group A
+PSV Eindhoven, 2, 0, Galatasaray, Tuesday, October 31, 2006, Group A
+Shakhtar Donetsk, 2, 2, Valencia, Tuesday, October 31, 2006, Group A
+Bordeaux, 0, 1, Liverpool, Wednesday, October 18, 2006, Group A
+Chelsea, 1, 0, Barcelona, Wednesday, October 18, 2006, Group A
+Galatasaray, 1, 2, PSV Eindhoven, Wednesday, October 18, 2006, Group A
+Internazionale, 2, 1, Spartak Moscow, Wednesday, October 18, 2006, Group A
+Olympiakos, 0, 1, AS Roma, Wednesday, October 18, 2006, Group A
+Sporting Lisbon, 0, 1, Bayern Munich, Wednesday, October 18, 2006, Group A
+Valencia, 2, 0, Shakhtar Donetsk, Wednesday, October 18, 2006, Group A
+Werder Bremen, 2, 0, Levski Sofia, Wednesday, October 18, 2006, Group A
+CSKA Moscow, 1, 0, Arsenal, Tuesday, October 17, 2006, Group A
+Anderlecht, 0, 1, AC Milan, Tuesday, October 17, 2006, Group A
+Celtic, 3, 0, Benfica, Tuesday, October 17, 2006, Group A
+Dynamo Kiev, 0, 3, Lyon, Tuesday, October 17, 2006, Group A
+FC Porto, 4, 1, Hamburg SV, Tuesday, October 17, 2006, Group A
+Lille, 3, 1, AEK Athens, Tuesday, October 17, 2006, Group A
+Manchester United, 3, 0, FC Copenhagen, Tuesday, October 17, 2006, Group A
+Steaua Bucuresti, 1, 4, Real Madrid, Tuesday, October 17, 2006, Group A
+Spartak Moscow, 1, 1, Sporting Lisbon, Wednesday, September 27, 2006, Group A
+Bordeaux, 0, 1, PSV Eindhoven, Wednesday, September 27, 2006, Group A
+Internazionale, 0, 2, Bayern Munich, Wednesday, September 27, 2006, Group A
+Levski Sofia, 1, 3, Chelsea, Wednesday, September 27, 2006, Group A
+Liverpool, 3, 2, Galatasaray, Wednesday, September 27, 2006, Group A
+Shakhtar Donetsk, 2, 2, Olympiakos, Wednesday, September 27, 2006, Group A
+Valencia, 2, 1, AS Roma, Wednesday, September 27, 2006, Group A
+Werder Bremen, 1, 1, Barcelona, Wednesday, September 27, 2006, Group A
+CSKA Moscow, 1, 0, Hamburg SV, Tuesday, September 26, 2006, Group A
+AEK Athens, 1, 1, Anderlecht, Tuesday, September 26, 2006, Group A
+Arsenal, 2, 0, FC Porto, Tuesday, September 26, 2006, Group A
+Benfica, 0, 1, Manchester United, Tuesday, September 26, 2006, Group A
+Celtic, 1, 0, FC Copenhagen, Tuesday, September 26, 2006, Group A
+Lille, 0, 0, AC Milan, Tuesday, September 26, 2006, Group A
+Real Madrid, 5, 1, Dynamo Kiev, Tuesday, September 26, 2006, Group A
+Steaua Bucuresti, 0, 3, Lyon, Tuesday, September 26, 2006, Group A
+AC Milan, 3, 0, AEK Athens, Wednesday, September 13, 2006, Group A
+Anderlecht, 1, 1, Lille, Wednesday, September 13, 2006, Group A
+Dynamo Kiev, 1, 4, Steaua Bucuresti, Wednesday, September 13, 2006, Group A
+FC Copenhagen, 0, 0, Benfica, Wednesday, September 13, 2006, Group A
+FC Porto, 0, 0, CSKA Moscow, Wednesday, September 13, 2006, Group A
+Hamburg SV, 1, 2, Arsenal, Wednesday, September 13, 2006, Group A
+Lyon, 2, 0, Real Madrid, Wednesday, September 13, 2006, Group A
+Manchester United, 3, 2, Celtic, Wednesday, September 13, 2006, Group A
+AS Roma, 4, 0, Shakhtar Donetsk, Tuesday, September 12, 2006, Group A
+Barcelona, 5, 0, Levski Sofia, Tuesday, September 12, 2006, Group A
+Bayern Munich, 4, 0, Spartak Moscow, Tuesday, September 12, 2006, Group A
+Chelsea, 2, 0, Werder Bremen, Tuesday, September 12, 2006, Group A
+Galatasaray, 0, 0, Bordeaux, Tuesday, September 12, 2006, Group A
+Olympiakos, 2, 4, Valencia, Tuesday, September 12, 2006, Group A
+PSV Eindhoven, 0, 0, Liverpool, Tuesday, September 12, 2006, Group A
+Sporting Lisbon, 1, 0, Internazionale, Tuesday, September 12, 2006, Group A
+Spartak Moscow, 2, 1, Liberec, Wednesday, August 23, 2006, Qualifying Third Round
+
+Mlada Boleslav, 1, 1, Galatasaray, Wednesday, August 23, 2006, Qualifying Third Round
+
+Steaua Bucuresti, 2, 1, Standard Liege, Wednesday, August 23, 2006, Qualifying Third Round
+
+Fenerbahce, 2, 2, Dynamo Kiev, Wednesday, August 23, 2006, Qualifying Third Round
+
+Rabotnicki Kometal, 0, 1, Lille, Wednesday, August 23, 2006, Qualifying Third Round
+
+SCP Ruzomberok, 0, 2, CSKA Moscow, Wednesday, August 23, 2006, Qualifying Third Round
+
+Ajax Amsterdam, 0, 2, FC Copenhagen, Wednesday, August 23, 2006, Qualifying Third Round
+
+Legia Warsaw, 2, 3, Shakhtar Donetsk, Wednesday, August 23, 2006, Qualifying Third Round
+
+AEK Athens, 3, 0, Heart of Midlothian, Wednesday, August 23, 2006, Qualifying Third Round
+
+Chievo Verona, 2, 2, Levski Sofia, Wednesday, August 23, 2006, Qualifying Third Round
+
+Arsenal, 2, 1, Dinamo Zagreb, Wednesday, August 23, 2006, Qualifying Third Round
+
+Maccabi Haifa, 1, 1, Liverpool, Tuesday, August 22, 2006, Qualifying Third Round
+
+Osasuna, 1, 1, Hamburg SV, Tuesday, August 22, 2006, Qualifying Third Round
+
+FC Copenhagen, 1, 2, AC Milan, Tuesday, August 22, 2006, Qualifying Third Round
+
+Benfica, 3, 0, Austria Vienna, Tuesday, August 22, 2006, Qualifying Third Round
+
+Valencia, 3, 0, SV Salzburg, Tuesday, August 22, 2006, Qualifying Third Round
+
+CSKA Moscow, 3, 0, SCP Ruzomberok, Wednesday, August 9, 2006, Qualifying Third Round
+
+Dynamo Kiev, 3, 1, Fenerbahce, Wednesday, August 9, 2006, Qualifying Third Round
+
+Lille, 3, 0, Rabotnicki Kometal, Wednesday, August 9, 2006, Qualifying Third Round
+
+Shakhtar Donetsk, 1, 0, Legia Warsaw, Wednesday, August 9, 2006, Qualifying Third Round
+
+Galatasaray, 5, 2, Mlada Boleslav, Wednesday, August 9, 2006, Qualifying Third Round
+
+Levski Sofia, 2, 0, Chievo Verona, Wednesday, August 9, 2006, Qualifying Third Round
+
+Liberec, 0, 0, Spartak Moscow, Wednesday, August 9, 2006, Qualifying Third Round
+
+FC Copenhagen, 1, 2, Ajax Amsterdam, Wednesday, August 9, 2006, Qualifying Third Round
+
+Hamburg SV, 0, 0, Osasuna, Wednesday, August 9, 2006, Qualifying Third Round
+
+Standard Liege, 2, 2, Steaua Bucuresti, Wednesday, August 9, 2006, Qualifying Third Round
+
+AC Milan, 1, 0, Crvena Zvezda, Wednesday, August 9, 2006, Qualifying Third Round
+
+Heart of Midlothian, 1, 2, AEK Athens, Wednesday, August 9, 2006, Qualifying Third Round
+
+SV Salzburg, 1, 0, Valencia, Wednesday, August 9, 2006, Qualifying Third Round
+
+Liverpool, 2, 1, Maccabi Haifa, Wednesday, August 9, 2006, Qualifying Third Round
+
+Austria Vienna, 1, 1, Benfica, Tuesday, August 8, 2006, Qualifying Third Round
+
+Dinamo Zagreb, 0, 3, Arsenal, Tuesday, August 8, 2006, Qualifying Third Round
+
+Sioni Bolnisi, 0, 2, Levski Sofia, Wednesday, August 2, 2006, Qualifying Second Round
+
+Spartak Moscow, 0, 0, Sheriff Tiraspol, Wednesday, August 2, 2006, Qualifying Second Round
+
+Dynamo Kiev, 4, 0, FK Metalurgs, Wednesday, August 2, 2006, Qualifying Second Round
+
+MyPa, 2, 2, FC Copenhagen, Wednesday, August 2, 2006, Qualifying Second Round
+
+B36 Torshavn, P ,  P, Fenerbahce, Wednesday, August 2, 2006, Qualifying Second Round
+
+Rabotnicki Kometal, 4, 1, Debrecen, Wednesday, August 2, 2006, Qualifying Second Round
+
+SCP Ruzomberok, 3, 1, Djurgarden, Wednesday, August 2, 2006, Qualifying Second Round
+
+Steaua Bucuresti, 3, 0, HIT Gorica, Wednesday, August 2, 2006, Qualifying Second Round
+
+Crvena Zvezda, 3, 0, Cork, Wednesday, August 2, 2006, Qualifying Second Round
+
+SV Salzburg, 2, 0, FC ZÃ¼rich, Wednesday, August 2, 2006, Qualifying Second Round
+
+Dinamo Zagreb, 5, 2, FK Ekranas, Wednesday, August 2, 2006, Qualifying Second Round
+
+Legia Warsaw, 2, 0, FH Hafnarfjordur, Wednesday, August 2, 2006, Qualifying Second Round
+
+Siroki Brijeg, 0, 0, Heart of Midlothian, Wednesday, August 2, 2006, Qualifying Second Round
+
+Valerenga, 2, 2, Mlada Boleslav, Wednesday, August 2, 2006, Qualifying Second Round
+
+B36 Torshavn, 0, 5, Fenerbahce, Tuesday, August 1, 2006, Qualifying Second Round
+
+FK Metalurgs, 1, 4, Dynamo Kiev, Wednesday, July 26, 2006, Qualifying Second Round
+
+Sheriff Tiraspol, 1, 1, Spartak Moscow, Wednesday, July 26, 2006, Qualifying Second Round
+
+Levski Sofia, 2, 0, Sioni Bolnisi, Wednesday, July 26, 2006, Qualifying Second Round
+
+Djurgarden, 1, 0, SCP Ruzomberok, Wednesday, July 26, 2006, Qualifying Second Round
+
+Fenerbahce, 4, 0, B36 Torshavn, Wednesday, July 26, 2006, Qualifying Second Round
+
+FC ZÃ¼rich, 2, 1, SV Salzburg, Wednesday, July 26, 2006, Qualifying Second Round
+
+FH Hafnarfjordur, 0, 1, Legia Warsaw, Wednesday, July 26, 2006, Qualifying Second Round
+
+Cork, 0, 1, Crvena Zvezda, Wednesday, July 26, 2006, Qualifying Second Round
+
+Debrecen, 1, 1, Rabotnicki Kometal, Wednesday, July 26, 2006, Qualifying Second Round
+
+FC Copenhagen, 2, 0, MyPa, Wednesday, July 26, 2006, Qualifying Second Round
+
+Heart of Midlothian, 3, 0, Siroki Brijeg, Wednesday, July 26, 2006, Qualifying Second Round
+
+Mlada Boleslav, 3, 1, Valerenga, Wednesday, July 26, 2006, Qualifying Second Round
+
+HIT Gorica, 0, 2, Steaua Bucuresti, Wednesday, July 26, 2006, Qualifying Second Round
+
+FK Ekranas, 1, 4, Dinamo Zagreb, Tuesday, July 25, 2006, Qualifying Second Round
+
+Aktobe Lento, 1, 1, FK Metalurgs, Wednesday, July 19, 2006, Qualifying First Round
+
+Apollon Limassol, 1, 1, Cork, Wednesday, July 19, 2006, Qualifying First Round
+
+B36 Torshavn, 2, 2, Birkirkara, Wednesday, July 19, 2006, Qualifying First Round
+
+HIT Gorica, 2, 2, Linfield, Wednesday, July 19, 2006, Qualifying First Round
+
+Siroki Brijeg, 1, 0, Shakhter Soligorsk, Wednesday, July 19, 2006, Qualifying First Round
+
+T.N.S., 0, 1, MyPa, Wednesday, July 19, 2006, Qualifying First Round
+
+FH Hafnarfjordur, 1, 1, TVMK Tallinn, Wednesday, July 19, 2006, Qualifying First Round
+
+FK Baku, 1, 0, Sioni Bolnisi, Tuesday, July 18, 2006, Qualifying First Round
+
+FK Ekranas, 3, 0, Elbasani, Tuesday, July 18, 2006, Qualifying First Round
+
+Sheriff Tiraspol, 2, 0, Pyunik, Tuesday, July 18, 2006, Qualifying First Round
+
+Rabotnicki Kometal, 0, 0, F91 Dudelange, Tuesday, July 18, 2006, Qualifying First Round
+
+MyPa, 1, 0, T.N.S., Wednesday, July 12, 2006, Qualifying First Round
+
+FK Metalurgs, 1, 0, Aktobe Lento, Wednesday, July 12, 2006, Qualifying First Round
+
+Shakhter Soligorsk, 0, 1, Siroki Brijeg, Wednesday, July 12, 2006, Qualifying First Round
+
+Cork, 1, 0, Apollon Limassol, Wednesday, July 12, 2006, Qualifying First Round
+
+Pyunik, 0, 0, Sheriff Tiraspol, Tuesday, July 11, 2006, Qualifying First Round
+
+Sioni Bolnisi, 2, 0, FK Baku, Tuesday, July 11, 2006, Qualifying First Round
+
+TVMK Tallinn, 2, 3, FH Hafnarfjordur, Tuesday, July 11, 2006, Qualifying First Round
+
+Elbasani, 1, 0, FK Ekranas, Tuesday, July 11, 2006, Qualifying First Round
+
+Birkirkara, 0, 3, B36 Torshavn, Tuesday, July 11, 2006, Qualifying First Round
+
+F91 Dudelange, 0, 1, Rabotnicki Kometal, Tuesday, July 11, 2006, Qualifying First Round
+
+Linfield, 1, 3, HIT Gorica, Tuesday, July 11, 2006, Qualifying First Round
+
