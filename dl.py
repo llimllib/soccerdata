@@ -68,18 +68,38 @@ def parse_cl_page(soup):
             away = cells[3].text
             group = cells[4].text
 
-            homescore, awayscore = result.split("-")
+            try:
+                homescore, awayscore = result.split("-")
+            except ValueError:
+                print "unable to parse game {0}".format(cells)
+                continue
 
             results.append((home, homescore, awayscore, away, date, group))
 
     return results
 
+def get(url, retries=5):
+    r = requests.get(url)
+    for _ in range(retries):
+        if r.status_code == 200:
+            return r
+        print "retrying"
+        r = requests.get(url)
+    raise Exception("GET failed.\nstatus: {0}\nurl: {1}".format(r.status_code, url))
+
 def champions_league():
     url = "http://espnfc.com/results/_/league/uefa.champions/uefa-champions-league?cc=5901"
+    #the 2004/2005 data is missing some results. Starts here:
+    url = "http://espnfc.com/results/_/league/uefa.champions/date/20050426/uefa-champions-league"
+    #2003/2004
+    #url = "http://espnfc.com/results/_/league/uefa.champions/date/20040526/uefa-champions-league"
+    ##2002/2003
+    #url = "http://espnfc.com/results/_/league/uefa.champions/date/20030528/uefa-champions-league"
+    #2001/2002
+    url = "http://espnfc.com/results/_/league/uefa.champions/date/20020515/uefa-champions-league"
 
     print "getting %s" % url
-    r = requests.get(url)
-    assert r.status_code==200
+    r = get(url)
 
     soup = BeautifulSoup(r.content)
     season = soup.h2.text.split(" ")[0]
@@ -91,17 +111,24 @@ def champions_league():
         url = previous["href"]
 
         print "getting %s" % url
-        r = requests.get(url)
-        assert r.status_code==200
+        r = get(url)
 
         soup = BeautifulSoup(r.content)
         if soup.h2.text.split(" ")[0] != season:
-            print "found season: %s" % soup.h2.text.split(" ")[0]
-            break
+            season_f = "{0}_{1}".format(season[2:4], season[5:7])
+            out = codecs.open("data/cl_{0}.csv".format(season_f), 'w', "utf8")
+            write_cl_csv(out, results)
+
+            season = soup.h2.text.split(" ")[0]
+            print "found season: {0}".format(season)
+            results = []
+
         results += parse_cl_page(soup)
 
-    out = codecs.open("data/cl_13_14.csv", 'w', "utf8")
+    season_f = "{0}_{1}".format(season[2:4], season[5:7])
+    out = codecs.open("data/cl_{0}.csv".format(season_f), 'w', "utf8")
     write_cl_csv(out, results)
+
 
 if __name__=="__main__":
     #bpl_13_14()
