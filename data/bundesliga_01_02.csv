@@ -1,306 +1,305 @@
-home, homescore, awayscore, away, date, group
-Bayer Leverkusen, 2, 1, Hertha Berlin, "Saturday, May 4, 2002", BayArena (22,500)
-Bayern Munich, 3, 2, Hansa Rostock, "Saturday, May 4, 2002", Olympiastadion (63,000)
-Borussia Dortmund, 2, 1, Werder Bremen, "Saturday, May 4, 2002", Westfalenstadion (68,600)
-Borussia Monchengladbach, 2, 4, TSV 1860 Munich, "Saturday, May 4, 2002", Stadium Bokelberg (34,500)
-Energie Cottbus, 2, 3, FC Cologne, "Saturday, May 4, 2002", Stadion der Freundschaft (20,000)
-SC Freiburg, 4, 3, Hamburg SV, "Saturday, May 4, 2002", Dreisamstadion  (24,000)
-Schalke 04, 1, 2, VfL Wolfsburg, "Saturday, May 4, 2002", Arena Auf Schalke (60,638)
-St Pauli, 2, 3, Nurnberg, "Saturday, May 4, 2002", Wilhem-Koch-Stadion (20,500)
-VfB Stuttgart, 4, 3, Kaiserslautern, "Saturday, May 4, 2002", Gottlieb-Daimler Stadion (30,000)
-FC Cologne, 2, 0, SC Freiburg, "Saturday, April 27, 2002", Mungersdorfer Stadion (30,000)
-Hamburg SV, 3, 4, Borussia Dortmund, "Saturday, April 27, 2002", Volksparkstadion (55,000)
-Hansa Rostock, 1, 1, Borussia Monchengladbach, "Saturday, April 27, 2002", Ostseestadion (25,800)
-Hertha Berlin, 2, 0, Schalke 04, "Saturday, April 27, 2002", Olympia Stadium (54,000)
-Kaiserslautern, 4, 0, Energie Cottbus, "Saturday, April 27, 2002", Fritz-Walter Stadion (40,000)
-Nurnberg, 1, 0, Bayer Leverkusen, "Saturday, April 27, 2002", Frankenstadion (24,000)
-TSV 1860 Munich, 3, 3, VfB Stuttgart, "Saturday, April 27, 2002", Olympiastadion (30,000)
-VfL Wolfsburg, 0, 1, Bayern Munich, "Saturday, April 27, 2002", VFL-Stadion (20,400)
-Werder Bremen, 3, 2, St Pauli, "Saturday, April 27, 2002", Weserstadion (35,600)
-Borussia Monchengladbach, 2, 2, VfB Stuttgart, "Sunday, April 21, 2002", Stadium Bokelberg (28,850)
-SC Freiburg, 3, 1, Kaiserslautern, "Sunday, April 21, 2002", Dreisamstadion  (25,000)
-Bayer Leverkusen, 1, 2, Werder Bremen, "Saturday, April 20, 2002", BayArena (22,500)
-Bayern Munich, 3, 0, Hertha Berlin, "Saturday, April 20, 2002", Olympiastadion (63,000)
-Borussia Dortmund, 2, 1, FC Cologne, "Saturday, April 20, 2002", Westfalenstadion (68,500)
-Energie Cottbus, 1, 1, TSV 1860 Munich, "Saturday, April 20, 2002", Stadion der Freundschaft (40,000)
-Schalke 04, 2, 1, Nurnberg, "Saturday, April 20, 2002", Arena Auf Schalke (60,643)
-VfL Wolfsburg, 4, 0, Hansa Rostock, "Saturday, April 20, 2002", VFL-Stadion (12,650)
-St Pauli, 0, 4, Hamburg SV, "Friday, April 19, 2002", Wilhem-Koch-Stadion (54,130)
-Kaiserslautern, 1, 0, Borussia Dortmund, "Sunday, April 14, 2002", Fritz-Walter Stadion (40,500)
-VfB Stuttgart, 0, 0, Energie Cottbus, "Sunday, April 14, 2002", Gottlieb-Daimler Stadion (21,000)
-Borussia Monchengladbach, 0, 2, VfL Wolfsburg, "Saturday, April 13, 2002", Stadium Bokelberg (27,000)
-FC Cologne, 2, 1, St Pauli, "Saturday, April 13, 2002", Mungersdorfer Stadion (26,000)
-Hamburg SV, 1, 1, Bayer Leverkusen, "Saturday, April 13, 2002", Volksparkstadion (55,000)
-Hertha Berlin, 1, 0, Hansa Rostock, "Saturday, April 13, 2002", Olympia Stadium (42,000)
-Nurnberg, 1, 2, Bayern Munich, "Saturday, April 13, 2002", Frankenstadion (44,000)
-TSV 1860 Munich, 5, 2, SC Freiburg, "Saturday, April 13, 2002", Olympiastadion (207,000)
-Werder Bremen, 3, 0, Schalke 04, "Saturday, April 13, 2002", Weserstadion (35,600)
-Borussia Dortmund, 2, 1, TSV 1860 Munich, "Sunday, April 7, 2002", Westfalenstadion (65,000)
-SC Freiburg, 0, 2, VfB Stuttgart, "Sunday, April 7, 2002", Dreisamstadion  (25,000)
-Bayer Leverkusen, 2, 0, FC Cologne, "Saturday, April 6, 2002", BayArena (22,500)
-Bayern Munich, 2, 2, Werder Bremen, "Saturday, April 6, 2002", Olympiastadion (52,000)
-Energie Cottbus, 3, 3, Borussia Monchengladbach, "Saturday, April 6, 2002", Stadion der Freundschaft (18,000)
-Hansa Rostock, 1, 0, Nurnberg, "Saturday, April 6, 2002", Ostseestadion (15,000)
-Schalke 04, 2, 0, Hamburg SV, "Saturday, April 6, 2002", Arena Auf Schalke (60,683)
-St Pauli, 1, 1, Kaiserslautern, "Saturday, April 6, 2002", Wilhem-Koch-Stadion (20,600)
-VfL Wolfsburg, 1, 3, Hertha Berlin, "Saturday, April 6, 2002", VFL-Stadion (18,361)
-FC Cologne, 1, 1, Schalke 04, "Sunday, March 31, 2002", Mungersdorfer Stadion (30,000)
-Werder Bremen, 4, 3, Hansa Rostock, "Sunday, March 31, 2002", Weserstadion (26,742)
-Borussia Monchengladbach, 3, 1, Hertha Berlin, "Saturday, March 30, 2002", Stadium Bokelberg (31,300)
-Energie Cottbus, 2, 0, SC Freiburg, "Saturday, March 30, 2002", Stadion der Freundschaft (15,000)
-Hamburg SV, 0, 0, Bayern Munich, "Saturday, March 30, 2002", Volksparkstadion (55,000)
-Kaiserslautern, 2, 4, Bayer Leverkusen, "Saturday, March 30, 2002", Fritz-Walter Stadion (40,000)
-Nurnberg, 3, 0, VfL Wolfsburg, "Saturday, March 30, 2002", Frankenstadion (23,600)
-TSV 1860 Munich, 4, 2, St Pauli, "Saturday, March 30, 2002", Olympiastadion (21,400)
-VfB Stuttgart, 3, 2, Borussia Dortmund, "Saturday, March 30, 2002", Gottlieb-Daimler Stadion (33,000)
-Borussia Dortmund, 3, 0, Energie Cottbus, "Sunday, March 24, 2002", Westfalenstadion (63,000)
-VfL Wolfsburg, 2, 0, Werder Bremen, "Sunday, March 24, 2002", VFL-Stadion (14,300)
-Bayer Leverkusen, 4, 0, TSV 1860 Munich, "Saturday, March 23, 2002", BayArena (22,500)
-Bayern Munich, 3, 0, FC Cologne, "Saturday, March 23, 2002", Olympiastadion (38,000)
-Hansa Rostock, 1, 1, Hamburg SV, "Saturday, March 23, 2002", Ostseestadion (28,000)
-Hertha Berlin, 2, 0, Nurnberg, "Saturday, March 23, 2002", Olympia Stadium (37,000)
-SC Freiburg, 0, 1, Borussia Monchengladbach, "Saturday, March 23, 2002", Dreisamstadion  (25,000)
-Schalke 04, 3, 0, Kaiserslautern, "Saturday, March 23, 2002", Arena Auf Schalke 
-St Pauli, 1, 2, VfB Stuttgart, "Saturday, March 23, 2002", Wilhem-Koch-Stadion (20,000)
-SC Freiburg, 1, 5, Borussia Dortmund, "Sunday, March 17, 2002", Dreisamstadion  (25,000)
-TSV 1860 Munich, 1, 2, Schalke 04, "Sunday, March 17, 2002", Olympiastadion (30,000)
-Borussia Monchengladbach, 1, 0, Nurnberg, "Saturday, March 16, 2002", Stadium Bokelberg (31,000)
-Energie Cottbus, 4, 0, St Pauli, "Saturday, March 16, 2002", Stadion der Freundschaft (13,500)
-FC Cologne, 4, 2, Hansa Rostock, "Saturday, March 16, 2002", Mungersdorfer Stadion (17,000)
-Hamburg SV, 1, 1, VfL Wolfsburg, "Saturday, March 16, 2002", Volksparkstadion (27,517)
-Kaiserslautern, 0, 0, Bayern Munich, "Saturday, March 16, 2002", Fritz-Walter Stadion (40,600)
-VfB Stuttgart, 0, 2, Bayer Leverkusen, "Saturday, March 16, 2002", Gottlieb-Daimler Stadion (35,000)
-Werder Bremen, 0, 3, Hertha Berlin, "Saturday, March 16, 2002", Weserstadion (31,350)
-Hertha Berlin, 6, 0, Hamburg SV, "Sunday, March 10, 2002", Olympia Stadium (29,000)
-Schalke 04, 2, 1, VfB Stuttgart, "Sunday, March 10, 2002", Arena Auf Schalke (60,683)
-Bayer Leverkusen, 2, 0, Energie Cottbus, "Saturday, March 9, 2002", BayArena (22,500)
-Bayern Munich, 2, 1, TSV 1860 Munich, "Saturday, March 9, 2002", Olympiastadion (69,000)
-Borussia Dortmund, 3, 1, Borussia Monchengladbach, "Saturday, March 9, 2002", Westfalenstadion (65,000)
-Hansa Rostock, 2, 1, Kaiserslautern, "Saturday, March 9, 2002", Ostseestadion (15,800)
-Nurnberg, 0, 4, Werder Bremen, "Saturday, March 9, 2002", Frankenstadion (24,500)
-St Pauli, 1, 0, SC Freiburg, "Saturday, March 9, 2002", Wilhem-Koch-Stadion (20,000)
-VfL Wolfsburg, 5, 1, FC Cologne, "Saturday, March 9, 2002", VFL-Stadion (12,583)
-Borussia Dortmund, 1, 1, St Pauli, "Sunday, March 3, 2002", Westfalenstadion (62,000)
-Kaiserslautern, 3, 2, VfL Wolfsburg, "Sunday, March 3, 2002", Fritz-Walter Stadion (40,000)
-Borussia Monchengladbach, 1, 0, Werder Bremen, "Saturday, March 2, 2002", Stadium Bokelberg (28,600)
-Energie Cottbus, 2, 0, Schalke 04, "Saturday, March 2, 2002", Stadion der Freundschaft (17,000)
-FC Cologne, 1, 1, Hertha Berlin, "Saturday, March 2, 2002", Mungersdorfer Stadion (20,000)
-Hamburg SV, 3, 1, Nurnberg, "Saturday, March 2, 2002", Volksparkstadion (34,000)
-SC Freiburg, 2, 2, Bayer Leverkusen, "Saturday, March 2, 2002", Dreisamstadion  (25,000)
-TSV 1860 Munich, 2, 0, Hansa Rostock, "Saturday, March 2, 2002", Olympiastadion (17,200)
-VfB Stuttgart, 0, 2, Bayern Munich, "Saturday, March 2, 2002", Gottlieb-Daimler Stadion (54,248)
-Bayer Leverkusen, 4, 0, Borussia Dortmund, "Sunday, February 24, 2002", BayArena (22,500)
-Werder Bremen, 0, 1, Hamburg SV, "Sunday, February 24, 2002", Weserstadion (33,250)
-Bayern Munich, 6, 0, Energie Cottbus, "Saturday, February 23, 2002", Olympiastadion (28,000)
-Hansa Rostock, 1, 1, VfB Stuttgart, "Saturday, February 23, 2002", Ostseestadion (12,000)
-Hertha Berlin, 5, 1, Kaiserslautern, "Saturday, February 23, 2002", Olympia Stadium (35,000)
-Nurnberg, 2, 0, FC Cologne, "Saturday, February 23, 2002", Frankenstadion (25,100)
-Schalke 04, 3, 0, SC Freiburg, "Saturday, February 23, 2002", Arena Auf Schalke (60,683)
-St Pauli, 1, 1, Borussia Monchengladbach, "Saturday, February 23, 2002", Wilhem-Koch-Stadion (20,000)
-VfL Wolfsburg, 1, 3, TSV 1860 Munich, "Saturday, February 23, 2002", VFL-Stadion (10,612)
-Energie Cottbus, 3, 0, Hansa Rostock, "Sunday, February 17, 2002", Stadion der Freundschaft (17,100)
-FC Cologne, 0, 0, Werder Bremen, "Sunday, February 17, 2002", Mungersdorfer Stadion (25,000)
-Borussia Dortmund, 1, 1, Schalke 04, "Saturday, February 16, 2002", Westfalenstadion (68,600)
-Borussia Monchengladbach, 2, 1, Hamburg SV, "Saturday, February 16, 2002", Stadium Bokelberg (25,000)
-Kaiserslautern, 2, 1, Nurnberg, "Saturday, February 16, 2002", Fritz-Walter Stadion (35,000)
-SC Freiburg, 0, 2, Bayern Munich, "Saturday, February 16, 2002", Dreisamstadion  (25,000)
-St Pauli, 2, 2, Bayer Leverkusen, "Saturday, February 16, 2002", Wilhem-Koch-Stadion (20,735)
-TSV 1860 Munich, 0, 3, Hertha Berlin, "Saturday, February 16, 2002", Olympiastadion (17,000)
-VfB Stuttgart, 2, 1, VfL Wolfsburg, "Saturday, February 16, 2002", Gottlieb-Daimler Stadion (12,000)
-Hamburg SV, 4, 0, FC Cologne, "Sunday, February 10, 2002", Volksparkstadion (38,719)
-Nurnberg, 2, 1, TSV 1860 Munich, "Sunday, February 10, 2002", Frankenstadion (38,200)
-Bayer Leverkusen, 5, 0, Borussia Monchengladbach, "Saturday, February 9, 2002", BayArena (22,500)
-Bayern Munich, 1, 1, Borussia Dortmund, "Saturday, February 9, 2002", Olympiastadion (55,000)
-Hansa Rostock, 4, 0, SC Freiburg, "Saturday, February 9, 2002", Ostseestadion (10,500)
-Hertha Berlin, 2, 0, VfB Stuttgart, "Saturday, February 9, 2002", Olympia Stadium (20,000)
-Schalke 04, 4, 0, St Pauli, "Saturday, February 9, 2002", Arena Auf Schalke (60,600)
-VfL Wolfsburg, 2, 1, Energie Cottbus, "Saturday, February 9, 2002", VFL-Stadion (11,270)
-Werder Bremen, 1, 0, Kaiserslautern, "Saturday, February 9, 2002", Weserstadion (27,100)
-Bayer Leverkusen, 0, 1, Schalke 04, "Wednesday, February 6, 2002", BayArena (22,500)
-Borussia Dortmund, 2, 0, Hansa Rostock, "Wednesday, February 6, 2002", Westfalenstadion (60,500)
-Kaiserslautern, 2, 2, Hamburg SV, "Wednesday, February 6, 2002", Fritz-Walter Stadion (34,958)
-St Pauli, 2, 1, Bayern Munich, "Wednesday, February 6, 2002", Wilhem-Koch-Stadion (20,000)
-Borussia Monchengladbach, 4, 0, FC Cologne, "Tuesday, February 5, 2002", Stadium Bokelberg (32,200)
-Energie Cottbus, 1, 0, Hertha Berlin, "Tuesday, February 5, 2002", Stadion der Freundschaft (15,600)
-SC Freiburg, 0, 0, VfL Wolfsburg, "Tuesday, February 5, 2002", Dreisamstadion  (24,000)
-TSV 1860 Munich, 3, 1, Werder Bremen, "Tuesday, February 5, 2002", Olympiastadion (19,000)
-VfB Stuttgart, 2, 3, Nurnberg, "Tuesday, February 5, 2002", Gottlieb-Daimler Stadion (21,000)
-Bayern Munich, 2, 0, Bayer Leverkusen, "Sunday, February 3, 2002", Olympiastadion (43,000)
-Hansa Rostock, 1, 0, St Pauli, "Sunday, February 3, 2002", Ostseestadion (18,600)
-FC Cologne, 0, 1, Kaiserslautern, "Saturday, February 2, 2002", Mungersdorfer Stadion (25,000)
-Hamburg SV, 2, 1, TSV 1860 Munich, "Saturday, February 2, 2002", Volksparkstadion (34,026)
-Hertha Berlin, 1, 1, SC Freiburg, "Saturday, February 2, 2002", Olympia Stadium (22,000)
-Nurnberg, 2, 0, Energie Cottbus, "Saturday, February 2, 2002", Frankenstadion (20,000)
-Schalke 04, 2, 0, Borussia Monchengladbach, "Saturday, February 2, 2002", Arena Auf Schalke (60,683)
-VfL Wolfsburg, 1, 1, Borussia Dortmund, "Saturday, February 2, 2002", VFL-Stadion (17,226)
-Werder Bremen, 1, 2, VfB Stuttgart, "Saturday, February 2, 2002", Weserstadion (26,000)
-Borussia Dortmund, 3, 1, Hertha Berlin, "Sunday, January 27, 2002", Westfalenstadion (63,000)
-Energie Cottbus, 2, 1, Werder Bremen, "Sunday, January 27, 2002", Stadion der Freundschaft (13,000)
-Bayer Leverkusen, 2, 0, Hansa Rostock, "Saturday, January 26, 2002", BayArena (22,500)
-Borussia Monchengladbach, 0, 2, Kaiserslautern, "Saturday, January 26, 2002", Stadium Bokelberg (28,000)
-SC Freiburg, 2, 0, Nurnberg, "Saturday, January 26, 2002", Dreisamstadion  (24,064)
-Schalke 04, 5, 1, Bayern Munich, "Saturday, January 26, 2002", Arena Auf Schalke (60,000)
-St Pauli, 3, 1, VfL Wolfsburg, "Saturday, January 26, 2002", Wilhem-Koch-Stadion (20,000)
-TSV 1860 Munich, 3, 0, FC Cologne, "Saturday, January 26, 2002", Olympiastadion (20,000)
-VfB Stuttgart, 3, 0, Hamburg SV, "Saturday, January 26, 2002", Gottlieb-Daimler Stadion (25,000)
-FC Cologne, 0, 0, VfB Stuttgart, "Wednesday, December 19, 2001", Mungersdorfer Stadion (25,000)
-Hansa Rostock, 1, 3, Schalke 04, "Wednesday, December 19, 2001", Ostseestadion (16,434)
-Kaiserslautern, 1, 3, TSV 1860 Munich, "Wednesday, December 19, 2001", Fritz-Walter Stadion (39,000)
-VfL Wolfsburg, 3, 1, Bayer Leverkusen, "Wednesday, December 19, 2001", VFL-Stadion (14,116)
-Bayern Munich, 0, 0, Borussia Monchengladbach, "Tuesday, December 18, 2001", Olympiastadion (41,000)
-Hamburg SV, 5, 2, Energie Cottbus, "Tuesday, December 18, 2001", Volksparkstadion (32,425)
-Hertha Berlin, 2, 2, St Pauli, "Tuesday, December 18, 2001", Olympia Stadium (25,000)
-Nurnberg, 2, 2, Borussia Dortmund, "Tuesday, December 18, 2001", Frankenstadion (25,000)
-Werder Bremen, 3, 2, SC Freiburg, "Tuesday, December 18, 2001", Weserstadion (25,577)
-Kaiserslautern, 2, 2, VfB Stuttgart, "Sunday, December 16, 2001", Fritz-Walter Stadion (39,030)
-VfL Wolfsburg, 3, 1, Schalke 04, "Sunday, December 16, 2001", VFL-Stadion (15,137)
-FC Cologne, 0, 0, Energie Cottbus, "Saturday, December 15, 2001", Mungersdorfer Stadion (29,000)
-Hamburg SV, 1, 1, SC Freiburg, "Saturday, December 15, 2001", Volksparkstadion (35,012)
-Hansa Rostock, 1, 0, Bayern Munich, "Saturday, December 15, 2001", Ostseestadion (30,000)
-Hertha Berlin, 2, 1, Bayer Leverkusen, "Saturday, December 15, 2001", Olympia Stadium 
-Nurnberg, 0, 0, St Pauli, "Saturday, December 15, 2001", Frankenstadion (20,000)
-TSV 1860 Munich, 2, 2, Borussia Monchengladbach, "Saturday, December 15, 2001", Olympiastadion (19,700)
-Werder Bremen, 1, 1, Borussia Dortmund, "Saturday, December 15, 2001", Weserstadion (36,500)
-SC Freiburg, 0, 0, FC Cologne, "Sunday, December 9, 2001", Dreisamstadion  (25,000)
-Schalke 04, 0, 0, Hertha Berlin, "Sunday, December 9, 2001", Arena Auf Schalke (60,204)
-Bayer Leverkusen, 4, 2, Nurnberg, "Saturday, December 8, 2001", BayArena (22,500)
-Bayern Munich, 3, 3, VfL Wolfsburg, "Saturday, December 8, 2001", Olympiastadion (37,000)
-Borussia Dortmund, 1, 0, Hamburg SV, "Saturday, December 8, 2001", Westfalenstadion (68,600)
-Borussia Monchengladbach, 0, 2, Hansa Rostock, "Saturday, December 8, 2001", Stadium Bokelberg (25,000)
-Energie Cottbus, 0, 2, Kaiserslautern, "Saturday, December 8, 2001", Stadion der Freundschaft (13,020)
-St Pauli, 0, 3, Werder Bremen, "Saturday, December 8, 2001", Wilhem-Koch-Stadion (20,619)
-VfB Stuttgart, 0, 1, TSV 1860 Munich, "Saturday, December 8, 2001", Gottlieb-Daimler Stadion (22,000)
-Hamburg SV, 4, 3, St Pauli, "Sunday, December 2, 2001", Volksparkstadion (54,000)
-Hertha Berlin, 2, 1, Bayern Munich, "Sunday, December 2, 2001", Olympia Stadium (53,000)
-FC Cologne, 0, 2, Borussia Dortmund, "Saturday, December 1, 2001", Mungersdorfer Stadion (42,000)
-Hansa Rostock, 1, 2, VfL Wolfsburg, "Saturday, December 1, 2001", Ostseestadion (11,000)
-Kaiserslautern, 3, 0, SC Freiburg, "Saturday, December 1, 2001", Fritz-Walter Stadion (38,248)
-Nurnberg, 0, 3, Schalke 04, "Saturday, December 1, 2001", Frankenstadion (44,600)
-TSV 1860 Munich, 1, 0, Energie Cottbus, "Saturday, December 1, 2001", Olympiastadion (18,600)
-VfB Stuttgart, 1, 1, Borussia Monchengladbach, "Saturday, December 1, 2001", Gottlieb-Daimler Stadion (25,000)
-Werder Bremen, 2, 1, Bayer Leverkusen, "Saturday, December 1, 2001", Weserstadion (34,000)
-SC Freiburg, 1, 3, TSV 1860 Munich, "Sunday, November 25, 2001", Dreisamstadion  (24,800)
-Borussia Dortmund, 3, 0, Kaiserslautern, "Sunday, November 25, 2001", Westfalenstadion (68,600)
-Bayer Leverkusen, 4, 1, Hamburg SV, "Saturday, November 24, 2001", BayArena (22,500)
-Bayern Munich, 0, 0, Nurnberg, "Saturday, November 24, 2001", Olympiastadion (63,000)
-Energie Cottbus, 0, 0, VfB Stuttgart, "Saturday, November 24, 2001", Stadion der Freundschaft (13,780)
-Hansa Rostock, 1, 1, Hertha Berlin, "Saturday, November 24, 2001", Ostseestadion (24,700)
-Schalke 04, 1, 4, Werder Bremen, "Saturday, November 24, 2001", Arena Auf Schalke (60,000)
-St Pauli, 1, 2, FC Cologne, "Saturday, November 24, 2001", Wilhem-Koch-Stadion (20,735)
-VfL Wolfsburg, 3, 1, Borussia Monchengladbach, "Saturday, November 24, 2001", VFL-Stadion (14,494)
-Borussia Monchengladbach, 0, 0, Energie Cottbus, "Sunday, November 18, 2001", Stadium Bokelberg (27,500)
-Nurnberg, 2, 0, Hansa Rostock, "Sunday, November 18, 2001", Frankenstadion (20,000)
-FC Cologne, 1, 2, Bayer Leverkusen, "Saturday, November 17, 2001", Mungersdorfer Stadion (40,000)
-Hamburg SV, 0, 0, Schalke 04, "Saturday, November 17, 2001", Volksparkstadion (55,000)
-Hertha Berlin, 2, 0, VfL Wolfsburg, "Saturday, November 17, 2001", Olympia Stadium (25,400)
-Kaiserslautern, 5, 1, St Pauli, "Saturday, November 17, 2001", Fritz-Walter Stadion (39,289)
-TSV 1860 Munich, 1, 3, Borussia Dortmund, "Saturday, November 17, 2001", Olympiastadion (27,200)
-VfB Stuttgart, 3, 0, SC Freiburg, "Saturday, November 17, 2001", Gottlieb-Daimler Stadion (28,000)
-Werder Bremen, 1, 0, Bayern Munich, "Saturday, November 17, 2001", Weserstadion (35,800)
-Hertha Berlin, 3, 0, Borussia Monchengladbach, "Sunday, November 4, 2001", Olympia Stadium (34,925)
-SC Freiburg, 3, 1, Energie Cottbus, "Sunday, November 4, 2001", Dreisamstadion  (24,800)
-Bayer Leverkusen, 2, 1, Kaiserslautern, "Saturday, November 3, 2001", BayArena (22,500)
-Bayern Munich, 3, 0, Hamburg SV, "Saturday, November 3, 2001", Olympiastadion (55,000)
-Borussia Dortmund, 1, 0, VfB Stuttgart, "Saturday, November 3, 2001", Westfalenstadion (66,000)
-Hansa Rostock, 0, 1, Werder Bremen, "Saturday, November 3, 2001", Ostseestadion (16,000)
-Schalke 04, 3, 1, FC Cologne, "Saturday, November 3, 2001", Arena Auf Schalke (60,204)
-St Pauli, 0, 3, TSV 1860 Munich, "Saturday, November 3, 2001", Wilhem-Koch-Stadion (20,735)
-VfL Wolfsburg, 5, 0, Nurnberg, "Saturday, November 3, 2001", VFL-Stadion (11,290)
-Hamburg SV, 0, 1, Hansa Rostock, "Sunday, October 28, 2001", Volksparkstadion (46,169)
-Nurnberg, 1, 3, Hertha Berlin, "Sunday, October 28, 2001", Frankenstadion (24,700)
-Borussia Monchengladbach, 2, 2, SC Freiburg, "Saturday, October 27, 2001", Stadium Bokelberg (27,876)
-Energie Cottbus, 0, 2, Borussia Dortmund, "Saturday, October 27, 2001", Stadion der Freundschaft (19,300)
-FC Cologne, 0, 2, Bayern Munich, "Saturday, October 27, 2001", Mungersdorfer Stadion (42,000)
-Kaiserslautern, 0, 0, Schalke 04, "Saturday, October 27, 2001", Fritz-Walter Stadion (40,600)
-TSV 1860 Munich, 1, 4, Bayer Leverkusen, "Saturday, October 27, 2001", Olympiastadion (22,700)
-VfB Stuttgart, 2, 0, St Pauli, "Saturday, October 27, 2001", Gottlieb-Daimler Stadion (20,000)
-Werder Bremen, 1, 0, VfL Wolfsburg, "Saturday, October 27, 2001", Weserstadion (28,500)
-Borussia Dortmund, 0, 2, SC Freiburg, "Sunday, October 21, 2001", Westfalenstadion (66,500)
-VfL Wolfsburg, 0, 1, Hamburg SV, "Sunday, October 21, 2001", VFL-Stadion (19,080)
-Bayer Leverkusen, 4, 1, VfB Stuttgart, "Saturday, October 20, 2001", BayArena (22,500)
-Hansa Rostock, 3, 0, FC Cologne, "Saturday, October 20, 2001", Ostseestadion (20,000)
-Hertha Berlin, 3, 1, Werder Bremen, "Saturday, October 20, 2001", Olympia Stadium (25,000)
-Nurnberg, 1, 2, Borussia Monchengladbach, "Saturday, October 20, 2001", Frankenstadion (33,300)
-Schalke 04, 1, 0, TSV 1860 Munich, "Saturday, October 20, 2001", Arena Auf Schalke (60,200)
-St Pauli, 4, 0, Energie Cottbus, "Saturday, October 20, 2001", Wilhem-Koch-Stadion (16,200)
-FC Cologne, 0, 4, VfL Wolfsburg, "Sunday, October 14, 2001", Mungersdorfer Stadion (29,000)
-Werder Bremen, 3, 0, Nurnberg, "Sunday, October 14, 2001", Weserstadion (26,650)
-Borussia Monchengladbach, 1, 2, Borussia Dortmund, "Saturday, October 13, 2001", Stadium Bokelberg (34,500)
-Energie Cottbus, 2, 3, Bayer Leverkusen, "Saturday, October 13, 2001", Stadion der Freundschaft (18,000)
-Hamburg SV, 4, 0, Hertha Berlin, "Saturday, October 13, 2001", Volksparkstadion (43,129)
-Kaiserslautern, 3, 1, Hansa Rostock, "Saturday, October 13, 2001", Fritz-Walter Stadion (39,387)
-SC Freiburg, 2, 2, St Pauli, "Saturday, October 13, 2001", Dreisamstadion  (25,000)
-TSV 1860 Munich, 1, 5, Bayern Munich, "Saturday, October 13, 2001", Olympiastadion (68,137)
-VfB Stuttgart, 3, 0, Schalke 04, "Saturday, October 13, 2001", Gottlieb-Daimler Stadion (27,000)
-Bayer Leverkusen, 4, 1, SC Freiburg, "Sunday, September 30, 2001", BayArena (22,500)
-Bayern Munich, 4, 0, VfB Stuttgart, "Sunday, September 30, 2001", Olympiastadion (61,000)
-Hansa Rostock, 2, 2, TSV 1860 Munich, "Saturday, September 29, 2001", Ostseestadion (16,000)
-Hertha Berlin, 3, 0, FC Cologne, "Saturday, September 29, 2001", Olympia Stadium (25,000)
-Nurnberg, 0, 0, Hamburg SV, "Saturday, September 29, 2001", Frankenstadion (31,200)
-Schalke 04, 2, 0, Energie Cottbus, "Saturday, September 29, 2001", Arena Auf Schalke (60,204)
-St Pauli, 1, 2, Borussia Dortmund, "Saturday, September 29, 2001", Wilhem-Koch-Stadion (20,500)
-VfL Wolfsburg, 2, 0, Kaiserslautern, "Saturday, September 29, 2001", VFL-Stadion (14,000)
-Werder Bremen, 1, 0, Borussia Monchengladbach, "Saturday, September 29, 2001", Weserstadion (32,000)
-Borussia Monchengladbach, 2, 2, St Pauli, "Sunday, September 23, 2001", Stadium Bokelberg (30,361)
-TSV 1860 Munich, 2, 1, VfL Wolfsburg, "Sunday, September 23, 2001", Olympiastadion (18,000)
-Borussia Dortmund, 1, 1, Bayer Leverkusen, "Saturday, September 22, 2001", Westfalenstadion (65,000)
-Energie Cottbus, 0, 3, Bayern Munich, "Saturday, September 22, 2001", Stadion der Freundschaft 
-FC Cologne, 1, 2, Nurnberg, "Saturday, September 22, 2001", Mungersdorfer Stadion (29,000)
-Hamburg SV, 0, 4, Werder Bremen, "Saturday, September 22, 2001", Volksparkstadion (43,014)
-Kaiserslautern, 4, 1, Hertha Berlin, "Saturday, September 22, 2001", Fritz-Walter Stadion (38,000)
-SC Freiburg, 2, 0, Schalke 04, "Saturday, September 22, 2001", Dreisamstadion  (25,000)
-VfB Stuttgart, 2, 1, Hansa Rostock, "Saturday, September 22, 2001", Gottlieb-Daimler Stadion (15,000)
-Hansa Rostock, 0, 0, Energie Cottbus, "Sunday, September 16, 2001", Ostseestadion (21,500)
-Hertha Berlin, 2, 1, TSV 1860 Munich, "Sunday, September 16, 2001", Olympia Stadium (22,000)
-Bayer Leverkusen, 3, 1, St Pauli, "Saturday, September 15, 2001", BayArena (21,000)
-Bayern Munich, 1, 0, SC Freiburg, "Saturday, September 15, 2001", Olympiastadion (46,000)
-Hamburg SV, 3, 3, Borussia Monchengladbach, "Saturday, September 15, 2001", Volksparkstadion (54,290)
-Nurnberg, 0, 2, Kaiserslautern, "Saturday, September 15, 2001", Frankenstadion (30,000)
-Schalke 04, 1, 0, Borussia Dortmund, "Saturday, September 15, 2001", Arena Auf Schalke (60,204)
-VfL Wolfsburg, 0, 2, VfB Stuttgart, "Saturday, September 15, 2001", VFL-Stadion (13,000)
-Werder Bremen, 1, 1, FC Cologne, "Saturday, September 15, 2001", Weserstadion (22,000)
-FC Cologne, 2, 1, Hamburg SV, "Sunday, September 9, 2001", Mungersdorfer Stadion (30,000)
-Kaiserslautern, 2, 1, Werder Bremen, "Sunday, September 9, 2001", Fritz-Walter Stadion (39,000)
-Borussia Dortmund, 0, 2, Bayern Munich, "Saturday, September 8, 2001", Westfalenstadion (68,900)
-Borussia Monchengladbach, 0, 1, Bayer Leverkusen, "Saturday, September 8, 2001", Stadium Bokelberg (30,184)
-Energie Cottbus, 3, 3, VfL Wolfsburg, "Saturday, September 8, 2001", Stadion der Freundschaft 
-SC Freiburg, 1, 1, Hansa Rostock, "Saturday, September 8, 2001", Dreisamstadion  (24,800)
-St Pauli, 0, 2, Schalke 04, "Saturday, September 8, 2001", Wilhem-Koch-Stadion (21,000)
-TSV 1860 Munich, 1, 0, Nurnberg, "Saturday, September 8, 2001", Olympiastadion (40,000)
-VfB Stuttgart, 0, 0, Hertha Berlin, "Saturday, September 8, 2001", Gottlieb-Daimler Stadion (22,000)
-Schalke 04, 3, 1, Hansa Rostock, "Tuesday, August 21, 2001", Arena Auf Schalke (60,204)
-FC Cologne, 0, 2, Borussia Monchengladbach, "Sunday, August 19, 2001", Mungersdorfer Stadion (42,000)
-Hertha Berlin, 2, 3, Energie Cottbus, "Sunday, August 19, 2001", Olympia Stadium (40,000)
-Bayern Munich, 2, 0, St Pauli, "Saturday, August 18, 2001", Olympiastadion (60,000)
-Hamburg SV, 2, 3, Kaiserslautern, "Saturday, August 18, 2001", Volksparkstadion (42,073)
-Hansa Rostock, 0, 2, Borussia Dortmund, "Saturday, August 18, 2001", Ostseestadion (22,346)
-Nurnberg, 2, 4, VfB Stuttgart, "Saturday, August 18, 2001", Frankenstadion (40,000)
-Schalke 04, 3, 3, Bayer Leverkusen, "Saturday, August 18, 2001", Arena Auf Schalke (60,204)
-VfL Wolfsburg, 1, 1, SC Freiburg, "Saturday, August 18, 2001", VFL-Stadion 
-Werder Bremen, 1, 3, TSV 1860 Munich, "Saturday, August 18, 2001", Weserstadion (26,736)
-Borussia Monchengladbach, 0, 0, Schalke 04, "Sunday, August 12, 2001", Stadium Bokelberg (34,500)
-St Pauli, 0, 1, Hansa Rostock, "Sunday, August 12, 2001", Millerntor Stadium (20,000)
-Bayer Leverkusen, 1, 1, Bayern Munich, "Saturday, August 11, 2001", BayArena (22,500)
-Borussia Dortmund, 4, 0, VfL Wolfsburg, "Saturday, August 11, 2001", Westfalen Stadium (66,000)
-Energie Cottbus, 1, 0, Nurnberg, "Saturday, August 11, 2001", Stadium 'Der Freundschaft' (14,000)
-Kaiserslautern, 2, 1, FC Cologne, "Saturday, August 11, 2001", Fritz-Walter Stadium (39,603)
-SC Freiburg, 1, 3, Hertha Berlin, "Saturday, August 11, 2001", Dreisamstadion  (22,000)
-TSV 1860 Munich, 1, 1, Hamburg SV, "Saturday, August 11, 2001", Olympic Stadium (25,500)
-VfB Stuttgart, 0, 0, Werder Bremen, "Saturday, August 11, 2001", Gottlieb-Daimler Satdium (20,000)
-Kaiserslautern, 3, 2, Borussia Monchengladbach, "Sunday, August 5, 2001", Fritz-Walter Stadium (41,582)
-Nurnberg, 2, 0, SC Freiburg, "Sunday, August 5, 2001", Frankenstadion (27,600)
-Bayern Munich, 3, 0, Schalke 04, "Saturday, August 4, 2001", Olympic Stadium (63,000)
-FC Cologne, 2, 0, TSV 1860 Munich, "Saturday, August 4, 2001", Mungersdorfer Stadium (30,000)
-Hamburg SV, 2, 0, VfB Stuttgart, "Saturday, August 4, 2001", Volksparkstadion (39,062)
-Hansa Rostock, 0, 3, Bayer Leverkusen, "Saturday, August 4, 2001", Ostseestadion (22,000)
-Hertha Berlin, 0, 2, Borussia Dortmund, "Saturday, August 4, 2001", Olympia Stadium (55,000)
-VfL Wolfsburg, 1, 1, St Pauli, "Saturday, August 4, 2001", VFL Stadium  (16,187)
-Werder Bremen, 3, 2, Energie Cottbus, "Saturday, August 4, 2001", Weserstadion (26,040)
-St Pauli, 0, 0, Hertha Berlin, "Sunday, July 29, 2001", Wilhem-Koch-Stadion 
-Bayer Leverkusen, 2, 1, VfL Wolfsburg, "Saturday, July 28, 2001", BayArena 
-Borussia Dortmund, 2, 0, Nurnberg, "Saturday, July 28, 2001", Westfalen Stadium 
-Borussia Monchengladbach, 1, 0, Bayern Munich, "Saturday, July 28, 2001", Stadium Bokelberg 
-Energie Cottbus, 1, 0, Hamburg SV, "Saturday, July 28, 2001", Stadium 'Der Freundschaft' 
-SC Freiburg, 3, 0, Werder Bremen, "Saturday, July 28, 2001", Dreisamstadion  
-TSV 1860 Munich, 0, 4, Kaiserslautern, "Saturday, July 28, 2001", Olympic Stadium 
-VfB Stuttgart, 0, 0, FC Cologne, "Saturday, July 28, 2001", Gottlieb-Daimler Satdium 
+Bayer Leverkusen, 2, 1, Hertha Berlin, "Saturday, May 4, 2002"," BayArena (22,500)"
+Bayern Munich, 3, 2, Hansa Rostock, "Saturday, May 4, 2002"," Olympiastadion (63,000)"
+Borussia Dortmund, 2, 1, Werder Bremen, "Saturday, May 4, 2002"," Westfalenstadion (68,600)"
+Borussia Monchengladbach, 2, 4, TSV 1860 Munich, "Saturday, May 4, 2002"," Stadium Bokelberg (34,500)"
+Energie Cottbus, 2, 3, FC Cologne, "Saturday, May 4, 2002"," Stadion der Freundschaft (20,000)"
+SC Freiburg, 4, 3, Hamburg SV, "Saturday, May 4, 2002"," Dreisamstadion  (24,000)"
+Schalke 04, 1, 2, VfL Wolfsburg, "Saturday, May 4, 2002"," Arena Auf Schalke (60,638)"
+St Pauli, 2, 3, Nurnberg, "Saturday, May 4, 2002"," Wilhem-Koch-Stadion (20,500)"
+VfB Stuttgart, 4, 3, Kaiserslautern, "Saturday, May 4, 2002"," Gottlieb-Daimler Stadion (30,000)"
+FC Cologne, 2, 0, SC Freiburg, "Saturday, April 27, 2002"," Mungersdorfer Stadion (30,000)"
+Hamburg SV, 3, 4, Borussia Dortmund, "Saturday, April 27, 2002"," Volksparkstadion (55,000)"
+Hansa Rostock, 1, 1, Borussia Monchengladbach, "Saturday, April 27, 2002"," Ostseestadion (25,800)"
+Hertha Berlin, 2, 0, Schalke 04, "Saturday, April 27, 2002"," Olympia Stadium (54,000)"
+Kaiserslautern, 4, 0, Energie Cottbus, "Saturday, April 27, 2002"," Fritz-Walter Stadion (40,000)"
+Nurnberg, 1, 0, Bayer Leverkusen, "Saturday, April 27, 2002"," Frankenstadion (24,000)"
+TSV 1860 Munich, 3, 3, VfB Stuttgart, "Saturday, April 27, 2002"," Olympiastadion (30,000)"
+VfL Wolfsburg, 0, 1, Bayern Munich, "Saturday, April 27, 2002"," VFL-Stadion (20,400)"
+Werder Bremen, 3, 2, St Pauli, "Saturday, April 27, 2002"," Weserstadion (35,600)"
+Borussia Monchengladbach, 2, 2, VfB Stuttgart, "Sunday, April 21, 2002"," Stadium Bokelberg (28,850)"
+SC Freiburg, 3, 1, Kaiserslautern, "Sunday, April 21, 2002"," Dreisamstadion  (25,000)"
+Bayer Leverkusen, 1, 2, Werder Bremen, "Saturday, April 20, 2002"," BayArena (22,500)"
+Bayern Munich, 3, 0, Hertha Berlin, "Saturday, April 20, 2002"," Olympiastadion (63,000)"
+Borussia Dortmund, 2, 1, FC Cologne, "Saturday, April 20, 2002"," Westfalenstadion (68,500)"
+Energie Cottbus, 1, 1, TSV 1860 Munich, "Saturday, April 20, 2002"," Stadion der Freundschaft (40,000)"
+Schalke 04, 2, 1, Nurnberg, "Saturday, April 20, 2002"," Arena Auf Schalke (60,643)"
+VfL Wolfsburg, 4, 0, Hansa Rostock, "Saturday, April 20, 2002"," VFL-Stadion (12,650)"
+St Pauli, 0, 4, Hamburg SV, "Friday, April 19, 2002"," Wilhem-Koch-Stadion (54,130)"
+Kaiserslautern, 1, 0, Borussia Dortmund, "Sunday, April 14, 2002"," Fritz-Walter Stadion (40,500)"
+VfB Stuttgart, 0, 0, Energie Cottbus, "Sunday, April 14, 2002"," Gottlieb-Daimler Stadion (21,000)"
+Borussia Monchengladbach, 0, 2, VfL Wolfsburg, "Saturday, April 13, 2002"," Stadium Bokelberg (27,000)"
+FC Cologne, 2, 1, St Pauli, "Saturday, April 13, 2002"," Mungersdorfer Stadion (26,000)"
+Hamburg SV, 1, 1, Bayer Leverkusen, "Saturday, April 13, 2002"," Volksparkstadion (55,000)"
+Hertha Berlin, 1, 0, Hansa Rostock, "Saturday, April 13, 2002"," Olympia Stadium (42,000)"
+Nurnberg, 1, 2, Bayern Munich, "Saturday, April 13, 2002"," Frankenstadion (44,000)"
+TSV 1860 Munich, 5, 2, SC Freiburg, "Saturday, April 13, 2002"," Olympiastadion (207,000)"
+Werder Bremen, 3, 0, Schalke 04, "Saturday, April 13, 2002"," Weserstadion (35,600)"
+Borussia Dortmund, 2, 1, TSV 1860 Munich, "Sunday, April 7, 2002"," Westfalenstadion (65,000)"
+SC Freiburg, 0, 2, VfB Stuttgart, "Sunday, April 7, 2002"," Dreisamstadion  (25,000)"
+Bayer Leverkusen, 2, 0, FC Cologne, "Saturday, April 6, 2002"," BayArena (22,500)"
+Bayern Munich, 2, 2, Werder Bremen, "Saturday, April 6, 2002"," Olympiastadion (52,000)"
+Energie Cottbus, 3, 3, Borussia Monchengladbach, "Saturday, April 6, 2002"," Stadion der Freundschaft (18,000)"
+Hansa Rostock, 1, 0, Nurnberg, "Saturday, April 6, 2002"," Ostseestadion (15,000)"
+Schalke 04, 2, 0, Hamburg SV, "Saturday, April 6, 2002"," Arena Auf Schalke (60,683)"
+St Pauli, 1, 1, Kaiserslautern, "Saturday, April 6, 2002"," Wilhem-Koch-Stadion (20,600)"
+VfL Wolfsburg, 1, 3, Hertha Berlin, "Saturday, April 6, 2002"," VFL-Stadion (18,361)"
+FC Cologne, 1, 1, Schalke 04, "Sunday, March 31, 2002"," Mungersdorfer Stadion (30,000)"
+Werder Bremen, 4, 3, Hansa Rostock, "Sunday, March 31, 2002"," Weserstadion (26,742)"
+Borussia Monchengladbach, 3, 1, Hertha Berlin, "Saturday, March 30, 2002"," Stadium Bokelberg (31,300)"
+Energie Cottbus, 2, 0, SC Freiburg, "Saturday, March 30, 2002"," Stadion der Freundschaft (15,000)"
+Hamburg SV, 0, 0, Bayern Munich, "Saturday, March 30, 2002"," Volksparkstadion (55,000)"
+Kaiserslautern, 2, 4, Bayer Leverkusen, "Saturday, March 30, 2002"," Fritz-Walter Stadion (40,000)"
+Nurnberg, 3, 0, VfL Wolfsburg, "Saturday, March 30, 2002"," Frankenstadion (23,600)"
+TSV 1860 Munich, 4, 2, St Pauli, "Saturday, March 30, 2002"," Olympiastadion (21,400)"
+VfB Stuttgart, 3, 2, Borussia Dortmund, "Saturday, March 30, 2002"," Gottlieb-Daimler Stadion (33,000)"
+Borussia Dortmund, 3, 0, Energie Cottbus, "Sunday, March 24, 2002"," Westfalenstadion (63,000)"
+VfL Wolfsburg, 2, 0, Werder Bremen, "Sunday, March 24, 2002"," VFL-Stadion (14,300)"
+Bayer Leverkusen, 4, 0, TSV 1860 Munich, "Saturday, March 23, 2002"," BayArena (22,500)"
+Bayern Munich, 3, 0, FC Cologne, "Saturday, March 23, 2002"," Olympiastadion (38,000)"
+Hansa Rostock, 1, 1, Hamburg SV, "Saturday, March 23, 2002"," Ostseestadion (28,000)"
+Hertha Berlin, 2, 0, Nurnberg, "Saturday, March 23, 2002"," Olympia Stadium (37,000)"
+SC Freiburg, 0, 1, Borussia Monchengladbach, "Saturday, March 23, 2002"," Dreisamstadion  (25,000)"
+Schalke 04, 3, 0, Kaiserslautern, "Saturday, March 23, 2002"," Arena Auf Schalke "
+St Pauli, 1, 2, VfB Stuttgart, "Saturday, March 23, 2002"," Wilhem-Koch-Stadion (20,000)"
+SC Freiburg, 1, 5, Borussia Dortmund, "Sunday, March 17, 2002"," Dreisamstadion  (25,000)"
+TSV 1860 Munich, 1, 2, Schalke 04, "Sunday, March 17, 2002"," Olympiastadion (30,000)"
+Borussia Monchengladbach, 1, 0, Nurnberg, "Saturday, March 16, 2002"," Stadium Bokelberg (31,000)"
+Energie Cottbus, 4, 0, St Pauli, "Saturday, March 16, 2002"," Stadion der Freundschaft (13,500)"
+FC Cologne, 4, 2, Hansa Rostock, "Saturday, March 16, 2002"," Mungersdorfer Stadion (17,000)"
+Hamburg SV, 1, 1, VfL Wolfsburg, "Saturday, March 16, 2002"," Volksparkstadion (27,517)"
+Kaiserslautern, 0, 0, Bayern Munich, "Saturday, March 16, 2002"," Fritz-Walter Stadion (40,600)"
+VfB Stuttgart, 0, 2, Bayer Leverkusen, "Saturday, March 16, 2002"," Gottlieb-Daimler Stadion (35,000)"
+Werder Bremen, 0, 3, Hertha Berlin, "Saturday, March 16, 2002"," Weserstadion (31,350)"
+Hertha Berlin, 6, 0, Hamburg SV, "Sunday, March 10, 2002"," Olympia Stadium (29,000)"
+Schalke 04, 2, 1, VfB Stuttgart, "Sunday, March 10, 2002"," Arena Auf Schalke (60,683)"
+Bayer Leverkusen, 2, 0, Energie Cottbus, "Saturday, March 9, 2002"," BayArena (22,500)"
+Bayern Munich, 2, 1, TSV 1860 Munich, "Saturday, March 9, 2002"," Olympiastadion (69,000)"
+Borussia Dortmund, 3, 1, Borussia Monchengladbach, "Saturday, March 9, 2002"," Westfalenstadion (65,000)"
+Hansa Rostock, 2, 1, Kaiserslautern, "Saturday, March 9, 2002"," Ostseestadion (15,800)"
+Nurnberg, 0, 4, Werder Bremen, "Saturday, March 9, 2002"," Frankenstadion (24,500)"
+St Pauli, 1, 0, SC Freiburg, "Saturday, March 9, 2002"," Wilhem-Koch-Stadion (20,000)"
+VfL Wolfsburg, 5, 1, FC Cologne, "Saturday, March 9, 2002"," VFL-Stadion (12,583)"
+Borussia Dortmund, 1, 1, St Pauli, "Sunday, March 3, 2002"," Westfalenstadion (62,000)"
+Kaiserslautern, 3, 2, VfL Wolfsburg, "Sunday, March 3, 2002"," Fritz-Walter Stadion (40,000)"
+Borussia Monchengladbach, 1, 0, Werder Bremen, "Saturday, March 2, 2002"," Stadium Bokelberg (28,600)"
+Energie Cottbus, 2, 0, Schalke 04, "Saturday, March 2, 2002"," Stadion der Freundschaft (17,000)"
+FC Cologne, 1, 1, Hertha Berlin, "Saturday, March 2, 2002"," Mungersdorfer Stadion (20,000)"
+Hamburg SV, 3, 1, Nurnberg, "Saturday, March 2, 2002"," Volksparkstadion (34,000)"
+SC Freiburg, 2, 2, Bayer Leverkusen, "Saturday, March 2, 2002"," Dreisamstadion  (25,000)"
+TSV 1860 Munich, 2, 0, Hansa Rostock, "Saturday, March 2, 2002"," Olympiastadion (17,200)"
+VfB Stuttgart, 0, 2, Bayern Munich, "Saturday, March 2, 2002"," Gottlieb-Daimler Stadion (54,248)"
+Bayer Leverkusen, 4, 0, Borussia Dortmund, "Sunday, February 24, 2002"," BayArena (22,500)"
+Werder Bremen, 0, 1, Hamburg SV, "Sunday, February 24, 2002"," Weserstadion (33,250)"
+Bayern Munich, 6, 0, Energie Cottbus, "Saturday, February 23, 2002"," Olympiastadion (28,000)"
+Hansa Rostock, 1, 1, VfB Stuttgart, "Saturday, February 23, 2002"," Ostseestadion (12,000)"
+Hertha Berlin, 5, 1, Kaiserslautern, "Saturday, February 23, 2002"," Olympia Stadium (35,000)"
+Nurnberg, 2, 0, FC Cologne, "Saturday, February 23, 2002"," Frankenstadion (25,100)"
+Schalke 04, 3, 0, SC Freiburg, "Saturday, February 23, 2002"," Arena Auf Schalke (60,683)"
+St Pauli, 1, 1, Borussia Monchengladbach, "Saturday, February 23, 2002"," Wilhem-Koch-Stadion (20,000)"
+VfL Wolfsburg, 1, 3, TSV 1860 Munich, "Saturday, February 23, 2002"," VFL-Stadion (10,612)"
+Energie Cottbus, 3, 0, Hansa Rostock, "Sunday, February 17, 2002"," Stadion der Freundschaft (17,100)"
+FC Cologne, 0, 0, Werder Bremen, "Sunday, February 17, 2002"," Mungersdorfer Stadion (25,000)"
+Borussia Dortmund, 1, 1, Schalke 04, "Saturday, February 16, 2002"," Westfalenstadion (68,600)"
+Borussia Monchengladbach, 2, 1, Hamburg SV, "Saturday, February 16, 2002"," Stadium Bokelberg (25,000)"
+Kaiserslautern, 2, 1, Nurnberg, "Saturday, February 16, 2002"," Fritz-Walter Stadion (35,000)"
+SC Freiburg, 0, 2, Bayern Munich, "Saturday, February 16, 2002"," Dreisamstadion  (25,000)"
+St Pauli, 2, 2, Bayer Leverkusen, "Saturday, February 16, 2002"," Wilhem-Koch-Stadion (20,735)"
+TSV 1860 Munich, 0, 3, Hertha Berlin, "Saturday, February 16, 2002"," Olympiastadion (17,000)"
+VfB Stuttgart, 2, 1, VfL Wolfsburg, "Saturday, February 16, 2002"," Gottlieb-Daimler Stadion (12,000)"
+Hamburg SV, 4, 0, FC Cologne, "Sunday, February 10, 2002"," Volksparkstadion (38,719)"
+Nurnberg, 2, 1, TSV 1860 Munich, "Sunday, February 10, 2002"," Frankenstadion (38,200)"
+Bayer Leverkusen, 5, 0, Borussia Monchengladbach, "Saturday, February 9, 2002"," BayArena (22,500)"
+Bayern Munich, 1, 1, Borussia Dortmund, "Saturday, February 9, 2002"," Olympiastadion (55,000)"
+Hansa Rostock, 4, 0, SC Freiburg, "Saturday, February 9, 2002"," Ostseestadion (10,500)"
+Hertha Berlin, 2, 0, VfB Stuttgart, "Saturday, February 9, 2002"," Olympia Stadium (20,000)"
+Schalke 04, 4, 0, St Pauli, "Saturday, February 9, 2002"," Arena Auf Schalke (60,600)"
+VfL Wolfsburg, 2, 1, Energie Cottbus, "Saturday, February 9, 2002"," VFL-Stadion (11,270)"
+Werder Bremen, 1, 0, Kaiserslautern, "Saturday, February 9, 2002"," Weserstadion (27,100)"
+Bayer Leverkusen, 0, 1, Schalke 04, "Wednesday, February 6, 2002"," BayArena (22,500)"
+Borussia Dortmund, 2, 0, Hansa Rostock, "Wednesday, February 6, 2002"," Westfalenstadion (60,500)"
+Kaiserslautern, 2, 2, Hamburg SV, "Wednesday, February 6, 2002"," Fritz-Walter Stadion (34,958)"
+St Pauli, 2, 1, Bayern Munich, "Wednesday, February 6, 2002"," Wilhem-Koch-Stadion (20,000)"
+Borussia Monchengladbach, 4, 0, FC Cologne, "Tuesday, February 5, 2002"," Stadium Bokelberg (32,200)"
+Energie Cottbus, 1, 0, Hertha Berlin, "Tuesday, February 5, 2002"," Stadion der Freundschaft (15,600)"
+SC Freiburg, 0, 0, VfL Wolfsburg, "Tuesday, February 5, 2002"," Dreisamstadion  (24,000)"
+TSV 1860 Munich, 3, 1, Werder Bremen, "Tuesday, February 5, 2002"," Olympiastadion (19,000)"
+VfB Stuttgart, 2, 3, Nurnberg, "Tuesday, February 5, 2002"," Gottlieb-Daimler Stadion (21,000)"
+Bayern Munich, 2, 0, Bayer Leverkusen, "Sunday, February 3, 2002"," Olympiastadion (43,000)"
+Hansa Rostock, 1, 0, St Pauli, "Sunday, February 3, 2002"," Ostseestadion (18,600)"
+FC Cologne, 0, 1, Kaiserslautern, "Saturday, February 2, 2002"," Mungersdorfer Stadion (25,000)"
+Hamburg SV, 2, 1, TSV 1860 Munich, "Saturday, February 2, 2002"," Volksparkstadion (34,026)"
+Hertha Berlin, 1, 1, SC Freiburg, "Saturday, February 2, 2002"," Olympia Stadium (22,000)"
+Nurnberg, 2, 0, Energie Cottbus, "Saturday, February 2, 2002"," Frankenstadion (20,000)"
+Schalke 04, 2, 0, Borussia Monchengladbach, "Saturday, February 2, 2002"," Arena Auf Schalke (60,683)"
+VfL Wolfsburg, 1, 1, Borussia Dortmund, "Saturday, February 2, 2002"," VFL-Stadion (17,226)"
+Werder Bremen, 1, 2, VfB Stuttgart, "Saturday, February 2, 2002"," Weserstadion (26,000)"
+Borussia Dortmund, 3, 1, Hertha Berlin, "Sunday, January 27, 2002"," Westfalenstadion (63,000)"
+Energie Cottbus, 2, 1, Werder Bremen, "Sunday, January 27, 2002"," Stadion der Freundschaft (13,000)"
+Bayer Leverkusen, 2, 0, Hansa Rostock, "Saturday, January 26, 2002"," BayArena (22,500)"
+Borussia Monchengladbach, 0, 2, Kaiserslautern, "Saturday, January 26, 2002"," Stadium Bokelberg (28,000)"
+SC Freiburg, 2, 0, Nurnberg, "Saturday, January 26, 2002"," Dreisamstadion  (24,064)"
+Schalke 04, 5, 1, Bayern Munich, "Saturday, January 26, 2002"," Arena Auf Schalke (60,000)"
+St Pauli, 3, 1, VfL Wolfsburg, "Saturday, January 26, 2002"," Wilhem-Koch-Stadion (20,000)"
+TSV 1860 Munich, 3, 0, FC Cologne, "Saturday, January 26, 2002"," Olympiastadion (20,000)"
+VfB Stuttgart, 3, 0, Hamburg SV, "Saturday, January 26, 2002"," Gottlieb-Daimler Stadion (25,000)"
+FC Cologne, 0, 0, VfB Stuttgart, "Wednesday, December 19, 2001"," Mungersdorfer Stadion (25,000)"
+Hansa Rostock, 1, 3, Schalke 04, "Wednesday, December 19, 2001"," Ostseestadion (16,434)"
+Kaiserslautern, 1, 3, TSV 1860 Munich, "Wednesday, December 19, 2001"," Fritz-Walter Stadion (39,000)"
+VfL Wolfsburg, 3, 1, Bayer Leverkusen, "Wednesday, December 19, 2001"," VFL-Stadion (14,116)"
+Bayern Munich, 0, 0, Borussia Monchengladbach, "Tuesday, December 18, 2001"," Olympiastadion (41,000)"
+Hamburg SV, 5, 2, Energie Cottbus, "Tuesday, December 18, 2001"," Volksparkstadion (32,425)"
+Hertha Berlin, 2, 2, St Pauli, "Tuesday, December 18, 2001"," Olympia Stadium (25,000)"
+Nurnberg, 2, 2, Borussia Dortmund, "Tuesday, December 18, 2001"," Frankenstadion (25,000)"
+Werder Bremen, 3, 2, SC Freiburg, "Tuesday, December 18, 2001"," Weserstadion (25,577)"
+Kaiserslautern, 2, 2, VfB Stuttgart, "Sunday, December 16, 2001"," Fritz-Walter Stadion (39,030)"
+VfL Wolfsburg, 3, 1, Schalke 04, "Sunday, December 16, 2001"," VFL-Stadion (15,137)"
+FC Cologne, 0, 0, Energie Cottbus, "Saturday, December 15, 2001"," Mungersdorfer Stadion (29,000)"
+Hamburg SV, 1, 1, SC Freiburg, "Saturday, December 15, 2001"," Volksparkstadion (35,012)"
+Hansa Rostock, 1, 0, Bayern Munich, "Saturday, December 15, 2001"," Ostseestadion (30,000)"
+Hertha Berlin, 2, 1, Bayer Leverkusen, "Saturday, December 15, 2001"," Olympia Stadium "
+Nurnberg, 0, 0, St Pauli, "Saturday, December 15, 2001"," Frankenstadion (20,000)"
+TSV 1860 Munich, 2, 2, Borussia Monchengladbach, "Saturday, December 15, 2001"," Olympiastadion (19,700)"
+Werder Bremen, 1, 1, Borussia Dortmund, "Saturday, December 15, 2001"," Weserstadion (36,500)"
+SC Freiburg, 0, 0, FC Cologne, "Sunday, December 9, 2001"," Dreisamstadion  (25,000)"
+Schalke 04, 0, 0, Hertha Berlin, "Sunday, December 9, 2001"," Arena Auf Schalke (60,204)"
+Bayer Leverkusen, 4, 2, Nurnberg, "Saturday, December 8, 2001"," BayArena (22,500)"
+Bayern Munich, 3, 3, VfL Wolfsburg, "Saturday, December 8, 2001"," Olympiastadion (37,000)"
+Borussia Dortmund, 1, 0, Hamburg SV, "Saturday, December 8, 2001"," Westfalenstadion (68,600)"
+Borussia Monchengladbach, 0, 2, Hansa Rostock, "Saturday, December 8, 2001"," Stadium Bokelberg (25,000)"
+Energie Cottbus, 0, 2, Kaiserslautern, "Saturday, December 8, 2001"," Stadion der Freundschaft (13,020)"
+St Pauli, 0, 3, Werder Bremen, "Saturday, December 8, 2001"," Wilhem-Koch-Stadion (20,619)"
+VfB Stuttgart, 0, 1, TSV 1860 Munich, "Saturday, December 8, 2001"," Gottlieb-Daimler Stadion (22,000)"
+Hamburg SV, 4, 3, St Pauli, "Sunday, December 2, 2001"," Volksparkstadion (54,000)"
+Hertha Berlin, 2, 1, Bayern Munich, "Sunday, December 2, 2001"," Olympia Stadium (53,000)"
+FC Cologne, 0, 2, Borussia Dortmund, "Saturday, December 1, 2001"," Mungersdorfer Stadion (42,000)"
+Hansa Rostock, 1, 2, VfL Wolfsburg, "Saturday, December 1, 2001"," Ostseestadion (11,000)"
+Kaiserslautern, 3, 0, SC Freiburg, "Saturday, December 1, 2001"," Fritz-Walter Stadion (38,248)"
+Nurnberg, 0, 3, Schalke 04, "Saturday, December 1, 2001"," Frankenstadion (44,600)"
+TSV 1860 Munich, 1, 0, Energie Cottbus, "Saturday, December 1, 2001"," Olympiastadion (18,600)"
+VfB Stuttgart, 1, 1, Borussia Monchengladbach, "Saturday, December 1, 2001"," Gottlieb-Daimler Stadion (25,000)"
+Werder Bremen, 2, 1, Bayer Leverkusen, "Saturday, December 1, 2001"," Weserstadion (34,000)"
+SC Freiburg, 1, 3, TSV 1860 Munich, "Sunday, November 25, 2001"," Dreisamstadion  (24,800)"
+Borussia Dortmund, 3, 0, Kaiserslautern, "Sunday, November 25, 2001"," Westfalenstadion (68,600)"
+Bayer Leverkusen, 4, 1, Hamburg SV, "Saturday, November 24, 2001"," BayArena (22,500)"
+Bayern Munich, 0, 0, Nurnberg, "Saturday, November 24, 2001"," Olympiastadion (63,000)"
+Energie Cottbus, 0, 0, VfB Stuttgart, "Saturday, November 24, 2001"," Stadion der Freundschaft (13,780)"
+Hansa Rostock, 1, 1, Hertha Berlin, "Saturday, November 24, 2001"," Ostseestadion (24,700)"
+Schalke 04, 1, 4, Werder Bremen, "Saturday, November 24, 2001"," Arena Auf Schalke (60,000)"
+St Pauli, 1, 2, FC Cologne, "Saturday, November 24, 2001"," Wilhem-Koch-Stadion (20,735)"
+VfL Wolfsburg, 3, 1, Borussia Monchengladbach, "Saturday, November 24, 2001"," VFL-Stadion (14,494)"
+Borussia Monchengladbach, 0, 0, Energie Cottbus, "Sunday, November 18, 2001"," Stadium Bokelberg (27,500)"
+Nurnberg, 2, 0, Hansa Rostock, "Sunday, November 18, 2001"," Frankenstadion (20,000)"
+FC Cologne, 1, 2, Bayer Leverkusen, "Saturday, November 17, 2001"," Mungersdorfer Stadion (40,000)"
+Hamburg SV, 0, 0, Schalke 04, "Saturday, November 17, 2001"," Volksparkstadion (55,000)"
+Hertha Berlin, 2, 0, VfL Wolfsburg, "Saturday, November 17, 2001"," Olympia Stadium (25,400)"
+Kaiserslautern, 5, 1, St Pauli, "Saturday, November 17, 2001"," Fritz-Walter Stadion (39,289)"
+TSV 1860 Munich, 1, 3, Borussia Dortmund, "Saturday, November 17, 2001"," Olympiastadion (27,200)"
+VfB Stuttgart, 3, 0, SC Freiburg, "Saturday, November 17, 2001"," Gottlieb-Daimler Stadion (28,000)"
+Werder Bremen, 1, 0, Bayern Munich, "Saturday, November 17, 2001"," Weserstadion (35,800)"
+Hertha Berlin, 3, 0, Borussia Monchengladbach, "Sunday, November 4, 2001"," Olympia Stadium (34,925)"
+SC Freiburg, 3, 1, Energie Cottbus, "Sunday, November 4, 2001"," Dreisamstadion  (24,800)"
+Bayer Leverkusen, 2, 1, Kaiserslautern, "Saturday, November 3, 2001"," BayArena (22,500)"
+Bayern Munich, 3, 0, Hamburg SV, "Saturday, November 3, 2001"," Olympiastadion (55,000)"
+Borussia Dortmund, 1, 0, VfB Stuttgart, "Saturday, November 3, 2001"," Westfalenstadion (66,000)"
+Hansa Rostock, 0, 1, Werder Bremen, "Saturday, November 3, 2001"," Ostseestadion (16,000)"
+Schalke 04, 3, 1, FC Cologne, "Saturday, November 3, 2001"," Arena Auf Schalke (60,204)"
+St Pauli, 0, 3, TSV 1860 Munich, "Saturday, November 3, 2001"," Wilhem-Koch-Stadion (20,735)"
+VfL Wolfsburg, 5, 0, Nurnberg, "Saturday, November 3, 2001"," VFL-Stadion (11,290)"
+Hamburg SV, 0, 1, Hansa Rostock, "Sunday, October 28, 2001"," Volksparkstadion (46,169)"
+Nurnberg, 1, 3, Hertha Berlin, "Sunday, October 28, 2001"," Frankenstadion (24,700)"
+Borussia Monchengladbach, 2, 2, SC Freiburg, "Saturday, October 27, 2001"," Stadium Bokelberg (27,876)"
+Energie Cottbus, 0, 2, Borussia Dortmund, "Saturday, October 27, 2001"," Stadion der Freundschaft (19,300)"
+FC Cologne, 0, 2, Bayern Munich, "Saturday, October 27, 2001"," Mungersdorfer Stadion (42,000)"
+Kaiserslautern, 0, 0, Schalke 04, "Saturday, October 27, 2001"," Fritz-Walter Stadion (40,600)"
+TSV 1860 Munich, 1, 4, Bayer Leverkusen, "Saturday, October 27, 2001"," Olympiastadion (22,700)"
+VfB Stuttgart, 2, 0, St Pauli, "Saturday, October 27, 2001"," Gottlieb-Daimler Stadion (20,000)"
+Werder Bremen, 1, 0, VfL Wolfsburg, "Saturday, October 27, 2001"," Weserstadion (28,500)"
+Borussia Dortmund, 0, 2, SC Freiburg, "Sunday, October 21, 2001"," Westfalenstadion (66,500)"
+VfL Wolfsburg, 0, 1, Hamburg SV, "Sunday, October 21, 2001"," VFL-Stadion (19,080)"
+Bayer Leverkusen, 4, 1, VfB Stuttgart, "Saturday, October 20, 2001"," BayArena (22,500)"
+Hansa Rostock, 3, 0, FC Cologne, "Saturday, October 20, 2001"," Ostseestadion (20,000)"
+Hertha Berlin, 3, 1, Werder Bremen, "Saturday, October 20, 2001"," Olympia Stadium (25,000)"
+Nurnberg, 1, 2, Borussia Monchengladbach, "Saturday, October 20, 2001"," Frankenstadion (33,300)"
+Schalke 04, 1, 0, TSV 1860 Munich, "Saturday, October 20, 2001"," Arena Auf Schalke (60,200)"
+St Pauli, 4, 0, Energie Cottbus, "Saturday, October 20, 2001"," Wilhem-Koch-Stadion (16,200)"
+FC Cologne, 0, 4, VfL Wolfsburg, "Sunday, October 14, 2001"," Mungersdorfer Stadion (29,000)"
+Werder Bremen, 3, 0, Nurnberg, "Sunday, October 14, 2001"," Weserstadion (26,650)"
+Borussia Monchengladbach, 1, 2, Borussia Dortmund, "Saturday, October 13, 2001"," Stadium Bokelberg (34,500)"
+Energie Cottbus, 2, 3, Bayer Leverkusen, "Saturday, October 13, 2001"," Stadion der Freundschaft (18,000)"
+Hamburg SV, 4, 0, Hertha Berlin, "Saturday, October 13, 2001"," Volksparkstadion (43,129)"
+Kaiserslautern, 3, 1, Hansa Rostock, "Saturday, October 13, 2001"," Fritz-Walter Stadion (39,387)"
+SC Freiburg, 2, 2, St Pauli, "Saturday, October 13, 2001"," Dreisamstadion  (25,000)"
+TSV 1860 Munich, 1, 5, Bayern Munich, "Saturday, October 13, 2001"," Olympiastadion (68,137)"
+VfB Stuttgart, 3, 0, Schalke 04, "Saturday, October 13, 2001"," Gottlieb-Daimler Stadion (27,000)"
+Bayer Leverkusen, 4, 1, SC Freiburg, "Sunday, September 30, 2001"," BayArena (22,500)"
+Bayern Munich, 4, 0, VfB Stuttgart, "Sunday, September 30, 2001"," Olympiastadion (61,000)"
+Hansa Rostock, 2, 2, TSV 1860 Munich, "Saturday, September 29, 2001"," Ostseestadion (16,000)"
+Hertha Berlin, 3, 0, FC Cologne, "Saturday, September 29, 2001"," Olympia Stadium (25,000)"
+Nurnberg, 0, 0, Hamburg SV, "Saturday, September 29, 2001"," Frankenstadion (31,200)"
+Schalke 04, 2, 0, Energie Cottbus, "Saturday, September 29, 2001"," Arena Auf Schalke (60,204)"
+St Pauli, 1, 2, Borussia Dortmund, "Saturday, September 29, 2001"," Wilhem-Koch-Stadion (20,500)"
+VfL Wolfsburg, 2, 0, Kaiserslautern, "Saturday, September 29, 2001"," VFL-Stadion (14,000)"
+Werder Bremen, 1, 0, Borussia Monchengladbach, "Saturday, September 29, 2001"," Weserstadion (32,000)"
+Borussia Monchengladbach, 2, 2, St Pauli, "Sunday, September 23, 2001"," Stadium Bokelberg (30,361)"
+TSV 1860 Munich, 2, 1, VfL Wolfsburg, "Sunday, September 23, 2001"," Olympiastadion (18,000)"
+Borussia Dortmund, 1, 1, Bayer Leverkusen, "Saturday, September 22, 2001"," Westfalenstadion (65,000)"
+Energie Cottbus, 0, 3, Bayern Munich, "Saturday, September 22, 2001"," Stadion der Freundschaft "
+FC Cologne, 1, 2, Nurnberg, "Saturday, September 22, 2001"," Mungersdorfer Stadion (29,000)"
+Hamburg SV, 0, 4, Werder Bremen, "Saturday, September 22, 2001"," Volksparkstadion (43,014)"
+Kaiserslautern, 4, 1, Hertha Berlin, "Saturday, September 22, 2001"," Fritz-Walter Stadion (38,000)"
+SC Freiburg, 2, 0, Schalke 04, "Saturday, September 22, 2001"," Dreisamstadion  (25,000)"
+VfB Stuttgart, 2, 1, Hansa Rostock, "Saturday, September 22, 2001"," Gottlieb-Daimler Stadion (15,000)"
+Hansa Rostock, 0, 0, Energie Cottbus, "Sunday, September 16, 2001"," Ostseestadion (21,500)"
+Hertha Berlin, 2, 1, TSV 1860 Munich, "Sunday, September 16, 2001"," Olympia Stadium (22,000)"
+Bayer Leverkusen, 3, 1, St Pauli, "Saturday, September 15, 2001"," BayArena (21,000)"
+Bayern Munich, 1, 0, SC Freiburg, "Saturday, September 15, 2001"," Olympiastadion (46,000)"
+Hamburg SV, 3, 3, Borussia Monchengladbach, "Saturday, September 15, 2001"," Volksparkstadion (54,290)"
+Nurnberg, 0, 2, Kaiserslautern, "Saturday, September 15, 2001"," Frankenstadion (30,000)"
+Schalke 04, 1, 0, Borussia Dortmund, "Saturday, September 15, 2001"," Arena Auf Schalke (60,204)"
+VfL Wolfsburg, 0, 2, VfB Stuttgart, "Saturday, September 15, 2001"," VFL-Stadion (13,000)"
+Werder Bremen, 1, 1, FC Cologne, "Saturday, September 15, 2001"," Weserstadion (22,000)"
+FC Cologne, 2, 1, Hamburg SV, "Sunday, September 9, 2001"," Mungersdorfer Stadion (30,000)"
+Kaiserslautern, 2, 1, Werder Bremen, "Sunday, September 9, 2001"," Fritz-Walter Stadion (39,000)"
+Borussia Dortmund, 0, 2, Bayern Munich, "Saturday, September 8, 2001"," Westfalenstadion (68,900)"
+Borussia Monchengladbach, 0, 1, Bayer Leverkusen, "Saturday, September 8, 2001"," Stadium Bokelberg (30,184)"
+Energie Cottbus, 3, 3, VfL Wolfsburg, "Saturday, September 8, 2001"," Stadion der Freundschaft "
+SC Freiburg, 1, 1, Hansa Rostock, "Saturday, September 8, 2001"," Dreisamstadion  (24,800)"
+St Pauli, 0, 2, Schalke 04, "Saturday, September 8, 2001"," Wilhem-Koch-Stadion (21,000)"
+TSV 1860 Munich, 1, 0, Nurnberg, "Saturday, September 8, 2001"," Olympiastadion (40,000)"
+VfB Stuttgart, 0, 0, Hertha Berlin, "Saturday, September 8, 2001"," Gottlieb-Daimler Stadion (22,000)"
+Schalke 04, 3, 1, Hansa Rostock, "Tuesday, August 21, 2001"," Arena Auf Schalke (60,204)"
+FC Cologne, 0, 2, Borussia Monchengladbach, "Sunday, August 19, 2001"," Mungersdorfer Stadion (42,000)"
+Hertha Berlin, 2, 3, Energie Cottbus, "Sunday, August 19, 2001"," Olympia Stadium (40,000)"
+Bayern Munich, 2, 0, St Pauli, "Saturday, August 18, 2001"," Olympiastadion (60,000)"
+Hamburg SV, 2, 3, Kaiserslautern, "Saturday, August 18, 2001"," Volksparkstadion (42,073)"
+Hansa Rostock, 0, 2, Borussia Dortmund, "Saturday, August 18, 2001"," Ostseestadion (22,346)"
+Nurnberg, 2, 4, VfB Stuttgart, "Saturday, August 18, 2001"," Frankenstadion (40,000)"
+Schalke 04, 3, 3, Bayer Leverkusen, "Saturday, August 18, 2001"," Arena Auf Schalke (60,204)"
+VfL Wolfsburg, 1, 1, SC Freiburg, "Saturday, August 18, 2001"," VFL-Stadion "
+Werder Bremen, 1, 3, TSV 1860 Munich, "Saturday, August 18, 2001"," Weserstadion (26,736)"
+Borussia Monchengladbach, 0, 0, Schalke 04, "Sunday, August 12, 2001"," Stadium Bokelberg (34,500)"
+St Pauli, 0, 1, Hansa Rostock, "Sunday, August 12, 2001"," Millerntor Stadium (20,000)"
+Bayer Leverkusen, 1, 1, Bayern Munich, "Saturday, August 11, 2001"," BayArena (22,500)"
+Borussia Dortmund, 4, 0, VfL Wolfsburg, "Saturday, August 11, 2001"," Westfalen Stadium (66,000)"
+Energie Cottbus, 1, 0, Nurnberg, "Saturday, August 11, 2001"," Stadium 'Der Freundschaft' (14,000)"
+Kaiserslautern, 2, 1, FC Cologne, "Saturday, August 11, 2001"," Fritz-Walter Stadium (39,603)"
+SC Freiburg, 1, 3, Hertha Berlin, "Saturday, August 11, 2001"," Dreisamstadion  (22,000)"
+TSV 1860 Munich, 1, 1, Hamburg SV, "Saturday, August 11, 2001"," Olympic Stadium (25,500)"
+VfB Stuttgart, 0, 0, Werder Bremen, "Saturday, August 11, 2001"," Gottlieb-Daimler Satdium (20,000)"
+Kaiserslautern, 3, 2, Borussia Monchengladbach, "Sunday, August 5, 2001"," Fritz-Walter Stadium (41,582)"
+Nurnberg, 2, 0, SC Freiburg, "Sunday, August 5, 2001"," Frankenstadion (27,600)"
+Bayern Munich, 3, 0, Schalke 04, "Saturday, August 4, 2001"," Olympic Stadium (63,000)"
+FC Cologne, 2, 0, TSV 1860 Munich, "Saturday, August 4, 2001"," Mungersdorfer Stadium (30,000)"
+Hamburg SV, 2, 0, VfB Stuttgart, "Saturday, August 4, 2001"," Volksparkstadion (39,062)"
+Hansa Rostock, 0, 3, Bayer Leverkusen, "Saturday, August 4, 2001"," Ostseestadion (22,000)"
+Hertha Berlin, 0, 2, Borussia Dortmund, "Saturday, August 4, 2001"," Olympia Stadium (55,000)"
+VfL Wolfsburg, 1, 1, St Pauli, "Saturday, August 4, 2001"," VFL Stadium  (16,187)"
+Werder Bremen, 3, 2, Energie Cottbus, "Saturday, August 4, 2001"," Weserstadion (26,040)"
+St Pauli, 0, 0, Hertha Berlin, "Sunday, July 29, 2001"," Wilhem-Koch-Stadion "
+Bayer Leverkusen, 2, 1, VfL Wolfsburg, "Saturday, July 28, 2001"," BayArena "
+Borussia Dortmund, 2, 0, Nurnberg, "Saturday, July 28, 2001"," Westfalen Stadium "
+Borussia Monchengladbach, 1, 0, Bayern Munich, "Saturday, July 28, 2001"," Stadium Bokelberg "
+Energie Cottbus, 1, 0, Hamburg SV, "Saturday, July 28, 2001"," Stadium 'Der Freundschaft' "
+SC Freiburg, 3, 0, Werder Bremen, "Saturday, July 28, 2001"," Dreisamstadion  "
+TSV 1860 Munich, 0, 4, Kaiserslautern, "Saturday, July 28, 2001"," Olympic Stadium "
+VfB Stuttgart, 0, 0, FC Cologne, "Saturday, July 28, 2001"," Gottlieb-Daimler Satdium "
