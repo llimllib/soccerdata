@@ -1,5 +1,6 @@
 import requests, codecs
 from bs4 import BeautifulSoup
+from util import get
 
 def write_seriea_csv(outfile, results):
     outfile.write("home, homescore, awayscore, away, date, group\n")
@@ -32,16 +33,6 @@ def parse_seriea_page(soup):
             results.append((home, homescore, awayscore, away, date, group))
 
     return results
-
-def get(url, retries=10):
-    #TODO: backoff
-    r = requests.get(url)
-    for _ in range(retries):
-        if r.status_code == 200:
-            return r
-        print "retrying"
-        r = requests.get(url)
-    raise Exception("GET failed.\nstatus: {0}\nurl: {1}".format(r.status_code, url))
 
 def seriea():
     url = "http://espnfc.com/results/_/league/ita.1/italian-serie-a?cc=5901"

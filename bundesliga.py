@@ -1,5 +1,6 @@
 import requests, codecs
 from bs4 import BeautifulSoup
+from util import get
 
 def write_bundesliga_csv(outfile, results):
     outfile.write("home, homescore, awayscore, away, date, group\n")
@@ -32,16 +33,6 @@ def parse_bundesliga_page(soup):
             results.append((home, homescore, awayscore, away, date, group))
 
     return results
-
-def get(url, retries=10):
-    #TODO: backoff
-    r = requests.get(url)
-    for _ in range(retries):
-        if r.status_code == 200:
-            return r
-        print "retrying"
-        r = requests.get(url)
-    raise Exception("GET failed.\nstatus: {0}\nurl: {1}".format(r.status_code, url))
 
 def bundesliga():
     url = "http://espnfc.com/results/_/league/ger.1/german-bundesliga?cc=5901"
