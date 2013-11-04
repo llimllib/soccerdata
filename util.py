@@ -1,4 +1,4 @@
-import time
+import requests, time
 
 def get(url, retries=10):
     #TODO: backoff

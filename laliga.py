@@ -1,4 +1,4 @@
-import requests, codecs
+import codecs
 from bs4 import BeautifulSoup
 from util import get
 
@@ -36,7 +36,6 @@ def parse_laliga_page(soup):
 
 def laliga():
     url = "http://espnfc.com/results/_/league/esp.1/spanish-la-liga?cc=5901"
-    url = "http://espnfc.com/results/_/league/esp.1/date/20070617/spanish-la-liga"
 
     print "getting %s" % url
     r = get(url)

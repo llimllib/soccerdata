@@ -1,4 +1,4 @@
-import requests, codecs
+import codecs
 from bs4 import BeautifulSoup
 from util import get
 
