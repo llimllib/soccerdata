@@ -49,7 +49,7 @@ def bundesliga():
     print "getting %s" % url
     r = get(url)
 
-    soup = BeautifulSoup(r.content)
+    soup = BeautifulSoup(r.text)
     season = soup.h2.text.split(" ")[0]
     results = parse_bundesliga_page(soup)
 
@@ -61,7 +61,7 @@ def bundesliga():
         print "getting %s" % url
         r = get(url)
 
-        soup = BeautifulSoup(r.content)
+        soup = BeautifulSoup(r.text)
         if soup.h2.text.split(" ")[0] != season:
             #uncomment all this to download previous seasons' data
             season_f = "{0}_{1}".format(season[2:4], season[5:7])

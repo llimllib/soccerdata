@@ -45,13 +45,12 @@ def get(url, retries=10):
 
 def laliga():
     url = "http://espnfc.com/results/_/league/esp.1/spanish-la-liga?cc=5901"
-    #2010/11
-    url = "http://espnfc.com/results/_/league/esp.1/date/20110521/spanish-la-liga"
+    url = "http://espnfc.com/results/_/league/esp.1/date/20070617/spanish-la-liga"
 
     print "getting %s" % url
     r = get(url)
 
-    soup = BeautifulSoup(r.content)
+    soup = BeautifulSoup(r.text)
     season = soup.h2.text.split(" ")[0]
     results = parse_laliga_page(soup)
 
@@ -63,7 +62,7 @@ def laliga():
         print "getting %s" % url
         r = get(url)
 
-        soup = BeautifulSoup(r.content)
+        soup = BeautifulSoup(r.text)
         if soup.h2.text.split(" ")[0] != season:
             #uncomment all this to download previous seasons' data
             season_f = "{0}_{1}".format(season[2:4], season[5:7])
