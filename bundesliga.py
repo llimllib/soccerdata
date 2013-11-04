@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 def write_bundesliga_csv(outfile, results):
     outfile.write("home, homescore, awayscore, away, date, group\n")
     for result in results:
-        outfile.write(u'{0}, {1}, {2}, {3}, "{4}", {5}\n'.format(*result))
+        outfile.write(u'{0}, {1}, {2}, {3}, "{4}", "{5}"\n'.format(*result))
 
 def parse_bundesliga_page(soup):
     days = soup.find_all("table", "tablehead")
