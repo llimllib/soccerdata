@@ -4,17 +4,17 @@ Real Madrid, 1, 1, Barcelona, "Wednesday, May 1, 2002", Semi-finals
 Bayer Leverkusen, 1, 1, Manchester United, "Tuesday, April 30, 2002", Semi-finals
 Manchester United, 2, 2, Bayer Leverkusen, "Wednesday, April 24, 2002", Semi-finals
 Barcelona, 0, 2, Real Madrid, "Tuesday, April 23, 2002", Semi-finals
-Manchester United, 3, 2, Deportivo La CoruÃ±a, "Wednesday, April 10, 2002", Quarter-finals
+Manchester United, 3, 2, Deportivo La Coruña, "Wednesday, April 10, 2002", Quarter-finals
 Real Madrid, 2, 0, Bayern Munich, "Wednesday, April 10, 2002", Quarter-finals
 Barcelona, 3, 1, Panathinaikos, "Tuesday, April 9, 2002", Quarter-finals
 Bayer Leverkusen, 4, 2, Liverpool, "Tuesday, April 9, 2002", Quarter-finals
 Liverpool, 1, 0, Bayer Leverkusen, "Wednesday, April 3, 2002", Quarter-finals
 Panathinaikos, 1, 0, Barcelona, "Wednesday, April 3, 2002", Quarter-finals
 Bayern Munich, 2, 1, Real Madrid, "Tuesday, April 2, 2002", Quarter-finals
-Deportivo La CoruÃ±a, 0, 2, Manchester United, "Tuesday, April 2, 2002", Quarter-finals
+Deportivo La Coruña, 0, 2, Manchester United, "Tuesday, April 2, 2002", Quarter-finals
 Panathinaikos, 2, 2, Real Madrid, "Wednesday, March 20, 2002", Group C
 Sparta Prague, 2, 0, FC Porto, "Wednesday, March 20, 2002", Group C
-Deportivo La CoruÃ±a, 1, 3, Bayer Leverkusen, "Wednesday, March 20, 2002", Group D
+Deportivo La Coruña, 1, 3, Bayer Leverkusen, "Wednesday, March 20, 2002", Group D
 Juventus, 1, 0, Arsenal, "Wednesday, March 20, 2002", Group D
 Bayern Munich, 2, 1, Nantes, "Tuesday, March 19, 2002", Group A
 Boavista, 0, 3, Manchester United, "Tuesday, March 19, 2002", Group A
@@ -26,12 +26,12 @@ AS Roma, 1, 1, Galatasaray, "Wednesday, March 13, 2002", Group B
 Barcelona, 0, 0, Liverpool, "Wednesday, March 13, 2002", Group B
 FC Porto, 2, 1, Panathinaikos, "Tuesday, March 12, 2002", Group C
 Real Madrid, 3, 0, Sparta Prague, "Tuesday, March 12, 2002", Group C
-Arsenal, 0, 2, Deportivo La CoruÃ±a, "Tuesday, March 12, 2002", Group D
+Arsenal, 0, 2, Deportivo La Coruña, "Tuesday, March 12, 2002", Group D
 Bayer Leverkusen, 3, 1, Juventus, "Tuesday, March 12, 2002", Group D
 FC Porto, 1, 2, Real Madrid, "Wednesday, February 27, 2002", Group C
 Panathinaikos, 2, 1, Sparta Prague, "Wednesday, February 27, 2002", Group C
 Arsenal, 4, 1, Bayer Leverkusen, "Wednesday, February 27, 2002", Group D
-Deportivo La CoruÃ±a, 2, 0, Juventus, "Wednesday, February 27, 2002", Group D
+Deportivo La Coruña, 2, 0, Juventus, "Wednesday, February 27, 2002", Group D
 Bayern Munich, 1, 0, Boavista, "Tuesday, February 26, 2002", Group A
 Manchester United, 5, 1, Nantes, "Tuesday, February 26, 2002", Group A
 AS Roma, 3, 0, Barcelona, "Tuesday, February 26, 2002", Group B
@@ -43,7 +43,7 @@ Liverpool, 0, 0, Galatasaray, "Wednesday, February 20, 2002", Group B
 Real Madrid, 1, 0, FC Porto, "Tuesday, February 19, 2002", Group C
 Sparta Prague, 0, 2, Panathinaikos, "Tuesday, February 19, 2002", Group C
 Bayer Leverkusen, 1, 1, Arsenal, "Tuesday, February 19, 2002", Group D
-Juventus, 0, 0, Deportivo La CoruÃ±a, "Tuesday, February 19, 2002", Group D
+Juventus, 0, 0, Deportivo La Coruña, "Tuesday, February 19, 2002", Group D
 Manchester United, 3, 0, Boavista, "Wednesday, December 5, 2001", Group A
 Nantes, 0, 1, Bayern Munich, "Wednesday, December 5, 2001", Group A
 AS Roma, 0, 0, Liverpool, "Wednesday, December 5, 2001", Group B
@@ -51,11 +51,11 @@ Barcelona, 2, 2, Galatasaray, "Wednesday, December 5, 2001", Group B
 FC Porto, 0, 1, Sparta Prague, "Tuesday, December 4, 2001", Group C
 Real Madrid, 3, 0, Panathinaikos, "Tuesday, December 4, 2001", Group C
 Arsenal, 3, 1, Juventus, "Tuesday, December 4, 2001", Group D
-Bayer Leverkusen, 3, 0, Deportivo La CoruÃ±a, "Tuesday, December 4, 2001", Group D
+Bayer Leverkusen, 3, 0, Deportivo La Coruña, "Tuesday, December 4, 2001", Group D
 Juventus, 4, 0, Bayer Leverkusen, "Thursday, November 29, 2001", Group D
 Panathinaikos, 0, 0, FC Porto, "Wednesday, November 21, 2001", Group C
 Sparta Prague, 2, 3, Real Madrid, "Wednesday, November 21, 2001", Group C
-Deportivo La CoruÃ±a, 2, 0, Arsenal, "Wednesday, November 21, 2001", Group D
+Deportivo La Coruña, 2, 0, Arsenal, "Wednesday, November 21, 2001", Group D
 Juventus, P ,  P, Bayer Leverkusen, "Wednesday, November 21, 2001", Group D
 Bayern Munich, 1, 1, Manchester United, "Tuesday, November 20, 2001", Group A
 Boavista, 1, 0, Nantes, "Tuesday, November 20, 2001", Group A
@@ -66,7 +66,7 @@ FC Porto, 1, 0, Rosenborg, "Wednesday, October 31, 2001", Group E
 Barcelona, 1, 0, Fenerbahce, "Wednesday, October 31, 2001", Group F
 Bayer Leverkusen, 2, 4, Lyon, "Wednesday, October 31, 2001", Group F
 Lille, 1, 1, Manchester United, "Wednesday, October 31, 2001", Group G
-Olympiakos, 1, 1, Deportivo La CoruÃ±a, "Wednesday, October 31, 2001", Group G
+Olympiakos, 1, 1, Deportivo La Coruña, "Wednesday, October 31, 2001", Group G
 Feyenoord Rotterdam, 2, 1, Spartak Moscow, "Wednesday, October 31, 2001", Group H
 Sparta Prague, 0, 1, Bayern Munich, "Wednesday, October 31, 2001", Group H
 AS Roma, 1, 1, Anderlecht, "Tuesday, October 30, 2001", Group A
@@ -89,7 +89,7 @@ Juventus, 3, 1, FC Porto, "Tuesday, October 23, 2001", Group E
 Rosenborg, 2, 0, Celtic, "Tuesday, October 23, 2001", Group E
 Fenerbahce, 1, 2, Bayer Leverkusen, "Tuesday, October 23, 2001", Group F
 Lyon, 2, 3, Barcelona, "Tuesday, October 23, 2001", Group F
-Deportivo La CoruÃ±a, 1, 1, Lille, "Tuesday, October 23, 2001", Group G
+Deportivo La Coruña, 1, 1, Lille, "Tuesday, October 23, 2001", Group G
 Manchester United, 3, 0, Olympiakos, "Tuesday, October 23, 2001", Group G
 Spartak Moscow, 2, 2, Sparta Prague, "Tuesday, October 23, 2001", Group H
 Bayern Munich, 3, 1, Feyenoord Rotterdam, "Tuesday, October 23, 2001", Group H
@@ -97,7 +97,7 @@ FC Porto, 3, 0, Celtic, "Wednesday, October 17, 2001", Group E
 Juventus, 1, 0, Rosenborg, "Wednesday, October 17, 2001", Group E
 Barcelona, 2, 1, Bayer Leverkusen, "Wednesday, October 17, 2001", Group F
 Lyon, 3, 1, Fenerbahce, "Wednesday, October 17, 2001", Group F
-Manchester United, 2, 3, Deportivo La CoruÃ±a, "Wednesday, October 17, 2001", Group G
+Manchester United, 2, 3, Deportivo La Coruña, "Wednesday, October 17, 2001", Group G
 Olympiakos, 2, 1, Lille, "Wednesday, October 17, 2001", Group G
 Bayern Munich, 5, 1, Spartak Moscow, "Wednesday, October 17, 2001", Group H
 Feyenoord Rotterdam, 0, 2, Sparta Prague, "Wednesday, October 17, 2001", Group H
@@ -113,7 +113,7 @@ Celtic, 1, 0, Rosenborg, "Wednesday, October 10, 2001", Group E
 FC Porto, 0, 0, Juventus, "Wednesday, October 10, 2001", Group E
 Barcelona, 2, 0, Lyon, "Wednesday, October 10, 2001", Group F
 Bayer Leverkusen, 2, 1, Fenerbahce, "Wednesday, October 10, 2001", Group F
-Lille, 1, 1, Deportivo La CoruÃ±a, "Wednesday, October 10, 2001", Group G
+Lille, 1, 1, Deportivo La Coruña, "Wednesday, October 10, 2001", Group G
 Olympiakos, 0, 2, Manchester United, "Wednesday, October 10, 2001", Group G
 Feyenoord Rotterdam, 2, 2, Bayern Munich, "Wednesday, October 10, 2001", Group H
 Sparta Prague, 2, 0, Spartak Moscow, "Wednesday, October 10, 2001", Group H
@@ -129,7 +129,7 @@ Celtic, 1, 0, FC Porto, "Tuesday, September 25, 2001", Group E
 Rosenborg, 1, 1, Juventus, "Tuesday, September 25, 2001", Group E
 Bayer Leverkusen, 2, 1, Barcelona, "Tuesday, September 25, 2001", Group F
 Fenerbahce, 0, 1, Lyon, "Tuesday, September 25, 2001", Group F
-Deportivo La CoruÃ±a, 2, 1, Manchester United, "Tuesday, September 25, 2001", Group G
+Deportivo La Coruña, 2, 1, Manchester United, "Tuesday, September 25, 2001", Group G
 Lille, 3, 1, Olympiakos, "Tuesday, September 25, 2001", Group G
 Spartak Moscow, 1, 3, Bayern Munich, "Tuesday, September 25, 2001", Group H
 Sparta Prague, 4, 0, Feyenoord Rotterdam, "Tuesday, September 25, 2001", Group H
@@ -145,7 +145,7 @@ Juventus, 3, 2, Celtic, "Tuesday, September 18, 2001", Group E
 Rosenborg, 1, 2, FC Porto, "Tuesday, September 18, 2001", Group E
 Fenerbahce, 0, 3, Barcelona, "Tuesday, September 18, 2001", Group F
 Lyon, 0, 1, Bayer Leverkusen, "Tuesday, September 18, 2001", Group F
-Deportivo La CoruÃ±a, 2, 2, Olympiakos, "Tuesday, September 18, 2001", Group G
+Deportivo La Coruña, 2, 2, Olympiakos, "Tuesday, September 18, 2001", Group G
 Manchester United, 1, 0, Lille, "Tuesday, September 18, 2001", Group G
 Spartak Moscow, 2, 2, Feyenoord Rotterdam, "Tuesday, September 18, 2001", Group H
 Bayern Munich, 0, 0, Sparta Prague, "Tuesday, September 18, 2001", Group H
@@ -153,7 +153,7 @@ Celtic, P ,  P, Rosenborg, "Wednesday, September 12, 2001", Group E
 FC Porto, P ,  P, Juventus, "Wednesday, September 12, 2001", Group E
 Barcelona, P ,  P, Lyon, "Wednesday, September 12, 2001", Group F
 Bayer Leverkusen, P ,  P, Fenerbahce, "Wednesday, September 12, 2001", Group F
-Lille, P ,  P, Deportivo La CoruÃ±a, "Wednesday, September 12, 2001", Group G
+Lille, P ,  P, Deportivo La Coruña, "Wednesday, September 12, 2001", Group G
 Olympiakos, P ,  P, Manchester United, "Wednesday, September 12, 2001", Group G
 Feyenoord Rotterdam, P ,  P, Bayern Munich, "Wednesday, September 12, 2001", Group H
 Sparta Prague, P ,  P, Spartak Moscow, "Wednesday, September 12, 2001", Group H

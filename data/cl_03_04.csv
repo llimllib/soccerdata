@@ -2,25 +2,25 @@ home, homescore, awayscore, away, date, group
 FC Porto, 3, 0, AS Monaco, "Wednesday, May 26, 2004", Final
 Chelsea, 2, 2, AS Monaco, "Wednesday, May 5, 2004", Semi-finals
 Deportivo La Coruña, 0, 1, FC Porto, "Tuesday, May 4, 2004", Semi-finals
-FC Porto, 0, 0, Deportivo La CoruÃ±a, "Wednesday, April 21, 2004", Semi-finals
+FC Porto, 0, 0, Deportivo La Coruña, "Wednesday, April 21, 2004", Semi-finals
 AS Monaco, 3, 1, Chelsea, "Tuesday, April 20, 2004", Semi-finals
-Deportivo La CoruÃ±a, 4, 0, AC Milan, "Wednesday, April 7, 2004", Quarter-finals
+Deportivo La Coruña, 4, 0, AC Milan, "Wednesday, April 7, 2004", Quarter-finals
 Lyon, 2, 2, FC Porto, "Wednesday, April 7, 2004", Quarter-finals
 Arsenal, 1, 2, Chelsea, "Tuesday, April 6, 2004", Quarter-finals
 AS Monaco, 3, 1, Real Madrid, "Tuesday, April 6, 2004", Quarter-finals
 Chelsea, 1, 1, Arsenal, "Wednesday, March 24, 2004", Quarter-finals
 Real Madrid, 4, 2, AS Monaco, "Wednesday, March 24, 2004", Quarter-finals
-AC Milan, 4, 1, Deportivo La CoruÃ±a, "Tuesday, March 23, 2004", Quarter-finals
+AC Milan, 4, 1, Deportivo La Coruña, "Tuesday, March 23, 2004", Quarter-finals
 FC Porto, 2, 0, Lyon, "Tuesday, March 23, 2004", Quarter-finals
 AC Milan, 4, 1, Sparta Prague, "Wednesday, March 10, 2004", Round of 16
 Arsenal, 2, 0, Celta Vigo, "Wednesday, March 10, 2004", Round of 16
 AS Monaco, 1, 0, Lokomotiv Moscow, "Wednesday, March 10, 2004", Round of 16
 Real Madrid, 1, 0, Bayern Munich, "Wednesday, March 10, 2004", Round of 16
 Chelsea, 0, 0, VfB Stuttgart, "Tuesday, March 9, 2004", Round of 16
-Juventus, 0, 1, Deportivo La CoruÃ±a, "Tuesday, March 9, 2004", Round of 16
+Juventus, 0, 1, Deportivo La Coruña, "Tuesday, March 9, 2004", Round of 16
 Lyon, 1, 0, Real Sociedad, "Tuesday, March 9, 2004", Round of 16
 Manchester United, 1, 1, FC Porto, "Tuesday, March 9, 2004", Round of 16
-Deportivo La CoruÃ±a, 1, 0, Juventus, "Wednesday, February 25, 2004", Round of 16
+Deportivo La Coruña, 1, 0, Juventus, "Wednesday, February 25, 2004", Round of 16
 FC Porto, 2, 1, Manchester United, "Wednesday, February 25, 2004", Round of 16
 Real Sociedad, 0, 1, Lyon, "Wednesday, February 25, 2004", Round of 16
 VfB Stuttgart, 0, 1, Chelsea, "Wednesday, February 25, 2004", Round of 16
@@ -33,7 +33,7 @@ Lyon, 3, 2, Celtic, "Wednesday, December 10, 2003", Group A
 Arsenal, 2, 0, Lokomotiv Moscow, "Wednesday, December 10, 2003", Group B
 Dynamo Kiev, 1, 1, Internazionale, "Wednesday, December 10, 2003", Group B
 AEK Athens, 0, 0, AS Monaco, "Wednesday, December 10, 2003", Group C
-PSV Eindhoven, 3, 2, Deportivo La CoruÃ±a, "Wednesday, December 10, 2003", Group C
+PSV Eindhoven, 3, 2, Deportivo La Coruña, "Wednesday, December 10, 2003", Group C
 Juventus, 7, 0, Olympiakos, "Wednesday, December 10, 2003", Group D
 Real Sociedad, 1, 1, Galatasaray, "Wednesday, December 10, 2003", Group D
 Manchester United, 2, 0, VfB Stuttgart, "Tuesday, December 9, 2003", Group E
@@ -58,14 +58,14 @@ Celtic, 0, 0, Bayern Munich, "Tuesday, November 25, 2003", Group A
 Lokomotiv Moscow, 3, 2, Dynamo Kiev, "Tuesday, November 25, 2003", Group B
 Internazionale, 1, 5, Arsenal, "Tuesday, November 25, 2003", Group B
 AS Monaco, 1, 1, PSV Eindhoven, "Tuesday, November 25, 2003", Group C
-Deportivo La CoruÃ±a, 3, 0, AEK Athens, "Tuesday, November 25, 2003", Group C
+Deportivo La Coruña, 3, 0, AEK Athens, "Tuesday, November 25, 2003", Group C
 Galatasaray, P ,  P, Juventus, "Tuesday, November 25, 2003", Group D
 Olympiakos, 2, 2, Real Sociedad, "Tuesday, November 25, 2003", Group D
 Bayern Munich, 1, 2, Lyon, "Wednesday, November 5, 2003", Group A
 Celtic, 3, 1, Anderlecht, "Wednesday, November 5, 2003", Group A
 Arsenal, 1, 0, Dynamo Kiev, "Wednesday, November 5, 2003", Group B
 Internazionale, 1, 1, Lokomotiv Moscow, "Wednesday, November 5, 2003", Group B
-AS Monaco, 8, 3, Deportivo La CoruÃ±a, "Wednesday, November 5, 2003", Group C
+AS Monaco, 8, 3, Deportivo La Coruña, "Wednesday, November 5, 2003", Group C
 PSV Eindhoven, 2, 0, AEK Athens, "Wednesday, November 5, 2003", Group C
 Olympiakos, 3, 0, Galatasaray, "Wednesday, November 5, 2003", Group D
 Real Sociedad, 0, 0, Juventus, "Wednesday, November 5, 2003", Group D
@@ -90,7 +90,7 @@ Lyon, 1, 1, Bayern Munich, "Tuesday, October 21, 2003", Group A
 Lokomotiv Moscow, 3, 0, Internazionale, "Tuesday, October 21, 2003", Group B
 Dynamo Kiev, 2, 1, Arsenal, "Tuesday, October 21, 2003", Group B
 AEK Athens, 0, 1, PSV Eindhoven, "Tuesday, October 21, 2003", Group C
-Deportivo La CoruÃ±a, 1, 0, AS Monaco, "Tuesday, October 21, 2003", Group C
+Deportivo La Coruña, 1, 0, AS Monaco, "Tuesday, October 21, 2003", Group C
 Galatasaray, 1, 0, Olympiakos, "Tuesday, October 21, 2003", Group D
 Juventus, 4, 2, Real Sociedad, "Tuesday, October 21, 2003", Group D
 Panathinaikos, 1, 1, Rangers, "Wednesday, October 1, 2003", Group E
@@ -106,14 +106,14 @@ Celtic, 2, 0, Lyon, "Tuesday, September 30, 2003", Group A
 Lokomotiv Moscow, 0, 0, Arsenal, "Tuesday, September 30, 2003", Group B
 Internazionale, 2, 1, Dynamo Kiev, "Tuesday, September 30, 2003", Group B
 AS Monaco, 4, 0, AEK Athens, "Tuesday, September 30, 2003", Group C
-Deportivo La CoruÃ±a, 2, 0, PSV Eindhoven, "Tuesday, September 30, 2003", Group C
+Deportivo La Coruña, 2, 0, PSV Eindhoven, "Tuesday, September 30, 2003", Group C
 Galatasaray, 1, 2, Real Sociedad, "Tuesday, September 30, 2003", Group D
 Olympiakos, 1, 2, Juventus, "Tuesday, September 30, 2003", Group D
 Bayern Munich, 2, 1, Celtic, "Wednesday, September 17, 2003", Group A
 Lyon, 1, 0, Anderlecht, "Wednesday, September 17, 2003", Group A
 Arsenal, 0, 3, Internazionale, "Wednesday, September 17, 2003", Group B
 Dynamo Kiev, 2, 0, Lokomotiv Moscow, "Wednesday, September 17, 2003", Group B
-AEK Athens, 1, 1, Deportivo La CoruÃ±a, "Wednesday, September 17, 2003", Group C
+AEK Athens, 1, 1, Deportivo La Coruña, "Wednesday, September 17, 2003", Group C
 PSV Eindhoven, 1, 2, AS Monaco, "Wednesday, September 17, 2003", Group C
 Juventus, 2, 1, Galatasaray, "Wednesday, September 17, 2003", Group D
 Real Sociedad, 1, 0, Olympiakos, "Wednesday, September 17, 2003", Group D
@@ -155,7 +155,7 @@ Chelsea, 3, 0, MSK Zilina, "Tuesday, August 26, 2003", Qualifying Third Round
 
 Wisla Krakow, 0, 1, Anderlecht, "Tuesday, August 26, 2003", Qualifying Third Round
 
-Deportivo La CoruÃ±a, 1, 0, Rosenborg, "Tuesday, August 26, 2003", Qualifying Third Round
+Deportivo La Coruña, 1, 0, Rosenborg, "Tuesday, August 26, 2003", Qualifying Third Round
 
 Shakhtar Donetsk, 1, 0, Lokomotiv Moscow, "Wednesday, August 13, 2003", Qualifying Third Round
 
@@ -179,7 +179,7 @@ Partizan Belgrade, 0, 1, Newcastle United, "Wednesday, August 13, 2003", Qualify
 
 Rangers, 1, 1, FC Copenhagen, "Wednesday, August 13, 2003", Qualifying Third Round
 
-Rosenborg, 0, 0, Deportivo La CoruÃ±a, "Wednesday, August 13, 2003", Qualifying Third Round
+Rosenborg, 0, 0, Deportivo La Coruña, "Wednesday, August 13, 2003", Qualifying Third Round
 
 Lazio, 3, 1, Benfica, "Wednesday, August 13, 2003", Qualifying Third Round
 

@@ -1,5 +1,6 @@
 import requests, codecs
 from bs4 import BeautifulSoup
+from util import get
 
 def write_cl_csv(outfile, results):
     outfile.write("home, homescore, awayscore, away, date, group\n")
@@ -28,23 +29,13 @@ def parse_cl_page(soup):
 
     return results
 
-def get(url, retries=5):
-    #TODO: backoff
-    r = requests.get(url)
-    for _ in range(retries):
-        if r.status_code == 200:
-            return r
-        print "retrying"
-        r = requests.get(url)
-    raise Exception("GET failed.\nstatus: {0}\nurl: {1}".format(r.status_code, url))
-
 def champions_league():
     url = "http://espnfc.com/results/_/league/uefa.champions/uefa-champions-league?cc=5901"
 
     print "getting %s" % url
     r = get(url)
 
-    soup = BeautifulSoup(r.content)
+    soup = BeautifulSoup(r.text)
     season = soup.h2.text.split(" ")[0]
     results = parse_cl_page(soup)
 
@@ -56,18 +47,18 @@ def champions_league():
         print "getting %s" % url
         r = get(url)
 
-        soup = BeautifulSoup(r.content)
+        soup = BeautifulSoup(r.text)
         if soup.h2.text.split(" ")[0] != season:
-            break
+            #break
 
             #uncomment all this to download previous seasons' data
-            #season_f = "{0}_{1}".format(season[2:4], season[5:7])
-            #out = codecs.open("data/cl_{0}.csv".format(season_f), 'w', "utf8")
-            #write_cl_csv(out, results)
+            season_f = "{0}_{1}".format(season[2:4], season[5:7])
+            out = codecs.open("data/cl_{0}.csv".format(season_f), 'w', "utf8")
+            write_cl_csv(out, results)
 
-            #season = soup.h2.text.split(" ")[0]
-            #print "found season: {0}".format(season)
-            #results = []
+            season = soup.h2.text.split(" ")[0]
+            print "found season: {0}".format(season)
+            results = []
 
         results += parse_cl_page(soup)
 

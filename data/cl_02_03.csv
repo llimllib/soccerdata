@@ -18,11 +18,11 @@ AS Roma, 1, 1, Ajax Amsterdam, "Wednesday, March 19, 2003", Group B
 Valencia, 2, 1, Arsenal, "Wednesday, March 19, 2003", Group B
 AC Milan, 0, 1, Borussia Dortmund, "Tuesday, March 18, 2003", Group C
 Lokomotiv Moscow, 0, 1, Real Madrid, "Tuesday, March 18, 2003", Group C
-Deportivo La CoruÃ±a, 2, 0, Manchester United, "Tuesday, March 18, 2003", Group D
+Deportivo La Coruña, 2, 0, Manchester United, "Tuesday, March 18, 2003", Group D
 FC Basel, 2, 1, Juventus, "Tuesday, March 18, 2003", Group D
 Borussia Dortmund, 3, 0, Lokomotiv Moscow, "Wednesday, March 12, 2003", Group C
 Real Madrid, 3, 1, AC Milan, "Wednesday, March 12, 2003", Group C
-Juventus, 3, 2, Deportivo La CoruÃ±a, "Wednesday, March 12, 2003", Group D
+Juventus, 3, 2, Deportivo La Coruña, "Wednesday, March 12, 2003", Group D
 Manchester United, 1, 1, FC Basel, "Wednesday, March 12, 2003", Group D
 Barcelona, 2, 0, Bayer Leverkusen, "Tuesday, March 11, 2003", Group A
 Internazionale, 2, 2, Newcastle United, "Tuesday, March 11, 2003", Group A
@@ -34,11 +34,11 @@ Ajax Amsterdam, 0, 0, Arsenal, "Wednesday, February 26, 2003", Group B
 Valencia, 0, 3, AS Roma, "Wednesday, February 26, 2003", Group B
 Lokomotiv Moscow, 0, 1, AC Milan, "Tuesday, February 25, 2003", Group C
 Borussia Dortmund, 1, 1, Real Madrid, "Tuesday, February 25, 2003", Group C
-Deportivo La CoruÃ±a, 1, 0, FC Basel, "Tuesday, February 25, 2003", Group D
+Deportivo La Coruña, 1, 0, FC Basel, "Tuesday, February 25, 2003", Group D
 Juventus, 0, 3, Manchester United, "Tuesday, February 25, 2003", Group D
 AC Milan, 1, 0, Lokomotiv Moscow, "Wednesday, February 19, 2003", Group C
 Real Madrid, 2, 1, Borussia Dortmund, "Wednesday, February 19, 2003", Group C
-FC Basel, 1, 0, Deportivo La CoruÃ±a, "Wednesday, February 19, 2003", Group D
+FC Basel, 1, 0, Deportivo La Coruña, "Wednesday, February 19, 2003", Group D
 Manchester United, 2, 1, Juventus, "Wednesday, February 19, 2003", Group D
 Barcelona, 3, 0, Internazionale, "Tuesday, February 18, 2003", Group A
 Bayer Leverkusen, 1, 3, Newcastle United, "Tuesday, February 18, 2003", Group A
@@ -48,7 +48,7 @@ Barcelona, 3, 1, Newcastle United, "Wednesday, December 11, 2002", Group A
 Borussia Dortmund, 0, 1, AC Milan, "Wednesday, December 11, 2002", Group C
 Real Madrid, 2, 2, Lokomotiv Moscow, "Wednesday, December 11, 2002", Group C
 Juventus, 4, 0, FC Basel, "Wednesday, December 11, 2002", Group D
-Manchester United, 2, 0, Deportivo La CoruÃ±a, "Wednesday, December 11, 2002", Group D
+Manchester United, 2, 0, Deportivo La Coruña, "Wednesday, December 11, 2002", Group D
 Barcelona, P ,  P, Newcastle United, "Tuesday, December 10, 2002", Group A
 Internazionale, 3, 2, Bayer Leverkusen, "Tuesday, December 10, 2002", Group A
 Ajax Amsterdam, 2, 1, AS Roma, "Tuesday, December 10, 2002", Group B
@@ -59,13 +59,13 @@ AS Roma, 1, 3, Arsenal, "Wednesday, November 27, 2002", Group B
 Valencia, 1, 1, Ajax Amsterdam, "Wednesday, November 27, 2002", Group B
 Lokomotiv Moscow, 1, 2, Borussia Dortmund, "Tuesday, November 26, 2002", Group C
 AC Milan, 1, 0, Real Madrid, "Tuesday, November 26, 2002", Group C
-Deportivo La CoruÃ±a, 2, 2, Juventus, "Tuesday, November 26, 2002", Group D
+Deportivo La Coruña, 2, 2, Juventus, "Tuesday, November 26, 2002", Group D
 FC Basel, 1, 3, Manchester United, "Tuesday, November 26, 2002", Group D
 Dynamo Kiev, 1, 2, Juventus, "Wednesday, November 13, 2002", Group E
 Feyenoord Rotterdam, 2, 3, Newcastle United, "Wednesday, November 13, 2002", Group E
 Manchester United, 2, 0, Bayer Leverkusen, "Wednesday, November 13, 2002", Group F
 Olympiakos, 3, 3, Maccabi Haifa, "Wednesday, November 13, 2002", Group F
-AC Milan, 1, 2, Deportivo La CoruÃ±a, "Wednesday, November 13, 2002", Group G
+AC Milan, 1, 2, Deportivo La Coruña, "Wednesday, November 13, 2002", Group G
 Bayern Munich, 3, 3, Lens, "Wednesday, November 13, 2002", Group G
 Barcelona, 3, 1, Galatasaray, "Wednesday, November 13, 2002", Group H
 Lokomotiv Moscow, 2, 0, Club Brugge, "Wednesday, November 13, 2002", Group H
@@ -90,7 +90,7 @@ Juventus, 2, 0, Feyenoord Rotterdam, "Tuesday, October 29, 2002", Group E
 Newcastle United, 2, 1, Dynamo Kiev, "Tuesday, October 29, 2002", Group E
 Bayer Leverkusen, 2, 0, Olympiakos, "Tuesday, October 29, 2002", Group F
 Maccabi Haifa, 3, 0, Manchester United, "Tuesday, October 29, 2002", Group F
-Deportivo La CoruÃ±a, 2, 1, Bayern Munich, "Tuesday, October 29, 2002", Group G
+Deportivo La Coruña, 2, 1, Bayern Munich, "Tuesday, October 29, 2002", Group G
 Lens, 2, 1, AC Milan, "Tuesday, October 29, 2002", Group G
 Club Brugge, 0, 1, Barcelona, "Tuesday, October 29, 2002", Group H
 Galatasaray, 1, 2, Lokomotiv Moscow, "Tuesday, October 29, 2002", Group H
@@ -99,7 +99,7 @@ Newcastle United, 1, 0, Juventus, "Wednesday, October 23, 2002", Group E
 Bayer Leverkusen, 2, 1, Maccabi Haifa, "Wednesday, October 23, 2002", Group F
 Olympiakos, 2, 3, Manchester United, "Wednesday, October 23, 2002", Group F
 AC Milan, 2, 1, Bayern Munich, "Wednesday, October 23, 2002", Group G
-Lens, 3, 1, Deportivo La CoruÃ±a, "Wednesday, October 23, 2002", Group G
+Lens, 3, 1, Deportivo La Coruña, "Wednesday, October 23, 2002", Group G
 Barcelona, 1, 0, Lokomotiv Moscow, "Wednesday, October 23, 2002", Group H
 Club Brugge, 3, 1, Galatasaray, "Wednesday, October 23, 2002", Group H
 Arsenal, 1, 2, AJ Auxerre, "Tuesday, October 22, 2002", Group A
@@ -123,7 +123,7 @@ Juventus, 2, 0, Newcastle United, "Tuesday, October 1, 2002", Group E
 Maccabi Haifa, 0, 2, Bayer Leverkusen, "Tuesday, October 1, 2002", Group F
 Manchester United, 4, 0, Olympiakos, "Tuesday, October 1, 2002", Group F
 Bayern Munich, 1, 2, AC Milan, "Tuesday, October 1, 2002", Group G
-Deportivo La CoruÃ±a, 3, 1, Lens, "Tuesday, October 1, 2002", Group G
+Deportivo La Coruña, 3, 1, Lens, "Tuesday, October 1, 2002", Group G
 Lokomotiv Moscow, 1, 3, Barcelona, "Tuesday, October 1, 2002", Group H
 Galatasaray, 0, 0, Club Brugge, "Tuesday, October 1, 2002", Group H
 Borussia Dortmund, 2, 1, AJ Auxerre, "Wednesday, September 25, 2002", Group A
@@ -138,7 +138,7 @@ Juventus, 5, 0, Dynamo Kiev, "Tuesday, September 24, 2002", Group E
 Newcastle United, 0, 1, Feyenoord Rotterdam, "Tuesday, September 24, 2002", Group E
 Bayer Leverkusen, 1, 2, Manchester United, "Tuesday, September 24, 2002", Group F
 Maccabi Haifa, 3, 0, Olympiakos, "Tuesday, September 24, 2002", Group F
-Deportivo La CoruÃ±a, 0, 4, AC Milan, "Tuesday, September 24, 2002", Group G
+Deportivo La Coruña, 0, 4, AC Milan, "Tuesday, September 24, 2002", Group G
 Lens, 1, 1, Bayern Munich, "Tuesday, September 24, 2002", Group G
 Club Brugge, 0, 0, Lokomotiv Moscow, "Tuesday, September 24, 2002", Group H
 Galatasaray, 0, 2, Barcelona, "Tuesday, September 24, 2002", Group H
@@ -147,7 +147,7 @@ Feyenoord Rotterdam, 1, 1, Juventus, "Wednesday, September 18, 2002", Group E
 Manchester United, 5, 2, Maccabi Haifa, "Wednesday, September 18, 2002", Group F
 Olympiakos, 6, 2, Bayer Leverkusen, "Wednesday, September 18, 2002", Group F
 AC Milan, 2, 1, Lens, "Wednesday, September 18, 2002", Group G
-Bayern Munich, 2, 3, Deportivo La CoruÃ±a, "Wednesday, September 18, 2002", Group G
+Bayern Munich, 2, 3, Deportivo La Coruña, "Wednesday, September 18, 2002", Group G
 Lokomotiv Moscow, 0, 2, Galatasaray, "Wednesday, September 18, 2002", Group H
 Barcelona, 3, 2, Club Brugge, "Wednesday, September 18, 2002", Group H
 AJ Auxerre, 0, 0, PSV Eindhoven, "Tuesday, September 17, 2002", Group A
@@ -174,7 +174,7 @@ FC Basel, 2, 0, Celtic, "Wednesday, August 28, 2002", Qualifying Third Round
 
 SK Sturm Graz, 3, 3, Maccabi Haifa, "Wednesday, August 28, 2002", Qualifying Third Round
 
-BrÃ¸ndby, 2, 3, Rosenborg, "Wednesday, August 28, 2002", Qualifying Third Round
+Brøndby, 2, 3, Rosenborg, "Wednesday, August 28, 2002", Qualifying Third Round
 
 Liberec, 2, 1, AC Milan, "Wednesday, August 28, 2002", Qualifying Third Round
 
@@ -202,7 +202,7 @@ Partizan Belgrade, 0, 3, Bayern Munich, "Wednesday, August 14, 2002", Qualifying
 
 Celtic, 3, 1, FC Basel, "Wednesday, August 14, 2002", Qualifying Third Round
 
-Rosenborg, 1, 0, BrÃ¸ndby, "Wednesday, August 14, 2002", Qualifying Third Round
+Rosenborg, 1, 0, Brøndby, "Wednesday, August 14, 2002", Qualifying Third Round
 
 Zalaegerszeg, 1, 0, Manchester United, "Wednesday, August 14, 2002", Qualifying Third Round
 
@@ -234,7 +234,7 @@ Levski Sofia, 2, 0, Skonto Riga, "Wednesday, August 7, 2002", Qualifying Second 
 
 Dinamo Bucuresti, 0, 1, Club Brugge, "Wednesday, August 7, 2002", Qualifying Second Round
 
-Dinamo Tirana, 0, 4, BrÃ¸ndby, "Wednesday, August 7, 2002", Qualifying Second Round
+Dinamo Tirana, 0, 4, Brøndby, "Wednesday, August 7, 2002", Qualifying Second Round
 
 Hibernians, 3, 3, Boavista, "Wednesday, August 7, 2002", Qualifying Second Round
 
@@ -266,7 +266,7 @@ Club Brugge, 3, 1, Dinamo Bucuresti, "Wednesday, July 31, 2002", Qualifying Seco
 
 Vardar, 1, 3, Legia Warsaw, "Wednesday, July 31, 2002", Qualifying Second Round
 
-BrÃ¸ndby, 1, 0, Dinamo Tirana, "Wednesday, July 31, 2002", Qualifying Second Round
+Brøndby, 1, 0, Dinamo Tirana, "Wednesday, July 31, 2002", Qualifying Second Round
 
 NK Maribor, 2, 1, Apoel Nicosia, "Wednesday, July 31, 2002", Qualifying Second Round
 
