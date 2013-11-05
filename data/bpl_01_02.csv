@@ -1,381 +1,208 @@
-home, homescore, awayscore, away, date, time
-Arsenal, 4, 3, Everton, Saturday 11 May 2002, 15:00
-Blackburn, 3, 0, Fulham, Saturday 11 May 2002, 15:00
-Chelsea, 1, 3, Aston Villa, Saturday 11 May 2002, 15:00
-Leeds, 1, 0, Middlesbrough, Saturday 11 May 2002, 15:00
-Leicester, 2, 1, Spurs, Saturday 11 May 2002, 15:00
-Liverpool, 5, 0, Ipswich, Saturday 11 May 2002, 15:00
-Man Utd, 0, 0, Charlton, Saturday 11 May 2002, 15:00
-Southampton, 3, 1, Newcastle, Saturday 11 May 2002, 15:00
-Sunderland, 1, 1, Derby, Saturday 11 May 2002, 15:00
-West Ham, 2, 1, Bolton, Saturday 11 May 2002, 15:00
-Liverpool, 4, 3, Blackburn, Wednesday 8 May 2002, 20:00
-Man Utd, 0, 1, Arsenal, Wednesday 8 May 2002, 20:00
-Bolton, 0, 2, Arsenal, Monday 29 April 2002, 20:00
-Everton, 1, 2, Blackburn, Sunday 28 April 2002, 16:00
-Ipswich, 0, 1, Man Utd, Saturday 27 April 2002, 17:35
-Aston Villa, 2, 1, Southampton, Saturday 27 April 2002, 15:00
-Charlton, 2, 2, Sunderland, Saturday 27 April 2002, 15:00
-Derby, 0, 1, Leeds, Saturday 27 April 2002, 15:00
-Fulham, 0, 0, Leicester, Saturday 27 April 2002, 15:00
-Middlesbrough, 0, 2, Chelsea, Saturday 27 April 2002, 15:00
-Newcastle, 3, 1, West Ham, Saturday 27 April 2002, 15:00
-Spurs, 1, 0, Liverpool, Saturday 27 April 2002, 12:00
-Arsenal, 2, 0, West Ham, Wednesday 24 April 2002, 20:00
-Ipswich, 1, 0, Middlesbrough, Wednesday 24 April 2002, 19:45
-Blackburn, 2, 2, Newcastle, Tuesday 23 April 2002, 20:00
-Fulham, 3, 0, Bolton, Tuesday 23 April 2002, 19:45
-Arsenal, 2, 0, Ipswich, Sunday 21 April 2002, 16:00
-Southampton, 0, 1, Everton, Saturday 20 April 2002, 17:15
-Bolton, 1, 1, Spurs, Saturday 20 April 2002, 15:00
-Leeds, 0, 1, Fulham, Saturday 20 April 2002, 15:00
-Leicester, 2, 2, Aston Villa, Saturday 20 April 2002, 15:00
-Liverpool, 2, 0, Derby, Saturday 20 April 2002, 15:00
-Middlesbrough, 1, 3, Blackburn, Saturday 20 April 2002, 15:00
-Newcastle, 3, 0, Charlton, Saturday 20 April 2002, 15:00
-West Ham, 3, 0, Sunderland, Saturday 20 April 2002, 15:00
-Chelsea, 0, 3, Man Utd, Saturday 20 April 2002, 12:00
-Sunderland, 0, 1, Liverpool, Saturday 13 April 2002, 17:35
-Aston Villa, 0, 1, Leeds, Saturday 13 April 2002, 15:00
-Charlton, 1, 1, Southampton, Saturday 13 April 2002, 15:00
-Derby, 2, 3, Newcastle, Saturday 13 April 2002, 15:00
-Everton, 2, 2, Leicester, Saturday 13 April 2002, 15:00
-Spurs, 1, 1, West Ham, Saturday 13 April 2002, 15:00
-Blackburn, 0, 0, Chelsea, Wednesday 10 April 2002, 20:00
-Newcastle, 1, 1, Fulham, Monday 8 April 2002, 20:00
-Leeds, 2, 0, Sunderland, Sunday 7 April 2002, 16:00
-Arsenal, 2, 1, Spurs, Saturday 6 April 2002, 15:00
-Bolton, 4, 1, Ipswich, Saturday 6 April 2002, 15:00
-Chelsea, 3, 0, Everton, Saturday 6 April 2002, 15:00
-Middlesbrough, 2, 1, Aston Villa, Saturday 6 April 2002, 15:00
-Southampton, 2, 0, Derby, Saturday 6 April 2002, 15:00
-West Ham, 2, 0, Charlton, Saturday 6 April 2002, 15:00
-Leicester, 0, 1, Man Utd, Saturday 6 April 2002, 12:00
-Aston Villa, 1, 1, Newcastle, Tuesday 2 April 2002, 19:45
-Blackburn, 2, 0, Southampton, Monday 1 April 2002, 20:00
-Charlton, 0, 3, Arsenal, Monday 1 April 2002, 15:00
-Derby, 0, 1, Middlesbrough, Monday 1 April 2002, 15:00
-Everton, 3, 1, Bolton, Monday 1 April 2002, 15:00
-Fulham, 0, 1, West Ham, Monday 1 April 2002, 15:00
-Ipswich, 0, 0, Chelsea, Monday 1 April 2002, 15:00
-Sunderland, 2, 1, Leicester, Monday 1 April 2002, 15:00
-Spurs, 2, 1, Leeds, Monday 1 April 2002, 15:00
-Middlesbrough, 1, 1, Spurs, Saturday 30 March 2002, 17:35
-Arsenal, 3, 0, Sunderland, Saturday 30 March 2002, 15:00
-Bolton, 3, 2, Aston Villa, Saturday 30 March 2002, 15:00
-Chelsea, 2, 1, Derby, Saturday 30 March 2002, 15:00
-Leicester, 2, 1, Blackburn, Saturday 30 March 2002, 15:00
-Liverpool, 2, 0, Charlton, Saturday 30 March 2002, 15:00
-Southampton, 1, 1, Fulham, Saturday 30 March 2002, 15:00
-West Ham, 3, 1, Ipswich, Saturday 30 March 2002, 15:00
-Leeds, 3, 4, Man Utd, Saturday 30 March 2002, 12:00
-Newcastle, 6, 2, Everton, Friday 29 March 2002, 14:00
-Fulham, 0, 2, Spurs, Sunday 24 March 2002, 16:00
-Liverpool, 1, 0, Chelsea, Sunday 24 March 2002, 14:00
-Charlton, 1, 2, Bolton, Saturday 23 March 2002, 15:00
-Derby, 3, 4, Everton, Saturday 23 March 2002, 15:00
-Ipswich, 0, 0, Aston Villa, Saturday 23 March 2002, 15:00
-Leicester, 0, 2, Leeds, Saturday 23 March 2002, 15:00
-Man Utd, 0, 1, Middlesbrough, Saturday 23 March 2002, 15:00
-Sunderland, 1, 1, Southampton, Saturday 23 March 2002, 15:00
-Spurs, 0, 1, Charlton, Monday 18 March 2002, 20:00
-Aston Villa, 1, 2, Arsenal, Sunday 17 March 2002, 16:00
-Leeds, 3, 1, Blackburn, Sunday 17 March 2002, 14:00
-Bolton, 1, 3, Derby, Saturday 16 March 2002, 15:00
-Chelsea, 4, 0, Sunderland, Saturday 16 March 2002, 15:00
-Everton, 2, 1, Fulham, Saturday 16 March 2002, 15:00
-Newcastle, 2, 2, Ipswich, Saturday 16 March 2002, 15:00
-Southampton, 2, 2, Leicester, Saturday 16 March 2002, 15:00
-West Ham, 3, 5, Man Utd, Saturday 16 March 2002, 15:00
-Middlesbrough, 1, 2, Liverpool, Saturday 16 March 2002, 12:00
-Blackburn, 2, 1, Ipswich, Wednesday 13 March 2002, 19:45
-Chelsea, 4, 0, Spurs, Wednesday 13 March 2002, 19:45
-Leicester, 1, 1, Charlton, Saturday 9 March 2002, 15:00
-Liverpool, 3, 0, Newcastle, Wednesday 6 March 2002, 20:00
-Man Utd, 4, 0, Spurs, Wednesday 6 March 2002, 20:00
-Chelsea, 3, 2, Fulham, Wednesday 6 March 2002, 19:45
-Leeds, 2, 0, Ipswich, Wednesday 6 March 2002, 19:45
-Southampton, 1, 1, Middlesbrough, Wednesday 6 March 2002, 19:45
-West Ham, 1, 0, Everton, Wednesday 6 March 2002, 19:45
-Blackburn, 3, 0, Aston Villa, Tuesday 5 March 2002, 20:00
-Sunderland, 1, 0, Bolton, Tuesday 5 March 2002, 20:00
-Arsenal, 1, 0, Derby, Tuesday 5 March 2002, 19:45
-Derby, 2, 2, Man Utd, Sunday 3 March 2002, 16:00
-Everton, 0, 0, Leeds, Sunday 3 March 2002, 15:00
-Newcastle, 0, 2, Arsenal, Saturday 2 March 2002, 17:30
-Aston Villa, 2, 1, West Ham, Saturday 2 March 2002, 15:00
-Bolton, 1, 1, Blackburn, Saturday 2 March 2002, 15:00
-Charlton, 2, 1, Chelsea, Saturday 2 March 2002, 15:00
-Fulham, 0, 2, Liverpool, Saturday 2 March 2002, 15:00
-Ipswich, 1, 3, Southampton, Saturday 2 March 2002, 15:00
-Middlesbrough, 1, 0, Leicester, Saturday 2 March 2002, 15:00
-Spurs, 2, 1, Sunderland, Saturday 2 March 2002, 15:00
-Leeds, 0, 0, Charlton, Sunday 24 February 2002, 15:00
-Sunderland, 0, 1, Newcastle, Sunday 24 February 2002, 13:00
-Arsenal, 4, 1, Fulham, Saturday 23 February 2002, 15:00
-Leicester, 0, 3, Derby, Saturday 23 February 2002, 15:00
-Liverpool, 1, 1, Everton, Saturday 23 February 2002, 15:00
-Southampton, 0, 0, Bolton, Saturday 23 February 2002, 15:00
-West Ham, 1, 0, Middlesbrough, Saturday 23 February 2002, 15:00
-Man Utd, 1, 0, Aston Villa, Saturday 23 February 2002, 12:00
-Middlesbrough, 2, 1, Fulham, Tuesday 19 February 2002, 19:45
-Everton, 0, 1, Arsenal, Sunday 10 February 2002, 16:00
-Charlton, 0, 2, Man Utd, Sunday 10 February 2002, 14:00
-Aston Villa, 1, 1, Chelsea, Saturday 9 February 2002, 15:00
-Bolton, 1, 0, West Ham, Saturday 9 February 2002, 15:00
-Derby, 0, 1, Sunderland, Saturday 9 February 2002, 15:00
-Fulham, 2, 0, Blackburn, Saturday 9 February 2002, 15:00
-Ipswich, 0, 6, Liverpool, Saturday 9 February 2002, 15:00
-Middlesbrough, 2, 2, Leeds, Saturday 9 February 2002, 15:00
-Newcastle, 3, 1, Southampton, Saturday 9 February 2002, 15:00
-Spurs, 2, 1, Leicester, Saturday 9 February 2002, 15:00
-Middlesbrough, 0, 0, Charlton, Sunday 3 February 2002, 16:00
-Leeds, 0, 4, Liverpool, Sunday 3 February 2002, 12:00
-Arsenal, 1, 1, Southampton, Saturday 2 February 2002, 15:00
-Everton, 1, 2, Ipswich, Saturday 2 February 2002, 15:00
-Fulham, 0, 0, Aston Villa, Saturday 2 February 2002, 15:00
-Leicester, 2, 3, Chelsea, Saturday 2 February 2002, 15:00
-Man Utd, 4, 1, Sunderland, Saturday 2 February 2002, 15:00
-Newcastle, 3, 2, Bolton, Saturday 2 February 2002, 15:00
-West Ham, 2, 0, Blackburn, Saturday 2 February 2002, 15:00
-Derby, 1, 0, Spurs, Saturday 2 February 2002, 12:00
-Chelsea, 2, 0, Leeds, Wednesday 30 January 2002, 20:00
-Liverpool, 1, 0, Leicester, Wednesday 30 January 2002, 20:00
-Aston Villa, 0, 0, Everton, Wednesday 30 January 2002, 19:45
-Blackburn, 2, 3, Arsenal, Wednesday 30 January 2002, 19:45
-Ipswich, 1, 0, Fulham, Wednesday 30 January 2002, 19:45
-Southampton, 2, 0, West Ham, Wednesday 30 January 2002, 19:45
-Spurs, 1, 3, Newcastle, Wednesday 30 January 2002, 19:45
-Bolton, 0, 4, Man Utd, Tuesday 29 January 2002, 20:00
-Sunderland, 0, 1, Middlesbrough, Tuesday 29 January 2002, 20:00
-Charlton, 1, 0, Derby, Tuesday 29 January 2002, 19:45
-Leicester, 1, 3, Arsenal, Wednesday 23 January 2002, 19:45
-Man Utd, 0, 1, Liverpool, Tuesday 22 January 2002, 20:00
-Charlton, 1, 2, Aston Villa, Monday 21 January 2002, 20:00
-Leeds, 1, 1, Arsenal, Sunday 20 January 2002, 16:00
-Chelsea, 5, 1, West Ham, Sunday 20 January 2002, 14:00
-Derby, 1, 3, Ipswich, Saturday 19 January 2002, 15:00
-Leicester, 0, 0, Newcastle, Saturday 19 January 2002, 15:00
-Liverpool, 1, 1, Southampton, Saturday 19 January 2002, 15:00
-Man Utd, 2, 1, Blackburn, Saturday 19 January 2002, 15:00
-Middlesbrough, 1, 1, Bolton, Saturday 19 January 2002, 15:00
-Sunderland, 1, 1, Fulham, Saturday 19 January 2002, 15:00
-Spurs, 1, 1, Everton, Saturday 19 January 2002, 15:00
-Arsenal, 1, 1, Liverpool, Sunday 13 January 2002, 16:00
-Southampton, 1, 3, Man Utd, Sunday 13 January 2002, 14:00
-Aston Villa, 2, 1, Derby, Saturday 12 January 2002, 15:00
-Blackburn, 4, 1, Charlton, Saturday 12 January 2002, 15:00
-Bolton, 2, 2, Chelsea, Saturday 12 January 2002, 15:00
-Everton, 1, 0, Sunderland, Saturday 12 January 2002, 15:00
-Fulham, 2, 1, Middlesbrough, Saturday 12 January 2002, 15:00
-Ipswich, 2, 1, Spurs, Saturday 12 January 2002, 15:00
-Newcastle, 3, 1, Leeds, Saturday 12 January 2002, 15:00
-West Ham, 1, 0, Leicester, Saturday 12 January 2002, 15:00
-Southampton, 2, 0, Liverpool, Wednesday 9 January 2002, 20:00
-Man Utd, 3, 1, Newcastle, Wednesday 2 January 2002, 20:00
-Derby, 0, 1, Fulham, Wednesday 2 January 2002, 19:45
-Leeds, 3, 0, West Ham, Tuesday 1 January 2002, 20:00
-Charlton, 3, 2, Ipswich, Tuesday 1 January 2002, 15:00
-Chelsea, 2, 4, Southampton, Tuesday 1 January 2002, 15:00
-Liverpool, 1, 1, Bolton, Tuesday 1 January 2002, 15:00
-Middlesbrough, 1, 0, Everton, Tuesday 1 January 2002, 15:00
-Sunderland, 1, 1, Aston Villa, Tuesday 1 January 2002, 15:00
-Spurs, 1, 0, Blackburn, Tuesday 1 January 2002, 15:00
-Fulham, 2, 3, Man Utd, Sunday 30 December 2001, 14:00
-Arsenal, 2, 1, Middlesbrough, Saturday 29 December 2001, 15:00
-Aston Villa, 1, 1, Spurs, Saturday 29 December 2001, 15:00
-Blackburn, 0, 1, Derby, Saturday 29 December 2001, 15:00
-Bolton, 2, 2, Leicester, Saturday 29 December 2001, 15:00
-Everton, 0, 3, Charlton, Saturday 29 December 2001, 15:00
-Ipswich, 5, 0, Sunderland, Saturday 29 December 2001, 15:00
-Newcastle, 1, 2, Chelsea, Saturday 29 December 2001, 15:00
-Southampton, 0, 1, Leeds, Saturday 29 December 2001, 15:00
-West Ham, 1, 1, Liverpool, Saturday 29 December 2001, 15:00
-Aston Villa, 1, 2, Liverpool, Wednesday 26 December 2001, 15:00
-Blackburn, 0, 3, Sunderland, Wednesday 26 December 2001, 15:00
-Everton, 0, 2, Man Utd, Wednesday 26 December 2001, 15:00
-Ipswich, 2, 0, Leicester, Wednesday 26 December 2001, 15:00
-Newcastle, 3, 0, Middlesbrough, Wednesday 26 December 2001, 15:00
-Arsenal, 2, 1, Chelsea, Wednesday 26 December 2001, 12:00
-Bolton, 0, 3, Leeds, Wednesday 26 December 2001, 12:00
-Fulham, 0, 0, Charlton, Wednesday 26 December 2001, 12:00
-Southampton, 1, 0, Spurs, Wednesday 26 December 2001, 12:00
-West Ham, 4, 0, Derby, Wednesday 26 December 2001, 12:00
-Liverpool, 1, 2, Arsenal, Sunday 23 December 2001, 16:00
-Chelsea, 5, 1, Bolton, Sunday 23 December 2001, 14:00
-Charlton, 0, 2, Blackburn, Saturday 22 December 2001, 15:00
-Leeds, 3, 4, Newcastle, Saturday 22 December 2001, 15:00
-Leicester, 1, 1, West Ham, Saturday 22 December 2001, 15:00
-Man Utd, 6, 1, Southampton, Saturday 22 December 2001, 15:00
-Sunderland, 1, 0, Everton, Saturday 22 December 2001, 15:00
-Spurs, 1, 2, Ipswich, Saturday 22 December 2001, 15:00
-Derby, 3, 1, Aston Villa, Saturday 22 December 2001, 12:00
-Leeds, 3, 2, Everton, Wednesday 19 December 2001, 19:45
-Arsenal, 1, 3, Newcastle, Tuesday 18 December 2001, 20:00
-Aston Villa, 2, 1, Ipswich, Monday 17 December 2001, 20:00
-Chelsea, 4, 0, Liverpool, Sunday 16 December 2001, 16:00
-Leeds, 2, 2, Leicester, Sunday 16 December 2001, 14:00
-Bolton, 0, 0, Charlton, Saturday 15 December 2001, 15:00
-Everton, 1, 0, Derby, Saturday 15 December 2001, 15:00
-Middlesbrough, 0, 1, Man Utd, Saturday 15 December 2001, 15:00
-Newcastle, 2, 1, Blackburn, Saturday 15 December 2001, 15:00
-Southampton, 2, 0, Sunderland, Saturday 15 December 2001, 15:00
-Spurs, 4, 0, Fulham, Saturday 15 December 2001, 15:00
-West Ham, 1, 1, Arsenal, Saturday 15 December 2001, 15:00
-Liverpool, 0, 0, Fulham, Wednesday 12 December 2001, 20:00
-Man Utd, 5, 0, Derby, Wednesday 12 December 2001, 20:00
-Arsenal, 3, 2, Aston Villa, Sunday 9 December 2001, 16:00
-Ipswich, 0, 1, Newcastle, Sunday 9 December 2001, 15:00
-Sunderland, 0, 0, Chelsea, Sunday 9 December 2001, 14:00
-Blackburn, 1, 2, Leeds, Sunday 9 December 2001, 13:00
-Charlton, 3, 1, Spurs, Saturday 8 December 2001, 15:00
-Derby, 1, 0, Bolton, Saturday 8 December 2001, 15:00
-Fulham, 2, 0, Everton, Saturday 8 December 2001, 15:00
-Leicester, 0, 4, Southampton, Saturday 8 December 2001, 15:00
-Liverpool, 2, 0, Middlesbrough, Saturday 8 December 2001, 15:00
-Man Utd, 0, 1, West Ham, Saturday 8 December 2001, 15:00
-Chelsea, 0, 1, Charlton, Wednesday 5 December 2001, 19:45
-West Ham, 1, 1, Aston Villa, Wednesday 5 December 2001, 19:45
-Spurs, 3, 2, Bolton, Monday 3 December 2001, 20:00
-Everton, 2, 0, Southampton, Sunday 2 December 2001, 16:00
-Fulham, 0, 0, Leeds, Sunday 2 December 2001, 14:00
-Aston Villa, 0, 2, Leicester, Saturday 1 December 2001, 15:00
-Blackburn, 0, 1, Middlesbrough, Saturday 1 December 2001, 15:00
-Charlton, 1, 1, Newcastle, Saturday 1 December 2001, 15:00
-Derby, 0, 1, Liverpool, Saturday 1 December 2001, 15:00
-Ipswich, 0, 2, Arsenal, Saturday 1 December 2001, 15:00
-Sunderland, 1, 0, West Ham, Saturday 1 December 2001, 15:00
-Man Utd, 0, 3, Chelsea, Saturday 1 December 2001, 12:00
-Arsenal, 3, 1, Man Utd, Sunday 25 November 2001, 16:00
-Leeds, 1, 1, Aston Villa, Sunday 25 November 2001, 15:00
-Middlesbrough, 0, 0, Ipswich, Sunday 25 November 2001, 15:00
-Liverpool, 1, 0, Sunderland, Sunday 25 November 2001, 14:00
-Bolton, 0, 0, Fulham, Saturday 24 November 2001, 15:00
-Chelsea, 0, 0, Blackburn, Saturday 24 November 2001, 15:00
-Leicester, 0, 0, Everton, Saturday 24 November 2001, 15:00
-Newcastle, 1, 0, Derby, Saturday 24 November 2001, 15:00
-Southampton, 1, 0, Charlton, Saturday 24 November 2001, 15:00
-West Ham, 0, 1, Spurs, Saturday 24 November 2001, 15:00
-Charlton, 4, 4, West Ham, Monday 19 November 2001, 20:00
-Ipswich, 1, 2, Bolton, Sunday 18 November 2001, 16:00
-Sunderland, 2, 0, Leeds, Sunday 18 November 2001, 15:00
-Everton, 0, 0, Chelsea, Sunday 18 November 2001, 14:00
-Aston Villa, 0, 0, Middlesbrough, Saturday 17 November 2001, 15:00
-Derby, 1, 0, Southampton, Saturday 17 November 2001, 15:00
-Fulham, 3, 1, Newcastle, Saturday 17 November 2001, 15:00
-Man Utd, 2, 0, Leicester, Saturday 17 November 2001, 15:00
-Spurs, 1, 1, Arsenal, Saturday 17 November 2001, 15:00
-Blackburn, 1, 1, Liverpool, Saturday 17 November 2001, 12:00
-Arsenal, 2, 4, Charlton, Sunday 4 November 2001, 14:00
-Chelsea, 2, 1, Ipswich, Sunday 4 November 2001, 14:00
-Leeds, 2, 1, Spurs, Sunday 4 November 2001, 12:00
-Liverpool, 3, 1, Man Utd, Sunday 4 November 2001, 11:30
-Bolton, 2, 2, Everton, Saturday 3 November 2001, 15:00
-Middlesbrough, 5, 1, Derby, Saturday 3 November 2001, 15:00
-Newcastle, 3, 0, Aston Villa, Saturday 3 November 2001, 15:00
-Southampton, 1, 2, Blackburn, Saturday 3 November 2001, 15:00
-West Ham, 0, 2, Fulham, Saturday 3 November 2001, 15:00
-Leicester, 1, 0, Sunderland, Saturday 3 November 2001, 12:00
-Blackburn, 0, 0, Leicester, Monday 29 October 2001, 20:00
-Derby, 1, 1, Chelsea, Sunday 28 October 2001, 16:00
-Ipswich, 2, 3, West Ham, Sunday 28 October 2001, 14:00
-Aston Villa, 3, 2, Bolton, Saturday 27 October 2001, 15:00
-Charlton, 0, 2, Liverpool, Saturday 27 October 2001, 15:00
-Everton, 1, 3, Newcastle, Saturday 27 October 2001, 15:00
-Fulham, 2, 1, Southampton, Saturday 27 October 2001, 15:00
-Sunderland, 1, 1, Arsenal, Saturday 27 October 2001, 15:00
-Spurs, 2, 1, Middlesbrough, Saturday 27 October 2001, 15:00
-Man Utd, 1, 1, Leeds, Saturday 27 October 2001, 12:00
-Aston Villa, 1, 0, Charlton, Wednesday 24 October 2001, 19:45
-Southampton, 3, 3, Ipswich, Wednesday 24 October 2001, 19:45
-West Ham, 2, 1, Chelsea, Wednesday 24 October 2001, 19:45
-Middlesbrough, 2, 0, Sunderland, Monday 22 October 2001, 20:00
-Leeds, 0, 0, Chelsea, Sunday 21 October 2001, 16:00
-Newcastle, 0, 2, Spurs, Sunday 21 October 2001, 14:00
-Fulham, 1, 1, Ipswich, Sunday 21 October 2001, 13:00
-Arsenal, 3, 3, Blackburn, Saturday 20 October 2001, 15:00
-Derby, 1, 1, Charlton, Saturday 20 October 2001, 15:00
-Everton, 3, 2, Aston Villa, Saturday 20 October 2001, 15:00
-Leicester, 1, 4, Liverpool, Saturday 20 October 2001, 15:00
-Man Utd, 1, 2, Bolton, Saturday 20 October 2001, 15:00
-West Ham, 2, 0, Southampton, Saturday 20 October 2001, 15:00
-Spurs, 3, 1, Derby, Monday 15 October 2001, 20:00
-Aston Villa, 2, 0, Fulham, Sunday 14 October 2001, 16:00
-Blackburn, 7, 1, West Ham, Sunday 14 October 2001, 14:00
-Bolton, 0, 4, Newcastle, Saturday 13 October 2001, 15:00
-Charlton, 0, 0, Middlesbrough, Saturday 13 October 2001, 15:00
-Chelsea, 2, 0, Leicester, Saturday 13 October 2001, 15:00
-Ipswich, 0, 0, Everton, Saturday 13 October 2001, 15:00
-Southampton, 0, 2, Arsenal, Saturday 13 October 2001, 15:00
-Sunderland, 1, 3, Man Utd, Saturday 13 October 2001, 15:00
-Liverpool, 1, 1, Leeds, Saturday 13 October 2001, 12:00
-Ipswich, 1, 2, Leeds, Sunday 30 September 2001, 16:00
-Aston Villa, 2, 0, Blackburn, Sunday 30 September 2001, 15:00
-Newcastle, 0, 2, Liverpool, Sunday 30 September 2001, 14:00
-Fulham, 1, 1, Chelsea, Sunday 30 September 2001, 12:00
-Bolton, 0, 2, Sunderland, Saturday 29 September 2001, 15:00
-Charlton, 2, 0, Leicester, Saturday 29 September 2001, 15:00
-Derby, 0, 2, Arsenal, Saturday 29 September 2001, 15:00
-Everton, 5, 0, West Ham, Saturday 29 September 2001, 15:00
-Middlesbrough, 1, 3, Southampton, Saturday 29 September 2001, 15:00
-Spurs, 3, 5, Man Utd, Saturday 29 September 2001, 15:00
-Newcastle, 1, 0, Leicester, Wednesday 26 September 2001, 19:45
-Southampton, 1, 3, Aston Villa, Monday 24 September 2001, 20:00
-West Ham, 3, 0, Newcastle, Sunday 23 September 2001, 16:00
-Chelsea, 2, 2, Middlesbrough, Sunday 23 September 2001, 14:00
-Leeds, 3, 0, Derby, Sunday 23 September 2001, 14:00
-Arsenal, 1, 1, Bolton, Saturday 22 September 2001, 15:00
-Blackburn, 1, 0, Everton, Saturday 22 September 2001, 15:00
-Leicester, 0, 0, Fulham, Saturday 22 September 2001, 15:00
-Liverpool, 1, 0, Spurs, Saturday 22 September 2001, 15:00
-Man Utd, 4, 0, Ipswich, Saturday 22 September 2001, 15:00
-Sunderland, 2, 2, Charlton, Saturday 22 September 2001, 15:00
-Sunderland, 1, 2, Spurs, Wednesday 19 September 2001, 20:00
-Blackburn, 1, 1, Bolton, Wednesday 19 September 2001, 19:45
-Leicester, 1, 2, Middlesbrough, Monday 17 September 2001, 20:00
-Ipswich, 1, 1, Blackburn, Sunday 16 September 2001, 16:00
-Aston Villa, 0, 0, Sunderland, Sunday 16 September 2001, 15:00
-Charlton, 0, 2, Leeds, Sunday 16 September 2001, 14:00
-Spurs, 2, 3, Chelsea, Sunday 16 September 2001, 14:00
-Bolton, 0, 1, Southampton, Saturday 15 September 2001, 15:00
-Derby, 2, 3, Leicester, Saturday 15 September 2001, 15:00
-Fulham, 1, 3, Arsenal, Saturday 15 September 2001, 15:00
-Middlesbrough, 2, 0, West Ham, Saturday 15 September 2001, 15:00
-Newcastle, 4, 3, Man Utd, Saturday 15 September 2001, 15:00
-Everton, 1, 3, Liverpool, Saturday 15 September 2001, 12:00
-Charlton, 1, 1, Fulham, Sunday 9 September 2001, 16:00
-Spurs, 2, 0, Southampton, Sunday 9 September 2001, 14:00
-Chelsea, 1, 1, Arsenal, Saturday 8 September 2001, 15:00
-Derby, 0, 0, West Ham, Saturday 8 September 2001, 15:00
-Leeds, 0, 0, Bolton, Saturday 8 September 2001, 15:00
-Leicester, 1, 1, Ipswich, Saturday 8 September 2001, 15:00
-Liverpool, 1, 3, Aston Villa, Saturday 8 September 2001, 15:00
-Man Utd, 4, 1, Everton, Saturday 8 September 2001, 15:00
-Middlesbrough, 1, 4, Newcastle, Saturday 8 September 2001, 15:00
-Sunderland, 1, 0, Blackburn, Saturday 8 September 2001, 15:00
-Bolton, 2, 1, Liverpool, Monday 27 August 2001, 20:00
-Newcastle, 1, 1, Sunderland, Sunday 26 August 2001, 16:00
-Aston Villa, 1, 1, Man Utd, Sunday 26 August 2001, 14:00
-Arsenal, 4, 0, Leicester, Saturday 25 August 2001, 15:00
-Blackburn, 2, 1, Spurs, Saturday 25 August 2001, 15:00
-Everton, 2, 0, Middlesbrough, Saturday 25 August 2001, 15:00
-Fulham, 0, 0, Derby, Saturday 25 August 2001, 15:00
-Ipswich, 0, 1, Charlton, Saturday 25 August 2001, 15:00
-Southampton, 0, 2, Chelsea, Saturday 25 August 2001, 15:00
-West Ham, 0, 0, Leeds, Saturday 25 August 2001, 15:00
-Blackburn, 2, 2, Man Utd, Wednesday 22 August 2001, 20:00
-Fulham, 2, 0, Sunderland, Wednesday 22 August 2001, 19:45
-Arsenal, 1, 2, Leeds, Tuesday 21 August 2001, 20:00
-Bolton, 1, 0, Middlesbrough, Tuesday 21 August 2001, 20:00
-Ipswich, 3, 1, Derby, Tuesday 21 August 2001, 19:45
-Everton, 1, 1, Spurs, Monday 20 August 2001, 20:00
-Man Utd, 3, 2, Fulham, Sunday 19 August 2001, 16:00
-Chelsea, 1, 1, Newcastle, Sunday 19 August 2001, 14:00
-Charlton, 1, 2, Everton, Saturday 18 August 2001, 15:00
-Derby, 2, 1, Blackburn, Saturday 18 August 2001, 15:00
-Leeds, 2, 0, Southampton, Saturday 18 August 2001, 15:00
-Leicester, 0, 5, Bolton, Saturday 18 August 2001, 15:00
-Liverpool, 2, 1, West Ham, Saturday 18 August 2001, 15:00
-Middlesbrough, 0, 4, Arsenal, Saturday 18 August 2001, 15:00
-Sunderland, 1, 0, Ipswich, Saturday 18 August 2001, 15:00
-Spurs, 0, 0, Aston Villa, Saturday 18 August 2001, 15:00
+home, homescore, awayscore, away, date, group
+Derby County, 0, 1, Fulham, "Wednesday, January 2, 2002", "Pride Park Stadium (28,165)"
+Manchester United, 3, 1, Newcastle United, "Wednesday, January 2, 2002", "Old Trafford (67,646)"
+Charlton Athletic, 3, 2, Ipswich Town, "Tuesday, January 1, 2002", "The Valley (25,893)"
+Chelsea, 2, 4, Southampton, "Tuesday, January 1, 2002", "Stamford Bridge (35,156)"
+Liverpool, 1, 1, Bolton Wanderers, "Tuesday, January 1, 2002", "Anfield (43,710)"
+Middlesbrough, 1, 0, Everton, "Tuesday, January 1, 2002", "The Riverside Stadium (27,463)"
+Sunderland, 1, 1, Aston Villa, "Tuesday, January 1, 2002", "Stadium of Light (45,324)"
+Tottenham Hotspur, 1, 0, Blackburn Rovers, "Tuesday, January 1, 2002", "White Hart Lane (35,131)"
+Leeds United, 3, 0, West Ham United, "Tuesday, January 1, 2002", "Elland Road (39,320)"
+Fulham, 2, 3, Manchester United, "Sunday, December 30, 2001", "Craven Cottage (21,159)"
+Arsenal, 2, 1, Middlesbrough, "Saturday, December 29, 2001", "Highbury (37,948)"
+Aston Villa, 1, 1, Tottenham Hotspur, "Saturday, December 29, 2001", "Villa Park (41,134)"
+Blackburn Rovers, 0, 1, Derby County, "Saturday, December 29, 2001", "Ewood Park (23,529)"
+Bolton Wanderers, 2, 2, Leicester City, "Saturday, December 29, 2001", "Reebok Stadium (23,037)"
+Everton, 0, 3, Charlton Athletic, "Saturday, December 29, 2001", "Goodison Park (31,131)"
+Ipswich Town, 5, 0, Sunderland, "Saturday, December 29, 2001", "Portman Road (24,517)"
+Newcastle United, 1, 2, Chelsea, "Saturday, December 29, 2001", "St James' Park (52,123)"
+Southampton, 0, 1, Leeds United, "Saturday, December 29, 2001", "St. Mary's Stadium (31,622)"
+West Ham United, 1, 1, Liverpool, "Saturday, December 29, 2001", "Upton Park (35,103)"
+Arsenal, 2, 1, Chelsea, "Wednesday, December 26, 2001", "Highbury (38,079)"
+Bolton Wanderers, 0, 3, Leeds United, "Wednesday, December 26, 2001", "Reebok Stadium (27,060)"
+Fulham, 0, 0, Charlton Athletic, "Wednesday, December 26, 2001", "Craven Cottage (17,900)"
+Southampton, 1, 0, Tottenham Hotspur, "Wednesday, December 26, 2001", "St. Mary's Stadium (31,719)"
+West Ham United, 4, 0, Derby County, "Wednesday, December 26, 2001", "Upton Park (31,397)"
+Aston Villa, 1, 2, Liverpool, "Wednesday, December 26, 2001", "Villa Park (42,602)"
+Blackburn Rovers, 0, 3, Sunderland, "Wednesday, December 26, 2001", "Ewood Park (29,869)"
+Everton, 0, 2, Manchester United, "Wednesday, December 26, 2001", "Goodison Park (39,948)"
+Ipswich Town, 2, 0, Leicester City, "Wednesday, December 26, 2001", "Portman Road (24,403)"
+Newcastle United, 3, 0, Middlesbrough, "Wednesday, December 26, 2001", "St James' Park (52,127)"
+Chelsea, 5, 1, Bolton Wanderers, "Sunday, December 23, 2001", "Stamford Bridge (34,063)"
+Liverpool, 1, 2, Arsenal, "Sunday, December 23, 2001", "Anfield (44,297)"
+Derby County, 3, 1, Aston Villa, "Saturday, December 22, 2001", "Pride Park Stadium (28,001)"
+Charlton Athletic, 0, 2, Blackburn Rovers, "Saturday, December 22, 2001", "The Valley (25,857)"
+Leeds United, 3, 4, Newcastle United, "Saturday, December 22, 2001", "Elland Road (40,287)"
+Leicester City, 1, 1, West Ham United, "Saturday, December 22, 2001", "Filbert Street (20,131)"
+Manchester United, 6, 1, Southampton, "Saturday, December 22, 2001", "Old Trafford (67,638)"
+Sunderland, 1, 0, Everton, "Saturday, December 22, 2001", "Stadium of Light (48,013)"
+Tottenham Hotspur, 1, 2, Ipswich Town, "Saturday, December 22, 2001", "White Hart Lane (36,040)"
+Leeds United, 3, 2, Everton, "Wednesday, December 19, 2001", "Elland Road (40,201)"
+Arsenal, 1, 3, Newcastle United, "Tuesday, December 18, 2001", "Highbury (38,012)"
+Aston Villa, 2, 1, Ipswich Town, "Monday, December 17, 2001", "Villa Park (29,320)"
+Leeds United, 2, 2, Leicester City, "Sunday, December 16, 2001", "Elland Road (38,337)"
+Chelsea, 4, 0, Liverpool, "Sunday, December 16, 2001", "Stamford Bridge (41,174)"
+Bolton Wanderers, 0, 0, Charlton Athletic, "Saturday, December 15, 2001", "Reebok Stadium (20,834)"
+Everton, 1, 0, Derby County, "Saturday, December 15, 2001", "Goodison Park (38,615)"
+Middlesbrough, 0, 1, Manchester United, "Saturday, December 15, 2001", "The Riverside Stadium (34,358)"
+Newcastle United, 2, 1, Blackburn Rovers, "Saturday, December 15, 2001", "St James' Park (50,064)"
+Southampton, 2, 0, Sunderland, "Saturday, December 15, 2001", "St. Mary's Stadium (29,459)"
+Tottenham Hotspur, 4, 0, Fulham, "Saturday, December 15, 2001", "White Hart Lane (36,054)"
+West Ham United, 1, 1, Arsenal, "Saturday, December 15, 2001", "Upton Park (34,523)"
+Liverpool, 0, 0, Fulham, "Wednesday, December 12, 2001", "Anfield (37,153)"
+Manchester United, 5, 0, Derby County, "Wednesday, December 12, 2001", "Old Trafford (67,577)"
+Blackburn Rovers, 1, 2, Leeds United, "Sunday, December 9, 2001", "Ewood Park (28,309)"
+Sunderland, 0, 0, Chelsea, "Sunday, December 9, 2001", "Stadium of Light (48,017)"
+Ipswich Town, 0, 1, Newcastle United, "Sunday, December 9, 2001", "Portman Road (24,748)"
+Arsenal, 3, 2, Aston Villa, "Sunday, December 9, 2001", "Highbury (38,074)"
+Charlton Athletic, 3, 1, Tottenham Hotspur, "Saturday, December 8, 2001", "The Valley (25,125)"
+Derby County, 1, 0, Bolton Wanderers, "Saturday, December 8, 2001", "Pride Park Stadium (25,712)"
+Fulham, 2, 0, Everton, "Saturday, December 8, 2001", "Craven Cottage (19,338)"
+Leicester City, 0, 4, Southampton, "Saturday, December 8, 2001", "Filbert Street (20,321)"
+Liverpool, 2, 0, Middlesbrough, "Saturday, December 8, 2001", "Anfield (43,674)"
+Manchester United, 0, 1, West Ham United, "Saturday, December 8, 2001", "Old Trafford (67,582)"
+Chelsea, 0, 1, Charlton Athletic, "Wednesday, December 5, 2001", "Stamford Bridge (33,504)"
+West Ham United, 1, 1, Aston Villa, "Wednesday, December 5, 2001", "Upton Park (28,377)"
+Tottenham Hotspur, 3, 2, Bolton Wanderers, "Monday, December 3, 2001", "White Hart Lane (32,971)"
+Fulham, 0, 0, Leeds United, "Sunday, December 2, 2001", "Craven Cottage (20,918)"
+Everton, 2, 0, Southampton, "Sunday, December 2, 2001", "Goodison Park (28,138)"
+Manchester United, 0, 3, Chelsea, "Saturday, December 1, 2001", "Old Trafford (67,544)"
+Aston Villa, 0, 2, Leicester City, "Saturday, December 1, 2001", "Villa Park (30,711)"
+Blackburn Rovers, 0, 1, Middlesbrough, "Saturday, December 1, 2001", "Ewood Park (23,849)"
+Charlton Athletic, 1, 1, Newcastle United, "Saturday, December 1, 2001", "The Valley (24,151)"
+Derby County, 0, 1, Liverpool, "Saturday, December 1, 2001", "Pride Park Stadium (33,289)"
+Ipswich Town, 0, 2, Arsenal, "Saturday, December 1, 2001", "Portman Road (24,666)"
+Sunderland, 1, 0, West Ham United, "Saturday, December 1, 2001", "Stadium of Light (47,437)"
+Liverpool, 1, 0, Sunderland, "Sunday, November 25, 2001", "Anfield (43,537)"
+Leeds United, 1, 1, Aston Villa, "Sunday, November 25, 2001", "Elland Road (40,159)"
+Middlesbrough, 0, 0, Ipswich Town, "Sunday, November 25, 2001", "The Riverside Stadium (32,586)"
+Arsenal, 3, 1, Manchester United, "Sunday, November 25, 2001", "Highbury (38,174)"
+Bolton Wanderers, 0, 0, Fulham, "Saturday, November 24, 2001", "Reebok Stadium (23,848)"
+Chelsea, 0, 0, Blackburn Rovers, "Saturday, November 24, 2001", "Stamford Bridge (37,978)"
+Leicester City, 0, 0, Everton, "Saturday, November 24, 2001", "Filbert Street (21,539)"
+Newcastle United, 1, 0, Derby County, "Saturday, November 24, 2001", "St James' Park (50,070)"
+Southampton, 1, 0, Charlton Athletic, "Saturday, November 24, 2001", "St. Mary's Stadium (31,198)"
+West Ham United, 0, 1, Tottenham Hotspur, "Saturday, November 24, 2001", "Upton Park (32,780)"
+Charlton Athletic, 4, 4, West Ham United, "Monday, November 19, 2001", "The Valley (23,198)"
+Everton, 0, 0, Chelsea, "Sunday, November 18, 2001", "Goodison Park (30,555)"
+Sunderland, 2, 0, Leeds United, "Sunday, November 18, 2001", "Stadium of Light (48,005)"
+Ipswich Town, 1, 2, Bolton Wanderers, "Sunday, November 18, 2001", "Portman Road (22,335)"
+Blackburn Rovers, 1, 1, Liverpool, "Saturday, November 17, 2001", "Ewood Park (28,859)"
+Aston Villa, 0, 0, Middlesbrough, "Saturday, November 17, 2001", "Villa Park (35,424)"
+Derby County, 1, 0, Southampton, "Saturday, November 17, 2001", "Pride Park Stadium (32,063)"
+Fulham, 3, 1, Newcastle United, "Saturday, November 17, 2001", "Craven Cottage (21,159)"
+Manchester United, 2, 0, Leicester City, "Saturday, November 17, 2001", "Old Trafford (67,651)"
+Tottenham Hotspur, 1, 1, Arsenal, "Saturday, November 17, 2001", "White Hart Lane (36,049)"
+Liverpool, 3, 1, Manchester United, "Sunday, November 4, 2001", "Anfield (44,361)"
+Leeds United, 2, 1, Tottenham Hotspur, "Sunday, November 4, 2001", "Elland Road (40,203)"
+Arsenal, 2, 4, Charlton Athletic, "Sunday, November 4, 2001", "Highbury (38,010)"
+Chelsea, 2, 1, Ipswich Town, "Sunday, November 4, 2001", "Stamford Bridge (40,497)"
+Leicester City, 1, 0, Sunderland, "Saturday, November 3, 2001", "Filbert Street (20,573)"
+Bolton Wanderers, 2, 2, Everton, "Saturday, November 3, 2001", "Reebok Stadium (27,343)"
+Middlesbrough, 5, 1, Derby County, "Saturday, November 3, 2001", "The Riverside Stadium (28,117)"
+Newcastle United, 3, 0, Aston Villa, "Saturday, November 3, 2001", "St James' Park (51,057)"
+Southampton, 1, 2, Blackburn Rovers, "Saturday, November 3, 2001", "St. Mary's Stadium (30,523)"
+West Ham United, 0, 2, Fulham, "Saturday, November 3, 2001", "Upton Park (26,217)"
+Blackburn Rovers, 0, 0, Leicester City, "Monday, October 29, 2001", "Ewood Park (21,873)"
+Ipswich Town, 2, 3, West Ham United, "Sunday, October 28, 2001", "Portman Road (22,834)"
+Derby County, 1, 1, Chelsea, "Sunday, October 28, 2001", "Pride Park Stadium (28,910)"
+Manchester United, 1, 1, Leeds United, "Saturday, October 27, 2001", "Old Trafford (67,555)"
+Aston Villa, 3, 2, Bolton Wanderers, "Saturday, October 27, 2001", "Villa Park (33,599)"
+Charlton Athletic, 0, 2, Liverpool, "Saturday, October 27, 2001", "The Valley (22,887)"
+Everton, 1, 3, Newcastle United, "Saturday, October 27, 2001", "Goodison Park (37,524)"
+Fulham, 2, 1, Southampton, "Saturday, October 27, 2001", "Craven Cottage (18,771)"
+Sunderland, 1, 1, Arsenal, "Saturday, October 27, 2001", "Stadium of Light (48,029)"
+Tottenham Hotspur, 2, 1, Middlesbrough, "Saturday, October 27, 2001", "White Hart Lane (36,062)"
+Aston Villa, 1, 0, Charlton Athletic, "Wednesday, October 24, 2001", "Villa Park (27,701)"
+Southampton, 3, 3, Ipswich Town, "Wednesday, October 24, 2001", "St. Mary's Stadium (29,614)"
+West Ham United, 2, 1, Chelsea, "Wednesday, October 24, 2001", "Upton Park (26,520)"
+Middlesbrough, 2, 0, Sunderland, "Monday, October 22, 2001", "The Riverside Stadium (28,432)"
+Fulham, 1, 1, Ipswich Town, "Sunday, October 21, 2001", "Craven Cottage (17,221)"
+Newcastle United, 0, 2, Tottenham Hotspur, "Sunday, October 21, 2001", "St James' Park (50,593)"
+Leeds United, 0, 0, Chelsea, "Sunday, October 21, 2001", "Elland Road (40,171)"
+Arsenal, 3, 3, Blackburn Rovers, "Saturday, October 20, 2001", "Highbury (38,108)"
+Derby County, 1, 1, Charlton Athletic, "Saturday, October 20, 2001", "Pride Park Stadium (30,221)"
+Everton, 3, 2, Aston Villa, "Saturday, October 20, 2001", "Goodison Park (33,352)"
+Leicester City, 1, 4, Liverpool, "Saturday, October 20, 2001", "Filbert Street (21,886)"
+Manchester United, 1, 2, Bolton Wanderers, "Saturday, October 20, 2001", "Old Trafford (67,559)"
+West Ham United, 2, 0, Southampton, "Saturday, October 20, 2001", "Upton Park (25,842)"
+Tottenham Hotspur, 3, 1, Derby County, "Monday, October 15, 2001", "White Hart Lane (30,148)"
+Blackburn Rovers, 7, 1, West Ham United, "Sunday, October 14, 2001", "Ewood Park (22,712)"
+Aston Villa, 2, 0, Fulham, "Sunday, October 14, 2001", "Villa Park (28,579)"
+Liverpool, 1, 1, Leeds United, "Saturday, October 13, 2001", "Anfield (44,352)"
+Bolton Wanderers, 0, 4, Newcastle United, "Saturday, October 13, 2001", "Reebok Stadium (25,631)"
+Charlton Athletic, 0, 0, Middlesbrough, "Saturday, October 13, 2001", "The Valley (20,451)"
+Chelsea, 2, 0, Leicester City, "Saturday, October 13, 2001", "Stamford Bridge (40,370)"
+Ipswich Town, 0, 0, Everton, "Saturday, October 13, 2001", "Portman Road (22,820)"
+Southampton, 0, 2, Arsenal, "Saturday, October 13, 2001", "St. Mary's Stadium (29,759)"
+Sunderland, 1, 3, Manchester United, "Saturday, October 13, 2001", "Stadium of Light (48,305)"
+Fulham, 1, 1, Chelsea, "Sunday, September 30, 2001", "Craven Cottage "
+Newcastle United, 0, 2, Liverpool, "Sunday, September 30, 2001", "St James' Park (52,095)"
+Aston Villa, 2, 0, Blackburn Rovers, "Sunday, September 30, 2001", "Villa Park (28,623)"
+Ipswich Town, 1, 2, Leeds United, "Sunday, September 30, 2001", "Portman Road (22,643)"
+Bolton Wanderers, 0, 2, Sunderland, "Saturday, September 29, 2001", "Reebok Stadium (24,520)"
+Charlton Athletic, 2, 0, Leicester City, "Saturday, September 29, 2001", "The Valley (20,451)"
+Derby County, 0, 2, Arsenal, "Saturday, September 29, 2001", "Pride Park Stadium (29,200)"
+Everton, 5, 0, West Ham United, "Saturday, September 29, 2001", "Goodison Park (32,049)"
+Middlesbrough, 1, 3, Southampton, "Saturday, September 29, 2001", "The Riverside Stadium (26,142)"
+Tottenham Hotspur, 3, 5, Manchester United, "Saturday, September 29, 2001", "White Hart Lane (36,038)"
+Newcastle United, 1, 0, Leicester City, "Wednesday, September 26, 2001", " (49,185)"
+Southampton, 1, 3, Aston Villa, "Monday, September 24, 2001", "St. Mary's Stadium (26,794)"
+Chelsea, 2, 2, Middlesbrough, "Sunday, September 23, 2001", "Stamford Bridge (36,767)"
+Leeds United, 3, 0, Derby County, "Sunday, September 23, 2001", "Elland Road (39,155)"
+West Ham United, 3, 0, Newcastle United, "Sunday, September 23, 2001", "Upton Park (28,840)"
+Arsenal, 1, 1, Bolton Wanderers, "Saturday, September 22, 2001", "Highbury (38,014)"
+Blackburn Rovers, 1, 0, Everton, "Saturday, September 22, 2001", "Ewood Park (27,732)"
+Leicester City, 0, 0, Fulham, "Saturday, September 22, 2001", "Filbert Street (18,918)"
+Liverpool, 1, 0, Tottenham Hotspur, "Saturday, September 22, 2001", "Anfield (44,116)"
+Manchester United, 4, 0, Ipswich Town, "Saturday, September 22, 2001", "Old Trafford (67,551)"
+Sunderland, 2, 2, Charlton Athletic, "Saturday, September 22, 2001", "Stadium of Light (46,825)"
+Blackburn Rovers, 1, 1, Bolton Wanderers, "Wednesday, September 19, 2001", "Ewood Park (25,949)"
+Sunderland, 1, 2, Tottenham Hotspur, "Wednesday, September 19, 2001", "Stadium of Light (47,310)"
+Leicester City, 1, 2, Middlesbrough, "Monday, September 17, 2001", "Filbert Street (15,412)"
+Charlton Athletic, 0, 2, Leeds United, "Sunday, September 16, 2001", "The Valley (20,451)"
+Tottenham Hotspur, 2, 3, Chelsea, "Sunday, September 16, 2001", "White Hart Lane (36,037)"
+Aston Villa, 0, 0, Sunderland, "Sunday, September 16, 2001", "Villa Park (31,668)"
+Ipswich Town, 1, 1, Blackburn Rovers, "Sunday, September 16, 2001", "Portman Road (22,126)"
+Everton, 1, 3, Liverpool, "Saturday, September 15, 2001", "Goodison Park (39,554)"
+Bolton Wanderers, 0, 1, Southampton, "Saturday, September 15, 2001", "Reebok Stadium (24,378)"
+Derby County, 2, 3, Leicester City, "Saturday, September 15, 2001", "Pride Park Stadium (26,863)"
+Fulham, 1, 3, Arsenal, "Saturday, September 15, 2001", "Craven Cottage (20,805)"
+Middlesbrough, 2, 0, West Ham United, "Saturday, September 15, 2001", "The Riverside Stadium (25,445)"
+Newcastle United, 4, 3, Manchester United, "Saturday, September 15, 2001", "St James' Park (52,056)"
+Tottenham Hotspur, 2, 0, Southampton, "Sunday, September 9, 2001", "White Hart Lane (33,668)"
+Charlton Athletic, 1, 1, Fulham, "Sunday, September 9, 2001", "The Valley (20,451)"
+Chelsea, 1, 1, Arsenal, "Saturday, September 8, 2001", "Stamford Bridge (40,855)"
+Derby County, 0, 0, West Ham United, "Saturday, September 8, 2001", "Pride Park Stadium (27,802)"
+Leeds United, 0, 0, Bolton Wanderers, "Saturday, September 8, 2001", "Elland Road (40,153)"
+Leicester City, 1, 1, Ipswich Town, "Saturday, September 8, 2001", "Filbert Street (18,774)"
+Liverpool, 1, 3, Aston Villa, "Saturday, September 8, 2001", "Anfield (44,102)"
+Manchester United, 4, 1, Everton, "Saturday, September 8, 2001", "Old Trafford (67,534)"
+Middlesbrough, 1, 4, Newcastle United, "Saturday, September 8, 2001", "The Riverside Stadium (30,004)"
+Sunderland, 1, 0, Blackburn Rovers, "Saturday, September 8, 2001", "Stadium of Light (45,103)"
+Bolton Wanderers, 2, 1, Liverpool, "Monday, August 27, 2001", "Reebok Stadium (27,205)"
+Aston Villa, 1, 1, Manchester United, "Sunday, August 26, 2001", "Villa Park (42,632)"
+Newcastle United, 1, 1, Sunderland, "Sunday, August 26, 2001", "St James' Park (52,021)"
+Arsenal, 4, 0, Leicester City, "Saturday, August 25, 2001", "Highbury (37,909)"
+Blackburn Rovers, 2, 1, Tottenham Hotspur, "Saturday, August 25, 2001", "Ewood Park (24,992)"
+Everton, 2, 0, Middlesbrough, "Saturday, August 25, 2001", "Goodison Park (32,829)"
+Fulham, 0, 0, Derby County, "Saturday, August 25, 2001", "Craven Cottage "
+Ipswich Town, 0, 1, Charlton Athletic, "Saturday, August 25, 2001", "Portman Road (22,804)"
+Southampton, 0, 2, Chelsea, "Saturday, August 25, 2001", "St. Mary's Stadium (31,107)"
+West Ham United, 0, 0, Leeds United, "Saturday, August 25, 2001", "Upton Park (24,517)"
+Fulham, 2, 0, Sunderland, "Wednesday, August 22, 2001", "Craven Cottage (20,197)"
+Blackburn Rovers, 2, 2, Manchester United, "Wednesday, August 22, 2001", "Ewood Park (29,836)"
+Bolton Wanderers, 1, 0, Middlesbrough, "Tuesday, August 21, 2001", "Reebok Stadium (20,747)"
+Ipswich Town, 3, 1, Derby County, "Tuesday, August 21, 2001", "Portman Road (21,197)"
+Arsenal, 1, 2, Leeds United, "Tuesday, August 21, 2001", "Highbury (38,062)"
+Everton, 1, 1, Tottenham Hotspur, "Monday, August 20, 2001", "Goodison Park (29,503)"
+Chelsea, 1, 1, Newcastle United, "Sunday, August 19, 2001", "Stamford Bridge (40,124)"
+Manchester United, 3, 2, Fulham, "Sunday, August 19, 2001", "Old Trafford (67,534)"
+Charlton Athletic, 1, 2, Everton, "Saturday, August 18, 2001", "The Valley (20,451)"
+Derby County, 2, 1, Blackburn Rovers, "Saturday, August 18, 2001", "Pride Park Stadium (28,236)"
+Leeds United, 2, 0, Southampton, "Saturday, August 18, 2001", "Elland Road (39,715)"
+Leicester City, 0, 5, Bolton Wanderers, "Saturday, August 18, 2001", "Filbert Street (19,987)"
+Liverpool, 2, 1, West Ham United, "Saturday, August 18, 2001", "Anfield (43,935)"
+Middlesbrough, 0, 4, Arsenal, "Saturday, August 18, 2001", "The Riverside Stadium (31,557)"
+Sunderland, 1, 0, Ipswich Town, "Saturday, August 18, 2001", "Stadium of Light (47,370)"
+Tottenham Hotspur, 0, 0, Aston Villa, "Saturday, August 18, 2001", "White Hart Lane (36,059)"

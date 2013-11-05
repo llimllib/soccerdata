@@ -1,58 +1,73 @@
-import requests, cPickle, os.path, codecs
+import codecs
 from bs4 import BeautifulSoup
+from util import get
 
 def write_bpl_csv(outfile, results):
-    outfile.write("home, homescore, awayscore, away, date, time\n")
+    outfile.write("home, homescore, awayscore, away, date, group\n")
     for result in results:
-        outfile.write("{0}, {1}, {2}, {3}, {4}, {5}\n".format(*result))
+        outfile.write(u'{0}, {1}, {2}, {3}, "{4}", "{5}"\n'.format(*result))
 
-def bpl_13_14():
-    if not os.path.isfile("results.pkl"):
-        r = requests.get("http://www.premierleague.com/en-gb/matchday/results.html?paramComp_100=true&view=.dateSeason")
-        assert r.status_code==200
-        cPickle.dump(r.content, file("results.pkl", 'w'))
-
-    content = cPickle.load(file("results.pkl"))
-    soup = BeautifulSoup(content)
-    groups = soup.find_all("table", "contentTable")
+def parse_bpl_page(soup):
+    days = soup.find_all("table", "tablehead")
     results = []
-    for group in groups:
-        date = group.tr.text.strip()
-        for game in group.find_all("tr")[1:]:
-            time = game.find("td", "time").text.strip()
-            home = game.find("td", "rHome").a.text.strip()
-            away = game.find("td", "rAway").a.text.strip()
+    for day in days:
+        date = day.tr.text
+        for game in day.find_all("tr")[2:]:
+            cells = game.find_all("td")
 
-            score = game.find("td", "score").a.text.split("-")
-            results.append((home, int(score[0]), int(score[1]), away, date, time))
+            status = cells[0].text
+            #skip in-progress games
+            if "FT" not in status: continue
 
-    write_bpl_csv(file("data/bpl_13_14.csv", 'w'), results)
+            home = cells[1].text
+            result = cells[2].text
+            away = cells[3].text
+            group = cells[4].text
 
-def bpl_season(season="2012-2013"):
-    print "getting season {0}".format(season)
-    url = "http://www.premierleague.com/en-gb/matchday/results.html?paramClubId=ALL&paramComp_8=true&paramSeason={0}&view=.dateSeason".format(season)
-    print "from url {0}".format(url)
+            try:
+                homescore, awayscore = result.split("-")
+            except ValueError:
+                print "unable to parse game {0}".format(cells)
+                continue
 
-    r = requests.get(url)
-    assert r.status_code==200
+            results.append((home, homescore, awayscore, away, date, group))
 
-    soup = BeautifulSoup(r.content)
-    groups = soup.find_all("table", "contentTable")
-    results = []
-    for group in groups:
-        date = group.tr.text.strip()
-        for game in group.find_all("tr")[1:]:
-            time = game.find("td", "time").text.strip()
-            home = game.find("td", "rHome").a.text.strip()
-            away = game.find("td", "rAway").a.text.strip()
+    return results
 
-            score = game.find("td", "score").a.text.split("-")
-            results.append((home, int(score[0]), int(score[1]), away, date, time))
+def bpl():
+    url = "http://espnfc.com/results/_/league/eng.1/barclays-premier-league"
 
-    write_csv(file("data/bpl_{0}_{1}.csv".format(season[2:4], season[7:9]), 'w'), results)
+    print "getting %s" % url
+    r = get(url)
+
+    soup = BeautifulSoup(r.text)
+    season = soup.h2.text.split(" ")[0]
+    results = parse_bpl_page(soup)
+
+    while 1:
+        previous = soup.find("p", "prev-next-links").a
+        if not "Previous" in previous.text: break
+        url = previous["href"]
+
+        print "getting %s" % url
+        r = get(url)
+
+        soup = BeautifulSoup(r.text)
+        if soup.h2.text.split(" ")[0] != season:
+            #uncomment all this to download previous seasons' data
+            season_f = "{0}_{1}".format(season[2:4], season[5:7])
+            out = codecs.open("data/bpl_{0}.csv".format(season_f), 'w', "utf8")
+            write_bpl_csv(out, results)
+
+            season = soup.h2.text.split(" ")[0]
+            print "found season: {0}".format(season)
+            results = []
+
+        results += parse_bpl_page(soup)
+
+    season_f = "{0}_{1}".format(season[2:4], season[5:7])
+    out = codecs.open("data/bpl_{0}.csv".format(season_f), 'w', "utf8")
+    write_bpl_csv(out, results)
 
 if __name__=="__main__":
-    bpl_13_14()
-    for season in range(1992, 2013):
-        seasonstr = "{0}-{1}".format(season, season+1)
-        bpl_season(seasonstr)
+    bpl()
