@@ -1,6 +1,5 @@
 import codecs, requests, time
 from bs4 import BeautifulSoup
-from util import get
 
 def get(url, retries=10):
     #TODO: backoff
@@ -19,7 +18,7 @@ def write_csv(outfile, results, headers):
     print "Writing {0}".format(outfile.name)
     outfile.write("{0}\n".format(",".join(headers)))
     for result in results:
-        outfile.write(u'{0}, {1}, {2}, {3}, "{4}", "{5}"\n'.format(*result))
+        outfile.write(u'{0},{1},{2},{3},"{4}","{5}"\n'.format(*result))
 
 def parse_page(soup):
     days = soup.find_all("table", "tablehead")
