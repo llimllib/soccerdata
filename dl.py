@@ -94,6 +94,8 @@ if __name__=="__main__":
         ("seriea", "http://espnfc.com/results/_/league/ita.1/italian-serie-a", league),
         ("laliga", "http://espnfc.com/results/_/league/esp.1/spanish-la-liga", league),
         ("ligue1", "http://espnfc.com/results/_/league/fra.1/french-ligue-1", league),
+        ("eredivisie", "http://espnfc.com/results/_/league/ned.1/dutch-eredivisie", league),
+        ("spfl", "http://espnfc.com/results/_/league/sco.1/scottish-premier-league", league),
         ("cl", "http://espnfc.com/results/_/league/uefa.champions/uefa-champions-league", tourney),
         ("europa", "http://espnfc.com/results/_/league/uefa.europa/uefa-europa-league", tourney),
     ]
