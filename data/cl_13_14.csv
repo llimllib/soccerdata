@@ -1,4 +1,11 @@
 home,homescore,awayscore,away,date,group
+Manchester United,1,0,Shakhtar Donetsk,"Tuesday, December 10, 2013","Group A"
+Real Sociedad,0,1,Bayer Leverkusen,"Tuesday, December 10, 2013","Group A"
+FC Copenhagen,0,2,Real Madrid,"Tuesday, December 10, 2013","Group B"
+Benfica,2,1,Paris Saint-Germain ,"Tuesday, December 10, 2013","Group C"
+Olympiakos,3,1,Anderlecht,"Tuesday, December 10, 2013","Group C"
+Bayern Munich,2,3,Manchester City,"Tuesday, December 10, 2013","Group D"
+Viktoria Plzen,2,1,CSKA Moscow,"Tuesday, December 10, 2013","Group D"
 Bayer Leverkusen,0,5,Manchester United,"Wednesday, November 27, 2013","Group A"
 Shakhtar Donetsk,4,0,Real Sociedad,"Wednesday, November 27, 2013","Group A"
 Juventus,3,1,FC Copenhagen,"Wednesday, November 27, 2013","Group B"
